@@ -1,0 +1,992 @@
+[
+  {
+    "i": 161,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The hosts name Joe Camber as the fatal flaw in the chain of events at the farm.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe Camber is the first point of failure in the tragedy.",
+      "concreteVisual": "Joe Camber alone in the barn workshop, neutral, naming him as the flaw.",
+      "onScreenText": "none",
+      "relationToPrevious": "Opens the Camber farm section.",
+      "addedInformation": "Places the blame on a named man in his workplace, not on the dog.",
+      "staging": "Joe is the subject, held still in his workshop."
+    }
+  },
+  {
+    "i": 162,
+    "concept": "deadPhone",
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Joe stubbornly refuses to wire a phone extension into his garage workshop.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe refuses a phone line in his workshop.",
+      "concreteVisual": "Joe, angry, beside the dead-phone icon: a handset with a red line through it.",
+      "onScreenText": "none",
+      "relationToPrevious": "From Joe as the flaw to the specific choice that is the flaw.",
+      "addedInformation": "The dead-phone icon shows the missing line; the anger shows his stubbornness.",
+      "staging": "Joe refuses the line: the dead handset is the thing he will not install."
+    }
+  },
+  {
+    "i": 163,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "neutral",
+    "action": "point",
+    "explainedBy": "Joe makes his wife or son run messages out to him from the house instead of using a phone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe routes all contact through people running errands.",
+      "concreteVisual": "Joe, neutral, pointing out of the barn toward the house.",
+      "onScreenText": "none",
+      "relationToPrevious": "The missing phone line means a person carries messages instead.",
+      "addedInformation": "The point shows he sends others to the house; the icon is dropped so the line stays the deadPhone of the beat before.",
+      "staging": "Joe points toward the house he sends people from."
+    }
+  },
+  {
+    "i": 164,
+    "concept": "deadPhone",
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "A phone extension in the barn might have let Vic reach him earlier, or let Donna hear it ring out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A barn phone line would have changed who could reach whom.",
+      "concreteVisual": "Joe, worried, next to the dead-phone handset: the line that was never wired.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the refusal to what the missing line would have changed.",
+      "addedInformation": "Names the counterfactual: a line in the barn is what was missing.",
+      "staging": "The dead handset stands for the absent extension; Joe's worry marks what it cost."
+    }
+  },
+  {
+    "i": 165,
+    "concept": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "A ring in the barn would have told Donna that nobody was home, changing her decision.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A ring in the barn would have told Donna the truth.",
+      "concreteVisual": "Donna, worried, in the kitchen, with the callout that nobody was home.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the missing line to the knowledge it would have given Donna.",
+      "addedInformation": "The knowledge a ring would give, staged on the person who needed it.",
+      "staging": "Donna is the one the ring would have informed."
+    }
+  },
+  {
+    "i": 166,
+    "concept": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The hosts reject the hardware explanation and name Vic's psychology as the real flaw.",
+    "noVisual": "Software is a metaphor for trust and psychology; nothing in the vocabulary shows a mind's software.",
+    "storyboard": {
+      "claim": "The real flaw is Vic's psychology, not the wiring.",
+      "concreteVisual": "Vic, worried, in the kitchen, with the callout on his psychology.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the phone line to the trust that decides how a missed call is read.",
+      "addedInformation": "Moves the cause from the hardware to Vic himself.",
+      "staging": "Vic is the subject; the metaphor is carried by the callout."
+    }
+  },
+  {
+    "i": 167,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Missed call"
+      ]
+    },
+    "callout": null,
+    "set": "kitchen",
+    "cast": [],
+    "explainedBy": "A missed call late at night means an emergency only if trust holds: the chain starts with the missed call.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A missed call is read through trust.",
+      "concreteVisual": "A flow starting with a single box: MISSED CALL.",
+      "onScreenText": "MISSED CALL",
+      "relationToPrevious": "From Vic himself to the event his psychology reads.",
+      "addedInformation": "Starts the chain the next beats build: the missed call is the trigger.",
+      "staging": "The flow begins on the trigger, a missed call."
+    }
+  },
+  {
+    "i": 168,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [],
+    "explainedBy": "Because of the affair, the same missed call is translated into a different reading.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The affair changes how the missed call is read.",
+      "concreteVisual": "The same flow: UNANSWERED CALL, kept on the same frame.",
+      "onScreenText": "UNANSWERED CALL",
+      "relationToPrevious": "Same chain: the missed call stays the trigger while its reading changes.",
+      "addedInformation": "Holds the chain while the narration says the call is translated.",
+      "staging": "The stage stays as it is; only the narration changes."
+    }
+  },
+  {
+    "i": 169,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [],
+    "explainedBy": "The missed call translates immediately into she abandoned me for her lover.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A missed call is read as abandonment.",
+      "concreteVisual": "The flow grows one box: MISSED CALL then ABANDONED ME.",
+      "onScreenText": "ABANDONED ME",
+      "relationToPrevious": "Adds the reading the affair gives the call.",
+      "addedInformation": "The second step of the chain: the reading that replaces the emergency.",
+      "staging": "Second box drawn in as the chain continues."
+    }
+  },
+  {
+    "i": 170,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Missed call",
+        "Abandoned me",
+        "Waits for days"
+      ]
+    },
+    "callout": null,
+    "set": "kitchen",
+    "cast": [],
+    "explainedBy": "Because he is embarrassed and assumes she left, he waits, and the chain ends in days of waiting.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic waits instead of calling the police.",
+      "concreteVisual": "The flow grows the third box: WAITS FOR DAYS.",
+      "onScreenText": "WAITS FOR DAYS",
+      "relationToPrevious": "Adds the result the reading produces.",
+      "addedInformation": "The result of the chain: the police are not called for days.",
+      "staging": "Third box drawn in; the chain is complete."
+    }
+  },
+  {
+    "i": 171,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Missed call",
+        "Abandoned me",
+        "Waits for days"
+      ]
+    },
+    "callout": null,
+    "set": "kitchen",
+    "cast": [],
+    "explainedBy": "The missed call becomes the trap Donna is in, because Vic does not trust her.",
+    "noVisual": "The padlock on Donna's cage is a metaphor for distrust trapping her; nothing in the vocabulary draws a trap that is not a physical object.",
+    "storyboard": {
+      "claim": "Distrust turns a missed call into a trap for Donna.",
+      "concreteVisual": "The same three-box flow: UNANSWERED CALL, ABANDONED ME, WAITS FOR DAYS.",
+      "onScreenText": "UNANSWERED CALL, ABANDONED ME, WAITS FOR DAYS",
+      "relationToPrevious": "Same chain; the narration widens it to Donna's situation.",
+      "addedInformation": "The metaphor is not drawn; the chain still carries the mechanism.",
+      "staging": "The stage holds the full chain; no new object is added."
+    }
+  },
+  {
+    "i": 172,
+    "concept": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [
+      "vic"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Vic does not look for Donna, which the trust chain predicts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic does not search for Donna.",
+      "concreteVisual": "Vic, neutral, in the kitchen, with the callout that he does not look for her.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the chain of reading to the action it produces.",
+      "addedInformation": "The inaction is the consequence of the chain.",
+      "staging": "Vic stays in place; the callout names the failure to search."
+    }
+  },
+  {
+    "i": 173,
+    "concept": null,
+    "callout": {
+      "text": "A LETHAL THREAT",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Kujo is a lethal threat that nobody in his family or neighbourhood recognizes for days.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo is a lethal threat nobody recognized.",
+      "concreteVisual": "Kujo, angry, on the street, with the callout: a lethal threat.",
+      "onScreenText": "A LETHAL THREAT",
+      "relationToPrevious": "From Vic's inaction to the dog nobody reads as dangerous.",
+      "addedInformation": "The threat the narration asks about, shown as the dog itself.",
+      "staging": "Kujo is the threat; his angry face is the danger the family misses."
+    }
+  },
+  {
+    "i": 174,
+    "concept": null,
+    "callout": null,
+    "set": "street",
+    "cast": [
+      "gary"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Gary Pervier, the nearest neighbour, is introduced as an aging, cynical veteran and heavy drinker.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gary is the neighbour who should have noticed.",
+      "concreteVisual": "Gary, neutral, on the street, with the callout naming him a cynical veteran.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the dog to the neighbour who knows it.",
+      "addedInformation": "Introduces Gary as the one who failed to see the threat.",
+      "staging": "Gary stands as the person introduced."
+    }
+  },
+  {
+    "i": 175,
+    "concept": null,
+    "callout": {
+      "text": "SINKING INTO THE WEEDS",
+      "style": "box"
+    },
+    "set": "street",
+    "cast": [
+      "gary"
+    ],
+    "expression": "blank",
+    "action": "sit",
+    "explainedBy": "Gary sits drunk on his porch in a broken lawn chair sinking into the weeds.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gary is drunk and sunk in his own neglect.",
+      "concreteVisual": "Gary, blank, seated in a broken lawn chair, with the callout about the weeds.",
+      "onScreenText": "SINKING INTO THE WEEDS",
+      "relationToPrevious": "From the introduction to the picture of him sitting.",
+      "addedInformation": "The chair and weeds show the neglect; the blank face shows the drunken numbness.",
+      "staging": "Gary sits in the chair; the callout names the sinking."
+    }
+  },
+  {
+    "i": 176,
+    "concept": "food",
+    "callout": {
+      "text": "GARY FEEDS THE SICK DOG",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "gary",
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "reach",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Gary tosses bone-shaped dog biscuits to Kujo, feeding the dog that is sick.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gary feeds the sick dog.",
+      "concreteVisual": "Gary reaches toward Kujo, the food icon in front of him, Kujo angry.",
+      "onScreenText": "BONE-SHAPED DOG BISCUITS",
+      "relationToPrevious": "From Gary's chair to his act toward the dog.",
+      "addedInformation": "Shows the act of feeding the dog that is ill.",
+      "staging": "Gary reaches with the biscuits; Kujo watches."
+    }
+  },
+  {
+    "i": 177,
+    "concept": null,
+    "callout": {
+      "text": "RED, FILMY EYES",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "Kujo's eyes are red and filmy: a visible sign of the illness.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo's eyes show he is sick.",
+      "concreteVisual": "Kujo, sad, close on the street, with the callout about red and filmy eyes.",
+      "onScreenText": "RED, FILMY EYES",
+      "relationToPrevious": "From Gary feeding him to the sickness he is feeding.",
+      "addedInformation": "The eyes are the visible sign the narration names.",
+      "staging": "Kujo's sad face, the callout names the eyes."
+    }
+  },
+  {
+    "i": 178,
+    "concept": null,
+    "callout": {
+      "text": "THE SICK DOG GROWLS",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Kujo's chest makes a constant low, unnatural rumble, a sign that he is very sick and dangerous.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo's rumble signals illness and threat.",
+      "concreteVisual": "Kujo, angry, with the callout about the rumble in his chest.",
+      "onScreenText": "THE SICK DOG GROWLS",
+      "relationToPrevious": "From his eyes to the sound of his chest.",
+      "addedInformation": "The rumble is the danger the sound would carry.",
+      "staging": "Kujo's angry face, the callout names the rumble."
+    }
+  },
+  {
+    "i": 179,
+    "concept": null,
+    "callout": {
+      "text": "PATS HIM ON THE HEAD",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "gary",
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "reach",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Kujo thinks about attacking Gary, yet Gary reaches out to pat the dog on the head.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gary reaches toward the dog that threatens him.",
+      "concreteVisual": "Gary reaches toward Kujo, who is angry.",
+      "onScreenText": "PATS HIM ON THE HEAD",
+      "relationToPrevious": "From the dog's sickness to Gary's naive act toward it.",
+      "addedInformation": "The reaching hand is the blind act the narration describes.",
+      "staging": "Gary reaches; Kujo is the threat he cannot see."
+    }
+  },
+  {
+    "i": 180,
+    "concept": null,
+    "callout": null,
+    "set": "street",
+    "cast": [
+      "gary",
+      "kujo"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Gary cannot see the monster sitting two feet in front of him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gary is blind to the threat in front of him.",
+      "concreteVisual": "Gary, blank, beside angry Kujo, with the callout that he cannot see the monster.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the reach to the blindness it shows.",
+      "addedInformation": "The blank face is the blindness; the angry dog is what he cannot see.",
+      "staging": "Gary stands blank, Kujo angry beside him."
+    }
+  },
+  {
+    "i": 181,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COMFORTING MEMORIES",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [],
+    "explainedBy": "Our comforting memories overlay the present danger in our minds.",
+    "noVisual": "The claim is general: memory overlaying present danger has no object or face in the vocabulary.",
+    "storyboard": {
+      "claim": "Memory overlays the present danger in everyone's mind.",
+      "concreteVisual": "No person: the callout COMFORTING MEMORIES on the street.",
+      "onScreenText": "COMFORTING MEMORIES",
+      "relationToPrevious": "From Gary's blindness to the general mechanism behind it.",
+      "addedInformation": "Names the general mechanism; no figure is added for a general claim.",
+      "staging": "Callout only; the claim is not a person's act."
+    }
+  },
+  {
+    "i": 182,
+    "concept": null,
+    "callout": {
+      "text": "KNOWN HIM FIVE YEARS",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "gary",
+      "kujo"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "partnerExpression": "happy",
+    "partnerAction": "idle",
+    "explainedBy": "Gary sees the goofy dog he has known for five years, the friendly memory that blinds him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gary sees the dog he has known for years.",
+      "concreteVisual": "Gary and Kujo, both happy: the friendly dog of memory.",
+      "onScreenText": "KNOWN HIM FIVE YEARS",
+      "relationToPrevious": "From the general mechanism to Gary's memory of this dog.",
+      "addedInformation": "The happy dog is the memory Gary sees instead of the threat.",
+      "staging": "The friendly pair is the memory; the next beat breaks it."
+    }
+  },
+  {
+    "i": 183,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "set": "street",
+    "cast": [
+      "gary",
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Gary's brain refuses the new data, the red eyes and the growl, because accepting it would shatter his memory.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The new data is refused; the dog turns threatening.",
+      "concreteVisual": "Gary neutral, Kujo angry: the same pair, the dog's face changed.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage: Kujo's face turns from happy to angry, and Gary's face stays blank.",
+      "addedInformation": "The dog's change is the new data the narration says Gary refuses.",
+      "staging": "Only the faces change on the kept stage."
+    }
+  },
+  {
+    "i": 184,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Kujo's owner Joe Camber makes the same fatal error about his own dog.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe makes the same error as Gary.",
+      "concreteVisual": "Joe, worried, in the garage, with the callout about the same error.",
+      "onScreenText": "none",
+      "relationToPrevious": "From Gary's blindness to Joe's, the owner.",
+      "addedInformation": "Makes clear the owner is the one with the most at stake.",
+      "staging": "Joe is the subject in the garage."
+    }
+  },
+  {
+    "i": 185,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "worried",
+    "action": "walk",
+    "explainedBy": "Joe walks into his garage and sees massive, sickly dog droppings on the floor: the destruction.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe enters and sees the sign of the illness.",
+      "concreteVisual": "Joe walks into the garage, worried, with the callout about the droppings on the floor.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the owner's error to the evidence he walks into.",
+      "addedInformation": "The droppings are the sign of the illness the narration names.",
+      "staging": "Joe walks in; the callout names the evidence."
+    }
+  },
+  {
+    "i": 186,
+    "concept": "lightbulb",
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Joe realizes with cold horror that his dog has contracted rabies.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe realizes what the evidence means.",
+      "concreteVisual": "Joe, afraid, beside the lightbulb icon: the idea arrives.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the evidence he walked in on to the realization it produces.",
+      "addedInformation": "The lightbulb reads as the realization; the afraid face shows the horror.",
+      "staging": "Joe is afraid; the lightbulb is the moment of understanding."
+    }
+  },
+  {
+    "i": 187,
+    "continue": true,
+    "concept": "heart",
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Joe knows intellectually that his dog has rabies, yet the knowledge does not change what he does.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe knows the dog has rabies.",
+      "concreteVisual": "Joe, afraid, with the lightbulb kept on screen and the callout HIS DOG HAS RABIES.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage: the realization is kept; the callout names what it is.",
+      "addedInformation": "Names the diagnosis the realization reached.",
+      "staging": "Kept stage: the lightbulb holds the realization."
+    }
+  },
+  {
+    "i": 188,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "kujo",
+      "joe"
+    ],
+    "expression": "angry",
+    "action": "fighting",
+    "partnerExpression": "afraid",
+    "partnerAction": "fighting",
+    "explainedBy": "Kujo suddenly lunges out of the dark shadows covered in dried blood and foam.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo attacks out of the dark.",
+      "concreteVisual": "Kujo lunges at Joe, angry; Joe afraid, drawn in the same fight pose.",
+      "onScreenText": "none",
+      "relationToPrevious": "From Joe's realization to the attack he could not avoid.",
+      "addedInformation": "The attack is the event the realization was about.",
+      "staging": "Kujo leads the lunge; Joe is drawn into it."
+    }
+  },
+  {
+    "i": 189,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "joe",
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "reach",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Joe's ingrained reflex makes him reach out to the attacking dog as if it were a pet.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Joe's reflex is to reach out to the dog.",
+      "concreteVisual": "Joe reaches his hand out toward Kujo, angry.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the lunge to the reflex that betrays Joe.",
+      "addedInformation": "The reaching hand is the reflex the narration names.",
+      "staging": "Joe reaches; Kujo is the threat he reaches toward."
+    }
+  },
+  {
+    "i": 190,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "kujo",
+      "joe"
+    ],
+    "expression": "angry",
+    "action": "fighting",
+    "partnerExpression": "afraid",
+    "partnerAction": "fighting",
+    "explainedBy": "Right as the dog rips Joe's throat out, the reflex is over and the attack has taken him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dog attacks and kills Joe.",
+      "concreteVisual": "Kujo attacks Joe in a fight pose, angry; Joe drawn afraid in the same struggle.",
+      "onScreenText": "none",
+      "relationToPrevious": "From Joe's reach to the attack the reach led to.",
+      "addedInformation": "The attack ends the reflex; the death is not drawn literally.",
+      "staging": "Kujo attacks; no blood or death scene is drawn."
+    }
+  },
+  {
+    "i": 191,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE DEFENSE SAYS",
+        "claim": "It was just the drinking",
+        "inputs": [
+          "Gary's alcohol",
+          "Joe's drinking"
+        ],
+        "hub": "Dulled senses",
+        "output": "Missed the threat",
+        "verdict": "way too easy to blame the alcohol",
+        "reason": "human nature",
+        "truth": "normalcy bias",
+        "cues": {
+          "result": "just being the result"
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The hosts dismiss the failures as only the result of being drunk: the claim the rest of the passage rejects.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The failures are blamed on drunkenness.",
+      "concreteVisual": "A refute diagram: the defense's claim, drunkenness, feeding dulled senses.",
+      "onScreenText": "It was just the drinking",
+      "relationToPrevious": "From the chain of blindness to the common explanation the hosts give for it.",
+      "addedInformation": "Sets up the claim the narration will reject.",
+      "staging": "Diagram only; the claim is built."
+    }
+  },
+  {
+    "i": 192,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE DEFENSE SAYS",
+        "claim": "It was just the drinking",
+        "inputs": [
+          "Gary's alcohol",
+          "Joe's drinking"
+        ],
+        "hub": "Dulled senses",
+        "output": "Missed the threat",
+        "verdict": "way too easy to blame the alcohol",
+        "reason": "human nature",
+        "truth": "normalcy bias",
+        "cues": {
+          "links": "drinking heavily"
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "Gary is a hardcore alcoholic and Joe was drinking heavily that day, so both inputs of the claim are present.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Both men were drinking, which feeds the claim.",
+      "concreteVisual": "Same refute diagram: the two inputs, alcohol and drinking, are linked to the hub.",
+      "onScreenText": "Gary's alcohol, Joe's drinking",
+      "relationToPrevious": "Same diagram; the inputs are named as the narration names them.",
+      "addedInformation": "Adds the second input, Joe's drinking, to the claim.",
+      "staging": "Kept diagram; the links draw in."
+    }
+  },
+  {
+    "i": 193,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE DEFENSE SAYS",
+        "claim": "It was just the drinking",
+        "inputs": [
+          "Gary's alcohol",
+          "Joe's drinking"
+        ],
+        "hub": "Dulled senses",
+        "output": "Missed the threat",
+        "verdict": "way too easy to blame the alcohol",
+        "reason": "human nature",
+        "truth": "normalcy bias",
+        "cues": {
+          "doubt": "You think"
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The hosts question the claim: their senses were chemically dulled, so they missed the threat.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The question is whether it was just the booze.",
+      "concreteVisual": "Same refute diagram; the doubt lands on the question.",
+      "onScreenText": "Gary's alcohol, Joe's drinking",
+      "relationToPrevious": "Same diagram; the claim is put in doubt.",
+      "addedInformation": "The doubt the narration raises about the claim.",
+      "staging": "Kept diagram; the doubt marks the question."
+    }
+  },
+  {
+    "i": 194,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE DEFENSE SAYS",
+        "claim": "It was just the drinking",
+        "inputs": [
+          "Gary's alcohol",
+          "Joe's drinking"
+        ],
+        "hub": "Dulled senses",
+        "output": "Missed the threat",
+        "verdict": "way too easy to blame the alcohol",
+        "reason": "human nature",
+        "truth": "normalcy bias",
+        "cues": {
+          "rejected": {
+            "phrase": "too easy",
+            "occurrence": 1
+          }
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The hosts reject the easy blame on alcohol: it is way too easy to blame it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Blaming the alcohol is too easy.",
+      "concreteVisual": "Same refute diagram: the claim greys and is stamped rejected.",
+      "onScreenText": "way too easy to blame the alcohol",
+      "relationToPrevious": "Same diagram; the claim is rejected.",
+      "addedInformation": "The rejection the narration makes of the claim.",
+      "staging": "Kept diagram; the rejection stamp lands on the claim."
+    }
+  },
+  {
+    "i": 195,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE DEFENSE SAYS",
+        "claim": "It was just the drinking",
+        "inputs": [
+          "Gary's alcohol",
+          "Joe's drinking"
+        ],
+        "hub": "Dulled senses",
+        "output": "Missed the threat",
+        "verdict": "way too easy to blame the alcohol",
+        "reason": "human nature",
+        "truth": "normalcy bias",
+        "cues": {
+          "reason": "human nature",
+          "truth": "textbook psychological phenomenon"
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The real reason is human nature: a textbook psychological phenomenon called normalcy bias.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The real model is normalcy bias, not intoxication.",
+      "concreteVisual": "Same refute diagram: the reason and the correct model, normalcy bias, are drawn.",
+      "onScreenText": "human nature, normalcy bias",
+      "relationToPrevious": "Same diagram; the correct model replaces the claim.",
+      "addedInformation": "Names the correct psychological model the narration gives.",
+      "staging": "Kept diagram; the truth is drawn in place of the claim."
+    }
+  },
+  {
+    "i": 196,
+    "concept": null,
+    "callout": {
+      "text": "KUJO LOOKS GROSS AND SICK",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Brett, who is not drunk, notices that Kujo looks sick before the bus trip.",
+    "noVisual": "Brett is not in the story-bible cast; the picture shows the dog he notices.",
+    "storyboard": {
+      "claim": "Brett sees the dog is sick.",
+      "concreteVisual": "Kujo, worried, with the callout that he looks gross and sick.",
+      "onScreenText": "KUJO LOOKS GROSS AND SICK",
+      "relationToPrevious": "From the reasoning about drink to a sober witness.",
+      "addedInformation": "Shows the dog Brett noticed; the witness is named in the callout only.",
+      "staging": "Kujo is the thing noticed."
+    }
+  },
+  {
+    "i": 197,
+    "concept": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "Kujo shows red painful eyes and lack of appetite, the sluggish signs Brett sees.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo's sickness is visible.",
+      "concreteVisual": "Kujo, sad, with the callout about lack of appetite.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the notice to the signs he sees.",
+      "addedInformation": "The lack of appetite is the sign the narration lists.",
+      "staging": "Kujo's sad face carries the sign."
+    }
+  },
+  {
+    "i": 198,
+    "concept": "family",
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Brett tells himself the dog ate poison bait or has a stomach bug, talking himself out of the danger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Brett rationalizes the sickness.",
+      "concreteVisual": "Kujo, neutral, with the callout listing the two excuses.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the signs to the excuses that explain them away.",
+      "addedInformation": "The two excuses the narration names.",
+      "staging": "Kujo stays neutral; the callout holds the excuses."
+    }
+  },
+  {
+    "i": 199,
+    "concept": "family",
+    "callout": {
+      "text": "BRETT HIDES IT FROM HIS DAD",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Brett avoids telling his dad because the dad might cancel the trip to see the aunt.",
+    "noVisual": "Brett and his dad are not in the story-bible cast; the callout carries the avoidance.",
+    "storyboard": {
+      "claim": "Brett hides the illness from his father.",
+      "concreteVisual": "A family icon, worried, with the callout naming Brett and his father.",
+      "onScreenText": "BRETT HIDES IT FROM HIS DAD",
+      "relationToPrevious": "From the excuses to the secret they protect.",
+      "addedInformation": "The hidden fear: the trip would be cancelled.",
+      "staging": "The dog is the reason for the secret; the callout names the avoidance."
+    }
+  },
+  {
+    "i": 200,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NORMALIZES THE HORROR",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "Brett, completely sober, normalizes the horror because acknowledging it would disrupt his ordinary life.",
+    "noVisual": "Brett is not in the story-bible cast and normalizing an event has no vocabulary object; the callout alone carries it.",
+    "storyboard": {
+      "claim": "Brett normalizes the horror.",
+      "concreteVisual": "No person: the callout NORMALIZES THE HORROR in the room.",
+      "onScreenText": "NORMALIZES THE HORROR",
+      "relationToPrevious": "From the secret to the summary of the whole passage.",
+      "addedInformation": "Closes the passage on the sober witness who still did not act.",
+      "staging": "Callout only; no person is added for a claim about an act of the mind."
+    }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "slug": "cujo",
+  "status": "NOT_READY",
+  "at": "2026-11-06T16:10:44.935Z",
+  "metaSha256": "40651f03c952d967f865d682b1e52597a723a30ba5c67bf7e82f4a153384c070",
+  "mdSha256": "5ae7dfff01637c0de3e9e54e337f033a7cdf2f4a435f329eec169959489cffc3",
+  "cleanVttSha256": null,
+  "errors": [
+    "NOT_REFINED: youtube-meta.needsClaudeRefine is true — the deterministic scaffold must be hand-refined from the narration (titles, description, chapters, tags, hook), then set to false",
+    "STALE_MD: youtube.md still carries scaffold text (\"TODO\") — regenerate it from the refined meta (plan-meta.js / plan-antidote-meta.js --md-only)",
+    "STALE_MD: 5 refined title(s) are not in youtube.md (e.g. \"Cujo Summary by Stephen King: Explained\") — regenerate it (--md-only)",
+    "STALE_MD: youtube.md does not carry the refined description — regenerate it (--md-only)",
+    "STALE_MD: youtube.md is marked SCAFFOLD",
+    "NO_CLEAN_VTT: public/captions/cujo.clean.vtt missing (node scripts/clean-vtt.js public/captions/cujo.vtt public/captions/cujo.clean.vtt)"
+  ],
+  "warnings": [
+    "HOOK_UNVERIFIED: no books/cujo/thumbnail-check.json — run render-thumbnails.js (it checks the hook pixels in every variant)"
+  ]
+}

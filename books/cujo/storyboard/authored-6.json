@@ -1,0 +1,890 @@
+[
+  {
+    "i": 201,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "OUR BLIND SPOTS",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "Normalcy bias killed them: their blind spots are everyday affections.",
+    "noVisual": "A commentary on bias; no icon or pose shows a belief about the mind.",
+    "storyboard": {
+      "claim": "The family's blind spots come from ordinary affection.",
+      "concreteVisual": "Nobody on screen; the callout alone carries the point.",
+      "onScreenText": "OUR BLIND SPOTS",
+      "relationToPrevious": "Opens the chunk: a verdict on the normal life that failed them.",
+      "addedInformation": "Weak: names the blind spot without showing what it is."
+    }
+  },
+  {
+    "i": 202,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE MONSTER IN THE ROOM",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "They want things normal so badly that they ignore the danger.",
+    "noVisual": "The monster in the room is a figure of speech; no literal icon.",
+    "storyboard": {
+      "claim": "They ignore the danger because they want normal.",
+      "concreteVisual": "Nobody on screen; the callout names the ignored danger.",
+      "onScreenText": "THE MONSTER IN THE ROOM",
+      "relationToPrevious": "Extends the blind-spot point with the denial itself.",
+      "addedInformation": "Weak: the image is text-carried."
+    }
+  },
+  {
+    "i": 203,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The ordinary trap closes on Donna and Tad; the sealed car is the trap.",
+    "storyboard": {
+      "claim": "The trap is the sealed car, closed on mother and son.",
+      "concreteVisual": "The sealed car box with heat waves, alone in the frame.",
+      "onScreenText": "none",
+      "relationToPrevious": "After the denial: the trap itself is now drawn.",
+      "addedInformation": "The closed car is the threat that replaces the dog story."
+    }
+  },
+  {
+    "i": 204,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "INSIDE THE FORD PINTO",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "blank",
+    "partnerAction": "idle",
+    "explainedBy": "The story moves inside the car, where mother and son are trapped.",
+    "storyboard": {
+      "claim": "The story is now inside the car with Donna and Tad.",
+      "concreteVisual": "The sealed car box stays; Donna and Tad enter it, Donna worried and Tad blank.",
+      "onScreenText": "INSIDE THE FORD PINTO",
+      "relationToPrevious": "Same sealed car, now with the two people inside.",
+      "addedInformation": "Shows who is in the trap."
+    }
+  },
+  {
+    "i": 205,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "140 DEGREES INSIDE",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [
+      "tad",
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "It is 140 degrees inside the sealed car and Tad is failing in the heat.",
+    "storyboard": {
+      "claim": "The car is 140 degrees and Tad is in heat convulsions.",
+      "concreteVisual": "Same sealed car; Tad afraid in front, Donna worried behind him.",
+      "onScreenText": "140 DEGREES INSIDE",
+      "relationToPrevious": "Keeps the car; the heat now has a number and a victim.",
+      "addedInformation": "Tad's fear and the number mark the heat as the threat; convulsions are not drawn."
+    }
+  },
+  {
+    "i": 206,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TAD IS DELIRIOUS",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "tad",
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Tad is hallucinating, eyes rolled back, while Donna is afraid.",
+    "storyboard": {
+      "claim": "Tad is delirious and absent.",
+      "concreteVisual": "Same car; Tad with a blank face, Donna afraid beside him.",
+      "onScreenText": "TAD IS DELIRIOUS",
+      "relationToPrevious": "Same car and pair; Tad's face changes to blank.",
+      "addedInformation": "Blank face reads as absence, not sleep."
+    }
+  },
+  {
+    "i": 207,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "tad"
+    ],
+    "expression": "blank",
+    "action": "collapsed",
+    "explainedBy": "Tad is dying of dehydration: he is down, no longer responding.",
+    "storyboard": {
+      "claim": "Tad is dying of dehydration.",
+      "concreteVisual": "Tad collapsed on the car floor, blank face, eyes shut.",
+      "onScreenText": "none",
+      "relationToPrevious": "The car is gone; the frame is now on Tad alone, down.",
+      "addedInformation": "Collapsed reads as fallen; the cause is in the callout."
+    }
+  },
+  {
+    "i": 208,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Kujo outside has a face covered in dried, matted blood.",
+    "storyboard": {
+      "claim": "Kujo's face is bloody.",
+      "concreteVisual": "Kujo, a huge matted red-brown dog, angry face, outside the car.",
+      "onScreenText": "none",
+      "relationToPrevious": "Cut from the boy to the dog outside.",
+      "addedInformation": "Angry and bloody: the threat, visible."
+    }
+  },
+  {
+    "i": 209,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KUJO AT THE GLASS",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Kujo presses his face against the cracked window.",
+    "storyboard": {
+      "claim": "Kujo is pressed to the car window.",
+      "concreteVisual": "Kujo still in frame, face to the glass, angry.",
+      "onScreenText": "KUJO AT THE GLASS",
+      "relationToPrevious": "Same dog, now at the window.",
+      "addedInformation": "The window is the barrier; the cracked glass itself is not drawn."
+    }
+  },
+  {
+    "i": 210,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "Inside the car the environment kills faster than the dog.",
+    "storyboard": {
+      "claim": "The heat, not the dog, is the primary killer.",
+      "concreteVisual": "The sealed car box with heat waves, alone.",
+      "onScreenText": "none",
+      "relationToPrevious": "Back from the dog to the car.",
+      "addedInformation": "Places the car above the dog as the killer."
+    }
+  },
+  {
+    "i": 211,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "Time itself is as predatory and lethal as the monster.",
+    "storyboard": {
+      "claim": "Time is as deadly as the dog.",
+      "concreteVisual": "An hourglass, alone.",
+      "onScreenText": "none",
+      "relationToPrevious": "A new threat: time, not heat or dog.",
+      "addedInformation": "The hourglass reads as time passing; the lethality is in the callout."
+    }
+  },
+  {
+    "i": 212,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The summer heat is an impartial killer slowly cooking them.",
+    "storyboard": {
+      "claim": "The heat slowly kills the people in the car.",
+      "concreteVisual": "The sealed car box with heat waves, alone.",
+      "onScreenText": "none",
+      "relationToPrevious": "Returns to the car, now the heat as killer.",
+      "addedInformation": "Impartial killer: the heat does not choose."
+    }
+  },
+  {
+    "i": 213,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The heat strips away Donna's dignity.",
+    "storyboard": {
+      "claim": "The heat strips the people of dignity.",
+      "concreteVisual": "Donna, sad, slumped in a posture of defeat.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the car to the person it wears down.",
+      "addedInformation": "Slump is a posture of defeat, not an event."
+    }
+  },
+  {
+    "i": 214,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DONNA USES TAD’S THERMOS",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "Donna is forced to urinate into Tad's plastic thermos.",
+    "noVisual": "Urinating has no action in the vocabulary; the sad face and callout carry the humiliation.",
+    "storyboard": {
+      "claim": "Donna must use the thermos as a toilet.",
+      "concreteVisual": "Donna, sad, seated, with no object drawn.",
+      "onScreenText": "INTO TAD'S THERMOS",
+      "relationToPrevious": "The loss of dignity becomes a concrete act.",
+      "addedInformation": "Weak: the act itself is text-carried."
+    }
+  },
+  {
+    "i": 215,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE SMELL OF SOUR MILK",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The car smells of sour milk, stale sweat and hot urine.",
+    "noVisual": "A smell cannot be drawn.",
+    "storyboard": {
+      "claim": "The car is foul-smelling.",
+      "concreteVisual": "Nobody on screen; only the callout names the smell.",
+      "onScreenText": "THE SMELL OF SOUR MILK",
+      "relationToPrevious": "Stays in the car, now the sense of smell.",
+      "addedInformation": "Weak: a sense the picture cannot carry."
+    }
+  },
+  {
+    "i": 216,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SHE BECOMES FERAL",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [
+      "donna",
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Donna turns feral to match the feral dog outside.",
+    "storyboard": {
+      "claim": "Donna becomes like the dog.",
+      "concreteVisual": "Donna angry and Kujo angry, side by side, both feral.",
+      "onScreenText": "SHE BECOMES FERAL",
+      "relationToPrevious": "From the thermos to the dog and her matching state.",
+      "addedInformation": "Two angry faces show the match."
+    }
+  },
+  {
+    "i": 217,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE DOG IS INTELLIGENT",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "The speaker has been theorizing that the dog is incredibly intelligent.",
+    "storyboard": {
+      "claim": "The dog is intelligent.",
+      "concreteVisual": "Kujo, smirking, outside.",
+      "onScreenText": "THE DOG IS INTELLIGENT",
+      "relationToPrevious": "Turns from Donna to the dog's mind.",
+      "addedInformation": "Smirk gives the calculating feel; the claim is then rejected."
+    }
+  },
+  {
+    "i": 218,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE THEORY SAYS",
+        "claim": "Kujo is a calculated siege tactic",
+        "inputs": [
+          "attacks the car",
+          "keeps them inside",
+          "retreats to the shade"
+        ],
+        "hub": "siege plan",
+        "output": "bakes them out",
+        "verdict": "It's not a tactical mastermind.",
+        "reason": "the rabies virus causes extreme photophobia",
+        "truth": "rabies biology",
+        "cues": {
+          "links": "attacks the car",
+          "result": "siege tactic"
+        }
+      }
+    },
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The theory: the dog plans a siege, attacking the car and waiting in the shade for the sun to bake them out.",
+    "storyboard": {
+      "claim": "Kujo is a tactical siege plan.",
+      "concreteVisual": "The refute diagram: attacks the car, keeps them inside, the siege plan.",
+      "onScreenText": "none",
+      "relationToPrevious": "Starts the refute with the claim.",
+      "addedInformation": "Lays out the claim before it is rejected."
+    }
+  },
+  {
+    "i": 219,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE THEORY SAYS",
+        "claim": "Kujo is a calculated siege tactic",
+        "inputs": [
+          "attacks the car",
+          "keeps them inside",
+          "retreats to the shade"
+        ],
+        "hub": "siege plan",
+        "output": "bakes them out",
+        "verdict": "It's not a tactical mastermind.",
+        "reason": "the rabies virus causes extreme photophobia",
+        "truth": "rabies biology",
+        "cues": {
+          "links": "strategically retreats",
+          "result": "bake them out"
+        }
+      }
+    },
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The retreat to the shade is part of the siege plan.",
+    "storyboard": {
+      "claim": "The dog retreats to bake them out.",
+      "concreteVisual": "Same refute diagram; the retreat input and output build.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram; the retreat is added.",
+      "addedInformation": "Completes the claimed plan before rejection."
+    }
+  },
+  {
+    "i": 220,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE THEORY SAYS",
+        "claim": "Kujo is a calculated siege tactic",
+        "inputs": [
+          "attacks the car",
+          "keeps them inside",
+          "retreats to the shade"
+        ],
+        "hub": "siege plan",
+        "output": "bakes them out",
+        "verdict": "It's not a tactical mastermind.",
+        "reason": "the rabies virus causes extreme photophobia",
+        "truth": "rabies biology",
+        "cues": {
+          "doubt": "But"
+        }
+      }
+    },
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The narrator doubts the theory: the turn is 'But'.",
+    "storyboard": {
+      "claim": "The siege reading is doubted.",
+      "concreteVisual": "Same diagram, the claim begins to grey.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram; the doubt word arrives.",
+      "addedInformation": "Doubt before the rejection."
+    }
+  },
+  {
+    "i": 221,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE THEORY SAYS",
+        "claim": "Kujo is a calculated siege tactic",
+        "inputs": [
+          "attacks the car",
+          "keeps them inside",
+          "retreats to the shade"
+        ],
+        "hub": "siege plan",
+        "output": "bakes them out",
+        "verdict": "It's not a tactical mastermind.",
+        "reason": "the rabies virus causes extreme photophobia",
+        "truth": "rabies biology",
+        "cues": {
+          "rejected": {
+            "phrase": "tactical mastermind",
+            "occurrence": 1
+          },
+          "truth": "victim of biology"
+        }
+      }
+    },
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The siege reading is rejected; Kujo is a victim of biology.",
+    "storyboard": {
+      "claim": "Kujo is not a tactical mastermind.",
+      "concreteVisual": "Same diagram; the claim greys and the truth model appears.",
+      "onScreenText": "none",
+      "relationToPrevious": "The claim is rejected on the phrase.",
+      "addedInformation": "Truth model: biology."
+    }
+  },
+  {
+    "i": 222,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE THEORY SAYS",
+        "claim": "Kujo is a calculated siege tactic",
+        "inputs": [
+          "attacks the car",
+          "keeps them inside",
+          "retreats to the shade"
+        ],
+        "hub": "siege plan",
+        "output": "bakes them out",
+        "verdict": "It's not a tactical mastermind.",
+        "reason": "the rabies virus causes extreme photophobia",
+        "truth": "rabies biology",
+        "cues": {}
+      }
+    },
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The heat is an impartial executioner for both the people and the dog.",
+    "storyboard": {
+      "claim": "Both the people and the dog are dying.",
+      "concreteVisual": "Same diagram, the truth model stays.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram, nothing new drawn.",
+      "addedInformation": "Holds the rejected theory on screen."
+    }
+  },
+  {
+    "i": 223,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE THEORY SAYS",
+        "claim": "Kujo is a calculated siege tactic",
+        "inputs": [
+          "attacks the car",
+          "keeps them inside",
+          "retreats to the shade"
+        ],
+        "hub": "siege plan",
+        "output": "bakes them out",
+        "verdict": "It's not a tactical mastermind.",
+        "reason": "the rabies virus causes extreme photophobia",
+        "truth": "rabies biology",
+        "cues": {
+          "reason": "rabies virus causes"
+        }
+      }
+    },
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The real reason is the rabies virus: sunlight burns the infected retinas, so he retreats to the barn.",
+    "storyboard": {
+      "claim": "Rabies, not strategy, sends Kujo to the shade.",
+      "concreteVisual": "Same diagram; the reason draws in.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram, the reason arrives.",
+      "addedInformation": "Gives the mechanism behind the retreat."
+    }
+  },
+  {
+    "i": 224,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "lying",
+    "explainedBy": "The virus destroys Kujo's motor neurons; he has to lie down in the dark.",
+    "storyboard": {
+      "claim": "The virus is destroying Kujo's nervous system.",
+      "concreteVisual": "Kujo lying down, worried face, in the shade.",
+      "onScreenText": "none",
+      "relationToPrevious": "Leaves the refute; now the dog's body.",
+      "addedInformation": "Lying reads as resting; the damage is in the callout."
+    }
+  },
+  {
+    "i": 225,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A GRIM RACE OF ATTRITION",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "lying",
+    "explainedBy": "The standoff is a race between two failing biological systems.",
+    "storyboard": {
+      "claim": "A race of attrition between two bodies.",
+      "concreteVisual": "Kujo still lying down in the shade.",
+      "onScreenText": "A GRIM RACE OF ATTRITION",
+      "relationToPrevious": "Same dog, the race is named.",
+      "addedInformation": "The second body (Tad) is not on screen here."
+    }
+  },
+  {
+    "i": 226,
+    "concept": "hourglass",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The question: who dies first, the dehydrated boy or the rabid dog.",
+    "storyboard": {
+      "claim": "Who dies first, the boy or the dog.",
+      "concreteVisual": "An hourglass, alone; the race is the question.",
+      "onScreenText": "none",
+      "relationToPrevious": "The race question with time.",
+      "addedInformation": "Hourglass means time running out for both."
+    }
+  },
+  {
+    "i": 227,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The sun beats down on the parked car.",
+    "storyboard": {
+      "claim": "The sun keeps baking the car.",
+      "concreteVisual": "The sealed car box with heat waves.",
+      "onScreenText": "none",
+      "relationToPrevious": "Back to the car under the sun.",
+      "addedInformation": "Sun is the source of the heat."
+    }
+  },
+  {
+    "i": 228,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Donna looks through the shattered glass as Tad slips away; she faces an impossible decision.",
+    "storyboard": {
+      "claim": "Donna must decide while Tad slips away.",
+      "concreteVisual": "Donna, worried, looking out through the window.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the car to Donna at the window.",
+      "addedInformation": "Worried reads as concern for the decision."
+    }
+  },
+  {
+    "i": 229,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DONNA SEES THE BAT",
+      "style": "reveal"
+    },
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "In the high grass she sees Brett's bat, her only weapon.",
+    "noVisual": "The bat has no icon in the vocabulary; only the callout names it.",
+    "storyboard": {
+      "claim": "Donna sees the bat in the grass.",
+      "concreteVisual": "Donna, worried, looking out at the grass.",
+      "onScreenText": "DONNA SEES THE BAT",
+      "relationToPrevious": "Same Donna; the weapon is named.",
+      "addedInformation": "Weak: the bat is text-carried."
+    }
+  },
+  {
+    "i": 230,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BLOOD ON HER LEG",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Her leg bleeds from an earlier bite; the dog is waiting out there.",
+    "storyboard": {
+      "claim": "Donna is bleeding from a bite.",
+      "concreteVisual": "Donna, afraid, same frame.",
+      "onScreenText": "BLOOD ON HER LEG",
+      "relationToPrevious": "Same Donna; her face turns to fear.",
+      "addedInformation": "The injury is named; wound not drawn."
+    }
+  },
+  {
+    "i": 231,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KUJO WAITS IN THE SHADOWS",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Kujo waits in the bushes like a linebacker.",
+    "storyboard": {
+      "claim": "Kujo is waiting in the shadows.",
+      "concreteVisual": "Kujo, angry, in the shadows.",
+      "onScreenText": "KUJO WAITS IN THE SHADOWS",
+      "relationToPrevious": "Back to the dog, now waiting.",
+      "addedInformation": "The linebacker is a simile, not drawn."
+    }
+  },
+  {
+    "i": 232,
+    "concept": "crack",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Both remaining options seem to guarantee death; the choice is an illusion.",
+    "storyboard": {
+      "claim": "Both options lead to death.",
+      "concreteVisual": "Balance, two sides, with Donna afraid.",
+      "onScreenText": "none",
+      "relationToPrevious": "Starts the two-option dilemma with the balance icon.",
+      "addedInformation": "Balance shows two sides weighed."
+    }
+  },
+  {
+    "i": 233,
+    "continue": true,
+    "concept": "crack",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Option one: stay in the car and watch her son die.",
+    "storyboard": {
+      "claim": "Option one: stay and watch Tad die.",
+      "concreteVisual": "Same balance; Donna afraid.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same balance, the first side named.",
+      "addedInformation": "Names the first option."
+    }
+  },
+  {
+    "i": 234,
+    "continue": true,
+    "concept": "crack",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Option two: run for the bat and the house, knowing the dog will catch her.",
+    "storyboard": {
+      "claim": "Option two: run for the bat.",
+      "concreteVisual": "Same balance; Donna worried.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same balance, the second side named.",
+      "addedInformation": "Second option; the dog's speed is in the words only."
+    }
+  },
+  {
+    "i": 235,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "The third option, rescue, has been quietly eliminated.",
+    "storyboard": {
+      "claim": "The third option is rescue.",
+      "concreteVisual": "Donna, blank, in the car.",
+      "onScreenText": "none",
+      "relationToPrevious": "The balance is dropped for the third option.",
+      "addedInformation": "Blank reads as the hope already gone."
+    }
+  },
+  {
+    "i": 236,
+    "concept": "road",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Donna sits praying for the mailman, whose route is the road to the house.",
+    "noVisual": "Praying has no action in the vocabulary; the road stands for the route.",
+    "storyboard": {
+      "claim": "Donna waits for the mailman.",
+      "concreteVisual": "Road icon, Donna worried.",
+      "onScreenText": "none",
+      "relationToPrevious": "Hope of rescue becomes the road the mailman drives.",
+      "addedInformation": "Road reads as the route; the prayer is in the callout."
+    }
+  },
+  {
+    "i": 237,
+    "continue": true,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "THE MAILMAN COMES EVERY DAY",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The rural route: he comes every day, her last beacon of hope.",
+    "storyboard": {
+      "claim": "The mailman is her last hope.",
+      "concreteVisual": "Same road icon; Donna worried.",
+      "onScreenText": "THE MAILMAN COMES EVERY DAY",
+      "relationToPrevious": "Same road, the mailman's daily route is named.",
+      "addedInformation": "Daily route is the hope; the mailman is not drawn."
+    }
+  }
+]

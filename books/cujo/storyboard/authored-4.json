@@ -1,0 +1,945 @@
+[
+  {
+    "i": 121,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "THE ENGINE STRUGGLES",
+      "style": "box"
+    },
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The Pinto is labouring up the hill to the farm: a sealed car whose engine is failing.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The car is struggling up the unpaved hill.",
+      "concreteVisual": "The sealed Pinto box on a rising dirt hill, Donna at the wheel and Tad beside her.",
+      "onScreenText": "THE ENGINE STRUGGLES",
+      "relationToPrevious": "Opens the car passage; the sealed car is the object the next beats follow.",
+      "addedInformation": "Sets the car as the sealed box that will later become an oven."
+    }
+  },
+  {
+    "i": 122,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The speedometer needle falls from 40 to 30 as the engine bucks and dies.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The car is losing power.",
+      "concreteVisual": "The same car stage; Donna afraid, Tad worried beside her.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same car; the speed falls.",
+      "addedInformation": "The speed drop is the first measurable sign of the failure."
+    }
+  },
+  {
+    "i": 123,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The warning light on the dash flickers as the exhaust backfires.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dashboard warning light flickers.",
+      "concreteVisual": "The same car; Donna glancing worried, the car unchanged around her.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same car; a second warning sign.",
+      "addedInformation": "The dash light is the second warning, named on screen."
+    }
+  },
+  {
+    "i": 124,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "The car rolls into the driveway on its last momentum, and the engine dies.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The engine dies and the car stops.",
+      "concreteVisual": "The same car stopped in the driveway; both faces afraid.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same car, now stopped.",
+      "addedInformation": "The stop is the result of the failing sequence."
+    }
+  },
+  {
+    "i": 125,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "The engine is silent: the car is dead and they are stuck.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Total silence after the engine dies.",
+      "concreteVisual": "The stopped car; Donna blank, Tad sad.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stopped car, the silence settles in.",
+      "addedInformation": "The silence is the stillness of the dead car."
+    }
+  },
+  {
+    "i": 126,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "WORST POSSIBLE LOCATION",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "The breakdown happens in the worst place they could be.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The breakdown is in the worst possible place.",
+      "concreteVisual": "The stopped car on the empty farm road; Donna neutral, Tad sad.",
+      "onScreenText": "WORST POSSIBLE LOCATION",
+      "relationToPrevious": "Same stopped car, now the place is named.",
+      "addedInformation": "Names the location as the problem."
+    }
+  },
+  {
+    "i": 127,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna"
+    ],
+    "expression": "neutral",
+    "action": "take",
+    "holds": "key",
+    "actionCue": "turn the key",
+    "explainedBy": "We trust a car to move when we turn the key; the hand reaches for it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We trust technology to start when we turn the key.",
+      "concreteVisual": "Donna's hand reaches for the ignition key and closes on it.",
+      "onScreenText": "none",
+      "relationToPrevious": "Leaves the stalled car to name the trust we place in machines.",
+      "addedInformation": "The key is the object of that trust, shown as a deed."
+    }
+  },
+  {
+    "i": 128,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Machines fail",
+        "Defense stripped"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "When a machine fails, such as a flooded carburetor, we lose the human defenses we rely on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A machine failure strips away our defenses.",
+      "concreteVisual": "A two-step flow: machines fail, then defense is stripped.",
+      "onScreenText": "Machines fail / Defense stripped",
+      "relationToPrevious": "Turns from the key to the cause-and-effect of the failure.",
+      "addedInformation": "Makes the cause -> effect chain visible: failure, then loss of defense."
+    }
+  },
+  {
+    "i": 129,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Machines fail",
+        "Defense stripped",
+        "Food chain"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The failure drops us back down the food chain, as vulnerable as early humans.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The failure drops us down the food chain.",
+      "concreteVisual": "The same flow with a third step: food chain.",
+      "onScreenText": "Machines fail / Defense stripped / Food chain",
+      "relationToPrevious": "Adds the third step to the same flow.",
+      "addedInformation": "The third step is the result: we are prey again."
+    }
+  },
+  {
+    "i": 130,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The Pinto is now a metal cage baking in the sun.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The car is a metal cage baking in the sun.",
+      "concreteVisual": "The sealed car box with heat waves rising from it.",
+      "onScreenText": "none",
+      "relationToPrevious": "The flow ends; the car itself becomes the threat.",
+      "addedInformation": "The heat waves show the car as an oven."
+    }
+  },
+  {
+    "i": 131,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HER HABITS SAVE THEM",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Donna's ingrained driving habits are the one thing that saves them at first contact.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna's habits save them at the first moment.",
+      "concreteVisual": "Donna at the wheel, calm and focused.",
+      "onScreenText": "HER HABITS SAVE THEM",
+      "relationToPrevious": "Turns from the failure to the one thing that works.",
+      "addedInformation": "Names the habit as the saving factor."
+    }
+  },
+  {
+    "i": 132,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Her father drilled a specific parking routine into her head.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her father taught her a parking routine.",
+      "concreteVisual": "Donna, calm, at the wheel.",
+      "onScreenText": "none",
+      "relationToPrevious": "Explains where the habit came from.",
+      "addedInformation": "Gives the origin of the habit."
+    }
+  },
+  {
+    "i": 133,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PART OF THE ROUTINE",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "holds": "key",
+    "explainedBy": "The last step of the routine is taking the keys out, done by reflex.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna takes the keys out as part of the routine.",
+      "concreteVisual": "Donna's hand reaches for the ignition key and closes on it.",
+      "onScreenText": "PART OF THE ROUTINE",
+      "relationToPrevious": "Same key as before, now taken out as a habit.",
+      "addedInformation": "The deed shows the routine as a physical action."
+    }
+  },
+  {
+    "i": 134,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HER HABIT SAVES HER",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "key",
+    "explainedBy": "The automatic habit is the only thing that saves her throat from Kujo.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The habit saves her from Kujo.",
+      "concreteVisual": "Donna holding the key, worried.",
+      "onScreenText": "HER HABIT SAVES HER",
+      "relationToPrevious": "Same key held; the saving is named.",
+      "addedInformation": "Ties the habit to the threat."
+    }
+  },
+  {
+    "i": 135,
+    "concept": null,
+    "set": "forest",
+    "diagram": null,
+    "callout": {
+      "text": "KUJO LUNGES AT DONNA",
+      "style": "reveal"
+    },
+    "cast": [
+      "donna",
+      "kujo"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Kujo lunges out of the dark at the moment she rolls the window up.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo lunges out of the dark at the car.",
+      "concreteVisual": "Donna afraid in the forest set, Kujo angry, close.",
+      "onScreenText": "SO CLOSE",
+      "relationToPrevious": "The threat enters, the car is no longer the only subject.",
+      "addedInformation": "Puts the dog and the woman in one frame."
+    }
+  },
+  {
+    "i": 136,
+    "continue": true,
+    "concept": null,
+    "set": "forest",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "kujo"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "The reflex taught decades ago is what keeps them alive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The driver's ed reflex keeps them alive.",
+      "concreteVisual": "The same frame: Donna afraid, Kujo angry in the dark.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same frame; the reflex is named.",
+      "addedInformation": "Names the habit that saved them."
+    }
+  },
+  {
+    "i": 137,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The hosts turn to criticizing Donna's decisions.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts will criticize Donna.",
+      "concreteVisual": "Donna worried, facing the criticism.",
+      "onScreenText": "none",
+      "relationToPrevious": "Turns from her reflex to judging her decision.",
+      "addedInformation": "Names the judgment being made."
+    }
+  },
+  {
+    "i": 138,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "A DEAD-END ROAD",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The drive leads five miles out of town onto a dead-end road.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The drive ends on a dead-end road five miles out.",
+      "concreteVisual": "A road icon: a dead-end farm road.",
+      "onScreenText": "A DEAD-END ROAD",
+      "relationToPrevious": "From the reflex to the place she drove to.",
+      "addedInformation": "The road is the dead end: no way in or out."
+    }
+  },
+  {
+    "i": 139,
+    "concept": "home",
+    "diagram": null,
+    "callout": {
+      "text": "LEFT SAFELY AT HOME",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "She could have left Tad safely at home with the sitter.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna could have left Tad at home.",
+      "concreteVisual": "A house icon: the home she could have stayed in.",
+      "onScreenText": "LEFT SAFELY AT HOME",
+      "relationToPrevious": "From the road to the home she left.",
+      "addedInformation": "Names the alternative she did not take."
+    }
+  },
+  {
+    "i": 140,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "COLD RATIONALITY OF HINDSIGHT",
+      "style": "stack"
+    },
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Judging her from the cold rationality of hindsight is the unfair part.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We judge her with hindsight.",
+      "concreteVisual": "Donna worried, the judgment hanging over her.",
+      "onScreenText": "COLD RATIONALITY OF HINDSIGHT",
+      "relationToPrevious": "Turns from the alternative to the fairness of judging.",
+      "addedInformation": "Names the stance of the hosts."
+    }
+  },
+  {
+    "i": 141,
+    "concept": null,
+    "set": "kitchen",
+    "diagram": null,
+    "callout": {
+      "text": "KEMP AMBUSHED HER",
+      "style": "reveal"
+    },
+    "cast": [
+      "kemp",
+      "donna"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Kemp, her violent ex-lover, ambushed her in the kitchen and drove her out of her home.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kemp ambushed Donna in her kitchen.",
+      "concreteVisual": "Kemp angry in the kitchen, Donna afraid across from him.",
+      "onScreenText": "KEMP AMBUSHED HER",
+      "relationToPrevious": "Gives the reason she fled home.",
+      "addedInformation": "Shows the threat at home before the flight."
+    }
+  },
+  {
+    "i": 142,
+    "concept": "home",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The house no longer felt safe: polluted, violated, dangerous.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Home has become dangerous.",
+      "concreteVisual": "A house icon with Donna afraid beside it.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the kitchen to the house as a whole.",
+      "addedInformation": "Names how the house felt to her."
+    }
+  },
+  {
+    "i": 143,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "THE LESSER OF TWO EVILS",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The broken car heading toward a rural mechanic felt like the lesser of two evils.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The car trip looked like the lesser evil.",
+      "concreteVisual": "The sealed car box with Donna worried beside it.",
+      "onScreenText": "THE LESSER OF TWO EVILS",
+      "relationToPrevious": "From the house to the car she chose.",
+      "addedInformation": "Names her choice as a comparison."
+    }
+  },
+  {
+    "i": 144,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Human monster",
+        "Biological monster"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Fleeing the human monster drives her right into a biological one.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She escapes a human monster and runs into a biological one.",
+      "concreteVisual": "A two-step flow: human monster, then biological monster.",
+      "onScreenText": "Human monster / Biological monster",
+      "relationToPrevious": "Turns from the choice to the chain of threats.",
+      "addedInformation": "Shows the cause -> effect of her flight."
+    }
+  },
+  {
+    "i": 145,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Human monster",
+        "Biological monster"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The trauma of the domestic threat pushes her into the natural one: the broken machine over the broken man.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The domestic threat pushes her into the natural one.",
+      "concreteVisual": "The same flow, unchanged.",
+      "onScreenText": "Human monster / Biological monster",
+      "relationToPrevious": "Same flow; the hosts restate it.",
+      "addedInformation": "Restates the chain without a new step."
+    }
+  },
+  {
+    "i": 146,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "Ordinary machines build the trap that holds them inside the car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trap is built from ordinary things.",
+      "concreteVisual": "The sealed car box with Donna worried and Tad sad inside.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the flight to the car as a trap.",
+      "addedInformation": "Names the car as the trap."
+    }
+  },
+  {
+    "i": 147,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "The hosts say this scene is painful to watch.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The scene is agony to watch.",
+      "concreteVisual": "The same car, both faces sad.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same car; commentary on its pain.",
+      "addedInformation": "Reaction only, no new information."
+    }
+  },
+  {
+    "i": 148,
+    "concept": "deadPhone",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "The phone rings inside the empty Camber house while they wait in the car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The phone rings in the empty house.",
+      "concreteVisual": "A dead telephone with a red line through it; Donna worried and Tad sad in the car.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the car to the phone that cannot reach them.",
+      "addedInformation": "The dead-line phone shows the unreachable call."
+    }
+  },
+  {
+    "i": 149,
+    "continue": true,
+    "concept": "deadPhone",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "They can hear the ringing through the walls, just out of reach.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ringing comes through the walls.",
+      "concreteVisual": "The same dead phone; Donna and Tad listening in the car.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same phone; the sound is named.",
+      "addedInformation": "Names the distance: heard but not reached."
+    }
+  },
+  {
+    "i": 150,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo",
+      "donna"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "The ringing drives Kujo into a bellowing frenzy at the car door.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ringing sends Kujo into a frenzy.",
+      "concreteVisual": "Kujo angry at the car, Donna afraid inside.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the ringing to the dog's reaction.",
+      "addedInformation": "Shows the dog reacting to the sound."
+    }
+  },
+  {
+    "i": 151,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Sharp mechanical ringing",
+            "glyph": "phone"
+          },
+          {
+            "label": "Infected brain",
+            "glyph": "brain"
+          },
+          {
+            "label": "Attacks them",
+            "glyph": "danger"
+          }
+        ],
+        "token": {
+          "glyph": "ice",
+          "tag": "ICE PICKS",
+          "from": 1
+        },
+        "cues": {
+          "n0": "sharp mechanical ringing"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The rabies virus makes the ringing hurt his brain, so he associates the pain with the humans in the car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ringing hurts the infected brain and the dog attacks the humans.",
+      "concreteVisual": "A causal chain: the ringing, then the infected brain, then the attack.",
+      "onScreenText": "Sharp mechanical ringing",
+      "relationToPrevious": "From the frenzy to the mechanism behind it.",
+      "addedInformation": "Shows the chain the narration explains."
+    }
+  },
+  {
+    "i": 152,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Sharp mechanical ringing",
+            "glyph": "phone"
+          },
+          {
+            "label": "Infected brain",
+            "glyph": "brain"
+          },
+          {
+            "label": "Attacks them",
+            "glyph": "danger"
+          }
+        ],
+        "token": {
+          "glyph": "ice",
+          "tag": "ICE PICKS",
+          "from": 1
+        },
+        "cues": {
+          "n1": "infected brain",
+          "n2": "attacks them"
+        }
+      }
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The ringing acts like ice picks in the infected brain, so the dog turns on the humans in the car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ringing hurts the infected brain; the dog attacks.",
+      "concreteVisual": "The same causal chain; the ice token travels from the brain to the attack.",
+      "onScreenText": "Infected brain / Attacks them",
+      "relationToPrevious": "Same chain, the next steps drawn.",
+      "addedInformation": "Adds the brain and the attack as the result."
+    }
+  },
+  {
+    "i": 153,
+    "concept": "deadPhone",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The phone is just yards away, totally out of reach, and makes the dog more aggressive.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The phone is yards away and out of reach.",
+      "concreteVisual": "The dead telephone with a red line through it.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the dog's mechanism back to the phone.",
+      "addedInformation": "Names the distance that keeps the phone useless."
+    }
+  },
+  {
+    "i": 154,
+    "continue": true,
+    "concept": "deadPhone",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "We believe help is only nine numbers away, but the line is dead.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Help is nine numbers away.",
+      "concreteVisual": "The same dead telephone.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same phone; the belief in help is named.",
+      "addedInformation": "Names the belief that the phone is the rescue."
+    }
+  },
+  {
+    "i": 155,
+    "continue": true,
+    "concept": "deadPhone",
+    "diagram": null,
+    "callout": {
+      "text": "THE SILENCE IS WEAPONIZED",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "When the phone rings empty, the silence on the line isolates them more than no phone would.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The silence on a ringing phone is a weapon.",
+      "concreteVisual": "The same dead telephone.",
+      "onScreenText": "THE SILENCE IS WEAPONIZED",
+      "relationToPrevious": "Same phone; the claim turns to the silence.",
+      "addedInformation": "Names the effect of the empty ring."
+    }
+  },
+  {
+    "i": 156,
+    "continue": true,
+    "concept": "deadPhone",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The phone becomes a torture device reminding Donna she is cut off from civilization.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The phone is a psychological torture device.",
+      "concreteVisual": "The same dead telephone.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same phone; the torture is named.",
+      "addedInformation": "Names the phone's effect on Donna."
+    }
+  },
+  {
+    "i": 157,
+    "concept": "deadPhone",
+    "set": "room",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "Vic sits in a dark hotel room, dialing his home number endlessly.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic keeps dialing home.",
+      "concreteVisual": "Vic seated in a dark hotel room beside the dead telephone.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the dead phone in the car to Vic's phone far away.",
+      "addedInformation": "Shows the same torture on Vic's end."
+    }
+  },
+  {
+    "i": 158,
+    "continue": true,
+    "concept": "deadPhone",
+    "set": "room",
+    "diagram": null,
+    "callout": {
+      "text": "VIC WAITS ON THE PHONE",
+      "style": "highlight"
+    },
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "He lets the line ring twenty times, just waiting, instead of thinking clearly.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic lets the phone ring again and again.",
+      "concreteVisual": "Vic seated, the same dead telephone.",
+      "onScreenText": "LETS IT RING",
+      "relationToPrevious": "Same stage; the waiting is named.",
+      "addedInformation": "Names the waiting in the ring count."
+    }
+  },
+  {
+    "i": 159,
+    "continue": true,
+    "concept": "deadPhone",
+    "set": "room",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "The empty ringing feeds his deep-seated insecurities.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The empty ringing feeds Vic's insecurity.",
+      "concreteVisual": "Vic seated, the same dead telephone.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; what the ringing does to him.",
+      "addedInformation": "Names the effect on Vic."
+    }
+  },
+  {
+    "i": 160,
+    "continue": true,
+    "concept": "deadPhone",
+    "set": "room",
+    "diagram": null,
+    "callout": {
+      "text": "RAN OFF WITH KEMP",
+      "style": "reveal"
+    },
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "Because of the affair, Vic convinces himself Donna ran off with Kemp, and each ring confirms his fear.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic believes Donna ran off with Kemp.",
+      "concreteVisual": "Vic seated, worried, the same dead telephone.",
+      "onScreenText": "RAN OFF WITH KEMP",
+      "relationToPrevious": "Same stage; the belief is named.",
+      "addedInformation": "Names the fear each ring reinforces."
+    }
+  }
+]

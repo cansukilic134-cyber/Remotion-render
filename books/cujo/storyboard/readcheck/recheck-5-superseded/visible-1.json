@@ -1,0 +1,54 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ]
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ]
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "take",
+    "holds": "key"
+   }
+  ]
+ }
+]

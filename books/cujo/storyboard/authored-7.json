@@ -1,0 +1,826 @@
+[
+  {
+    "i": 238,
+    "concept": "road",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "callout": {
+      "text": "THE RESCUE DOES NOT COME",
+      "style": "reveal"
+    },
+    "explainedBy": "The rescue never arrives: the mailman who would have come every day does not come down the road.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The expected rescue never comes.",
+      "concreteVisual": "Donna, worried, in the car; the farm road icon behind her, the route no one drives.",
+      "onScreenText": "BUT HE DOESN'T COME",
+      "relationToPrevious": "Opens the rescue passage: the hope of the mailman falls away.",
+      "addedInformation": "Says the mailman never comes; weak: the road shows a route, not the truck."
+    }
+  },
+  {
+    "i": 239,
+    "continue": true,
+    "concept": "road",
+    "cast": [
+      "donna"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "callout": {
+      "text": "CHARITY PLANS A BUS TO CONNECTICUT",
+      "style": "highlight"
+    },
+    "explainedBy": "Charity's plan was an ordinary trip: a bus to her sister in Connecticut.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The planned trip was an ordinary family trip.",
+      "concreteVisual": "The same worried figure and road, now with a calmer face: the trip that was planned.",
+      "onScreenText": "CHARITY PLANS A BUS TO CONNECTICUT",
+      "relationToPrevious": "Same stage; the callout names the ordinary plan behind the empty road.",
+      "addedInformation": "Adds the destination and the bus; weak: the bus itself is not drawn."
+    }
+  },
+  {
+    "i": 240,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Hold on the mail"
+      ]
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The normal errand, a hold on the mail, is the first cause: it stops the one visit that would have come.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A routine errand cut off the mail.",
+      "concreteVisual": "A flow diagram starting with the label: Hold on the mail.",
+      "onScreenText": "Hold on the mail",
+      "relationToPrevious": "The road stage gives way to a cause-effect flow: the cause comes first.",
+      "addedInformation": "Names the errand as the first step of the chain."
+    }
+  },
+  {
+    "i": 241,
+    "continue": true,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Hold on the mail",
+        "No rescue"
+      ]
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The hold leads to no rescue: the cause is the errand, the effect is the rescue silently negated.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mail hold negates the rescue.",
+      "concreteVisual": "The same flow, with a second label added: No rescue.",
+      "onScreenText": "No rescue",
+      "relationToPrevious": "Adds the effect to the cause already drawn.",
+      "addedInformation": "Makes the chain explicit: the hold is the step that ends the rescue."
+    }
+  },
+  {
+    "i": 242,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE CRITIC SAYS",
+        "claim": "She should have run",
+        "inputs": [
+          "Run for the house",
+          "Physical strength on day one",
+          "Element of surprise"
+        ],
+        "hub": "Her only advantage",
+        "output": "A fatal tactical mistake",
+        "verdict": "I strongly object",
+        "reason": "Running would risk Tad",
+        "truth": "Maternal imperative",
+        "cues": {
+          "links": "made a run for the house"
+        }
+      }
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The critic's claim: Donna should have run for the house on day one, while she was still strong.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The critic says Donna should have run for the house.",
+      "concreteVisual": "Refute diagram: the owner's claim builds from its inputs toward the output.",
+      "onScreenText": "none",
+      "relationToPrevious": "The flow ends on the effect; the criticism is now the claim being built.",
+      "addedInformation": "Starts the refute: the claim is put forward before it is rejected."
+    }
+  },
+  {
+    "i": 243,
+    "continue": true,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE CRITIC SAYS",
+        "claim": "She should have run",
+        "inputs": [
+          "Run for the house",
+          "Physical strength on day one",
+          "Element of surprise"
+        ],
+        "hub": "Her only advantage",
+        "output": "A fatal tactical mistake",
+        "verdict": "I strongly object",
+        "reason": "Running would risk Tad",
+        "truth": "Maternal imperative",
+        "cues": {
+          "result": "fatal tactical mistake"
+        }
+      }
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The claim's result: waiting in the heat was a fatal tactical mistake that destroyed her only advantage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Waiting in the car was a fatal mistake.",
+      "concreteVisual": "The same refute diagram; the output 'fatal tactical mistake' lands.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram; the result of the claim is drawn.",
+      "addedInformation": "Shows the claim's output; the heat is named in the narration, not drawn."
+    }
+  },
+  {
+    "i": 244,
+    "continue": true,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE CRITIC SAYS",
+        "claim": "She should have run",
+        "inputs": [
+          "Run for the house",
+          "Physical strength on day one",
+          "Element of surprise"
+        ],
+        "hub": "Her only advantage",
+        "output": "A fatal tactical mistake",
+        "verdict": "I strongly object",
+        "reason": "Running would risk Tad",
+        "truth": "Maternal imperative",
+        "cues": {
+          "rejected": {
+            "phrase": "object",
+            "occurrence": 1
+          }
+        }
+      }
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The narrator rejects the claim: the host strongly objects to calling it a mistake.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The narrator rejects calling it a mistake.",
+      "concreteVisual": "The claim greys out and is stamped on the word object.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram; the claim is rejected.",
+      "addedInformation": "Shows the rejection of the claim, not a struck callout."
+    }
+  },
+  {
+    "i": 245,
+    "continue": true,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE CRITIC SAYS",
+        "claim": "She should have run",
+        "inputs": [
+          "Run for the house",
+          "Physical strength on day one",
+          "Element of surprise"
+        ],
+        "hub": "Her only advantage",
+        "output": "A fatal tactical mistake",
+        "verdict": "I strongly object",
+        "reason": "Running would risk Tad",
+        "truth": "Maternal imperative",
+        "cues": {}
+      }
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The rejected claim stays rejected while the host raises the question of maternal biology.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The question is maternal biology, not tactics.",
+      "concreteVisual": "The same diagram, the claim still greyed out.",
+      "onScreenText": "none",
+      "relationToPrevious": "Nothing new is drawn; the rejection holds.",
+      "addedInformation": "Keeps the rejected claim on screen while the reframe is spoken."
+    }
+  },
+  {
+    "i": 246,
+    "continue": true,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE CRITIC SAYS",
+        "claim": "She should have run",
+        "inputs": [
+          "Run for the house",
+          "Physical strength on day one",
+          "Element of surprise"
+        ],
+        "hub": "Her only advantage",
+        "output": "A fatal tactical mistake",
+        "verdict": "I strongly object",
+        "reason": "Running would risk Tad",
+        "truth": "Maternal imperative",
+        "cues": {
+          "bounce": "risking Tad"
+        }
+      }
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The reason the claim fails: running on day one meant risking Tad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Running would have risked Tad.",
+      "concreteVisual": "The reason gate bounces the claim: the run would have put Tad at risk.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram; the WHY is drawn.",
+      "addedInformation": "States the reason for the rejection from the narration."
+    }
+  },
+  {
+    "i": 247,
+    "continue": true,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE CRITIC SAYS",
+        "claim": "She should have run",
+        "inputs": [
+          "Run for the house",
+          "Physical strength on day one",
+          "Element of surprise"
+        ],
+        "hub": "Her only advantage",
+        "output": "A fatal tactical mistake",
+        "verdict": "I strongly object",
+        "reason": "Running would risk Tad",
+        "truth": "Maternal imperative",
+        "cues": {
+          "doubt": "But no, listen",
+          "truth": "maternal imperative"
+        }
+      }
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The correct model replaces the claim: Donna's maternal imperative, a biological lock to the car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Maternal imperative is the correct model.",
+      "concreteVisual": "The 'But' doubt, then the truth model drawn in the same parts: maternal imperative.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same diagram; the truth replaces the claim.",
+      "addedInformation": "Names the model that replaces the claim, from the narration."
+    }
+  },
+  {
+    "i": 248,
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "action": "embrace",
+    "actionCue": "shield her son",
+    "expression": "worried",
+    "partnerExpression": "afraid",
+    "callout": null,
+    "explainedBy": "Donna holds her son in the car: her body is the shield for the child.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A mother's body shields her son.",
+      "concreteVisual": "Donna pulls Tad in close, both in fear, on the cue shield her son.",
+      "onScreenText": "none",
+      "relationToPrevious": "The truth model moves from the diagram to the people it describes.",
+      "addedInformation": "Shows the protective act; weak: embrace reads as a hug, the barrier is in the callout."
+    }
+  },
+  {
+    "i": 249,
+    "concept": "shield",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "callout": null,
+    "explainedBy": "Her deepest instinct is a physical barrier between her child and the danger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her instinct is to put a barrier between child and danger.",
+      "concreteVisual": "Donna, worried, with the shield icon: protection.",
+      "onScreenText": "none",
+      "relationToPrevious": "The embrace gives way to the shield, the barrier idea itself.",
+      "addedInformation": "Shows protection; weak: Tad is not drawn in this beat."
+    }
+  },
+  {
+    "i": 250,
+    "concept": "sealedCarBox",
+    "cast": [
+      "donna"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "callout": null,
+    "explainedBy": "Staying in the Pinto is the only logical yet ultimately fatal choice for a mother.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Staying in the car is the only logical, fatal choice.",
+      "concreteVisual": "Donna, sad, beside the sealed car box: a closed car with heat rising.",
+      "onScreenText": "none",
+      "relationToPrevious": "The barrier idea now sits in the car, the sealed box.",
+      "addedInformation": "Puts the car on screen as the place she stays."
+    }
+  },
+  {
+    "i": 251,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "callout": null,
+    "explainedBy": "She could not leave her son, even to save him: the car holds her there.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She could not leave her son.",
+      "concreteVisual": "The same sealed car, Donna's face worried, held in place.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; her face changes from sad to worried, the callout names the bind.",
+      "addedInformation": "Adds the bind in her words; weak: no second person drawn."
+    }
+  },
+  {
+    "i": 252,
+    "concept": null,
+    "cast": [],
+    "callout": {
+      "text": "BUILT FROM THE ORDINARY",
+      "style": "box"
+    },
+    "noVisual": "The summary is a claim about the whole trap, not one picture.",
+    "explainedBy": "The trap as a whole is built from ordinary things, the summary of the argument.",
+    "storyboard": {
+      "claim": "The trap is built from ordinary parts.",
+      "concreteVisual": "Text-led frame: the words built from the ordinary.",
+      "onScreenText": "BUILT FROM THE ORDINARY",
+      "relationToPrevious": "The car stage ends; a summary of the whole trap begins.",
+      "addedInformation": "Names the summary; weak: nothing is drawn."
+    }
+  },
+  {
+    "i": 253,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "The virus",
+        "The carburetor",
+        "A crumbling marriage"
+      ]
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The mechanics of the trap are parts: the virus, the carburetor, and the marriage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trap has three parts.",
+      "concreteVisual": "A sorter diagram with three buckets: the virus, the carburetor, a crumbling marriage.",
+      "onScreenText": "The virus, The carburetor, A crumbling marriage",
+      "relationToPrevious": "The summary becomes a sorter of its parts.",
+      "addedInformation": "Lists the three parts the narration names."
+    }
+  },
+  {
+    "i": 254,
+    "concept": null,
+    "cast": [],
+    "callout": {
+      "text": "WHERE DOES IT STRAIN?",
+      "style": "highlight"
+    },
+    "noVisual": "A question has no picture of its own.",
+    "explainedBy": "The host asks where the narrative strains credulity and where the trap feels forced.",
+    "storyboard": {
+      "claim": "Where does the trap feel forced?",
+      "concreteVisual": "Text-led frame carrying the question.",
+      "onScreenText": "WHERE DOES IT STRAIN?",
+      "relationToPrevious": "The sorter ends; the critique begins with a question.",
+      "addedInformation": "Frames the question; weak: no image answers it yet."
+    }
+  },
+  {
+    "i": 255,
+    "cast": [
+      "kemp"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "callout": {
+      "text": "KEMP’S CONVENIENT FINAL ACT",
+      "style": "highlight"
+    },
+    "explainedBy": "The critique now targets Steve Kemp's final act as a convenient plot device.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kemp's final act is convenient.",
+      "concreteVisual": "Steve Kemp, smirking, the menacing figure.",
+      "onScreenText": "KEMP’S CONVENIENT FINAL ACT",
+      "relationToPrevious": "The question gives way to the person under critique.",
+      "addedInformation": "Puts Kemp on screen; smirk reads as sinister charm."
+    }
+  },
+  {
+    "i": 256,
+    "concept": "home",
+    "cast": [
+      "kemp"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "callout": null,
+    "explainedBy": "Kemp breaks into the Trenton house and wrecks it while they are gone.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kemp breaks into the Trenton house.",
+      "concreteVisual": "Kemp, angry, beside the home icon: the house he breaks into.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same figure, now with the house he attacks.",
+      "addedInformation": "Adds the house as the target; weak: the destruction itself is not drawn."
+    }
+  },
+  {
+    "i": 257,
+    "set": "bedroom",
+    "cast": [],
+    "concept": null,
+    "callout": {
+      "text": "ON VIC AND DONNA'S BED",
+      "style": "highlight"
+    },
+    "explainedBy": "The vandalism is left on the couple's bed: the act's location, in the bedroom.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The violation is on the Trentons' bed.",
+      "concreteVisual": "An empty bedroom set; the callout names whose bed.",
+      "onScreenText": "ON VIC AND DONNA'S BED",
+      "relationToPrevious": "The home gives way to the room where the act happens.",
+      "addedInformation": "Places it in the bedroom; weak: the act itself is not drawn."
+    }
+  },
+  {
+    "i": 258,
+    "concept": "shield",
+    "cast": [],
+    "callout": {
+      "text": "A CONVENIENT SMOKESCREEN",
+      "style": "box"
+    },
+    "explainedBy": "The vandalism works as a disguise, a smokescreen that pulls the police away.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The vandalism is a convenient smokescreen.",
+      "concreteVisual": "The mask icon: a false face, a cover.",
+      "onScreenText": "A CONVENIENT SMOKESCREEN",
+      "relationToPrevious": "The bedroom gives way to the disguise idea.",
+      "addedInformation": "Mask reads as a false face, a cover for the act."
+    }
+  },
+  {
+    "i": 259,
+    "concept": "law",
+    "cast": [],
+    "callout": {
+      "text": "THE POLICE ASSUME KIDNAPPING",
+      "style": "reveal"
+    },
+    "explainedBy": "The police assume Donna and Tad were kidnapped, rather than doing basic police work.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The police assume a kidnapping.",
+      "concreteVisual": "The law icon: the police and their assumption.",
+      "onScreenText": "THE POLICE ASSUME KIDNAPPING",
+      "relationToPrevious": "The smokescreen now has its target: the police.",
+      "addedInformation": "Names the police assumption; weak: no officer is drawn."
+    }
+  },
+  {
+    "i": 260,
+    "continue": true,
+    "concept": "law",
+    "cast": [],
+    "callout": {
+      "text": "ENTIRELY A DOMESTIC ABDUCTION",
+      "style": "highlight"
+    },
+    "explainedBy": "The police treat the case entirely as a domestic abduction, not a broken-down car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The police treat it as a domestic abduction.",
+      "concreteVisual": "The same law icon, the callout now names the abduction.",
+      "onScreenText": "ENTIRELY A DOMESTIC ABDUCTION",
+      "relationToPrevious": "Same stage; the callout names what the police settle on.",
+      "addedInformation": "Adds the police's chosen reading; weak: the broken-down car is not drawn."
+    }
+  },
+  {
+    "i": 261,
+    "concept": null,
+    "cast": [],
+    "callout": {
+      "text": "AUTHOR'S THUMB ON THE SCALE",
+      "style": "highlight"
+    },
+    "noVisual": "The thumb on the scale is a figure of speech: no object shows an author's hand.",
+    "explainedBy": "The critic says the author forces the outcome, pushing the trap shut.",
+    "storyboard": {
+      "claim": "The author forces the outcome.",
+      "concreteVisual": "Text-led frame: the figure of speech.",
+      "onScreenText": "AUTHOR'S THUMB ON THE SCALE",
+      "relationToPrevious": "The police stage gives way to the author's hand.",
+      "addedInformation": "Names the critique; weak: a balance icon would read as fairness, so none is used."
+    }
+  },
+  {
+    "i": 262,
+    "concept": "home",
+    "cast": [
+      "kemp"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "callout": null,
+    "explainedBy": "The author uses Kemp as a puppet to make sure nobody goes looking for Donna.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kemp is a tool the author controls.",
+      "concreteVisual": "Kemp, smirking, with the puppeteer icon: one person controlling another.",
+      "onScreenText": "none",
+      "relationToPrevious": "The author's hand from the previous beat now sits on Kemp.",
+      "addedInformation": "Puppeteer reads as control; the tool is Kemp."
+    }
+  },
+  {
+    "i": 263,
+    "concept": null,
+    "cast": [],
+    "callout": {
+      "text": "COMPLETE TUNNEL VISION",
+      "style": "highlight"
+    },
+    "noVisual": "Tunnel vision is a mental state; no vocabulary icon shows it.",
+    "explainedBy": "The police need complete tunnel vision, and the story is authored, not organic.",
+    "storyboard": {
+      "claim": "The police need tunnel vision.",
+      "concreteVisual": "Text-led frame: the phrase tunnel vision.",
+      "onScreenText": "COMPLETE TUNNEL VISION",
+      "relationToPrevious": "The puppet stage ends; the police's blindness is named.",
+      "addedInformation": "Names the blindness; weak: no image shows it."
+    }
+  },
+  {
+    "i": 264,
+    "concept": "clock",
+    "cast": [],
+    "callout": {
+      "text": "THE FAILURES LINE UP",
+      "style": "highlight"
+    },
+    "explainedBy": "A string of investigative failures happens to line up with the dog's timeline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The failures match the dog's timeline.",
+      "concreteVisual": "The clock icon: time, a schedule that lines up.",
+      "onScreenText": "THE FAILURES LINE UP",
+      "relationToPrevious": "The tunnel vision becomes a timing problem.",
+      "addedInformation": "Clock reads as time and schedule; weak: the dog is not drawn."
+    }
+  },
+  {
+    "i": 265,
+    "concept": "heart",
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The hosts now turn to the listener, at home, and reframe the discussion.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reframe is for the listener at home.",
+      "concreteVisual": "The home icon: the listener's own house.",
+      "onScreenText": "none",
+      "relationToPrevious": "The timeline gives way to the listener's home.",
+      "addedInformation": "Home reads as a house, the viewer's own; weak: a direct address."
+    }
+  },
+  {
+    "i": 266,
+    "concept": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "callout": null,
+    "explainedBy": "The story started as a monster story: the expected supernatural beast.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We expected a supernatural beast.",
+      "concreteVisual": "Kujo, the huge rabid dog, angry, drawn as the monster.",
+      "onScreenText": "none",
+      "relationToPrevious": "The reframe begins: the monster story is the expectation.",
+      "addedInformation": "Shows the dog as the expected monster."
+    }
+  },
+  {
+    "i": 267,
+    "continue": true,
+    "concept": "heart",
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "callout": {
+      "text": "IT IS NOT A MONSTER",
+      "style": "highlight"
+    },
+    "explainedBy": "The dog did not win because it was supernatural or evil: the negation is the contrast.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dog was not supernatural and not evil.",
+      "concreteVisual": "The same dog, neutral face, no menace: the negated monster.",
+      "onScreenText": "NOT SUPERNATURAL, NOT EVIL",
+      "relationToPrevious": "Same dog; the face drops the monster and the callout negates it.",
+      "addedInformation": "Stages the negation as a neutral dog, not a plain claim of evil."
+    }
+  },
+  {
+    "i": 268,
+    "concept": "shield",
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The dog won because of the invisible safety nets of modern life that everyone relies on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Modern life's safety nets failed.",
+      "concreteVisual": "The shield icon: protection we assume.",
+      "onScreenText": "none",
+      "relationToPrevious": "The dog gives way to the safety nets that failed.",
+      "addedInformation": "Shield reads as protection, the safety net itself."
+    }
+  },
+  {
+    "i": 269,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Car reliability",
+        "Phone connection",
+        "Marriage trust"
+      ]
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The safety nets are parts: reliable cars, connected phones, trusted marriages.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The safety nets are three parts.",
+      "concreteVisual": "A sorter diagram: car reliability, phone connection, marriage trust.",
+      "onScreenText": "Car reliability, Phone connection, Marriage trust",
+      "relationToPrevious": "The shield becomes a sorter of its parts.",
+      "addedInformation": "Lists the parts the narration names."
+    }
+  },
+  {
+    "i": 270,
+    "continue": true,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Car reliability",
+        "Phone connection",
+        "Marriage trust",
+        "Postal schedule"
+      ]
+    },
+    "concept": null,
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The fourth net is the postal schedule; all of them snapped at the same time.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The postal schedule is the fourth net.",
+      "concreteVisual": "The same sorter with a fourth bucket: postal schedule.",
+      "onScreenText": "Postal schedule",
+      "relationToPrevious": "Same sorter; one more part added.",
+      "addedInformation": "Adds the postal schedule, the last named part."
+    }
+  },
+  {
+    "i": 271,
+    "concept": "phone",
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The viewer's own smartphone is the present-day safety net.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Your phone is a safety net today.",
+      "concreteVisual": "The phone icon: the modern phone the viewer holds.",
+      "onScreenText": "none",
+      "relationToPrevious": "The sorter ends; the viewer's own life comes in.",
+      "addedInformation": "Phone reads as a modern smartphone, which is the narration's point."
+    }
+  },
+  {
+    "i": 272,
+    "concept": "shield",
+    "cast": [],
+    "callout": null,
+    "explainedBy": "We assume civilization is an impenetrable fortress that protects us from the wild.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Civilization is assumed to be a fortress.",
+      "concreteVisual": "The shield icon as the fortress that protects.",
+      "onScreenText": "none",
+      "relationToPrevious": "The phone gives way to the fortress assumption.",
+      "addedInformation": "Shield reads as protection; the fortress is the assumption."
+    }
+  },
+  {
+    "i": 273,
+    "concept": "home",
+    "cast": [],
+    "callout": {
+      "text": "YOUR DRIVEWAY A CAGE",
+      "style": "reveal"
+    },
+    "explainedBy": "If three routines fail, the driveway turns into a cage: the shield becomes a prison.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Routines failing turns home into a cage.",
+      "concreteVisual": "The home as a cage, shown with the house.",
+      "onScreenText": "YOUR DRIVEWAY A CAGE",
+      "relationToPrevious": "The fortress turns into a cage.",
+      "addedInformation": "Chains reads as bound and imprisoned, the cage idea."
+    }
+  },
+  {
+    "i": 274,
+    "concept": "key",
+    "cast": [],
+    "callout": null,
+    "explainedBy": "The closing call: the ignition key is the everyday safety net the viewer should remember.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Remember the ignition key next time.",
+      "concreteVisual": "The key icon: the ignition key.",
+      "onScreenText": "none",
+      "relationToPrevious": "The cage gives way to the everyday key.",
+      "addedInformation": "Key reads as a car key, the closing object."
+    }
+  }
+]

@@ -1,0 +1,3474 @@
+{
+  "slug": "cujo",
+  "totalSequences": 99,
+  "totalScenes": 275,
+  "averageDurationSecs": 23.9,
+  "sequences": [
+    {
+      "id": "seq-01",
+      "source": "authored",
+      "fromFrame": 0,
+      "durationFrames": 581,
+      "durationSeconds": 19.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 0,
+          "sceneId": "intro",
+          "fromFrame": 0,
+          "durationFrames": 314,
+          "role": "authored-start",
+          "narration": "Picture a Ford Pinto that uh simply won't start. Oh man, just a brutal image, right? It's sitting in"
+        },
+        {
+          "index": 1,
+          "sceneId": "scene-01",
+          "fromFrame": 314,
+          "durationFrames": 267,
+          "role": "authored-kept",
+          "narration": "sealed farm garage in the dead of summer. The heat inside the car is just steadily climbing. Yeah. I"
+        }
+      ]
+    },
+    {
+      "id": "seq-02",
+      "source": "engine",
+      "fromFrame": 581,
+      "durationFrames": 489,
+      "durationSeconds": 16.3,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 2,
+          "sceneId": "scene-02",
+          "fromFrame": 581,
+          "durationFrames": 283,
+          "role": "setup",
+          "narration": "And in the passenger seat, you've got a six-year-old boy who is well, he's slipping into a heat indu"
+        },
+        {
+          "index": 3,
+          "sceneId": "scene-03",
+          "fromFrame": 864,
+          "durationFrames": 206,
+          "role": "reveal",
+          "narration": "and she's completely helpless. It's an absolutely suffocating It really does. It hits you right in t"
+        }
+      ]
+    },
+    {
+      "id": "seq-03",
+      "source": "authored",
+      "fromFrame": 1070,
+      "durationFrames": 548,
+      "durationSeconds": 18.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 4,
+          "sceneId": "scene-04",
+          "fromFrame": 1070,
+          "durationFrames": 293,
+          "role": "authored-start",
+          "narration": "It really does because outside the cracked glass of the window, waiting on the crushed gravel, is a "
+        },
+        {
+          "index": 5,
+          "sceneId": "scene-05",
+          "fromFrame": 1363,
+          "durationFrames": 255,
+          "role": "authored-kept",
+          "narration": "St. Not at all. It's a dying rabid machine just waiting for them to open the door."
+        }
+      ]
+    },
+    {
+      "id": "seq-04",
+      "source": "engine",
+      "fromFrame": 1618,
+      "durationFrames": 1082,
+      "durationSeconds": 36.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 6,
+          "sceneId": "scene-06",
+          "fromFrame": 1618,
+          "durationFrames": 235,
+          "role": "setup",
+          "narration": "That's terrifying. So, you asked us to do a deep dive into the pages you shared with us regarding St"
+        },
+        {
+          "index": 7,
+          "sceneId": "scene-07",
+          "fromFrame": 1853,
+          "durationFrames": 271,
+          "role": "question",
+          "narration": "And I want to be super clear right off the bat. Our mission today isn't to just, you know, recount a"
+        },
+        {
+          "index": 8,
+          "sceneId": "scene-08",
+          "fromFrame": 2124,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "We are here to prove one very specific, terrifying argument based on the notes and the research you "
+        },
+        {
+          "index": 9,
+          "sceneId": "scene-09",
+          "fromFrame": 2357,
+          "durationFrames": 343,
+          "role": "reveal",
+          "narration": "The dog is not the real horror here. the true horror is how ordinary everyday failures inside one si"
+        }
+      ]
+    },
+    {
+      "id": "seq-05",
+      "source": "engine",
+      "fromFrame": 2700,
+      "durationFrames": 967,
+      "durationSeconds": 32.2,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 10,
+          "sceneId": "scene-10",
+          "fromFrame": 2700,
+          "durationFrames": 302,
+          "role": "setup",
+          "narration": "at the seams. Turn a loose sick animal into a trap that absolutely nobody can climb out of. Yes, exa"
+        },
+        {
+          "index": 11,
+          "sceneId": "scene-11",
+          "fromFrame": 3002,
+          "durationFrames": 276,
+          "role": "question",
+          "narration": "Piece by mundane piece. Right. And uh to truly understand how this happens, I mean, we really need t"
+        },
+        {
+          "index": 12,
+          "sceneId": "scene-12",
+          "fromFrame": 3278,
+          "durationFrames": 389,
+          "role": "reveal",
+          "narration": "We have to look at the people involved. The Trenton, right? Vic and Donna Trenton. So, this is a mar"
+        }
+      ]
+    },
+    {
+      "id": "seq-06",
+      "source": "engine",
+      "fromFrame": 3667,
+      "durationFrames": 466,
+      "durationSeconds": 15.5,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 13,
+          "sceneId": "scene-13",
+          "fromFrame": 3667,
+          "durationFrames": 214,
+          "role": "setup",
+          "narration": "recently had an affair. Exactly. With a man named Steve Kemp. And they share a 4-year-old son, Tad, "
+        },
+        {
+          "index": 14,
+          "sceneId": "scene-14",
+          "fromFrame": 3881,
+          "durationFrames": 252,
+          "role": "reveal",
+          "narration": "well, he's highly sensitive to the tension in the house. Kids always pick up on that stuff. They rea"
+        }
+      ]
+    },
+    {
+      "id": "seq-07",
+      "source": "authored",
+      "fromFrame": 4133,
+      "durationFrames": 521,
+      "durationSeconds": 17.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 15,
+          "sceneId": "scene-15",
+          "fromFrame": 4133,
+          "durationFrames": 249,
+          "role": "authored-start",
+          "narration": "It's the Camber Farm, which is located at the absolute end of a deadend road, town road number three"
+        },
+        {
+          "index": 16,
+          "sceneId": "scene-16",
+          "fromFrame": 4382,
+          "durationFrames": 272,
+          "role": "authored-kept",
+          "narration": "It's incredibly isolated. Yeah. It's the kind of place you only go if you have a specific reason to "
+        }
+      ]
+    },
+    {
+      "id": "seq-08",
+      "source": "engine",
+      "fromFrame": 4654,
+      "durationFrames": 1041,
+      "durationSeconds": 34.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 17,
+          "sceneId": "scene-17",
+          "fromFrame": 4654,
+          "durationFrames": 249,
+          "role": "setup",
+          "narration": "Coojo himself. Good old Cooj, right? He is Joe and Charity Camber's friendly lumbering St. Bernard. "
+        },
+        {
+          "index": 18,
+          "sceneId": "scene-18",
+          "fromFrame": 4903,
+          "durationFrames": 329,
+          "role": "complication",
+          "narration": "He's the kind of dog that plays with kids. But he is about to become the ultimate threat due to this"
+        },
+        {
+          "index": 19,
+          "sceneId": "scene-19",
+          "fromFrame": 5232,
+          "durationFrames": 216,
+          "role": "question",
+          "narration": "the timeline here. June 16th, picture Kujo. He's 5 years old, so he's past his puppyhood, but he sti"
+        },
+        {
+          "index": 20,
+          "sceneId": "scene-20",
+          "fromFrame": 5448,
+          "durationFrames": 247,
+          "role": "reveal",
+          "narration": "Sure. And he's chasing a plump brown rabbit across a sunlit meadow. The rabbit zigs and zags and it "
+        }
+      ]
+    },
+    {
+      "id": "seq-09",
+      "source": "authored",
+      "fromFrame": 5695,
+      "durationFrames": 852,
+      "durationSeconds": 28.4,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 21,
+          "sceneId": "scene-21",
+          "fromFrame": 5695,
+          "durationFrames": 238,
+          "role": "authored-start",
+          "narration": "It's a dog being a dog. Exactly. Kujo follows it, wedging his heavy shoulders into this limestone ca"
+        },
+        {
+          "index": 22,
+          "sceneId": "scene-22",
+          "fromFrame": 5933,
+          "durationFrames": 201,
+          "role": "authored-kept",
+          "narration": "It's damp. It smells of wet earth and uh the sharp ammonia stench of bat O,"
+        },
+        {
+          "index": 23,
+          "sceneId": "scene-23",
+          "fromFrame": 6134,
+          "durationFrames": 173,
+          "role": "authored-kept",
+          "narration": "gross. Yeah, it's awful. And his barking echoes in this tight space and it wakes up a roost of bats."
+        },
+        {
+          "index": 24,
+          "sceneId": "scene-24",
+          "fromFrame": 6307,
+          "durationFrames": 240,
+          "role": "authored-kept",
+          "narration": "But these aren't just any bats. They are infected with a highly virulent strain of rabies. The worst"
+        }
+      ]
+    },
+    {
+      "id": "seq-10",
+      "source": "authored",
+      "fromFrame": 6547,
+      "durationFrames": 799,
+      "durationSeconds": 26.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 25,
+          "sceneId": "scene-25",
+          "fromFrame": 6547,
+          "durationFrames": 247,
+          "role": "authored-start",
+          "narration": "Kujo snaps at them defensively. And there's this sudden sickening crunch of a rabid bat's brown blac"
+        },
+        {
+          "index": 26,
+          "sceneId": "scene-26",
+          "fromFrame": 6794,
+          "durationFrames": 324,
+          "role": "authored-kept",
+          "narration": "Oh, man. Right before the bat scratches his highly sensitive muzzle. And it leaves the small like al"
+        },
+        {
+          "index": 27,
+          "sceneId": "scene-27",
+          "fromFrame": 7118,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "so small you'd barely even notice it if you weren't looking for it, which is crazy. Because here is "
+        }
+      ]
+    },
+    {
+      "id": "seq-11",
+      "source": "engine",
+      "fromFrame": 7346,
+      "durationFrames": 1184,
+      "durationSeconds": 39.5,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 28,
+          "sceneId": "scene-28",
+          "fromFrame": 7346,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "True disasters, like the ones that actually destroy lives, they don't announce themselves with siren"
+        },
+        {
+          "index": 29,
+          "sceneId": "scene-29",
+          "fromFrame": 7586,
+          "durationFrames": 207,
+          "role": "question",
+          "narration": "They start on a perfectly sunny, ordinary afternoon when you're just, you know, going about your bus"
+        },
+        {
+          "index": 30,
+          "sceneId": "scene-30",
+          "fromFrame": 7793,
+          "durationFrames": 213,
+          "role": "partial_answer",
+          "narration": "That's it. Let's talk about the biology of what's actually happening in that cave, though, because i"
+        },
+        {
+          "index": 31,
+          "sceneId": "scene-31",
+          "fromFrame": 8006,
+          "durationFrames": 286,
+          "role": "complication",
+          "narration": "So, rabies isn't just a generic sickness. The rabies virus, it's part of the rabbi family, is this b"
+        },
+        {
+          "index": 32,
+          "sceneId": "scene-32",
+          "fromFrame": 8292,
+          "durationFrames": 238,
+          "role": "reveal",
+          "narration": "bypasses the bloodstream. Wait, really? It doesn't go into the No, exactly. Because if it went into "
+        }
+      ]
+    },
+    {
+      "id": "seq-12",
+      "source": "authored",
+      "fromFrame": 8530,
+      "durationFrames": 823,
+      "durationSeconds": 27.4,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 33,
+          "sceneId": "scene-33",
+          "fromFrame": 8530,
+          "durationFrames": 316,
+          "role": "authored-start",
+          "narration": "Oh, wow. I didn't know that. Yeah, it's insidious. Instead, the virus binds directly to the nerve en"
+        },
+        {
+          "index": 34,
+          "sceneId": "scene-34",
+          "fromFrame": 8846,
+          "durationFrames": 269,
+          "role": "authored-kept",
+          "narration": "nervous system and begins this slow, silent crawl up his axons, just creeping up, right? Moving at a"
+        },
+        {
+          "index": 35,
+          "sceneId": "scene-35",
+          "fromFrame": 9115,
+          "durationFrames": 238,
+          "role": "authored-kept",
+          "narration": "millm a day, just hitting straight for his central nervous system in his brain. So for weeks, the do"
+        }
+      ]
+    },
+    {
+      "id": "seq-13",
+      "source": "engine",
+      "fromFrame": 9353,
+      "durationFrames": 1197,
+      "durationSeconds": 39.9,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 36,
+          "sceneId": "scene-36",
+          "fromFrame": 9353,
+          "durationFrames": 230,
+          "role": "setup",
+          "narration": "The trap is silently winding itself up. That's terrifying. And look at Kujo's immediate reaction, wh"
+        },
+        {
+          "index": 37,
+          "sceneId": "scene-37",
+          "fromFrame": 9583,
+          "durationFrames": 228,
+          "role": "question",
+          "narration": "When he gets out of the cave, he feels what the text describes as a bad dog feeling. All one word, b"
+        },
+        {
+          "index": 38,
+          "sceneId": "scene-38",
+          "fromFrame": 9811,
+          "durationFrames": 221,
+          "role": "partial_answer",
+          "narration": "He doesn't understand viology. He just knows his nose is bleeding and he smells awful. So, he assume"
+        },
+        {
+          "index": 39,
+          "sceneId": "scene-39",
+          "fromFrame": 10032,
+          "durationFrames": 250,
+          "role": "complication",
+          "narration": "Charity, or young Brett, are going to scold him for getting into something nasty, like any dog would"
+        },
+        {
+          "index": 40,
+          "sceneId": "scene-40",
+          "fromFrame": 10282,
+          "durationFrames": 268,
+          "role": "reveal",
+          "narration": "Instead of going straight home where they might have seen the wound, realized what happened, and cal"
+        }
+      ]
+    },
+    {
+      "id": "seq-14",
+      "source": "engine",
+      "fromFrame": 10550,
+      "durationFrames": 192,
+      "durationSeconds": 6.4,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 41,
+          "sceneId": "scene-41",
+          "fromFrame": 10550,
+          "durationFrames": 192,
+          "role": "reveal",
+          "narration": "Yes. He wades into a nearby stream, washing the nasty, watery green limestone stink off his coat."
+        }
+      ]
+    },
+    {
+      "id": "seq-15",
+      "source": "authored",
+      "fromFrame": 10742,
+      "durationFrames": 574,
+      "durationSeconds": 19.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 42,
+          "sceneId": "scene-42",
+          "fromFrame": 10742,
+          "durationFrames": 351,
+          "role": "authored-start",
+          "narration": "He is actively masking a lethal infection from his family just because he doesn't want to be a bad b"
+        },
+        {
+          "index": 43,
+          "sceneId": "scene-43",
+          "fromFrame": 11093,
+          "durationFrames": 223,
+          "role": "authored-kept",
+          "narration": "cast out, right? It's a survival instinct that ironically ensures his own death and the deaths of th"
+        }
+      ]
+    },
+    {
+      "id": "seq-16",
+      "source": "engine",
+      "fromFrame": 11316,
+      "durationFrames": 1140,
+      "durationSeconds": 38,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 44,
+          "sceneId": "scene-44",
+          "fromFrame": 11316,
+          "durationFrames": 185,
+          "role": "setup",
+          "narration": "But I've got to tell you, when I was reading through these notes, I struggled a little bit with this"
+        },
+        {
+          "index": 45,
+          "sceneId": "scene-45",
+          "fromFrame": 11501,
+          "durationFrames": 312,
+          "role": "question",
+          "narration": "Really? How so? Because the horror here feels like pure randomness to me. It feels like phenomenally"
+        },
+        {
+          "index": 46,
+          "sceneId": "scene-46",
+          "fromFrame": 11813,
+          "durationFrames": 168,
+          "role": "complication",
+          "narration": "day into that specific hole. I mean, if the rabbit zigs instead of zags,"
+        },
+        {
+          "index": 47,
+          "sceneId": "scene-47",
+          "fromFrame": 11981,
+          "durationFrames": 206,
+          "role": "complication",
+          "narration": "or if Kujo gets distracted by a squirrel 5 seconds earlier, this entire nightmare doesn't happen. It"
+        },
+        {
+          "index": 48,
+          "sceneId": "scene-48",
+          "fromFrame": 12187,
+          "durationFrames": 269,
+          "role": "reveal",
+          "narration": "I mean, I see why you'd read it that way. And honestly, the sheer bad luck of it is staggering. But "
+        }
+      ]
+    },
+    {
+      "id": "seq-17",
+      "source": "engine",
+      "fromFrame": 12456,
+      "durationFrames": 298,
+      "durationSeconds": 9.9,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 49,
+          "sceneId": "scene-49",
+          "fromFrame": 12456,
+          "durationFrames": 298,
+          "role": "reveal",
+          "narration": "No, it is the environment itself. If we look closer at the description of that limestone cave, the t"
+        }
+      ]
+    },
+    {
+      "id": "seq-18",
+      "source": "authored",
+      "fromFrame": 12754,
+      "durationFrames": 595,
+      "durationSeconds": 19.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 50,
+          "sceneId": "scene-50",
+          "fromFrame": 12754,
+          "durationFrames": 348,
+          "role": "authored-start",
+          "narration": "Oh, right. Yeah. A woodchuck, a skunk, chipmunks, squirrels. There's even the skeleton of a house ca"
+        },
+        {
+          "index": 51,
+          "sceneId": "scene-51",
+          "fromFrame": 13102,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "Exactly. It's an invisible history of death right in the family's backyard. Oh, wow. Okay. So, this "
+        }
+      ]
+    },
+    {
+      "id": "seq-19",
+      "source": "authored",
+      "fromFrame": 13349,
+      "durationFrames": 600,
+      "durationSeconds": 20,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 52,
+          "sceneId": "scene-52",
+          "fromFrame": 13349,
+          "durationFrames": 398,
+          "role": "authored-start",
+          "narration": "It's a predator pit. The cave is a natural funnel for curiosity. Animals go in and infected bats are"
+        },
+        {
+          "index": 53,
+          "sceneId": "scene-53",
+          "fromFrame": 13747,
+          "durationFrames": 202,
+          "role": "authored-kept",
+          "narration": "engine of infection, just out of sight in the tall grass. The trap was always there, overgrown,"
+        }
+      ]
+    },
+    {
+      "id": "seq-20",
+      "source": "engine",
+      "fromFrame": 13949,
+      "durationFrames": 1034,
+      "durationSeconds": 34.5,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 54,
+          "sceneId": "scene-54",
+          "fromFrame": 13949,
+          "durationFrames": 372,
+          "role": "setup",
+          "narration": "just waiting for a victim to stumble in. That's the illusion of safety. The environment was already "
+        },
+        {
+          "index": 55,
+          "sceneId": "scene-55",
+          "fromFrame": 14321,
+          "durationFrames": 228,
+          "role": "question",
+          "narration": "ordinary. Let's move from the literal trap in the backyard to the emotional trap inside the house be"
+        },
+        {
+          "index": 56,
+          "sceneId": "scene-56",
+          "fromFrame": 14549,
+          "durationFrames": 199,
+          "role": "complication",
+          "narration": "We really need to look at the Trenton. Yes. Let's drop into Donna Trenton's kitchen. And I want you "
+        },
+        {
+          "index": 57,
+          "sceneId": "scene-57",
+          "fromFrame": 14748,
+          "durationFrames": 235,
+          "role": "reveal",
+          "narration": "It's sweltering. It's a brutal main summer heatwave. [snorts] Donna is screaming at her former lover"
+        }
+      ]
+    },
+    {
+      "id": "seq-21",
+      "source": "authored",
+      "fromFrame": 14983,
+      "durationFrames": 586,
+      "durationSeconds": 19.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 58,
+          "sceneId": "scene-58",
+          "fromFrame": 14983,
+          "durationFrames": 238,
+          "role": "authored-start",
+          "narration": "Such a tense scene. It really is. She drops a carton of milk in the struggle and it splits and spill"
+        },
+        {
+          "index": 59,
+          "sceneId": "scene-59",
+          "fromFrame": 15221,
+          "durationFrames": 348,
+          "role": "authored-kept",
+          "narration": "The air in that kitchen is incredibly thick. It's its primal jungle mixture of the souring dairy on "
+        }
+      ]
+    },
+    {
+      "id": "seq-22",
+      "source": "engine",
+      "fromFrame": 15569,
+      "durationFrames": 281,
+      "durationSeconds": 9.4,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 60,
+          "sceneId": "scene-60",
+          "fromFrame": 15569,
+          "durationFrames": 281,
+          "role": "reveal",
+          "narration": "He's a very scary guy. Very. He is gripping her arm, breathing right in her face, explicitly threate"
+        }
+      ]
+    },
+    {
+      "id": "seq-23",
+      "source": "authored",
+      "fromFrame": 15850,
+      "durationFrames": 1279,
+      "durationSeconds": 42.6,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 61,
+          "sceneId": "scene-61",
+          "fromFrame": 15850,
+          "durationFrames": 360,
+          "role": "authored-start",
+          "narration": "Her sanctuary has been completely breached. Right? So, what does this mean for the larger story? It "
+        },
+        {
+          "index": 62,
+          "sceneId": "scene-62",
+          "fromFrame": 16210,
+          "durationFrames": 297,
+          "role": "authored-kept",
+          "narration": "to external physical threats. Right. You just can't see them. Exactly. 100% of Donna's cognitive ban"
+        },
+        {
+          "index": 63,
+          "sceneId": "scene-63",
+          "fromFrame": 16507,
+          "durationFrames": 178,
+          "role": "authored-kept",
+          "narration": "and physical wreckage inside her own house. I mean, the human brain has a limit to what it can proce"
+        },
+        {
+          "index": 64,
+          "sceneId": "scene-64",
+          "fromFrame": 16685,
+          "durationFrames": 218,
+          "role": "authored-kept",
+          "narration": "when you are terrified that a violent man is going to ruin your life or hurt you right there in your"
+        },
+        {
+          "index": 65,
+          "sceneId": "scene-65",
+          "fromFrame": 16903,
+          "durationFrames": 226,
+          "role": "authored-kept",
+          "narration": "You aren't paying attention to where you're driving. You are in pure fightor-flight And it's not jus"
+        }
+      ]
+    },
+    {
+      "id": "seq-24",
+      "source": "engine",
+      "fromFrame": 17129,
+      "durationFrames": 741,
+      "durationSeconds": 24.7,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 66,
+          "sceneId": "scene-66",
+          "fromFrame": 17129,
+          "durationFrames": 240,
+          "role": "setup",
+          "narration": "Vic is entirely consumed by his own parallel crisis at work. The family's defenses are down across t"
+        },
+        {
+          "index": 67,
+          "sceneId": "scene-67",
+          "fromFrame": 17369,
+          "durationFrames": 163,
+          "role": "question",
+          "narration": "We have to talk about the red raspberry zinger serial crisis. Yes, the cereal."
+        },
+        {
+          "index": 68,
+          "sceneId": "scene-68",
+          "fromFrame": 17532,
+          "durationFrames": 173,
+          "role": "complication",
+          "narration": "So Vic and his business partner Roger run this small independent ad agency called AdWorks."
+        },
+        {
+          "index": 69,
+          "sceneId": "scene-69",
+          "fromFrame": 17705,
+          "durationFrames": 165,
+          "role": "reveal",
+          "narration": "And they landed this massive account with Sharp cereal which is basically keeping them afloat."
+        }
+      ]
+    },
+    {
+      "id": "seq-25",
+      "source": "authored",
+      "fromFrame": 17870,
+      "durationFrames": 1695,
+      "durationSeconds": 56.5,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 70,
+          "sceneId": "scene-70",
+          "fromFrame": 17870,
+          "durationFrames": 329,
+          "role": "authored-start",
+          "narration": "But suddenly there's a disaster. A huge disaster, right? A harmless red dye in the red raspberry zin"
+        },
+        {
+          "index": 71,
+          "sceneId": "scene-71",
+          "fromFrame": 18199,
+          "durationFrames": 231,
+          "role": "authored-kept",
+          "narration": "Meaning thousands of kids across the country were going to the bathroom and seemingly throwing up wh"
+        },
+        {
+          "index": 72,
+          "sceneId": "scene-72",
+          "fromFrame": 18430,
+          "durationFrames": 379,
+          "role": "authored-kept",
+          "narration": "The panic among parents nationwide was instant and overwhelming. Exactly. and their beloved mascot, "
+        },
+        {
+          "index": 73,
+          "sceneId": "scene-73",
+          "fromFrame": 18809,
+          "durationFrames": 374,
+          "role": "authored-kept",
+          "narration": "this morbid, terrible joke. It's a PR nightmare. It is. This professional crisis forces Vic to fly o"
+        },
+        {
+          "index": 74,
+          "sceneId": "scene-74",
+          "fromFrame": 19183,
+          "durationFrames": 382,
+          "role": "authored-kept",
+          "narration": "livelihood. And this corporate emergency ensures that he is out of town exactly when the trap back i"
+        }
+      ]
+    },
+    {
+      "id": "seq-26",
+      "source": "engine",
+      "fromFrame": 19565,
+      "durationFrames": 693,
+      "durationSeconds": 23.1,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 75,
+          "sceneId": "scene-75",
+          "fromFrame": 19565,
+          "durationFrames": 218,
+          "role": "setup",
+          "narration": "their own immediate I see that. But I'd actually argue that Donna's guilt over the affair is the rea"
+        },
+        {
+          "index": 76,
+          "sceneId": "scene-76",
+          "fromFrame": 19783,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "You think so? Yeah. It paralyzes her. She ended it with Steve Kemp, but her fear of Kemp exposing he"
+        },
+        {
+          "index": 77,
+          "sceneId": "scene-77",
+          "fromFrame": 20107,
+          "durationFrames": 151,
+          "role": "reveal",
+          "narration": "panic. She's terrified of her husband finding out. She's terrified of Kemp's violence."
+        }
+      ]
+    },
+    {
+      "id": "seq-27",
+      "source": "authored",
+      "fromFrame": 20258,
+      "durationFrames": 1136,
+      "durationSeconds": 37.9,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 78,
+          "sceneId": "scene-78",
+          "fromFrame": 20258,
+          "durationFrames": 207,
+          "role": "authored-start",
+          "narration": "And that guilt is what isolates her. She's keeping secrets and secrets cut you off from help. I get "
+        },
+        {
+          "index": 79,
+          "sceneId": "scene-79",
+          "fromFrame": 20465,
+          "durationFrames": 321,
+          "role": "authored-kept",
+          "narration": "I really do. But I have to push back on that reading. Oh, really? Yeah. If we connect this to the bi"
+        },
+        {
+          "index": 80,
+          "sceneId": "scene-80",
+          "fromFrame": 20786,
+          "durationFrames": 308,
+          "role": "authored-kept",
+          "narration": "How so? Think about who Vic Trenton is when things are normal. He is a guy who built a wooden swing "
+        },
+        {
+          "index": 81,
+          "sceneId": "scene-81",
+          "fromFrame": 21094,
+          "durationFrames": 300,
+          "role": "authored-kept",
+          "narration": "He pays attention. Right. He's a hands-on dad. Exactly. But because he's so completely terrified of "
+        }
+      ]
+    },
+    {
+      "id": "seq-28",
+      "source": "engine",
+      "fromFrame": 21394,
+      "durationFrames": 852,
+      "durationSeconds": 28.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 82,
+          "sceneId": "scene-82",
+          "fromFrame": 21394,
+          "durationFrames": 201,
+          "role": "setup",
+          "narration": "role as a provider, he ignores the physical reality of his own household. The Ford Pinto has a faili"
+        },
+        {
+          "index": 83,
+          "sceneId": "scene-83",
+          "fromFrame": 21595,
+          "durationFrames": 312,
+          "role": "question",
+          "narration": "It's stalling out. Right. It's been having issues. Yes. If Vic wasn't so completely consumed by the "
+        },
+        {
+          "index": 84,
+          "sceneId": "scene-84",
+          "fromFrame": 21907,
+          "durationFrames": 339,
+          "role": "reveal",
+          "narration": "Pinto's carburetor himself on a Saturday afternoon. Yeah, that makes sense. or at the very least he "
+        }
+      ]
+    },
+    {
+      "id": "seq-29",
+      "source": "authored",
+      "fromFrame": 22246,
+      "durationFrames": 1015,
+      "durationSeconds": 33.8,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 85,
+          "sceneId": "scene-85",
+          "fromFrame": 22246,
+          "durationFrames": 230,
+          "role": "authored-start",
+          "narration": "the country. The software of the marriage was crashing, which meant the hardware of their lives, lik"
+        },
+        {
+          "index": 86,
+          "sceneId": "scene-86",
+          "fromFrame": 22476,
+          "durationFrames": 389,
+          "role": "authored-kept",
+          "narration": "Wow. Okay, that completely reframes it for me. You're right. The domestic tension creates a massive "
+        },
+        {
+          "index": 87,
+          "sceneId": "scene-87",
+          "fromFrame": 22865,
+          "durationFrames": 396,
+          "role": "authored-kept",
+          "narration": "the lethal threat in his own driveway. Once again, the trap is built from the ordinary. And we reall"
+        }
+      ]
+    },
+    {
+      "id": "seq-30",
+      "source": "engine",
+      "fromFrame": 23261,
+      "durationFrames": 209,
+      "durationSeconds": 7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 88,
+          "sceneId": "scene-88",
+          "fromFrame": 23261,
+          "durationFrames": 209,
+          "role": "reveal",
+          "narration": "Oh, this sequence is genuinely It is. So, we're in Tad's bedroom at midnight. The house is dark."
+        }
+      ]
+    },
+    {
+      "id": "seq-31",
+      "source": "authored",
+      "fromFrame": 23470,
+      "durationFrames": 604,
+      "durationSeconds": 20.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 89,
+          "sceneId": "scene-89",
+          "fromFrame": 23470,
+          "durationFrames": 237,
+          "role": "authored-start",
+          "narration": "He wakes up needing to use the bathroom and then he sees it. He gets that feeling. His scrotum is li"
+        },
+        {
+          "index": 90,
+          "sceneId": "scene-90",
+          "fromFrame": 23707,
+          "durationFrames": 367,
+          "role": "authored-kept",
+          "narration": "Such a visceral description, right? He looks at his closet and the blankets stacked on a chair insid"
+        }
+      ]
+    },
+    {
+      "id": "seq-32",
+      "source": "authored",
+      "fromFrame": 24074,
+      "durationFrames": 531,
+      "durationSeconds": 17.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 91,
+          "sceneId": "scene-91",
+          "fromFrame": 24074,
+          "durationFrames": 322,
+          "role": "authored-start",
+          "narration": "It's so vivid. It feels incredibly real to him. Yes. so real that his dad, Vic, has to literally typ"
+        },
+        {
+          "index": 92,
+          "sceneId": "scene-92",
+          "fromFrame": 24396,
+          "durationFrames": 209,
+          "role": "authored-kept",
+          "narration": "And Vic reads it like a spell, right? He says, \"Monsters, stay out of this room. You have no busines"
+        }
+      ]
+    },
+    {
+      "id": "seq-33",
+      "source": "authored",
+      "fromFrame": 24605,
+      "durationFrames": 518,
+      "durationSeconds": 17.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 93,
+          "sceneId": "scene-93",
+          "fromFrame": 24605,
+          "durationFrames": 237,
+          "role": "authored-start",
+          "narration": "And here's where it gets really interesting for anyone listening. Childhood fears are often incredib"
+        },
+        {
+          "index": 94,
+          "sceneId": "scene-94",
+          "fromFrame": 24842,
+          "durationFrames": 281,
+          "role": "authored-kept",
+          "narration": "Kids pick up on micro expressions. They pick up on ambient stress. They sense when the safety of the"
+        }
+      ]
+    },
+    {
+      "id": "seq-34",
+      "source": "engine",
+      "fromFrame": 25123,
+      "durationFrames": 199,
+      "durationSeconds": 6.6,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 95,
+          "sceneId": "scene-95",
+          "fromFrame": 25123,
+          "durationFrames": 199,
+          "role": "reveal",
+          "narration": "right? But adults consistently dismiss these fears using cold logic, leaving the vulnerable unprotec"
+        }
+      ]
+    },
+    {
+      "id": "seq-35",
+      "source": "authored",
+      "fromFrame": 25322,
+      "durationFrames": 478,
+      "durationSeconds": 15.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 96,
+          "sceneId": "scene-96",
+          "fromFrame": 25322,
+          "durationFrames": 197,
+          "role": "authored-start",
+          "narration": "Donna tries to handle Tad's terror using 1980s pop psychology. She uses parent effectiveness trainin"
+        },
+        {
+          "index": 97,
+          "sceneId": "scene-97",
+          "fromFrame": 25519,
+          "durationFrames": 281,
+          "role": "authored-kept",
+          "narration": "basically trying to use active listening and logic to talk a toddler out of primal terror, which nev"
+        }
+      ]
+    },
+    {
+      "id": "seq-36",
+      "source": "engine",
+      "fromFrame": 25800,
+      "durationFrames": 1150,
+      "durationSeconds": 38.3,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 98,
+          "sceneId": "scene-98",
+          "fromFrame": 25800,
+          "durationFrames": 274,
+          "role": "setup",
+          "narration": "uses a completely fabricated advertising style incantation. The monster words are essentially a jing"
+        },
+        {
+          "index": 99,
+          "sceneId": "scene-99",
+          "fromFrame": 26074,
+          "durationFrames": 244,
+          "role": "question",
+          "narration": "That's a great way to put it. Both parents treat the monster in the closet purely as a psychological"
+        },
+        {
+          "index": 100,
+          "sceneId": "scene-100",
+          "fromFrame": 26318,
+          "durationFrames": 322,
+          "role": "complication",
+          "narration": "They don't treat it as a physical warning of actual danger. They intellectualize the fear until it's"
+        },
+        {
+          "index": 101,
+          "sceneId": "scene-101",
+          "fromFrame": 26640,
+          "durationFrames": 310,
+          "role": "reveal",
+          "narration": "this primal dread himself, despite all his logic. He does. This is my favorite detail. Vic goes into"
+        }
+      ]
+    },
+    {
+      "id": "seq-37",
+      "source": "authored",
+      "fromFrame": 26950,
+      "durationFrames": 878,
+      "durationSeconds": 29.3,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 102,
+          "sceneId": "scene-102",
+          "fromFrame": 26950,
+          "durationFrames": 283,
+          "role": "authored-start",
+          "narration": "He steps in, expecting to smell mothballs and old fabric. But for just a split second, the rational "
+        },
+        {
+          "index": 103,
+          "sceneId": "scene-103",
+          "fromFrame": 27233,
+          "durationFrames": 333,
+          "role": "authored-kept",
+          "narration": "animal aura. He feels it, too. Yeah. He even sees the closet door swing open on its own later, drive"
+        },
+        {
+          "index": 104,
+          "sceneId": "scene-104",
+          "fromFrame": 27566,
+          "durationFrames": 262,
+          "role": "authored-kept",
+          "narration": "The text forces the reader and Vic to wonder if the monster is just psychological or if something is"
+        }
+      ]
+    },
+    {
+      "id": "seq-38",
+      "source": "engine",
+      "fromFrame": 27828,
+      "durationFrames": 194,
+      "durationSeconds": 6.5,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 105,
+          "sceneId": "scene-105",
+          "fromFrame": 27828,
+          "durationFrames": 194,
+          "role": "reveal",
+          "narration": "It really blurs the line, which leads me to my theory on this. I really think the monster in the clo"
+        }
+      ]
+    },
+    {
+      "id": "seq-39",
+      "source": "authored",
+      "fromFrame": 28022,
+      "durationFrames": 636,
+      "durationSeconds": 21.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 106,
+          "sceneId": "scene-106",
+          "fromFrame": 28022,
+          "durationFrames": 360,
+          "role": "authored-start",
+          "narration": "actually Kujo telepathically projecting his raid, feverish madness into Tad's highly sensitive mind "
+        },
+        {
+          "index": 107,
+          "sceneId": "scene-107",
+          "fromFrame": 28382,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "broadcasting this sickness like a radio tower. Because Ted is so young and stressed, he is acting as"
+        }
+      ]
+    },
+    {
+      "id": "seq-40",
+      "source": "engine",
+      "fromFrame": 28658,
+      "durationFrames": 248,
+      "durationSeconds": 8.3,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 108,
+          "sceneId": "scene-108",
+          "fromFrame": 28658,
+          "durationFrames": 248,
+          "role": "reveal",
+          "narration": "I mean, it's a very compelling idea, especially given how Stephen King often uses telepathy in his o"
+        }
+      ]
+    },
+    {
+      "id": "seq-41",
+      "source": "authored",
+      "fromFrame": 28906,
+      "durationFrames": 825,
+      "durationSeconds": 27.5,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 109,
+          "sceneId": "scene-109",
+          "fromFrame": 28906,
+          "durationFrames": 223,
+          "role": "authored-start",
+          "narration": "You do? Yeah. This raises an important question about the town of Castle Rock itself, which is almos"
+        },
+        {
+          "index": 110,
+          "sceneId": "scene-110",
+          "fromFrame": 29129,
+          "durationFrames": 269,
+          "role": "authored-kept",
+          "narration": "The text explicitly links the presence in the closet, not just to Kujo, but to Frank Dodd. Wait, Fra"
+        },
+        {
+          "index": 111,
+          "sceneId": "scene-111",
+          "fromFrame": 29398,
+          "durationFrames": 333,
+          "role": "authored-kept",
+          "narration": "The cop who murdered women in that town years prior. Dot eventually killed himself, but the psycholo"
+        }
+      ]
+    },
+    {
+      "id": "seq-42",
+      "source": "authored",
+      "fromFrame": 29731,
+      "durationFrames": 715,
+      "durationSeconds": 23.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 112,
+          "sceneId": "scene-112",
+          "fromFrame": 29731,
+          "durationFrames": 351,
+          "role": "authored-start",
+          "narration": "Oh, wow. I didn't think about it like Yeah. During one of Tad's terrors, the monster actually speaks"
+        },
+        {
+          "index": 113,
+          "sceneId": "scene-113",
+          "fromFrame": 30082,
+          "durationFrames": 364,
+          "role": "authored-kept",
+          "narration": "monster.\" That is so creepy, right? It's the ambient historical evil of the town manifesting in a st"
+        }
+      ]
+    },
+    {
+      "id": "seq-43",
+      "source": "engine",
+      "fromFrame": 30446,
+      "durationFrames": 792,
+      "durationSeconds": 26.4,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 114,
+          "sceneId": "scene-114",
+          "fromFrame": 30446,
+          "durationFrames": 197,
+          "role": "setup",
+          "narration": "the ambient darkness of Castle Rock to seep right Okay, I see what you're saying. So, it's not a tel"
+        },
+        {
+          "index": 115,
+          "sceneId": "scene-115",
+          "fromFrame": 30643,
+          "durationFrames": 372,
+          "role": "question",
+          "narration": "It's the environment again. Just like the bones in the cave, the lingering ghost of human violence f"
+        },
+        {
+          "index": 116,
+          "sceneId": "scene-116",
+          "fromFrame": 31015,
+          "durationFrames": 223,
+          "role": "reveal",
+          "narration": "life. Well, whether it's psychological trauma or a telepathic projection, it proves the point."
+        }
+      ]
+    },
+    {
+      "id": "seq-44",
+      "source": "authored",
+      "fromFrame": 31238,
+      "durationFrames": 423,
+      "durationSeconds": 14.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 117,
+          "sceneId": "scene-117",
+          "fromFrame": 31238,
+          "durationFrames": 257,
+          "role": "authored-start",
+          "narration": "The trap is built from the Let's move to the physical mechanism of the trap itself because this is w"
+        },
+        {
+          "index": 118,
+          "sceneId": "scene-118",
+          "fromFrame": 31495,
+          "durationFrames": 166,
+          "role": "authored-kept",
+          "narration": "Right. Put yourself in the pinto on town road number three. It's high noon."
+        }
+      ]
+    },
+    {
+      "id": "seq-45",
+      "source": "authored",
+      "fromFrame": 31661,
+      "durationFrames": 343,
+      "durationSeconds": 11.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 119,
+          "sceneId": "scene-119",
+          "fromFrame": 31661,
+          "durationFrames": 187,
+          "role": "authored-start",
+          "narration": "The sun is a relentless physical hammer beating down on the roof of this cheap mass-produced"
+        },
+        {
+          "index": 120,
+          "sceneId": "scene-120",
+          "fromFrame": 31848,
+          "durationFrames": 156,
+          "role": "authored-kept",
+          "narration": "1970s hatchback. Those cars were not built for comfort. No, they were not."
+        }
+      ]
+    },
+    {
+      "id": "seq-46",
+      "source": "authored",
+      "fromFrame": 32004,
+      "durationFrames": 1404,
+      "durationSeconds": 46.8,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 121,
+          "sceneId": "scene-121",
+          "fromFrame": 32004,
+          "durationFrames": 202,
+          "role": "authored-start",
+          "narration": "Donna and Tad are climbing the steep, unpaved hill to the camera farm. The engine is struggling."
+        },
+        {
+          "index": 122,
+          "sceneId": "scene-122",
+          "fromFrame": 32206,
+          "durationFrames": 264,
+          "role": "authored-kept",
+          "narration": "The speedometer needle shuddters and drops from 40 down to 30. You can just hear it dying. Yes. The "
+        },
+        {
+          "index": 123,
+          "sceneId": "scene-123",
+          "fromFrame": 32470,
+          "durationFrames": 261,
+          "role": "authored-kept",
+          "narration": "The exhaust is backfiring with these loud popping sounds. And the red amp idiot light flickers on th"
+        },
+        {
+          "index": 124,
+          "sceneId": "scene-124",
+          "fromFrame": 32731,
+          "durationFrames": 307,
+          "role": "authored-kept",
+          "narration": "It's giving up completely. The car manages to roll into the camera driveway on its very last patheti"
+        },
+        {
+          "index": 125,
+          "sceneId": "scene-125",
+          "fromFrame": 33038,
+          "durationFrames": 202,
+          "role": "authored-kept",
+          "narration": "Complete silence. Utter catastrophic mechanical failure at the worst possible"
+        },
+        {
+          "index": 126,
+          "sceneId": "scene-126",
+          "fromFrame": 33240,
+          "durationFrames": 168,
+          "role": "authored-kept",
+          "narration": "geographic location. Right? And here is what we need to realize about our modern lives."
+        }
+      ]
+    },
+    {
+      "id": "seq-47",
+      "source": "engine",
+      "fromFrame": 33408,
+      "durationFrames": 262,
+      "durationSeconds": 8.7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 127,
+          "sceneId": "scene-127",
+          "fromFrame": 33408,
+          "durationFrames": 262,
+          "role": "reveal",
+          "narration": "We trust our technology implicitly. You get in your car, you turn the key, you expect explosions in "
+        }
+      ]
+    },
+    {
+      "id": "seq-48",
+      "source": "authored",
+      "fromFrame": 33670,
+      "durationFrames": 597,
+      "durationSeconds": 19.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 128,
+          "sceneId": "scene-128",
+          "fromFrame": 33670,
+          "durationFrames": 314,
+          "role": "authored-start",
+          "narration": "No, we take it for But the moment our machines fail us, the moment that needle valve in the carburet"
+        },
+        {
+          "index": 129,
+          "sceneId": "scene-129",
+          "fromFrame": 33984,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "We really are. We are plunged right back down the food chain, left as vulnerable as our ancient ance"
+        }
+      ]
+    },
+    {
+      "id": "seq-49",
+      "source": "engine",
+      "fromFrame": 34267,
+      "durationFrames": 819,
+      "durationSeconds": 27.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 130,
+          "sceneId": "scene-130",
+          "fromFrame": 34267,
+          "durationFrames": 271,
+          "role": "setup",
+          "narration": "stops being a marvel of modern trans transportation and becomes nothing more than a metal cage bakin"
+        },
+        {
+          "index": 131,
+          "sceneId": "scene-131",
+          "fromFrame": 34538,
+          "durationFrames": 317,
+          "role": "question",
+          "narration": "But I want to highlight that technology and specifically Donna's ingrained technological habits is a"
+        },
+        {
+          "index": 132,
+          "sceneId": "scene-132",
+          "fromFrame": 34855,
+          "durationFrames": 231,
+          "role": "reveal",
+          "narration": "brilliant detail. Donna's father taught her to drive and he drilled a very specific almost militaris"
+        }
+      ]
+    },
+    {
+      "id": "seq-50",
+      "source": "authored",
+      "fromFrame": 35086,
+      "durationFrames": 480,
+      "durationSeconds": 16,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 133,
+          "sceneId": "scene-133",
+          "fromFrame": 35086,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "Stop the car, roll up the window, set the parking brake, take the keys out of the ignition. It's rop"
+        },
+        {
+          "index": 134,
+          "sceneId": "scene-134",
+          "fromFrame": 35338,
+          "durationFrames": 228,
+          "role": "authored-kept",
+          "narration": "That completely automatic ordinary habit is the only thing that saves her throat from being ripped o"
+        }
+      ]
+    },
+    {
+      "id": "seq-51",
+      "source": "authored",
+      "fromFrame": 35566,
+      "durationFrames": 571,
+      "durationSeconds": 19,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 135,
+          "sceneId": "scene-135",
+          "fromFrame": 35566,
+          "durationFrames": 357,
+          "role": "authored-start",
+          "narration": "She is rolling her window up mechanically, not even thinking about it, just as this 200lb raid monst"
+        },
+        {
+          "index": 136,
+          "sceneId": "scene-136",
+          "fromFrame": 35923,
+          "durationFrames": 214,
+          "role": "authored-kept",
+          "narration": "driver's ed reflex instilled in her decades ago, they would have been dead before they even realized"
+        }
+      ]
+    },
+    {
+      "id": "seq-52",
+      "source": "engine",
+      "fromFrame": 36137,
+      "durationFrames": 1137,
+      "durationSeconds": 37.9,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 137,
+          "sceneId": "scene-137",
+          "fromFrame": 36137,
+          "durationFrames": 216,
+          "role": "setup",
+          "narration": "But honestly, looking at the leadup to this moment, I have to heavily criticize Donna here because"
+        },
+        {
+          "index": 138,
+          "sceneId": "scene-138",
+          "fromFrame": 36353,
+          "durationFrames": 372,
+          "role": "question",
+          "narration": "it was wildly unfathomably foolish to drive a severely stalling car into the remote countryside 5 mi"
+        },
+        {
+          "index": 139,
+          "sceneId": "scene-139",
+          "fromFrame": 36725,
+          "durationFrames": 305,
+          "role": "complication",
+          "narration": "Okay, I see where you're going. She knew the car was acting up. She had a teenage babysitter already"
+        },
+        {
+          "index": 140,
+          "sceneId": "scene-140",
+          "fromFrame": 37030,
+          "durationFrames": 244,
+          "role": "reveal",
+          "narration": "and dealt with the mechanic. But you have to look at her choices in the context of what just happene"
+        }
+      ]
+    },
+    {
+      "id": "seq-53",
+      "source": "engine",
+      "fromFrame": 37274,
+      "durationFrames": 951,
+      "durationSeconds": 31.7,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 141,
+          "sceneId": "scene-141",
+          "fromFrame": 37274,
+          "durationFrames": 356,
+          "role": "setup",
+          "narration": "I mean, maybe. Think about it. Remember the kitchen scene? She's practically forced to flee her own "
+        },
+        {
+          "index": 142,
+          "sceneId": "scene-142",
+          "fromFrame": 37630,
+          "durationFrames": 324,
+          "role": "question",
+          "narration": "The house felt polluted, violated, and intensely dangerous to That's true. From her perspective, lea"
+        },
+        {
+          "index": 143,
+          "sceneId": "scene-143",
+          "fromFrame": 37954,
+          "durationFrames": 271,
+          "role": "reveal",
+          "narration": "roaming around town, that was unthinkable. Yeah, that would be hard to do, right? The broken car hea"
+        }
+      ]
+    },
+    {
+      "id": "seq-54",
+      "source": "authored",
+      "fromFrame": 38225,
+      "durationFrames": 535,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 144,
+          "sceneId": "scene-144",
+          "fromFrame": 38225,
+          "durationFrames": 249,
+          "role": "authored-start",
+          "narration": "She was seeking a fix, a solution, getting away from the human monster. And in doing so, she drove r"
+        },
+        {
+          "index": 145,
+          "sceneId": "scene-145",
+          "fromFrame": 38474,
+          "durationFrames": 286,
+          "role": "authored-kept",
+          "narration": "Wow. Okay, I see your point. The trauma of the domestic threat pushed her into the natural one. She "
+        }
+      ]
+    },
+    {
+      "id": "seq-55",
+      "source": "authored",
+      "fromFrame": 38760,
+      "durationFrames": 427,
+      "durationSeconds": 14.2,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 146,
+          "sceneId": "scene-146",
+          "fromFrame": 38760,
+          "durationFrames": 259,
+          "role": "authored-start",
+          "narration": "And the trap is built from the ordinary. And once they are in the trap, the isolation is finalized b"
+        },
+        {
+          "index": 147,
+          "sceneId": "scene-147",
+          "fromFrame": 39019,
+          "durationFrames": 168,
+          "role": "authored-kept",
+          "narration": "the Oh man, this scene is absolute agony to It really is."
+        }
+      ]
+    },
+    {
+      "id": "seq-56",
+      "source": "authored",
+      "fromFrame": 39187,
+      "durationFrames": 454,
+      "durationSeconds": 15.1,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 148,
+          "sceneId": "scene-148",
+          "fromFrame": 39187,
+          "durationFrames": 259,
+          "role": "authored-start",
+          "narration": "Picture the telephone ringing inside the empty camber house. Donna and Tad are sitting in the pinto."
+        },
+        {
+          "index": 149,
+          "sceneId": "scene-149",
+          "fromFrame": 39446,
+          "durationFrames": 195,
+          "role": "authored-kept",
+          "narration": "the muffled persistent ringing of the phone. Right through the walls of the house. It's right there."
+        }
+      ]
+    },
+    {
+      "id": "seq-57",
+      "source": "engine",
+      "fromFrame": 39641,
+      "durationFrames": 350,
+      "durationSeconds": 11.7,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 150,
+          "sceneId": "scene-150",
+          "fromFrame": 39641,
+          "durationFrames": 350,
+          "role": "reveal",
+          "narration": "And the sound of that ringing telephone drives Kujo into a bellowing, roaring frenzy. He attacks the"
+        }
+      ]
+    },
+    {
+      "id": "seq-58",
+      "source": "authored",
+      "fromFrame": 39991,
+      "durationFrames": 535,
+      "durationSeconds": 17.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 151,
+          "sceneId": "scene-151",
+          "fromFrame": 39991,
+          "durationFrames": 252,
+          "role": "authored-start",
+          "narration": "Because of the rebies. The virus causes hyperacusis, an extreme sensitivity to sound. That sharp mec"
+        },
+        {
+          "index": 152,
+          "sceneId": "scene-152",
+          "fromFrame": 40243,
+          "durationFrames": 283,
+          "role": "authored-kept",
+          "narration": "physically hurts his infected brain. It feels like ice picks in his ears. So he associates the pain "
+        }
+      ]
+    },
+    {
+      "id": "seq-59",
+      "source": "authored",
+      "fromFrame": 40526,
+      "durationFrames": 1112,
+      "durationSeconds": 37.1,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 153,
+          "sceneId": "scene-153",
+          "fromFrame": 40526,
+          "durationFrames": 202,
+          "role": "authored-start",
+          "narration": "The phone is right there, just yards away, totally inaccessible, and actively making the monster mor"
+        },
+        {
+          "index": 154,
+          "sceneId": "scene-154",
+          "fromFrame": 40728,
+          "durationFrames": 182,
+          "role": "authored-kept",
+          "narration": "We rely entirely on communication tools to save us. We believe that help is only nine numbers away."
+        },
+        {
+          "index": 155,
+          "sceneId": "scene-155",
+          "fromFrame": 40910,
+          "durationFrames": 394,
+          "role": "authored-kept",
+          "narration": "But when those tools fail, or when they just ring empty in an empty house, they actually isolate us "
+        },
+        {
+          "index": 156,
+          "sceneId": "scene-156",
+          "fromFrame": 41304,
+          "durationFrames": 334,
+          "role": "authored-kept",
+          "narration": "It's a psychological torture device reminding Donna of the civilization she is cut off And we see th"
+        }
+      ]
+    },
+    {
+      "id": "seq-60",
+      "source": "authored",
+      "fromFrame": 41638,
+      "durationFrames": 1058,
+      "durationSeconds": 35.3,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 157,
+          "sceneId": "scene-157",
+          "fromFrame": 41638,
+          "durationFrames": 199,
+          "role": "authored-start",
+          "narration": "We do. Vic is sitting in his dark hotel room in Boston or New York, endlessly dialing his home numbe"
+        },
+        {
+          "index": 158,
+          "sceneId": "scene-158",
+          "fromFrame": 41837,
+          "durationFrames": 317,
+          "role": "authored-kept",
+          "narration": "He lets it ring a dozen times, 20 times, just waiting. But instead of the rational part of his brain"
+        },
+        {
+          "index": 159,
+          "sceneId": "scene-159",
+          "fromFrame": 42154,
+          "durationFrames": 220,
+          "role": "authored-kept",
+          "narration": "car finally broke down completely, Vic uses the empty ringing to feed his own deep-seated insecuriti"
+        },
+        {
+          "index": 160,
+          "sceneId": "scene-160",
+          "fromFrame": 42374,
+          "durationFrames": 322,
+          "role": "authored-kept",
+          "narration": "Because of the affair, he convinces himself that Donna has finally packed up Tad and run off with St"
+        }
+      ]
+    },
+    {
+      "id": "seq-61",
+      "source": "engine",
+      "fromFrame": 42696,
+      "durationFrames": 979,
+      "durationSeconds": 32.6,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 161,
+          "sceneId": "scene-161",
+          "fromFrame": 42696,
+          "durationFrames": 269,
+          "role": "setup",
+          "narration": "It's so tragic. Now, I'd argue that the fatal flaw in this specific scenario, the mechanical failure"
+        },
+        {
+          "index": 162,
+          "sceneId": "scene-162",
+          "fromFrame": 42965,
+          "durationFrames": 233,
+          "role": "question",
+          "narration": "Yeah. Joe is a mechanic running a business out of his barn. But he stubbornly refuses to put a phone"
+        },
+        {
+          "index": 163,
+          "sceneId": "scene-163",
+          "fromFrame": 43198,
+          "durationFrames": 163,
+          "role": "complication",
+          "narration": "He makes his wife Charity or his son Brett run messages out to him from the house."
+        },
+        {
+          "index": 164,
+          "sceneId": "scene-164",
+          "fromFrame": 43361,
+          "durationFrames": 314,
+          "role": "reveal",
+          "narration": "It's a weird power trip. It is a bit controlling. Yeah. Right. If he had just wired a phone extensio"
+        }
+      ]
+    },
+    {
+      "id": "seq-62",
+      "source": "engine",
+      "fromFrame": 43675,
+      "durationFrames": 581,
+      "durationSeconds": 19.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 165,
+          "sceneId": "scene-165",
+          "fromFrame": 43675,
+          "durationFrames": 207,
+          "role": "setup",
+          "narration": "in the barn and known for a fact that nobody was home, changing her entire calculus. I push back har"
+        },
+        {
+          "index": 166,
+          "sceneId": "scene-166",
+          "fromFrame": 43882,
+          "durationFrames": 374,
+          "role": "reveal",
+          "narration": "Yeah. The real flaw here isn't the hardware of the camber farm. It's not the lack of copper wire to "
+        }
+      ]
+    },
+    {
+      "id": "seq-63",
+      "source": "authored",
+      "fromFrame": 44256,
+      "durationFrames": 1298,
+      "durationSeconds": 43.3,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 167,
+          "sceneId": "scene-167",
+          "fromFrame": 44256,
+          "durationFrames": 338,
+          "role": "authored-start",
+          "narration": "assumes when Donna doesn't answer. If Vic had fundamental trust in his wife, if they had a solid com"
+        },
+        {
+          "index": 168,
+          "sceneId": "scene-168",
+          "fromFrame": 44594,
+          "durationFrames": 272,
+          "role": "authored-kept",
+          "narration": "He would assume an emergency. Exactly. He would have called the Castle Rock police immediately for a"
+        },
+        {
+          "index": 169,
+          "sceneId": "scene-169",
+          "fromFrame": 44866,
+          "durationFrames": 254,
+          "role": "authored-kept",
+          "narration": "immediately and unequivocally to she abandoned me for her lover. The lack of trust is what prevents "
+        },
+        {
+          "index": 170,
+          "sceneId": "scene-170",
+          "fromFrame": 45120,
+          "durationFrames": 204,
+          "role": "authored-kept",
+          "narration": "He waits because he's embarrassed. He's hurt and he assumes she left him. That is incredibly tragic."
+        },
+        {
+          "index": 171,
+          "sceneId": "scene-171",
+          "fromFrame": 45324,
+          "durationFrames": 230,
+          "role": "authored-kept",
+          "narration": "A missed phone call, an everyday occurrence that happens to all of us becomes the padlock on Donna's"
+        }
+      ]
+    },
+    {
+      "id": "seq-64",
+      "source": "engine",
+      "fromFrame": 45554,
+      "durationFrames": 1143,
+      "durationSeconds": 38.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 172,
+          "sceneId": "scene-172",
+          "fromFrame": 45554,
+          "durationFrames": 281,
+          "role": "setup",
+          "narration": "He doesn't look for her. Proving again the trap is built from the Which brings us to the human eleme"
+        },
+        {
+          "index": 173,
+          "sceneId": "scene-173",
+          "fromFrame": 45835,
+          "durationFrames": 300,
+          "role": "question",
+          "narration": "We have to ask, how did a 200- pound dog slowly go rabbit over a period of days without anyone in it"
+        },
+        {
+          "index": 174,
+          "sceneId": "scene-174",
+          "fromFrame": 46135,
+          "durationFrames": 247,
+          "role": "complication",
+          "narration": "We have to look at Gary Pervier, the CBER's nearest neighbor. Gary is an aging, cynical veteran. He'"
+        },
+        {
+          "index": 175,
+          "sceneId": "scene-175",
+          "fromFrame": 46382,
+          "durationFrames": 315,
+          "role": "reveal",
+          "narration": "You picture him sitting on his porch drunk on cheap popoff vodka and orange juice, sitting in this b"
+        }
+      ]
+    },
+    {
+      "id": "seq-65",
+      "source": "engine",
+      "fromFrame": 46697,
+      "durationFrames": 1111,
+      "durationSeconds": 37,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 176,
+          "sceneId": "scene-176",
+          "fromFrame": 46697,
+          "durationFrames": 141,
+          "role": "setup",
+          "narration": "Not a great picture. No. And he's tossing bone-shaped dog biscuits to Kujo."
+        },
+        {
+          "index": 177,
+          "sceneId": "scene-177",
+          "fromFrame": 46838,
+          "durationFrames": 149,
+          "role": "partial_answer",
+          "narration": "Now, let's look at Kujo in this moment. Kujo's eyes are red and filmy."
+        },
+        {
+          "index": 178,
+          "sceneId": "scene-178",
+          "fromFrame": 46987,
+          "durationFrames": 300,
+          "role": "question",
+          "narration": "His muzzle is scratched, festering, and swollen. There's a constant low, unnatural rumble deep in hi"
+        },
+        {
+          "index": 179,
+          "sceneId": "scene-179",
+          "fromFrame": 47287,
+          "durationFrames": 319,
+          "role": "complication",
+          "narration": "Kujo is actively fighting the virus, and he actually thinks about attacking Gary right then and ther"
+        },
+        {
+          "index": 180,
+          "sceneId": "scene-180",
+          "fromFrame": 47606,
+          "durationFrames": 202,
+          "role": "reveal",
+          "narration": "He literally cannot see the monster sitting two feet in front of him. Exactly. And here is what this"
+        }
+      ]
+    },
+    {
+      "id": "seq-66",
+      "source": "engine",
+      "fromFrame": 47808,
+      "durationFrames": 365,
+      "durationSeconds": 12.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 181,
+          "sceneId": "scene-181",
+          "fromFrame": 47808,
+          "durationFrames": 365,
+          "role": "reveal",
+          "narration": "We are entirely blinded by our past relationships and our routines. We literally cannot see a lethal"
+        }
+      ]
+    },
+    {
+      "id": "seq-67",
+      "source": "authored",
+      "fromFrame": 48173,
+      "durationFrames": 499,
+      "durationSeconds": 16.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 182,
+          "sceneId": "scene-182",
+          "fromFrame": 48173,
+          "durationFrames": 201,
+          "role": "authored-start",
+          "narration": "It's cognitive dissonance. Yeah. Gary sees good old Cooj, the goofy dog he's known for 5 years."
+        },
+        {
+          "index": 183,
+          "sceneId": "scene-183",
+          "fromFrame": 48374,
+          "durationFrames": 298,
+          "role": "authored-kept",
+          "narration": "His brain refuses to process the terrifying new data, the red eyes, the growl, because acknowledging"
+        }
+      ]
+    },
+    {
+      "id": "seq-68",
+      "source": "engine",
+      "fromFrame": 48672,
+      "durationFrames": 463,
+      "durationSeconds": 15.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 184,
+          "sceneId": "scene-184",
+          "fromFrame": 48672,
+          "durationFrames": 245,
+          "role": "setup",
+          "narration": "Kujo's actual owner, makes the exact same fatal error. Yes. The climax of Joe Camber's life is a mas"
+        },
+        {
+          "index": 185,
+          "sceneId": "scene-185",
+          "fromFrame": 48917,
+          "durationFrames": 218,
+          "role": "reveal",
+          "narration": "Joe walks into his garage. He sees massive, sickly dog droppings on the floor. He sees the destructi"
+        }
+      ]
+    },
+    {
+      "id": "seq-69",
+      "source": "authored",
+      "fromFrame": 49135,
+      "durationFrames": 360,
+      "durationSeconds": 12,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 186,
+          "sceneId": "scene-186",
+          "fromFrame": 49135,
+          "durationFrames": 178,
+          "role": "authored-start",
+          "narration": "The light bulb goes off in his head. He realizes with absolute cold horror"
+        },
+        {
+          "index": 187,
+          "sceneId": "scene-187",
+          "fromFrame": 49313,
+          "durationFrames": 182,
+          "role": "authored-kept",
+          "narration": "that his dog has contracted rabies. He figures it out. He knows it intellectually."
+        }
+      ]
+    },
+    {
+      "id": "seq-70",
+      "source": "engine",
+      "fromFrame": 49495,
+      "durationFrames": 639,
+      "durationSeconds": 21.3,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 188,
+          "sceneId": "scene-188",
+          "fromFrame": 49495,
+          "durationFrames": 173,
+          "role": "setup",
+          "narration": "But when Kujo suddenly lunges out of the dark shadows covered in dried blood and foam,"
+        },
+        {
+          "index": 189,
+          "sceneId": "scene-189",
+          "fromFrame": 49668,
+          "durationFrames": 269,
+          "role": "question",
+          "narration": "Joe's ingrained everyday reflex betrays him. Instead of grabbing a weapon or diving for cover, Joe p"
+        },
+        {
+          "index": 190,
+          "sceneId": "scene-190",
+          "fromFrame": 49937,
+          "durationFrames": 197,
+          "role": "reveal",
+          "narration": "doggy.\" Right as the dog rips his throat out. It's chilling. His brain knows it's the monster,"
+        }
+      ]
+    },
+    {
+      "id": "seq-71",
+      "source": "authored",
+      "fromFrame": 50134,
+      "durationFrames": 1250,
+      "durationSeconds": 41.7,
+      "sceneCount": 5,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 191,
+          "sceneId": "scene-191",
+          "fromFrame": 50134,
+          "durationFrames": 316,
+          "role": "authored-start",
+          "narration": "but his muscle memory built over years of patting the dog treats it as a pet. That's right. I dismis"
+        },
+        {
+          "index": 192,
+          "sceneId": "scene-192",
+          "fromFrame": 50450,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "and oblivious. I mean, Gary's a hardcore morning toight alcoholic. And Joe Camber was drinking heavi"
+        },
+        {
+          "index": 193,
+          "sceneId": "scene-193",
+          "fromFrame": 50726,
+          "durationFrames": 190,
+          "role": "authored-kept",
+          "narration": "You think it was just the booze? Yeah. Their senses were chemically dulled. They missed the threat b"
+        },
+        {
+          "index": 194,
+          "sceneId": "scene-194",
+          "fromFrame": 50916,
+          "durationFrames": 173,
+          "role": "authored-kept",
+          "narration": "I disagree completely. Yeah. It is way too easy to blame the alcohol."
+        },
+        {
+          "index": 195,
+          "sceneId": "scene-195",
+          "fromFrame": 51089,
+          "durationFrames": 295,
+          "role": "authored-kept",
+          "narration": "It's not intoxication. It's human nature. It is a textbook psychological phenomenon called normaly N"
+        }
+      ]
+    },
+    {
+      "id": "seq-72",
+      "source": "engine",
+      "fromFrame": 51384,
+      "durationFrames": 1207,
+      "durationSeconds": 40.2,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 196,
+          "sceneId": "scene-196",
+          "fromFrame": 51384,
+          "durationFrames": 358,
+          "role": "setup",
+          "narration": "Look at young Brett Campber, Joe's son. Brett is a child. He isn't drunk. Before he leaves on the bu"
+        },
+        {
+          "index": 197,
+          "sceneId": "scene-197",
+          "fromFrame": 51742,
+          "durationFrames": 333,
+          "role": "question",
+          "narration": "Right. He does notice. He sees the sluggishness, the red, painful eyes, the lack of appetite, but th"
+        },
+        {
+          "index": 198,
+          "sceneId": "scene-198",
+          "fromFrame": 52075,
+          "durationFrames": 195,
+          "role": "complication",
+          "narration": "He tells himself Kujo just ate some poison bait in the woods or has a passing stomach bug. He talks "
+        },
+        {
+          "index": 199,
+          "sceneId": "scene-199",
+          "fromFrame": 52270,
+          "durationFrames": 321,
+          "role": "reveal",
+          "narration": "Exactly. And more importantly, he actively avoids telling his dad because he's afraid his dad will u"
+        }
+      ]
+    },
+    {
+      "id": "seq-73",
+      "source": "engine",
+      "fromFrame": 52591,
+      "durationFrames": 631,
+      "durationSeconds": 21,
+      "sceneCount": 3,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer"
+      ],
+      "beats": [
+        {
+          "index": 200,
+          "sceneId": "scene-200",
+          "fromFrame": 52591,
+          "durationFrames": 259,
+          "role": "setup",
+          "narration": "Brett, completely sober, normalizes the horror because acknowledging it would disrupt his ordinary l"
+        },
+        {
+          "index": 201,
+          "sceneId": "scene-201",
+          "fromFrame": 52850,
+          "durationFrames": 204,
+          "role": "question",
+          "narration": "Normaly bias literally killed them. Our blind spots are our everyday affections."
+        },
+        {
+          "index": 202,
+          "sceneId": "scene-202",
+          "fromFrame": 53054,
+          "durationFrames": 168,
+          "role": "reveal",
+          "narration": "We want things to be normal so badly that we ignore the monster in the room."
+        }
+      ]
+    },
+    {
+      "id": "seq-74",
+      "source": "authored",
+      "fromFrame": 53222,
+      "durationFrames": 1032,
+      "durationSeconds": 34.4,
+      "sceneCount": 4,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 203,
+          "sceneId": "scene-203",
+          "fromFrame": 53222,
+          "durationFrames": 274,
+          "role": "authored-start",
+          "narration": "The trap is built from the ordinary. And once that trap is fully closed on Donna and Tad, the nature"
+        },
+        {
+          "index": 204,
+          "sceneId": "scene-204",
+          "fromFrame": 53496,
+          "durationFrames": 190,
+          "role": "authored-kept",
+          "narration": "It's not just a story about a rabid dog anymore. No, we have to go back into the interior of that Fo"
+        },
+        {
+          "index": 205,
+          "sceneId": "scene-205",
+          "fromFrame": 53686,
+          "durationFrames": 338,
+          "role": "authored-kept",
+          "narration": "The heat wave is peaking. It is 140° inside that sealed metal box. Unbearable. Tad is having heat in"
+        },
+        {
+          "index": 206,
+          "sceneId": "scene-206",
+          "fromFrame": 54024,
+          "durationFrames": 230,
+          "role": "authored-kept",
+          "narration": "His eyes are rolled back in his head. He's actively hallucinating, mumbling about the ducks at the M"
+        }
+      ]
+    },
+    {
+      "id": "seq-75",
+      "source": "engine",
+      "fromFrame": 54254,
+      "durationFrames": 185,
+      "durationSeconds": 6.2,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 207,
+          "sceneId": "scene-207",
+          "fromFrame": 54254,
+          "durationFrames": 185,
+          "role": "reveal",
+          "narration": "He's dying of dehydration. It's agonizing to read. And outside, Kujo is keeping watch."
+        }
+      ]
+    },
+    {
+      "id": "seq-76",
+      "source": "authored",
+      "fromFrame": 54439,
+      "durationFrames": 355,
+      "durationSeconds": 11.8,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 208,
+          "sceneId": "scene-208",
+          "fromFrame": 54439,
+          "durationFrames": 199,
+          "role": "authored-start",
+          "narration": "Kujo's face is covered in dried matted blood. The text describes his head looking like a a gouged ch"
+        },
+        {
+          "index": 209,
+          "sceneId": "scene-209",
+          "fromFrame": 54638,
+          "durationFrames": 156,
+          "role": "authored-kept",
+          "narration": "and he just presses his hideous face against the spiderweb cracked safety glass of the window."
+        }
+      ]
+    },
+    {
+      "id": "seq-77",
+      "source": "engine",
+      "fromFrame": 54794,
+      "durationFrames": 963,
+      "durationSeconds": 32.1,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 210,
+          "sceneId": "scene-210",
+          "fromFrame": 54794,
+          "durationFrames": 197,
+          "role": "setup",
+          "narration": "The environment inside the car becomes the primary antagonist. It overtakes the dog in terms of imme"
+        },
+        {
+          "index": 211,
+          "sceneId": "scene-211",
+          "fromFrame": 54991,
+          "durationFrames": 319,
+          "role": "question",
+          "narration": "Exactly. In any true survival situation, the environment and the relentless passage of time become j"
+        },
+        {
+          "index": 212,
+          "sceneId": "scene-212",
+          "fromFrame": 55310,
+          "durationFrames": 300,
+          "role": "complication",
+          "narration": "The summer heat is an active impartial killer. It is slow cooking them and the prolonged exposure to"
+        },
+        {
+          "index": 213,
+          "sceneId": "scene-213",
+          "fromFrame": 55610,
+          "durationFrames": 147,
+          "role": "reveal",
+          "narration": "human about the occupants. The absolute loss of dignity is"
+        }
+      ]
+    },
+    {
+      "id": "seq-78",
+      "source": "engine",
+      "fromFrame": 55757,
+      "durationFrames": 1181,
+      "durationSeconds": 39.4,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 214,
+          "sceneId": "scene-214",
+          "fromFrame": 55757,
+          "durationFrames": 261,
+          "role": "setup",
+          "narration": "staggering and brilliant to read because it's so real. Donna is forced to urinate into Tad's plastic"
+        },
+        {
+          "index": 215,
+          "sceneId": "scene-215",
+          "fromFrame": 56018,
+          "durationFrames": 142,
+          "role": "question",
+          "narration": "The entire interior of the car smells of sour milk, stale sweat, and hot urine."
+        },
+        {
+          "index": 216,
+          "sceneId": "scene-216",
+          "fromFrame": 56160,
+          "durationFrames": 386,
+          "role": "complication",
+          "narration": "The vehicle systematically strips away every societal norm, every piece of civilized conditioning Do"
+        },
+        {
+          "index": 217,
+          "sceneId": "scene-217",
+          "fromFrame": 56546,
+          "durationFrames": 392,
+          "role": "reveal",
+          "narration": "in order to match the feral dog outside. It's a complete deevolution. Now, reading this section, as "
+        }
+      ]
+    },
+    {
+      "id": "seq-79",
+      "source": "authored",
+      "fromFrame": 56938,
+      "durationFrames": 1596,
+      "durationSeconds": 53.2,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 218,
+          "sceneId": "scene-218",
+          "fromFrame": 56938,
+          "durationFrames": 266,
+          "role": "authored-start",
+          "narration": "yeah. It feels like Kujo is purposely using the heat in the car as a calculated military siege tacti"
+        },
+        {
+          "index": 219,
+          "sceneId": "scene-219",
+          "fromFrame": 57204,
+          "durationFrames": 281,
+          "role": "authored-kept",
+          "narration": "and then he strategically retreats to the cool shade of the barn waiting for the sun to literally ba"
+        },
+        {
+          "index": 220,
+          "sceneId": "scene-220",
+          "fromFrame": 57485,
+          "durationFrames": 247,
+          "role": "authored-kept",
+          "narration": "That is a terrifying thought. But what's truly fascinating here is the underlying biology. The dog i"
+        },
+        {
+          "index": 221,
+          "sceneId": "scene-221",
+          "fromFrame": 57732,
+          "durationFrames": 149,
+          "role": "authored-kept",
+          "narration": "It's not a tactical mastermind. It's not. No. Kujo is a victim of biology"
+        },
+        {
+          "index": 222,
+          "sceneId": "scene-222",
+          "fromFrame": 57881,
+          "durationFrames": 350,
+          "role": "authored-kept",
+          "narration": "and he is dying too. The heat is an impartial executioner for both of them. It's killing the humans "
+        },
+        {
+          "index": 223,
+          "sceneId": "scene-223",
+          "fromFrame": 58231,
+          "durationFrames": 303,
+          "role": "authored-kept",
+          "narration": "Oh wow. Kujo retreats to the barn not out of tactical genius, but because the rabies virus causes ex"
+        }
+      ]
+    },
+    {
+      "id": "seq-80",
+      "source": "authored",
+      "fromFrame": 58534,
+      "durationFrames": 556,
+      "durationSeconds": 18.5,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 224,
+          "sceneId": "scene-224",
+          "fromFrame": 58534,
+          "durationFrames": 228,
+          "role": "authored-start",
+          "narration": "burns his infected retinas. I had no idea rabies did that. Yeah. The virus is also destroying his mo"
+        },
+        {
+          "index": 225,
+          "sceneId": "scene-225",
+          "fromFrame": 58762,
+          "durationFrames": 328,
+          "role": "authored-kept",
+          "narration": "making his joints feel like they are filled with crushed glass. He has to lie down in the dark. The "
+        }
+      ]
+    },
+    {
+      "id": "seq-81",
+      "source": "engine",
+      "fromFrame": 59090,
+      "durationFrames": 540,
+      "durationSeconds": 18,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 226,
+          "sceneId": "scene-226",
+          "fromFrame": 59090,
+          "durationFrames": 243,
+          "role": "setup",
+          "narration": "biological systems shutting down. Who dies first? The dehydrated boy or the rabid dog? The environme"
+        },
+        {
+          "index": 227,
+          "sceneId": "scene-227",
+          "fromFrame": 59333,
+          "durationFrames": 297,
+          "role": "reveal",
+          "narration": "The sun just keeps beating down. Summer heat a parked car. The trap is built from the ordinary, whic"
+        }
+      ]
+    },
+    {
+      "id": "seq-82",
+      "source": "authored",
+      "fromFrame": 59630,
+      "durationFrames": 977,
+      "durationSeconds": 32.6,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 228,
+          "sceneId": "scene-228",
+          "fromFrame": 59630,
+          "durationFrames": 305,
+          "role": "authored-start",
+          "narration": "decision as Tad begins to slip away. We are at the final stage of the standoff here. Donna looks thr"
+        },
+        {
+          "index": 229,
+          "sceneId": "scene-229",
+          "fromFrame": 59935,
+          "durationFrames": 336,
+          "role": "authored-kept",
+          "narration": "Out in the high grass, she sees Brett Camber's baseball bat, the handle wrapped in friction tape. It"
+        },
+        {
+          "index": 230,
+          "sceneId": "scene-230",
+          "fromFrame": 60271,
+          "durationFrames": 336,
+          "role": "authored-kept",
+          "narration": "the number of steps from the car door to the house. She can feel the warm, sticky wetness on her leg"
+        }
+      ]
+    },
+    {
+      "id": "seq-83",
+      "source": "engine",
+      "fromFrame": 60607,
+      "durationFrames": 303,
+      "durationSeconds": 10.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 231,
+          "sceneId": "scene-231",
+          "fromFrame": 60607,
+          "durationFrames": 303,
+          "role": "reveal",
+          "narration": "out there waiting in the shadows, laying back in the tall bushes like a linebacker, waiting for the "
+        }
+      ]
+    },
+    {
+      "id": "seq-84",
+      "source": "authored",
+      "fromFrame": 60910,
+      "durationFrames": 808,
+      "durationSeconds": 26.9,
+      "sceneCount": 3,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 232,
+          "sceneId": "scene-232",
+          "fromFrame": 60910,
+          "durationFrames": 302,
+          "role": "authored-start",
+          "narration": "No, it's being forced to make a calculated decision where both remaining options seem to guarantee y"
+        },
+        {
+          "index": 233,
+          "sceneId": "scene-233",
+          "fromFrame": 61212,
+          "durationFrames": 202,
+          "role": "authored-kept",
+          "narration": "Do I stay in the baking car and watch my son die of heat stroke and dehydration right in front of my"
+        },
+        {
+          "index": 234,
+          "sceneId": "scene-234",
+          "fromFrame": 61414,
+          "durationFrames": 304,
+          "role": "authored-kept",
+          "narration": "Or do I make a run for the bat and the house knowing the dog is faster, stronger, and will likely ri"
+        }
+      ]
+    },
+    {
+      "id": "seq-85",
+      "source": "engine",
+      "fromFrame": 61718,
+      "durationFrames": 183,
+      "durationSeconds": 6.1,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 235,
+          "sceneId": "scene-235",
+          "fromFrame": 61718,
+          "durationFrames": 183,
+          "role": "reveal",
+          "narration": "And we have to talk about the third option, the hope of rescue, because it has been quietly"
+        }
+      ]
+    },
+    {
+      "id": "seq-86",
+      "source": "authored",
+      "fromFrame": 61901,
+      "durationFrames": 461,
+      "durationSeconds": 15.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 236,
+          "sceneId": "scene-236",
+          "fromFrame": 61901,
+          "durationFrames": 317,
+          "role": "authored-start",
+          "narration": "accidentally eliminated by another completely ordinary action. The devastating cruelty of the mailma"
+        },
+        {
+          "index": 237,
+          "sceneId": "scene-237",
+          "fromFrame": 62218,
+          "durationFrames": 144,
+          "role": "authored-kept",
+          "narration": "It's a rual route. He comes every day. It is her last beacon of hope."
+        }
+      ]
+    },
+    {
+      "id": "seq-87",
+      "source": "authored",
+      "fromFrame": 62362,
+      "durationFrames": 352,
+      "durationSeconds": 11.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 238,
+          "sceneId": "scene-238",
+          "fromFrame": 62362,
+          "durationFrames": 211,
+          "role": "authored-start",
+          "narration": "A federal employee in a truck. But he doesn't come. No. Because Charity Camber, before all this star"
+        },
+        {
+          "index": 239,
+          "sceneId": "scene-239",
+          "fromFrame": 62573,
+          "durationFrames": 141,
+          "role": "authored-kept",
+          "narration": "simply wanted to take her son on a Greyhound bus trip to Connecticut to see her sister Holly."
+        }
+      ]
+    },
+    {
+      "id": "seq-88",
+      "source": "authored",
+      "fromFrame": 62714,
+      "durationFrames": 680,
+      "durationSeconds": 22.7,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 240,
+          "sceneId": "scene-240",
+          "fromFrame": 62714,
+          "durationFrames": 284,
+          "role": "authored-start",
+          "narration": "And before leaving, Charity did what any responsible, organized citizen does when they go on vacatio"
+        },
+        {
+          "index": 241,
+          "sceneId": "scene-241",
+          "fromFrame": 62998,
+          "durationFrames": 396,
+          "role": "authored-kept",
+          "narration": "Yes. The wait for rescue option is silently negated by a totally normal, responsible family errand. "
+        }
+      ]
+    },
+    {
+      "id": "seq-89",
+      "source": "authored",
+      "fromFrame": 63394,
+      "durationFrames": 1464,
+      "durationSeconds": 48.8,
+      "sceneCount": 6,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 242,
+          "sceneId": "scene-242",
+          "fromFrame": 63394,
+          "durationFrames": 316,
+          "role": "authored-start",
+          "narration": "frustrated with Donna. I kept arguing to myself that she should have made a run for the house on day"
+        },
+        {
+          "index": 243,
+          "sceneId": "scene-243",
+          "fromFrame": 63710,
+          "durationFrames": 360,
+          "role": "authored-kept",
+          "narration": "dehydrated when she might have had the element of surprise. Waiting 3 days in a 140°ree car while he"
+        },
+        {
+          "index": 244,
+          "sceneId": "scene-244",
+          "fromFrame": 64070,
+          "durationFrames": 161,
+          "role": "authored-kept",
+          "narration": "I see why that's frustrating as a reader, but I strongly object to calling it a mistake."
+        },
+        {
+          "index": 245,
+          "sceneId": "scene-245",
+          "fromFrame": 64231,
+          "durationFrames": 173,
+          "role": "authored-kept",
+          "narration": "You do? Absolutely. This raises an important question about maternal biology and psychology."
+        },
+        {
+          "index": 246,
+          "sceneId": "scene-246",
+          "fromFrame": 64404,
+          "durationFrames": 178,
+          "role": "authored-kept",
+          "narration": "You are asking her to be a cold, calculating tactician, but running on day one meant risking Tad."
+        },
+        {
+          "index": 247,
+          "sceneId": "scene-247",
+          "fromFrame": 64582,
+          "durationFrames": 276,
+          "role": "authored-kept",
+          "narration": "True. But no, listen. Donna's maternal imperative, her literal neurobiology, the amygdala response t"
+        }
+      ]
+    },
+    {
+      "id": "seq-90",
+      "source": "engine",
+      "fromFrame": 64858,
+      "durationFrames": 552,
+      "durationSeconds": 18.4,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 248,
+          "sceneId": "scene-248",
+          "fromFrame": 64858,
+          "durationFrames": 338,
+          "role": "setup",
+          "narration": "biologically locked her to that car to shield her son. You cannot expect a mother to leave a screami"
+        },
+        {
+          "index": 249,
+          "sceneId": "scene-249",
+          "fromFrame": 65196,
+          "durationFrames": 214,
+          "role": "reveal",
+          "narration": "I guess that's fair. Her deepest, most primal instinct was to put a physical barrier between her chi"
+        }
+      ]
+    },
+    {
+      "id": "seq-91",
+      "source": "authored",
+      "fromFrame": 65410,
+      "durationFrames": 583,
+      "durationSeconds": 19.4,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 250,
+          "sceneId": "scene-250",
+          "fromFrame": 65410,
+          "durationFrames": 290,
+          "role": "authored-start",
+          "narration": "Her instinct was to protect, making staying in the Pinto the only logical yet ultimately fatal choic"
+        },
+        {
+          "index": 251,
+          "sceneId": "scene-251",
+          "fromFrame": 65700,
+          "durationFrames": 293,
+          "role": "authored-kept",
+          "narration": "not military Well, you're right. She couldn't leave him, even to save him. A held mail delivery and "
+        }
+      ]
+    },
+    {
+      "id": "seq-92",
+      "source": "engine",
+      "fromFrame": 65993,
+      "durationFrames": 1241,
+      "durationSeconds": 41.4,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 252,
+          "sceneId": "scene-252",
+          "fromFrame": 65993,
+          "durationFrames": 156,
+          "role": "setup",
+          "narration": "The trap is built from the ordinary. We've laid out the mechanics of this trap meticulously,"
+        },
+        {
+          "index": 253,
+          "sceneId": "scene-253",
+          "fromFrame": 66149,
+          "durationFrames": 302,
+          "role": "complication",
+          "narration": "from the virus to the carburetor to the psychology of a crumbling marriage. But before we conclude, "
+        },
+        {
+          "index": 254,
+          "sceneId": "scene-254",
+          "fromFrame": 66451,
+          "durationFrames": 192,
+          "role": "question",
+          "narration": "Because as tightly wound as this narrative is, where does it strain credul? Where does the trap feel"
+        },
+        {
+          "index": 255,
+          "sceneId": "scene-255",
+          "fromFrame": 66643,
+          "durationFrames": 233,
+          "role": "complication",
+          "narration": "We absolutely have to talk about Steve Kemp's final act. The sheer plot convenience of Steve Kemp is"
+        },
+        {
+          "index": 256,
+          "sceneId": "scene-256",
+          "fromFrame": 66876,
+          "durationFrames": 358,
+          "role": "reveal",
+          "narration": "Very frustrating. Kemp, enraged that Donna dumped him, breaks into the Trenton home while they are g"
+        }
+      ]
+    },
+    {
+      "id": "seq-93",
+      "source": "engine",
+      "fromFrame": 67234,
+      "durationFrames": 367,
+      "durationSeconds": 12.2,
+      "sceneCount": 2,
+      "curiosityArc": [
+        "setup",
+        "question"
+      ],
+      "beats": [
+        {
+          "index": 257,
+          "sceneId": "scene-257",
+          "fromFrame": 67234,
+          "durationFrames": 172,
+          "role": "setup",
+          "narration": "by leaving his bodily fluids all over Vic and Donna's bed. It is an incredibly terrifying"
+        },
+        {
+          "index": 258,
+          "sceneId": "scene-258",
+          "fromFrame": 67406,
+          "durationFrames": 195,
+          "role": "reveal",
+          "narration": "violating act. But narratively, it acts as a massive, almost too convenient smokeokc screen for the "
+        }
+      ]
+    },
+    {
+      "id": "seq-94",
+      "source": "authored",
+      "fromFrame": 67601,
+      "durationFrames": 669,
+      "durationSeconds": 22.3,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 259,
+          "sceneId": "scene-259",
+          "fromFrame": 67601,
+          "durationFrames": 398,
+          "role": "authored-start",
+          "narration": "Exactly. It strains cruel that the police, specifically Sheriff George Bannerman, spend crucial life"
+        },
+        {
+          "index": 260,
+          "sceneId": "scene-260",
+          "fromFrame": 67999,
+          "durationFrames": 271,
+          "role": "authored-kept",
+          "narration": "police work like looking for a woman whose car was known to be breaking down, right? They just assum"
+        }
+      ]
+    },
+    {
+      "id": "seq-95",
+      "source": "engine",
+      "fromFrame": 68270,
+      "durationFrames": 1104,
+      "durationSeconds": 36.8,
+      "sceneCount": 5,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication",
+        "reveal"
+      ],
+      "beats": [
+        {
+          "index": 261,
+          "sceneId": "scene-261",
+          "fromFrame": 68270,
+          "durationFrames": 202,
+          "role": "setup",
+          "narration": "because of the vandalism. It feels a bit like the author putting his thumb on the scale, forcing the"
+        },
+        {
+          "index": 262,
+          "sceneId": "scene-262",
+          "fromFrame": 68472,
+          "durationFrames": 192,
+          "role": "question",
+          "narration": "using Kemp as a highly convenient narrative tool to ensure that absolutely nobody goes looking for D"
+        },
+        {
+          "index": 263,
+          "sceneId": "scene-263",
+          "fromFrame": 68664,
+          "durationFrames": 322,
+          "role": "partial_answer",
+          "narration": "at the camper farm until it's far, far too late. It requires the police to have complete tunnel visi"
+        },
+        {
+          "index": 264,
+          "sceneId": "scene-264",
+          "fromFrame": 68986,
+          "durationFrames": 194,
+          "role": "complication",
+          "narration": "It relies on a string of investigative failures that just happen to perfectly align with the dog's t"
+        },
+        {
+          "index": 265,
+          "sceneId": "scene-265",
+          "fromFrame": 69180,
+          "durationFrames": 194,
+          "role": "reveal",
+          "narration": "So, bringing all of this together, let's reframe this entire discussion for you listening at home."
+        }
+      ]
+    },
+    {
+      "id": "seq-96",
+      "source": "authored",
+      "fromFrame": 69374,
+      "durationFrames": 358,
+      "durationSeconds": 11.9,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 266,
+          "sceneId": "scene-266",
+          "fromFrame": 69374,
+          "durationFrames": 159,
+          "role": "authored-start",
+          "narration": "We started out looking for a monster story. We expected a supernatural beast."
+        },
+        {
+          "index": 267,
+          "sceneId": "scene-267",
+          "fromFrame": 69533,
+          "durationFrames": 199,
+          "role": "authored-kept",
+          "narration": "But the rabbid dog didn't win because it was supernatural. No, it wasn't evil. It wasn't brilliant o"
+        }
+      ]
+    },
+    {
+      "id": "seq-97",
+      "source": "engine",
+      "fromFrame": 69732,
+      "durationFrames": 173,
+      "durationSeconds": 5.8,
+      "sceneCount": 1,
+      "curiosityArc": [
+        "setup"
+      ],
+      "beats": [
+        {
+          "index": 268,
+          "sceneId": "scene-268",
+          "fromFrame": 69732,
+          "durationFrames": 173,
+          "role": "reveal",
+          "narration": "The dog won because the mundane invisible safety nets of modern life that we all rely on,"
+        }
+      ]
+    },
+    {
+      "id": "seq-98",
+      "source": "authored",
+      "fromFrame": 69905,
+      "durationFrames": 439,
+      "durationSeconds": 14.6,
+      "sceneCount": 2,
+      "curiosityArc": [],
+      "beats": [
+        {
+          "index": 269,
+          "sceneId": "scene-269",
+          "fromFrame": 69905,
+          "durationFrames": 197,
+          "role": "authored-start",
+          "narration": "the mechanical reliability of our cars, the connectivity of our phones, the foundational trust in ou"
+        },
+        {
+          "index": 270,
+          "sceneId": "scene-270",
+          "fromFrame": 70102,
+          "durationFrames": 242,
+          "role": "authored-kept",
+          "narration": "and the daily boring schedule of the postal service, all snapped at the exact same Think about your "
+        }
+      ]
+    },
+    {
+      "id": "seq-99",
+      "source": "engine",
+      "fromFrame": 70344,
+      "durationFrames": 781,
+      "durationSeconds": 26,
+      "sceneCount": 4,
+      "curiosityArc": [
+        "setup",
+        "question",
+        "partial_answer",
+        "complication"
+      ],
+      "beats": [
+        {
+          "index": 271,
+          "sceneId": "scene-271",
+          "fromFrame": 70344,
+          "durationFrames": 199,
+          "role": "setup",
+          "narration": "Look around you. Look at the smartphone in your hand, your car keys on the counter, the dead bolts o"
+        },
+        {
+          "index": 272,
+          "sceneId": "scene-272",
+          "fromFrame": 70543,
+          "durationFrames": 156,
+          "role": "question",
+          "narration": "We assume civilization is this impenetrable fortress that protects us from the wild."
+        },
+        {
+          "index": 273,
+          "sceneId": "scene-273",
+          "fromFrame": 70699,
+          "durationFrames": 346,
+          "role": "complication",
+          "narration": "But if just three of your ordinary boring routines failed today, if your battery died, your car stal"
+        },
+        {
+          "index": 274,
+          "sceneId": "scene-274",
+          "fromFrame": 71045,
+          "durationFrames": 80,
+          "role": "reveal",
+          "narration": "Keep that in mind next time you turn the key in your ignition."
+        }
+      ]
+    }
+  ]
+}

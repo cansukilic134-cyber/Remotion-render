@@ -1,0 +1,816 @@
+{
+  "date": "2026-11-06T15:24:03.545Z",
+  "n": 275,
+  "total": 275,
+  "sources": [
+    "readcheck",
+    "recheck-1",
+    "recheck-2",
+    "recheck-3",
+    "recheck-4",
+    "recheck-5",
+    "recheck-6",
+    "recheck-7",
+    "recheck-8"
+  ],
+  "evidence": {
+    "status": "OK",
+    "signals": [
+      "full run: readers 1: 140 items written 55 s after the input (a fresh reader needs >= 105 s)",
+      "full run: judges 1: 140 items written 71 s after the input (a fresh reader needs >= 105 s)",
+      "full run: readers 2: 135 items written 53 s after the input (a fresh reader needs >= 101.25 s)",
+      "recheck-4: readers 1: 130 items written 71 s after the input (a fresh reader needs >= 97.5 s)",
+      "recheck-4: judges 1: 130 items written 63 s after the input (a fresh reader needs >= 97.5 s)"
+    ]
+  },
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "cujo-prep-b65ebf054289",
+    "folders": {
+      "readcheck": {
+        "run": "cujo-prep-b65ebf054289",
+        "evidenceSha256": "54eb17eff5907470a3c63ed2a1690e3138fd2381aba8ad35ad73ab29b29f6061"
+      },
+      "recheck-1": {
+        "run": "cujo-prep-ec7a920f502f",
+        "evidenceSha256": "2b5a2629c4b00b36509deda4fbfac3cc7f4590415fd202e4b6d03cd324d726bc"
+      },
+      "recheck-2": {
+        "run": "cujo-prep-1532c1db827a",
+        "evidenceSha256": "9a21f5a64f72efc758dda1dcc7e3ba50cf651f39f9dbf5e41b07cad0726aaf44"
+      },
+      "recheck-3": {
+        "run": "cujo-prep-e35471ff9b4c",
+        "evidenceSha256": "a212f921d69c734d4821fcdf5def1553a1e4c804bb984e1187b3fcfa3334620a"
+      },
+      "recheck-4": {
+        "run": "cujo-prep-3c61059be6c9",
+        "evidenceSha256": "4f9f8359ddee6f4b9a31ea7f822b98ecc00ad0c474f00220750c4d8794086825"
+      },
+      "recheck-5": {
+        "run": "cujo-prep-b226d1627b11",
+        "evidenceSha256": "599ff32905f233632c08edeb545a91ff024d692d862a5002117ad86279c71b4b"
+      },
+      "recheck-6": {
+        "run": "cujo-prep-4d72c72dc3a4",
+        "evidenceSha256": "cd3c4f888c1b9c147d1bbe17020d85075dacffb3d8415cdab1b203b33a6c9321"
+      },
+      "recheck-7": {
+        "run": "cujo-prep-24ede8d3ab6c",
+        "evidenceSha256": "4187778523b45aa9a7a34795364e8f4866edffc5ee84c4f267c30d3d712b4b23"
+      },
+      "recheck-8": {
+        "run": "cujo-prep-09c23e53b523",
+        "evidenceSha256": "d1b9742b3589d29ad6d607f12324796c6fc976f41cfe2e46183f0515fcc34628"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 196,
+    "NEUTRAL": 79,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {
+    "icon": 28,
+    "face": 16,
+    "people": 4,
+    "diagram": 21,
+    "body": 4,
+    "words": 4,
+    "place": 1,
+    "nothing-fits": 1
+  },
+  "iconBlame": {
+    "road": 4,
+    "shield": 3,
+    "home": 2,
+    "sealedCarBox": 6,
+    "deadPhone": 5,
+    "heart": 2,
+    "hourglass": 1,
+    "clock": 1,
+    "phone": 1,
+    "key": 1
+  },
+  "beats": [
+    {
+      "i": 16,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "A road only vaguely conveys isolation.",
+      "from": "recheck-4",
+      "concept": "road",
+      "callout": null
+    },
+    {
+      "i": 18,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Worried dog is vague about the coming threat.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 20,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Happy dog walking a road conveys a happy dog but misses the rabbit chase and the hole.",
+      "from": "recheck-7",
+      "concept": "road",
+      "callout": null
+    },
+    {
+      "i": 22,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Damp setting is conveyed but the dog on screen adds an unmentioned subject and the bat smell is read as bat-like.",
+      "from": "recheck-5",
+      "concept": null,
+      "callout": "DAMP, SMELLS OF BAT"
+    },
+    {
+      "i": 23,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "No bats shown, dog just calm.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 27,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Calm dog with an abstract branching line is vague and misses the tiny hidden hole and chilling point.",
+      "from": "recheck-7",
+      "concept": "crack",
+      "callout": null
+    },
+    {
+      "i": 41,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Road icon hides the stream washing.",
+      "from": "recheck-4",
+      "concept": "road",
+      "callout": null
+    },
+    {
+      "i": 54,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Shelter reading misses the illusion of safety.",
+      "from": "recheck-4",
+      "concept": "shield",
+      "callout": null
+    },
+    {
+      "i": 55,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "House alone does not say emotional trap.",
+      "from": "recheck-4",
+      "concept": "home",
+      "callout": null
+    },
+    {
+      "i": 68,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Flat man says nothing about the ad agency.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 70,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Chain shows only the dye; the disaster the narration builds to is not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 74,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Chain ends at Vic leaving; narration says both adults are consumed by their own crises.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 78,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute box shows only that something is contested, not Donna guilt isolating her.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 79,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Worried woman and man at home suggests strain, roughly fitting Vic's isolation but missing the professional panic.",
+      "from": "recheck-7",
+      "concept": "crack",
+      "callout": null
+    },
+    {
+      "i": 81,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute box carries no content about fear of failing as provider.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 92,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Letter does not read as a spoken spell.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 98,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Smug letter holder only loosely suggests a jingle.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 99,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Marital strain is right, but the monster-as-psychological-symptom point is missed, so the guess is only partial.",
+      "from": "recheck-6",
+      "concept": null,
+      "callout": "THEIR MARRIAGE IS UNDER STRAIN"
+    },
+    {
+      "i": 111,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess takes the groundwater poisoning loosely, missing the Dodd trauma metaphor.",
+      "from": "recheck-3",
+      "concept": "road",
+      "callout": "POISONED THE GROUNDWATER"
+    },
+    {
+      "i": 120,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Generic hot car, nothing about cheap build.",
+      "from": "recheck-4",
+      "concept": "sealedCarBox",
+      "callout": null
+    },
+    {
+      "i": 122,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Misses the engine failing.",
+      "from": "recheck-4",
+      "concept": "sealedCarBox",
+      "callout": null
+    },
+    {
+      "i": 123,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Misses the dashboard light and backfiring.",
+      "from": "recheck-4",
+      "concept": "sealedCarBox",
+      "callout": null
+    },
+    {
+      "i": 124,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Terror read but not the engine dying.",
+      "from": "recheck-4",
+      "concept": "sealedCarBox",
+      "callout": null
+    },
+    {
+      "i": 127,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Taking a key is thin for trusting technology.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 132,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Calm thinking lacks the driving-lesson context.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 133,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Routine and keys are captured, but the specific car-stopping sequence and muscle memory are vague.",
+      "from": "recheck-6",
+      "concept": null,
+      "callout": "PART OF THE ROUTINE"
+    },
+    {
+      "i": 137,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Worry does not convey criticism of Donna.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 142,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "House icon blurs leaving Tad at home.",
+      "from": "recheck-4",
+      "concept": "home",
+      "callout": null
+    },
+    {
+      "i": 143,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Hot-car guess misses the lesser-of-two-evils choice of fleeing to a mechanic.",
+      "from": "readcheck",
+      "concept": "sealedCarBox",
+      "callout": "THE LESSER OF TWO EVILS"
+    },
+    {
+      "i": 148,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Crossed phone suggests no phone rather than unreachable ringing phone.",
+      "from": "recheck-4",
+      "concept": "deadPhone",
+      "callout": null
+    },
+    {
+      "i": 154,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Unanswered calls is vague.",
+      "from": "recheck-4",
+      "concept": "deadPhone",
+      "callout": null
+    },
+    {
+      "i": 156,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Dead line only loosely fits the torture of cut-off.",
+      "from": "recheck-4",
+      "concept": "deadPhone",
+      "callout": null
+    },
+    {
+      "i": 159,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Generic sitting and calling.",
+      "from": "recheck-4",
+      "concept": "deadPhone",
+      "callout": null
+    },
+    {
+      "i": 161,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Neutral mechanic is vague.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 164,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Vague worry about a call.",
+      "from": "recheck-4",
+      "concept": "deadPhone",
+      "callout": null
+    },
+    {
+      "i": 165,
+      "verdict": "NEUTRAL",
+      "blame": "place",
+      "why": "Worry in kitchen does not convey the pushback.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 166,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Worried husband misses the software argument.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 172,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Calm thinking, not the not-looking-for-her point.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 174,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Older man without alcoholic veteran cues.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 180,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Stunned confrontation instead of failure to see.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 181,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Generic claim about us shown as one memory-filled person; vague.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "COMFORTING MEMORIES"
+    },
+    {
+      "i": 183,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Facing the dog misses brain refusing data.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 184,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Worry at home is vague.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 185,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Pacing does not show discovering droppings.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 187,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Heart suggests love, not rabies realization.",
+      "from": "recheck-4",
+      "concept": "heart",
+      "callout": null
+    },
+    {
+      "i": 192,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram says nothing specific.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 193,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram says nothing specific.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 194,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram says nothing specific.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 195,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram, normalcy bias not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 197,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Sad dog, rationalizing is not shown.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 198,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "A family at home is vaguely related but misses the denial about the dog being sick.",
+      "from": "recheck-7",
+      "concept": "family",
+      "callout": null
+    },
+    {
+      "i": 201,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Words say blind spots, but the shield and forest drive a wilderness-protection reading instead of blind spots about everyday affection.",
+      "from": "recheck-7",
+      "concept": "shield",
+      "callout": "OUR BLIND SPOTS"
+    },
+    {
+      "i": 218,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram, siege-tactic idea not shown.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 219,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 220,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 221,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 222,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 223,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 224,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "Lying worried dog misses motor neuron failure.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 226,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Hourglass misses who dies first.",
+      "from": "recheck-4",
+      "concept": "hourglass",
+      "callout": null
+    },
+    {
+      "i": 227,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Repeats car heat, misses Donna impossible decision.",
+      "from": "recheck-4",
+      "concept": "sealedCarBox",
+      "callout": null
+    },
+    {
+      "i": 235,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Numb calm misses hope of rescue.",
+      "from": "recheck-4",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 236,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Road misses the mailman.",
+      "from": "recheck-4",
+      "concept": "road",
+      "callout": null
+    },
+    {
+      "i": 242,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 243,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 244,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 245,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 246,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 247,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Empty refute diagram.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 251,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Worry about car misses mother instinct.",
+      "from": "recheck-4",
+      "concept": "sealedCarBox",
+      "callout": null
+    },
+    {
+      "i": 256,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Angry man thinking of home, not breaking in and vandalism.",
+      "from": "recheck-4",
+      "concept": "home",
+      "callout": null
+    },
+    {
+      "i": 257,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Wording is vague about the violating act.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "ON VIC AND DONNA'S BED"
+    },
+    {
+      "i": 262,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Smug man at home, not narrative convenience.",
+      "from": "recheck-4",
+      "concept": "home",
+      "callout": null
+    },
+    {
+      "i": 264,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Failures piling up as time runs out is vague; the clock suggests urgency rather than failures aligning with the dog's timeline.",
+      "from": "recheck-5",
+      "concept": "clock",
+      "callout": "THE FAILURES LINE UP"
+    },
+    {
+      "i": 265,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "A heart gives a vague emotional reading for a generic reframing line.",
+      "from": "recheck-7",
+      "concept": "heart",
+      "callout": null
+    },
+    {
+      "i": 266,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "A surprised dog does not convey expecting a supernatural monster story, though it does not contradict it.",
+      "from": "recheck-7",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 271,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Phone reading is ambiguous and could imply rescue.",
+      "from": "recheck-4",
+      "concept": "phone",
+      "callout": null
+    },
+    {
+      "i": 272,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Reads as actual protection, whereas the point is a false assumption.",
+      "from": "recheck-4",
+      "concept": "shield",
+      "callout": null
+    },
+    {
+      "i": 274,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Key as answer is vague.",
+      "from": "recheck-4",
+      "concept": "key",
+      "callout": null
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 5,
+    "wrong": [],
+    "neutral": [],
+    "cleared": 5,
+    "unread": []
+  }
+}

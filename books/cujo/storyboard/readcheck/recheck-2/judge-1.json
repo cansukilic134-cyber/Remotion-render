@@ -1,0 +1,38 @@
+[
+ {
+  "id": "b001",
+  "narration": "That's terrifying. So, you asked us to do a deep dive into the pages you shared with us regarding Stephen King's novel Kujo.",
+  "onScreen": {
+   "words": "A STEPHEN KING NOVEL"
+  },
+  "viewerGuess": "The narrator introduces the book as a Stephen King novel."
+ },
+ {
+  "id": "b002",
+  "narration": "at the seams. Turn a loose sick animal into a trap that absolutely nobody can climb out of. Yes, exactly. The monster doesn't build the cage. We build it ourselves.",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "words": "WE BUILD THE CAGE"
+  },
+  "viewerGuess": "The narrator says people build their own trap, like a sealed car that becomes a deadly hot cage."
+ },
+ {
+  "id": "b003",
+  "narration": "The sun is a relentless physical hammer beating down on the roof of this cheap mass-produced",
+  "onScreen": {
+   "icon": "flames",
+   "place": "highway",
+   "words": "THE SUN IS A HAMMER"
+  },
+  "viewerGuess": "The narrator describes the brutal summer sun beating down relentlessly on the highway like a hammer."
+ },
+ {
+  "id": "b004",
+  "narration": "But if just three of your ordinary boring routines failed today, if your battery died, your car stalled, and you had a fight with your spouse, how quickly would your own driveway turn into a cage?",
+  "onScreen": {
+   "icon": "a house",
+   "words": "YOUR DRIVEWAY A CAGE"
+  },
+  "viewerGuess": "The narrator says even the family's own driveway at home becomes a cage."
+ }
+]

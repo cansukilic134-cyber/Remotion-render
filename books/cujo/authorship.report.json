@@ -1,0 +1,16 @@
+{
+  "slug": "cujo",
+  "engine": "antidote",
+  "generatedAt": "2026-11-06T16:09:27.960Z",
+  "frozen": false,
+  "status": "PASS",
+  "violations": [],
+  "metrics": {
+    "idleWallpaper": 61,
+    "authoredPropositions": 0
+  },
+  "counts": {
+    "beats": 274,
+    "unauthored": 0
+  }
+}

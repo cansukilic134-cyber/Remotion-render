@@ -1,0 +1,128 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a road",
+  "place": "forest",
+  "words": "WADES INTO THE STREAM"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "forest",
+  "words": "HIDES HIS WEAKNESS"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "forest",
+  "words": "A SURVIVAL INSTINCT"
+ },
+ {
+  "id": "b004",
+  "icon": "a road",
+  "place": "street",
+  "words": "CASTLE ROCK ITSELF"
+ },
+ {
+  "id": "b005",
+  "icon": "a road",
+  "place": "street",
+  "words": "LINKED TO FRANK DODD"
+ },
+ {
+  "id": "b006",
+  "icon": "a road",
+  "place": "street",
+  "words": "POISONED THE GROUNDWATER"
+ },
+ {
+  "id": "b007",
+  "people": [
+   {
+    "looks": "a 40-something farmer-mechanic",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a heart",
+  "place": "room",
+  "words": "HIS DOG HAS RABIES"
+ },
+ {
+  "id": "b008",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "an abstract orange branching line",
+  "place": "forest",
+  "words": "THE ILLUSION OF CHOICE"
+ },
+ {
+  "id": "b009",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "an abstract orange branching line",
+  "place": "forest",
+  "words": "WATCH MY SON DIE"
+ },
+ {
+  "id": "b010",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "an abstract orange branching line",
+  "place": "forest",
+  "words": "RUN FOR THE BAT"
+ },
+ {
+  "id": "b011",
+  "icon": "a shield",
+  "words": "A CONVENIENT SMOKESCREEN"
+ },
+ {
+  "id": "b012",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a house",
+  "words": "A CONVENIENT NARRATIVE TOOL"
+ }
+]

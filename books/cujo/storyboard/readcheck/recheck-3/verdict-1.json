@@ -1,0 +1,77 @@
+{
+ "run": "cujo-judge-403f856df692",
+ "items": [
+  {
+   "id": "b001",
+   "correctness": "CORRECT",
+   "blame": "nothing-fits",
+   "why": "Guess matches the dog wading into the stream."
+  },
+  {
+   "id": "b002",
+   "correctness": "CORRECT",
+   "blame": "nothing-fits",
+   "why": "Hiding weakness is read correctly."
+  },
+  {
+   "id": "b003",
+   "correctness": "CORRECT",
+   "blame": "nothing-fits",
+   "why": "Survival instinct reading carries the meaning."
+  },
+  {
+   "id": "b004",
+   "correctness": "NEUTRAL",
+   "blame": "words",
+   "why": "Guess says the town is the source of trouble; narration says it is almost a character, close but vague."
+  },
+  {
+   "id": "b005",
+   "correctness": "CORRECT",
+   "blame": "nothing-fits",
+   "why": "Link to Frank Dodd is read correctly."
+  },
+  {
+   "id": "b006",
+   "correctness": "NEUTRAL",
+   "blame": "words",
+   "why": "Guess takes the groundwater poisoning loosely, missing the Dodd trauma metaphor."
+  },
+  {
+   "id": "b007",
+   "correctness": "CORRECT",
+   "blame": "nothing-fits",
+   "why": "Frightened man realizing the dog has rabies matches."
+  },
+  {
+   "id": "b008",
+   "correctness": "CORRECT",
+   "blame": "diagram",
+   "why": "Branching line conveys illusion of choice with all paths ending the same."
+  },
+  {
+   "id": "b009",
+   "correctness": "CORRECT",
+   "blame": "nothing-fits",
+   "why": "Fear of watching her son die matches."
+  },
+  {
+   "id": "b010",
+   "correctness": "NEUTRAL",
+   "blame": "words",
+   "why": "Guess frames running for the bat as self-defense, missing that it is the deadly, hopeless option."
+  },
+  {
+   "id": "b011",
+   "correctness": "CORRECT",
+   "blame": "words",
+   "why": "Smokescreen reading matches, with supernatural inferred plausibly."
+  },
+  {
+   "id": "b012",
+   "correctness": "NEUTRAL",
+   "blame": "words",
+   "why": "Guess says the supernatural is the narrative tool, but narration says Kemp (a character) is the tool."
+  }
+ ]
+}

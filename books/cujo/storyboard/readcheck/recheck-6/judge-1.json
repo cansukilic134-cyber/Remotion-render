@@ -1,0 +1,74 @@
+[
+ {
+  "id": "b001",
+  "narration": "recently had an affair. Exactly. With a man named Steve Kemp. And they share a 4-year-old son, Tad, who is",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "KEMP, DONNA’S FORMER LOVER"
+  },
+  "viewerGuess": "The narrator introduces Kemp, a man who was once Donna's lover and still lingers around her."
+ },
+ {
+  "id": "b002",
+  "narration": "Vic is entirely consumed by his own parallel crisis at work. The family's defenses are down across the Oh man. Right.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "VIC IS CONSUMED BY WORK"
+  },
+  "viewerGuess": "The narrator explains that Vic is so absorbed in his work that he is worn down and neglecting everything else."
+ },
+ {
+  "id": "b003",
+  "narration": "That's a great way to put it. Both parents treat the monster in the closet purely as a psychological symptom of their own marital stress bleeding over onto the kid.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "THEIR MARRIAGE IS UNDER STRAIN"
+  },
+  "viewerGuess": "The narrator says the couple's marriage is under strain, with the two growing distant from each other."
+ },
+ {
+  "id": "b004",
+  "narration": "Stop the car, roll up the window, set the parking brake, take the keys out of the ignition. It's rope It's just muscle memory for her.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle",
+     "holds": "key"
+    }
+   ],
+   "words": "PART OF THE ROUTINE"
+  },
+  "viewerGuess": "The narrator describes a woman's everyday routine, such as handling the keys as she goes about her day."
+ }
+]

@@ -1,0 +1,6 @@
+{"run":"cujo-judge-4b23d204471d","items":[
+{"id":"b001","correctness":"CORRECT","blame":"nothing","why":"The words 'A STEPHEN KING NOVEL' match the narration introducing King's novel."},
+{"id":"b002","correctness":"CORRECT","blame":"nothing","why":"The cage text and sealed hot car convey that we build our own trap."},
+{"id":"b003","correctness":"CORRECT","blame":"nothing","why":"The sun-hammer words and highway convey the relentless sun beating down on the car roof."},
+{"id":"b004","correctness":"CORRECT","blame":"nothing","why":"Driveway-as-cage text with a house matches the narration's question about the driveway becoming a cage."}
+]}

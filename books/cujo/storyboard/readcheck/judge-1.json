@@ -1,0 +1,1853 @@
+[
+ {
+  "id": "b001",
+  "narration": "Picture a Ford Pinto that uh simply won't start. Oh man, just a brutal image, right? It's sitting in this sunbaked, completely",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "words": "A FORD PINTO"
+  },
+  "viewerGuess": "A Ford Pinto car is introduced as the setting."
+ },
+ {
+  "id": "b002",
+  "narration": "sealed farm garage in the dead of summer. The heat inside the car is just steadily climbing. Yeah. It's basically an oven at that Exactly.",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "words": "HEAT KEEPS CLIMBING"
+  },
+  "viewerGuess": "Inside the closed car the heat keeps climbing."
+ },
+ {
+  "id": "b003",
+  "narration": "And in the passenger seat, you've got a six-year-old boy who is well, he's slipping into a heat induced coma while his mother watches",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "sad",
+     "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+    },
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "SLIPPING INTO A COMA"
+  },
+  "viewerGuess": "The small boy is slipping into a coma while his mother looks on worried."
+ },
+ {
+  "id": "b004",
+  "narration": "and she's completely helpless. It's an absolutely suffocating It really does. It hits you right in the chest.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "words": "COMPLETELY HELPLESS"
+  },
+  "viewerGuess": "The mother is completely helpless and afraid."
+ },
+ {
+  "id": "b005",
+  "narration": "It really does because outside the cracked glass of the window, waiting on the crushed gravel, is a 200B",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "words": "OUTSIDE THE CRACKED GLASS"
+  },
+  "viewerGuess": "A huge angry dog waits outside the cracked car glass."
+ },
+ {
+  "id": "b006",
+  "narration": "St. Not at all. It's a dying rabid machine just waiting for them to open the door.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "words": "WAITING FOR THE DOOR"
+  },
+  "viewerGuess": "The angry dog waits for the car door to open."
+ },
+ {
+  "id": "b007",
+  "narration": "That's terrifying. So, you asked us to do a deep dive into the pages you shared with us regarding Stephen King's novel Kujo.",
+  "onScreen": {
+   "icon": "a book",
+   "words": "A STEPHEN KING NOVEL"
+  },
+  "viewerGuess": "This is a Stephen King novel."
+ },
+ {
+  "id": "b008",
+  "narration": "And I want to be super clear right off the bat. Our mission today isn't to just, you know, recount a monster story for you. Nuh-uh. Great. We're not here to just talk about a scary dog. Yep.",
+  "onScreen": {
+   "words": "A MONSTER STORY (crossed out)"
+  },
+  "viewerGuess": "It is not really just a monster story."
+ },
+ {
+  "id": "b009",
+  "narration": "We are here to prove one very specific, terrifying argument based on the notes and the research you sent over. And that argument is this.",
+  "onScreen": {
+   "words": "ONE TERRIFYING ARGUMENT"
+  },
+  "viewerGuess": "The story is really about one terrifying argument."
+ },
+ {
+  "id": "b010",
+  "narration": "The dog is not the real horror here. the true horror is how ordinary everyday failures inside one single family, a broken down car, an answered phone, and a marriage that is already coming apart",
+  "onScreen": {
+   "diagram": "labelled buckets: Broken down car / Answered phone / Marriage coming apart"
+  },
+  "viewerGuess": "A broken down car, an answered phone and a failing marriage are the categories of trouble in the story."
+ },
+ {
+  "id": "b011",
+  "narration": "at the seams. Turn a loose sick animal into a trap that absolutely nobody can climb out of. Yes, exactly. The monster doesn't build the cage. We build it ourselves.",
+  "onScreen": {
+   "icon": "chain links",
+   "words": "WE BUILD THE CAGE"
+  },
+  "viewerGuess": "We build our own cage with chain links."
+ },
+ {
+  "id": "b012",
+  "narration": "Piece by mundane piece. Right. And uh to truly understand how this happens, I mean, we really need to look at the board before the trap actually snaps shut.",
+  "onScreen": {
+   "words": "BEFORE THE TRAP SNAPS SHUT"
+  },
+  "viewerGuess": "We build it before the trap snaps shut."
+ },
+ {
+  "id": "b013",
+  "narration": "We have to look at the people involved. The Trenton, right? Vic and Donna Trenton. So, this is a married couple living what looks like, you know, a completely normal suburban life, but their marriage is hairline cracked because Donna",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "HAIRLINE CRACKED MARRIAGE"
+  },
+  "viewerGuess": "A wife and husband have a marriage with hairline cracks."
+ },
+ {
+  "id": "b014",
+  "narration": "recently had an affair. Exactly. With a man named Steve Kemp. And they share a 4-year-old son, Tad, who is",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "AN AFFAIR WITH KEMP"
+  },
+  "viewerGuess": "The wife has an affair with a man named Kemp while her husband smirks."
+ },
+ {
+  "id": "b015",
+  "narration": "well, he's highly sensitive to the tension in the house. Kids always pick up on that stuff. They really do. And geographically, you have to picture where this trap is being set.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "kitchen",
+   "words": "HIGHLY SENSITIVE TO TENSION"
+  },
+  "viewerGuess": "The young boy is highly sensitive to tension in the kitchen."
+ },
+ {
+  "id": "b016",
+  "narration": "It's the Camber Farm, which is located at the absolute end of a deadend road, town road number three in the rural outskirts of Tassel Rock, Maine.",
+  "onScreen": {
+   "icon": "a road",
+   "words": "FARM AT A DEAD END"
+  },
+  "viewerGuess": "The family's farm sits at a dead end road."
+ },
+ {
+  "id": "b017",
+  "narration": "It's incredibly isolated. Yeah. It's the kind of place you only go if you have a specific reason to be Which brings us to the final element, right? The catalyst for the entire disaster.",
+  "onScreen": {
+   "icon": "a road",
+   "words": "INCREDIBLY ISOLATED"
+  },
+  "viewerGuess": "The place is incredibly isolated."
+ },
+ {
+  "id": "b018",
+  "narration": "Coojo himself. Good old Cooj, right? He is Joe and Charity Camber's friendly lumbering St. Bernard. I mean, he's a good boy.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "happy",
+     "body": "idle"
+    }
+   ],
+   "words": "A FRIENDLY ST. BERNARD"
+  },
+  "viewerGuess": "There is a friendly St. Bernard dog."
+ },
+ {
+  "id": "b019",
+  "narration": "He's the kind of dog that plays with kids. But he is about to become the ultimate threat due to this completely tragic, totally mundane Yeah. So, we have to drop right into",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "THE ULTIMATE THREAT"
+  },
+  "viewerGuess": "The dog turns into the ultimate threat."
+ },
+ {
+  "id": "b020",
+  "narration": "the timeline here. June 16th, picture Kujo. He's 5 years old, so he's past his puppyhood, but he still has that playful instinct, right?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "happy",
+     "body": "idle"
+    }
+   ],
+   "words": "KUJO AT FIVE YEARS OLD"
+  },
+  "viewerGuess": "Kujo the dog at five years old is happy."
+ },
+ {
+  "id": "b021",
+  "narration": "Sure. And he's chasing a plump brown rabbit across a sunlit meadow. The rabbit zigs and zags and it drops into a hidden overgrown hole.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "happy",
+     "body": "walk"
+    }
+   ],
+   "words": "CHASING A RABBIT"
+  },
+  "viewerGuess": "Kujo happily chases a rabbit."
+ },
+ {
+  "id": "b022",
+  "narration": "It's a dog being a dog. Exactly. Kujo follows it, wedging his heavy shoulders into this limestone cave. And I really want you to feel this space.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "walk"
+    }
+   ],
+   "place": "forest",
+   "words": "KUJO FOLLOWS THE RABBIT INTO THE CAVE"
+  },
+  "viewerGuess": "Kujo follows the rabbit into a cave in the forest."
+ },
+ {
+  "id": "b023",
+  "narration": "It's damp. It smells of wet earth and uh the sharp ammonia stench of bat O,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "WET EARTH AND AMMONIA"
+  },
+  "viewerGuess": "The cave smells of wet earth and ammonia."
+ },
+ {
+  "id": "b024",
+  "narration": "gross. Yeah, it's awful. And his barking echoes in this tight space and it wakes up a roost of bats.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "THE BARKING WAKES BATS"
+  },
+  "viewerGuess": "His barking wakes the bats in the cave."
+ },
+ {
+  "id": "b025",
+  "narration": "But these aren't just any bats. They are infected with a highly virulent strain of rabies. The worst kind. All right. So, they swarm him in the dark.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "INFECTED WITH RABIES"
+  },
+  "viewerGuess": "The bats infect the dog with rabies."
+ },
+ {
+  "id": "b026",
+  "narration": "Kujo snaps at them defensively. And there's this sudden sickening crunch of a rabid bat's brown black wing right in his mouth.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "words": "A BAT'S WING IN HIS MOUTH"
+  },
+  "viewerGuess": "The dog gets a bat's wing in his mouth."
+ },
+ {
+  "id": "b027",
+  "narration": "Oh, man. Right before the bat scratches his highly sensitive muzzle. And it leaves the small like almost innocuous wound. A scratch shaped almost exactly like a question mark on his nose.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "A QUESTION MARK SCRATCH"
+  },
+  "viewerGuess": "A small scratch shaped like a question mark appears on his nose."
+ },
+ {
+  "id": "b028",
+  "narration": "so small you'd barely even notice it if you weren't looking for it, which is crazy. Because here is what that means for you and why it's so chilling.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "BARELY NOTICE IT"
+  },
+  "viewerGuess": "He barely notices the scratch."
+ },
+ {
+  "id": "b029",
+  "narration": "True disasters, like the ones that actually destroy lives, they don't announce themselves with sirens. No, they don't. They don't have an ominous soundtrack playing in the background.",
+  "onScreen": {
+   "words": "DISASTERS WITH NO SIRENS"
+  },
+  "viewerGuess": "Real disasters often come with no sirens or warning."
+ },
+ {
+  "id": "b030",
+  "narration": "They start on a perfectly sunny, ordinary afternoon when you're just, you know, going about your business. A dog chases a rabbit.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "happy",
+     "body": "walk"
+    }
+   ],
+   "words": "A SUNNY ORDINARY AFTERNOON"
+  },
+  "viewerGuess": "It is a sunny ordinary afternoon and the dog strolls happily."
+ },
+ {
+  "id": "b031",
+  "narration": "That's it. Let's talk about the biology of what's actually happening in that cave, though, because it's crucial to understanding the horror here. Yeah. Break that down for us.",
+  "onScreen": {
+   "words": "THE BIOLOGY OF RABIES"
+  },
+  "viewerGuess": "Now the biology of rabies is explained."
+ },
+ {
+  "id": "b032",
+  "narration": "So, rabies isn't just a generic sickness. The rabies virus, it's part of the rabbi family, is this bulletshaped virion that completely",
+  "onScreen": {
+   "words": "BULLET-SHAPED VIRUS"
+  },
+  "viewerGuess": "The virus is bullet-shaped."
+ },
+ {
+  "id": "b033",
+  "narration": "bypasses the bloodstream. Wait, really? It doesn't go into the No, exactly. Because if it went into the blood, the dog's immune system would flag it and fight it off.",
+  "onScreen": {
+   "words": "BYPASSES THE BLOODSTREAM"
+  },
+  "viewerGuess": "It bypasses the bloodstream."
+ },
+ {
+  "id": "b034",
+  "narration": "Oh, wow. I didn't know that. Yeah, it's insidious. Instead, the virus binds directly to the nerve endings in Kujo's nose and muscle tissue. It completely hijacks the peripheral",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Nose and muscle nerves"
+  },
+  "viewerGuess": "The virus enters through the nose and muscle nerves."
+ },
+ {
+  "id": "b035",
+  "narration": "nervous system and begins this slow, silent crawl up his axons, just creeping up, right? Moving at a rate of maybe 12 to 24",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Nose and muscle nerves / Slow crawl up the axons"
+  },
+  "viewerGuess": "Then it slowly crawls up the axons."
+ },
+ {
+  "id": "b036",
+  "narration": "millm a day, just hitting straight for his central nervous system in his brain. So for weeks, the dog looks perfectly fine.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Nose and muscle nerves / Slow crawl up the axons / The brain"
+  },
+  "viewerGuess": "Finally it reaches the brain."
+ },
+ {
+  "id": "b037",
+  "narration": "The trap is silently winding itself up. That's terrifying. And look at Kujo's immediate reaction, which is just heartbreakingly normal.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "SILENTLY WINDING UP"
+  },
+  "viewerGuess": "The dog is silently winding up inside."
+ },
+ {
+  "id": "b038",
+  "narration": "When he gets out of the cave, he feels what the text describes as a bad dog feeling. All one word, bad dog. The poor guy, right?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "walk"
+    }
+   ],
+   "words": "A BAD DOG FEELING"
+  },
+  "viewerGuess": "The dog has a bad feeling and walks along worried."
+ },
+ {
+  "id": "b039",
+  "narration": "He doesn't understand viology. He just knows his nose is bleeding and he smells awful. So, he assumes his human masters, Joe,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "NOSE IS BLEEDING"
+  },
+  "viewerGuess": "The dog's nose is bleeding in the woods."
+ },
+ {
+  "id": "b040",
+  "narration": "Charity, or young Brett, are going to scold him for getting into something nasty, like any dog would. Exactly. So, what does he do?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "EXPECTS A SCOLDING"
+  },
+  "viewerGuess": "The dog is afraid he will be scolded."
+ },
+ {
+  "id": "b041",
+  "narration": "Instead of going straight home where they might have seen the wound, realized what happened, and called a vet to get him a rabies booster, he actively avoids them. He hides.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "flee"
+    }
+   ],
+   "motion": "the first person runs away through the home and is gone",
+   "icon": "a house",
+   "place": "forest",
+   "words": "INSTEAD OF GOING HOME"
+  },
+  "viewerGuess": "Instead of going home the dog runs away into the woods."
+ },
+ {
+  "id": "b042",
+  "narration": "Yes. He wades into a nearby stream, washing the nasty, watery green limestone stink off his coat.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "water waves",
+   "place": "forest",
+   "words": "WADES INTO THE STREAM"
+  },
+  "viewerGuess": "The dog wades into a stream."
+ },
+ {
+  "id": "b043",
+  "narration": "He is actively masking a lethal infection from his family just because he doesn't want to be a bad boy. Well, it's pack animal psychology, You hide your weakness. You hide your mistakes from the alpha so you don't get punished or, you know,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a theatre mask",
+   "place": "forest",
+   "words": "HIDES HIS WEAKNESS"
+  },
+  "viewerGuess": "The dog hides his weakness behind a mask."
+ },
+ {
+  "id": "b044",
+  "narration": "cast out, right? It's a survival instinct that ironically ensures his own death and the deaths of those around him. Yeah.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "icon": "a theatre mask",
+   "place": "forest",
+   "words": "A SURVIVAL INSTINCT"
+  },
+  "viewerGuess": "Hiding illness is a survival instinct."
+ },
+ {
+  "id": "b045",
+  "narration": "But I've got to tell you, when I was reading through these notes, I struggled a little bit with this opening sequence.",
+  "onScreen": {
+   "words": "THE HORROR FEELS RANDOM"
+  },
+  "viewerGuess": "The horror feels random."
+ },
+ {
+  "id": "b046",
+  "narration": "Really? How so? Because the horror here feels like pure randomness to me. It feels like phenomenally bad luck that Kujo decided to chase that specific rabbit on that specific",
+  "onScreen": {
+   "words": "PHENOMENALLY BAD LUCK"
+  },
+  "viewerGuess": "It was phenomenally bad luck."
+ },
+ {
+  "id": "b047",
+  "narration": "day into that specific hole. I mean, if the rabbit zigs instead of zags,",
+  "onScreen": {
+   "words": "THAT SPECIFIC HOLE"
+  },
+  "viewerGuess": "Why that specific hole?"
+ },
+ {
+  "id": "b048",
+  "narration": "or if Kujo gets distracted by a squirrel 5 seconds earlier, this entire nightmare doesn't happen. It just feels like a roll of the dice.",
+  "onScreen": {
+   "words": "A ROLL OF THE DICE"
+  },
+  "viewerGuess": "It seems like a roll of the dice."
+ },
+ {
+  "id": "b049",
+  "narration": "I mean, I see why you'd read it that way. And honestly, the sheer bad luck of it is staggering. But I really have to point out that it's not just random It's not.",
+  "onScreen": {
+   "words": "NOT JUST RANDOM"
+  },
+  "viewerGuess": "But it was not just random."
+ },
+ {
+  "id": "b050",
+  "narration": "No, it is the environment itself. If we look closer at the description of that limestone cave, the text explicitly tells us its bottom is littered with bones.",
+  "onScreen": {
+   "place": "forest",
+   "words": "BOTTOM LITTERED WITH BONES"
+  },
+  "viewerGuess": "The bottom of the cave is littered with bones."
+ },
+ {
+  "id": "b051",
+  "narration": "Oh, right. Yeah. A woodchuck, a skunk, chipmunks, squirrels. There's even the skeleton of a house cat named Mr. Clean that the Cambers had lost two years prior, right? Mr. Clean.",
+  "onScreen": {
+   "place": "forest",
+   "diagram": "labelled buckets: Woodchuck / Skunk / Chipmunks / Squirrels"
+  },
+  "viewerGuess": "The bones belong to woodchucks, skunks, chipmunks and squirrels."
+ },
+ {
+  "id": "b052",
+  "narration": "Exactly. It's an invisible history of death right in the family's backyard. Oh, wow. Okay. So, this wasn't just a random hole. Not at all.",
+  "onScreen": {
+   "place": "forest",
+   "diagram": "labelled buckets: Woodchuck / Skunk / Chipmunks / Squirrels"
+  },
+  "viewerGuess": "Many small animals died in the cave."
+ },
+ {
+  "id": "b053",
+  "narration": "It's a predator pit. The cave is a natural funnel for curiosity. Animals go in and infected bats are The campers lived their daily lives mowing the lawn, having barbecues, completely oblivious to this churning",
+  "onScreen": {
+   "place": "forest",
+   "diagram": "arrows linking labels in a chain: Curiosity / Animals go in / Infected bats"
+  },
+  "viewerGuess": "Curiosity draws animals in, where infected bats wait."
+ },
+ {
+  "id": "b054",
+  "narration": "engine of infection, just out of sight in the tall grass. The trap was always there, overgrown,",
+  "onScreen": {
+   "place": "forest",
+   "diagram": "arrows linking labels in a chain: Curiosity / Animals go in / Infected bats"
+  },
+  "viewerGuess": "The cycle repeats: curiosity, animals go in, infected bats."
+ },
+ {
+  "id": "b055",
+  "narration": "just waiting for a victim to stumble in. That's the illusion of safety. The environment was already lethal, just waiting for the right afternoon. Which brings us right back to our core argument here. The trap is built from the",
+  "onScreen": {
+   "icon": "a shield",
+   "place": "forest",
+   "words": "ILLUSION OF SAFETY"
+  },
+  "viewerGuess": "The forest gives an illusion of safety."
+ },
+ {
+  "id": "b056",
+  "narration": "ordinary. Let's move from the literal trap in the backyard to the emotional trap inside the house because the dog is only half the equation here.",
+  "onScreen": {
+   "icon": "a house",
+   "words": "EMOTIONAL TRAP INSIDE"
+  },
+  "viewerGuess": "The real trap is the emotional one inside the house."
+ },
+ {
+  "id": "b057",
+  "narration": "We really need to look at the Trenton. Yes. Let's drop into Donna Trenton's kitchen. And I want you to feel the temperature here.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "kitchen",
+   "words": "DONNA TRENTON'S KITCHEN"
+  },
+  "viewerGuess": "We are in Donna Trenton's kitchen."
+ },
+ {
+  "id": "b058",
+  "narration": "It's sweltering. It's a brutal main summer heatwave. [snorts] Donna is screaming at her former lover, Steve Kemp, trying to force him out of her house.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "angry",
+     "body": "talk"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "kitchen",
+   "words": "TRYING TO FORCE HIM OUT"
+  },
+  "viewerGuess": "Donna and her husband argue and she tries to force him out."
+ },
+ {
+  "id": "b059",
+  "narration": "Such a tense scene. It really is. She drops a carton of milk in the struggle and it splits and spills all across the lenolium floor.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "struggling"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "angry",
+     "body": "grabbing"
+    }
+   ],
+   "place": "kitchen",
+   "words": "THE MILK SPILLS OUT"
+  },
+  "viewerGuess": "The man grabs her and the milk spills."
+ },
+ {
+  "id": "b060",
+  "narration": "The air in that kitchen is incredibly thick. It's its primal jungle mixture of the souring dairy on the floor, her cold sweat of pure panic, and his violent, unpredictable rage.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "struggling"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "angry",
+     "body": "grabbing"
+    }
+   ],
+   "place": "kitchen",
+   "words": "COLD SWEAT OF PANIC"
+  },
+  "viewerGuess": "She breaks into a cold sweat of panic."
+ },
+ {
+  "id": "b061",
+  "narration": "He's a very scary guy. Very. He is gripping her arm, breathing right in her face, explicitly threatening her. It is an incredibly invasive, suffocating moment.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "angry",
+     "body": "grabbing"
+    },
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "struggling"
+    }
+   ],
+   "place": "kitchen",
+   "words": "HE GRIPS HER ARM"
+  },
+  "viewerGuess": "He grips her arm."
+ },
+ {
+  "id": "b062",
+  "narration": "Her sanctuary has been completely breached. Right? So, what does this mean for the larger story? It means that when your domestic life is in absolute chaos, you become completely blind",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [dashed box with a big \"?\"] → [an eye \"Blind to threats\"]"
+  },
+  "viewerGuess": "Domestic chaos leads to an unknown outcome and blindness to threats."
+ },
+ {
+  "id": "b063",
+  "narration": "to external physical threats. Right. You just can't see them. Exactly. 100% of Donna's cognitive bandwidth is spent just trying to survive the immediate emotional",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+  },
+  "viewerGuess": "Domestic chaos spends cognitive bandwidth."
+ },
+ {
+  "id": "b064",
+  "narration": "and physical wreckage inside her own house. I mean, the human brain has a limit to what it can process.",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+  },
+  "viewerGuess": "Spent bandwidth leaves people blind to threats."
+ },
+ {
+  "id": "b065",
+  "narration": "when you are terrified that a violent man is going to ruin your life or hurt you right there in your own kitchen, you aren't checking the oil in your car.",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+  },
+  "viewerGuess": "Chaos at home makes you miss danger."
+ },
+ {
+  "id": "b066",
+  "narration": "You aren't paying attention to where you're driving. You are in pure fightor-flight And it's not just Donna who is distracted.",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+  },
+  "viewerGuess": "Domestic chaos drains attention and leaves you blind to threats."
+ },
+ {
+  "id": "b067",
+  "narration": "Vic is entirely consumed by his own parallel crisis at work. The family's defenses are down across the Oh man. Right.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "CONSUMED BY HIS WORK"
+  },
+  "viewerGuess": "The husband is consumed by his work."
+ },
+ {
+  "id": "b068",
+  "narration": "We have to talk about the red raspberry zinger serial crisis. Yes, the cereal.",
+  "onScreen": {
+   "words": "THE RED RASPBERRY CRISIS"
+  },
+  "viewerGuess": "The Red Raspberry crisis is introduced."
+ },
+ {
+  "id": "b069",
+  "narration": "So Vic and his business partner Roger run this small independent ad agency called AdWorks.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "ADWORKS, A SMALL AGENCY"
+  },
+  "viewerGuess": "He works at Adworks, a small agency."
+ },
+ {
+  "id": "b070",
+  "narration": "And they landed this massive account with Sharp cereal which is basically keeping them afloat.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "KEEPS THEM AFLOAT"
+  },
+  "viewerGuess": "The account keeps the agency afloat and he worries."
+ },
+ {
+  "id": "b071",
+  "narration": "But suddenly there's a disaster. A huge disaster, right? A harmless red dye in the red raspberry zinger cereal wasn't being digested properly by children.",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"]"
+  },
+  "viewerGuess": "A harmless red dye is used in a product."
+ },
+ {
+  "id": "b072",
+  "narration": "Meaning thousands of kids across the country were going to the bathroom and seemingly throwing up what looked like pure blood. Yeah.",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"]"
+  },
+  "viewerGuess": "Kids cannot digest it and produce vomit that looks like blood."
+ },
+ {
+  "id": "b073",
+  "narration": "The panic among parents nationwide was instant and overwhelming. Exactly. and their beloved mascot, the sharp serial professor, whose catchphrase is literally, \"Nope, nothing wrong here,\" has suddenly become",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"] → [two people \"Parents panic\"]"
+  },
+  "viewerGuess": "Parents panic."
+ },
+ {
+  "id": "b074",
+  "narration": "this morbid, terrible joke. It's a PR nightmare. It is. This professional crisis forces Vic to fly out to Boston, New York, and Cleveland for emergency meetings. He is frantically trying to save his",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"] → [two people \"Parents panic\"] → [a door \"Vic flies out of town\"]"
+  },
+  "viewerGuess": "Vic flies out of town to deal with it."
+ },
+ {
+  "id": "b075",
+  "narration": "livelihood. And this corporate emergency ensures that he is out of town exactly when the trap back in Castle Rock snaps Both adults are completely consumed by the fires burning in",
+  "onScreen": {
+   "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"] → [two people \"Parents panic\"] → [a door \"Vic flies out of town\"]"
+  },
+  "viewerGuess": "The whole chain ends with Vic leaving town."
+ },
+ {
+  "id": "b076",
+  "narration": "their own immediate I see that. But I'd actually argue that Donna's guilt over the affair is the real anchor here.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "place": "kitchen",
+   "words": "DONNA'S GUILT OVER THE AFFAIR"
+  },
+  "viewerGuess": "Donna is sad with guilt over the affair."
+ },
+ {
+  "id": "b077",
+  "narration": "You think so? Yeah. It paralyzes her. She ended it with Steve Kemp, but her fear of Kemp exposing her infidelity to Vic creates this intense localized",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "kitchen",
+   "words": "INTENSE LOCALIZED PANIC"
+  },
+  "viewerGuess": "She feels intense localized panic."
+ },
+ {
+  "id": "b078",
+  "narration": "panic. She's terrified of her husband finding out. She's terrified of Kemp's violence.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "TERRIFIED OF KEMP'S VIOLENCE"
+  },
+  "viewerGuess": "She is terrified of Kemp's violence."
+ },
+ {
+  "id": "b079",
+  "narration": "And that guilt is what isolates her. She's keeping secrets and secrets cut you off from help. I get that perspective.",
+  "onScreen": {
+   "place": "room",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "A claim is being refuted."
+ },
+ {
+  "id": "b080",
+  "narration": "I really do. But I have to push back on that reading. Oh, really? Yeah. If we connect this to the bigger picture, it's actually Vic's professional panic that isolates her.",
+  "onScreen": {
+   "place": "room",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "The narrator continues rebutting a claim."
+ },
+ {
+  "id": "b081",
+  "narration": "How so? Think about who Vic Trenton is when things are normal. He is a guy who built a wooden swing set for his son Tad entirely by hand. He is mechanically capable.",
+  "onScreen": {
+   "place": "room",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "The narrator continues refuting an argument."
+ },
+ {
+  "id": "b082",
+  "narration": "He pays attention. Right. He's a hands-on dad. Exactly. But because he's so completely terrified of losing his agency, of failing in his patriarchal",
+  "onScreen": {
+   "place": "room",
+   "diagram": "refute: "
+  },
+  "viewerGuess": "The narrator finishes the refutation."
+ },
+ {
+  "id": "b083",
+  "narration": "role as a provider, he ignores the physical reality of his own household. The Ford Pinto has a failing needle valve.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "IGNORES THE PHYSICAL REALITY"
+  },
+  "viewerGuess": "He ignores the physical reality."
+ },
+ {
+  "id": "b084",
+  "narration": "It's stalling out. Right. It's been having issues. Yes. If Vic wasn't so completely consumed by the sharp serial account, he would have recognized the mechanical issue. He probably would have just fixed the",
+  "onScreen": {
+   "place": "room",
+   "words": "THE PINTO IS STALLING"
+  },
+  "viewerGuess": "The Pinto is stalling."
+ },
+ {
+  "id": "b085",
+  "narration": "Pinto's carburetor himself on a Saturday afternoon. Yeah, that makes sense. or at the very least he wouldn't have left his wife and child isolated in a rural town with a severely malfunctioning vehicle while he flew across",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "LEFT WIFE AND CHILD ISOLATED"
+  },
+  "viewerGuess": "He leaves his wife and child isolated."
+ },
+ {
+  "id": "b086",
+  "narration": "the country. The software of the marriage was crashing, which meant the hardware of their lives, like the car, went completely unmaintained.",
+  "onScreen": {
+   "place": "room",
+   "diagram": "arrows linking labels in a chain: Marriage crashing / Car unmaintained"
+  },
+  "viewerGuess": "A marriage crashing goes with a car left unmaintained."
+ },
+ {
+  "id": "b087",
+  "narration": "Wow. Okay, that completely reframes it for me. You're right. The domestic tension creates a massive blind spot. Because he is focused on a harmless red dye hundreds of miles away, he completely misses",
+  "onScreen": {
+   "place": "room",
+   "diagram": "arrows linking labels in a chain: Lethal threat missed"
+  },
+  "viewerGuess": "The result is a lethal threat that is missed."
+ },
+ {
+  "id": "b088",
+  "narration": "the lethal threat in his own driveway. Once again, the trap is built from the ordinary. And we really have to look at how this intense domestic tension trickles down to the most vulnerable person in the house, their four-year-old son, Tad.",
+  "onScreen": {
+   "place": "room",
+   "diagram": "arrows linking labels in a chain: Household tension / Trickles down / To Tad"
+  },
+  "viewerGuess": "Household tension trickles down to Tad."
+ },
+ {
+  "id": "b089",
+  "narration": "Oh, this sequence is genuinely It is. So, we're in Tad's bedroom at midnight. The house is dark.",
+  "onScreen": {
+   "place": "bedroom",
+   "words": "TAD'S BEDROOM AT MIDNIGHT"
+  },
+  "viewerGuess": "It is Tad's bedroom at midnight."
+ },
+ {
+  "id": "b090",
+  "narration": "He wakes up needing to use the bathroom and then he sees it. He gets that feeling. His scrotum is literally crawling with fear.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "CRAWLING WITH FEAR"
+  },
+  "viewerGuess": "Tad is crawling with fear in his bed."
+ },
+ {
+  "id": "b091",
+  "narration": "Such a visceral description, right? He looks at his closet and the blankets stacked on a chair inside are morphing into hulking shoulders and amber eyes. He actually smells sweet carrying breath drifting out of the darkness.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "BLANKETS MORPHING INTO SHOULDERS"
+  },
+  "viewerGuess": "The blankets morph into shoulders in the dark."
+ },
+ {
+  "id": "b092",
+  "narration": "It's so vivid. It feels incredibly real to him. Yes. so real that his dad, Vic, has to literally type up a piece of paper and tack it to the wall with monster words to keep the beast at bay.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "letter"
+    }
+   ],
+   "place": "bedroom",
+   "words": "MONSTER WORDS ON THE WALL"
+  },
+  "viewerGuess": "The father writes monster words on the wall as a charm."
+ },
+ {
+  "id": "b093",
+  "narration": "And Vic reads it like a spell, right? He says, \"Monsters, stay out of this room. You have no business here.\" Yeah, exactly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "talk",
+     "holds": "letter"
+    }
+   ],
+   "place": "bedroom",
+   "words": "MONSTERS, STAY OUT OF THIS ROOM"
+  },
+  "viewerGuess": "The father says monsters stay out of this room."
+ },
+ {
+  "id": "b094",
+  "narration": "And here's where it gets really interesting for anyone listening. Childhood fears are often incredibly accurate early warning systems.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "EARLY WARNING SYSTEMS"
+  },
+  "viewerGuess": "Children have early warning systems."
+ },
+ {
+  "id": "b095",
+  "narration": "Kids pick up on micro expressions. They pick up on ambient stress. They sense when the safety of their environment is compromised. Absolutely. They are",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "SENSE WHEN SAFETY IS COMPROMISED"
+  },
+  "viewerGuess": "Kids sense when safety is compromised."
+ },
+ {
+  "id": "b096",
+  "narration": "right? But adults consistently dismiss these fears using cold logic, leaving the vulnerable unprotected.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "blank",
+     "body": "talk"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "ADULTS DISMISS THESE FEARS"
+  },
+  "viewerGuess": "Adults dismiss these fears."
+ },
+ {
+  "id": "b097",
+  "narration": "Donna tries to handle Tad's terror using 1980s pop psychology. She uses parent effectiveness training,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "talk"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "PARENT EFFECTIVENESS TRAINING"
+  },
+  "viewerGuess": "The mother uses Parent Effectiveness Training on the boy."
+ },
+ {
+  "id": "b098",
+  "narration": "basically trying to use active listening and logic to talk a toddler out of primal terror, which never works. Never. And Vic, on the other hand,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "talk"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "ACTIVE LISTENING AND LOGIC"
+  },
+  "viewerGuess": "She uses active listening and logic."
+ },
+ {
+  "id": "b099",
+  "narration": "uses a completely fabricated advertising style incantation. The monster words are essentially a jingle for fast, fast, fast relief.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "smirk",
+     "body": "hold",
+     "holds": "letter"
+    }
+   ],
+   "place": "bedroom",
+   "words": "A JINGLE FOR FAST RELIEF"
+  },
+  "viewerGuess": "The father writes a jingle for fast relief."
+ },
+ {
+  "id": "b100",
+  "narration": "That's a great way to put it. Both parents treat the monster in the closet purely as a psychological symptom of their own marital stress bleeding over onto the kid.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "PSYCHOLOGICAL SYMPTOM OF MARITAL STRESS"
+  },
+  "viewerGuess": "The fear is a psychological symptom of marital stress."
+ },
+ {
+  "id": "b101",
+  "narration": "They don't treat it as a physical warning of actual danger. They intellectualize the fear until it's harmless to them, but it's still completely terrifying to him. And yet, what's brilliant is that Vic experiences",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "STILL COMPLETELY TERRIFYING"
+  },
+  "viewerGuess": "The boy is still completely terrified."
+ },
+ {
+  "id": "b102",
+  "narration": "this primal dread himself, despite all his logic. He does. This is my favorite detail. Vic goes into Tad's closet to investigate, mostly to perform a safety check for his son.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "afraid",
+     "body": "walk"
+    }
+   ],
+   "place": "bedroom",
+   "words": "VIC CHECKS THE CLOSET"
+  },
+  "viewerGuess": "Vic checks the closet."
+ },
+ {
+  "id": "b103",
+  "narration": "He steps in, expecting to smell mothballs and old fabric. But for just a split second, the rational adult smells a savage matted",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "SMELLS A SAVAGE ANIMAL"
+  },
+  "viewerGuess": "He smells a savage animal."
+ },
+ {
+  "id": "b104",
+  "narration": "animal aura. He feels it, too. Yeah. He even sees the closet door swing open on its own later, driven by some unseen draft or maybe gravity, but it paralyzes him with fear.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "THE CLOSET DOOR SWINGS OPEN"
+  },
+  "viewerGuess": "The closet door swings open."
+ },
+ {
+  "id": "b105",
+  "narration": "The text forces the reader and Vic to wonder if the monster is just psychological or if something is actually physically manifesting in that house.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "PSYCHOLOGICAL OR PHYSICAL"
+  },
+  "viewerGuess": "Is the fear psychological or physical?"
+ },
+ {
+  "id": "b106",
+  "narration": "It really blurs the line, which leads me to my theory on this. I really think the monster in the closet is",
+  "onScreen": {
+   "place": "bedroom",
+   "words": "THE MONSTER IN THE CLOSET"
+  },
+  "viewerGuess": "There is a monster in the closet."
+ },
+ {
+  "id": "b107",
+  "narration": "actually Kujo telepathically projecting his raid, feverish madness into Tad's highly sensitive mind across the miles. Yeah, the dog's brain is boiling with a virus. He's in agony and he is",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "TELEPATHICALLY PROJECTING HIS MADNESS"
+  },
+  "viewerGuess": "The rabid dog is telepathically projecting his madness."
+ },
+ {
+  "id": "b108",
+  "narration": "broadcasting this sickness like a radio tower. Because Ted is so young and stressed, he is acting as the receiver. The amber eyes in the closet are Kujo's eyes.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "THE AMBER EYES ARE KUJO'S"
+  },
+  "viewerGuess": "The amber eyes in the closet are Kujo's."
+ },
+ {
+  "id": "b109",
+  "narration": "I mean, it's a very compelling idea, especially given how Stephen King often uses telepathy in his other work, but I completely disagree with that reading here.",
+  "onScreen": {
+   "place": "room",
+   "words": "I COMPLETELY DISAGREE"
+  },
+  "viewerGuess": "The narrator says they completely disagree."
+ },
+ {
+  "id": "b110",
+  "narration": "You do? Yeah. This raises an important question about the town of Castle Rock itself, which is almost its own character in the book.",
+  "onScreen": {
+   "icon": "an intact city skyline",
+   "place": "street",
+   "words": "CASTLE ROCK ITSELF"
+  },
+  "viewerGuess": "Castle Rock itself is the problem."
+ },
+ {
+  "id": "b111",
+  "narration": "The text explicitly links the presence in the closet, not just to Kujo, but to Frank Dodd. Wait, Frank Dodd, the Castle Rock serial Exactly.",
+  "onScreen": {
+   "icon": "an intact city skyline",
+   "place": "street",
+   "words": "LINKED TO FRANK DODD"
+  },
+  "viewerGuess": "The town is linked to Frank Dodd."
+ },
+ {
+  "id": "b112",
+  "narration": "The cop who murdered women in that town years prior. Dot eventually killed himself, but the psychological stain of that immense trauma lingers in the town's subconscious. It poisoned the groundwater, so to speak.",
+  "onScreen": {
+   "icon": "an intact city skyline",
+   "place": "street",
+   "words": "POISONED THE GROUNDWATER"
+  },
+  "viewerGuess": "Evil poisoned the groundwater of the town."
+ },
+ {
+  "id": "b113",
+  "narration": "Oh, wow. I didn't think about it like Yeah. During one of Tad's terrors, the monster actually speaks in Tad's mind. It says, \"My name was Frank Dodd once. I'm the monster, Tad, the old",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "MY NAME WAS FRANK DODD"
+  },
+  "viewerGuess": "The boy hears a voice say my name was Frank Dodd."
+ },
+ {
+  "id": "b114",
+  "narration": "monster.\" That is so creepy, right? It's the ambient historical evil of the town manifesting in a stressed little boy whose parents' marriage is failing. The crack in the Trenton family's foundation allows",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "bedroom",
+   "words": "EVIL MANIFESTING IN A BOY"
+  },
+  "viewerGuess": "Evil is manifesting in a boy."
+ },
+ {
+  "id": "b115",
+  "narration": "the ambient darkness of Castle Rock to seep right Okay, I see what you're saying. So, it's not a telepathic dog.",
+  "onScreen": {
+   "place": "bedroom",
+   "words": "NOT A TELEPATHIC DOG"
+  },
+  "viewerGuess": "It is not a telepathic dog."
+ },
+ {
+  "id": "b116",
+  "narration": "It's the environment again. Just like the bones in the cave, the lingering ghost of human violence finds a crack in Tad's psychological armor, making him hypervulnerable right as a physical monster is about to enter his",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "bedroom",
+   "words": "A CRACK IN HIS ARMOR"
+  },
+  "viewerGuess": "There is a crack in the boy's armor."
+ },
+ {
+  "id": "b117",
+  "narration": "life. Well, whether it's psychological trauma or a telepathic projection, it proves the point.",
+  "onScreen": {
+   "place": "bedroom",
+   "words": "PSYCHOLOGICAL OR TELEPATHIC"
+  },
+  "viewerGuess": "Is it psychological or telepathic?"
+ },
+ {
+  "id": "b118",
+  "narration": "The trap is built from the Let's move to the physical mechanism of the trap itself because this is where the mundane details become incredibly",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "place": "highway",
+   "words": "THE TRAP IS BUILT"
+  },
+  "viewerGuess": "The trap is built around the hot car."
+ },
+ {
+  "id": "b119",
+  "narration": "Right. Put yourself in the pinto on town road number three. It's high noon.",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "place": "highway",
+   "words": "ON TOWN ROAD NUMBER THREE"
+  },
+  "viewerGuess": "It happens on Town Road number three."
+ },
+ {
+  "id": "b120",
+  "narration": "The sun is a relentless physical hammer beating down on the roof of this cheap mass-produced",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "place": "highway",
+   "words": "THE SUN IS A HAMMER"
+  },
+  "viewerGuess": "The sun beats down like a hammer."
+ },
+ {
+  "id": "b121",
+  "narration": "1970s hatchback. Those cars were not built for comfort. No, they were not.",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "place": "highway",
+   "words": "NOT BUILT FOR COMFORT"
+  },
+  "viewerGuess": "The car is not built for comfort in the heat."
+ },
+ {
+  "id": "b122",
+  "narration": "Donna and Tad are climbing the steep, unpaved hill to the camera farm. The engine is struggling.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "words": "THE ENGINE STRUGGLES"
+  },
+  "viewerGuess": "The engine struggles with mother and son inside."
+ },
+ {
+  "id": "b123",
+  "narration": "The speedometer needle shuddters and drops from 40 down to 30. You can just hear it dying. Yes. The engine bucks violently under the hood.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "words": "NEEDLE DROPS TO 30"
+  },
+  "viewerGuess": "The needle drops to 30."
+ },
+ {
+  "id": "b124",
+  "narration": "The exhaust is backfiring with these loud popping sounds. And the red amp idiot light flickers on the plastic dash like a dying heartbeat.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "words": "RED LIGHT FLICKERS"
+  },
+  "viewerGuess": "A red warning light flickers."
+ },
+ {
+  "id": "b125",
+  "narration": "It's giving up completely. The car manages to roll into the camera driveway on its very last pathetic gasp of momentum and then the engine just dies.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "words": "ENGINE JUST DIES"
+  },
+  "viewerGuess": "The engine just dies."
+ },
+ {
+  "id": "b126",
+  "narration": "Complete silence. Utter catastrophic mechanical failure at the worst possible",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "blank",
+     "body": "idle"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "words": "COMPLETE SILENCE"
+  },
+  "viewerGuess": "There is complete silence in the dead car."
+ },
+ {
+  "id": "b127",
+  "narration": "geographic location. Right? And here is what we need to realize about our modern lives.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a six-year-old boy",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "words": "WORST POSSIBLE LOCATION"
+  },
+  "viewerGuess": "This is the worst possible location to be stranded."
+ },
+ {
+  "id": "b128",
+  "narration": "We trust our technology implicitly. You get in your car, you turn the key, you expect explosions in the engine block to perfectly propel you forward. We don't even think about it.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "take",
+     "holds": "key"
+    }
+   ],
+   "words": "TURN THE KEY"
+  },
+  "viewerGuess": "She turns the key."
+ },
+ {
+  "id": "b129",
+  "narration": "No, we take it for But the moment our machines fail us, the moment that needle valve in the carburetor gets stuck and floods the engine, we are instantly stripped of centuries of human defense.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Machines fail / Defense stripped"
+  },
+  "viewerGuess": "When machines fail our defense is stripped."
+ },
+ {
+  "id": "b130",
+  "narration": "We really are. We are plunged right back down the food chain, left as vulnerable as our ancient ancestors out on the savannah. In the span of 3 seconds, that Ford Pinto",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Machines fail / Defense stripped / Food chain"
+  },
+  "viewerGuess": "Then we are placed in the food chain."
+ },
+ {
+  "id": "b131",
+  "narration": "stops being a marvel of modern trans transportation and becomes nothing more than a metal cage baking in the sun. It's a terrifying paradigm shift.",
+  "onScreen": {
+   "icon": "a closed car with heat waves rising from it",
+   "words": "BAKING IN THE SUN"
+  },
+  "viewerGuess": "The car bakes in the sun."
+ },
+ {
+  "id": "b132",
+  "narration": "But I want to highlight that technology and specifically Donna's ingrained technological habits is also the only thing that saves them in that initial moment of contact. Oh yes, this is such a",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "HER HABITS SAVE THEM"
+  },
+  "viewerGuess": "Her habits save them."
+ },
+ {
+  "id": "b133",
+  "narration": "brilliant detail. Donna's father taught her to drive and he drilled a very specific almost militaristic routine into her head when parking.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "A PARKING ROUTINE"
+  },
+  "viewerGuess": "She has a parking routine."
+ },
+ {
+  "id": "b134",
+  "narration": "Stop the car, roll up the window, set the parking brake, take the keys out of the ignition. It's rope It's just muscle memory for her.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "take",
+     "holds": "key"
+    }
+   ],
+   "words": "TAKE THE KEYS OUT"
+  },
+  "viewerGuess": "She takes the keys out."
+ },
+ {
+  "id": "b135",
+  "narration": "That completely automatic ordinary habit is the only thing that saves her throat from being ripped out by Kujo in the first 10 seconds.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "hold",
+     "holds": "key"
+    }
+   ],
+   "words": "SAVES HER THROAT"
+  },
+  "viewerGuess": "Holding the keys saves her throat."
+ },
+ {
+  "id": "b136",
+  "narration": "She is rolling her window up mechanically, not even thinking about it, just as this 200lb raid monstrosity lunges out of the dark It's so close. So close. If she hadn't had that mundane",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "KUJO LUNGES AT DONNA"
+  },
+  "viewerGuess": "Kujo lunges at Donna."
+ },
+ {
+  "id": "b137",
+  "narration": "driver's ed reflex instilled in her decades ago, they would have been dead before they even realized what was It's crazy to think about.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    },
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "DRIVER'S ED REFLEX"
+  },
+  "viewerGuess": "A driver's ed reflex kicks in."
+ },
+ {
+  "id": "b138",
+  "narration": "But honestly, looking at the leadup to this moment, I have to heavily criticize Donna here because",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "HEAVILY CRITICIZE DONNA"
+  },
+  "viewerGuess": "Critics would heavily criticize Donna."
+ },
+ {
+  "id": "b139",
+  "narration": "it was wildly unfathomably foolish to drive a severely stalling car into the remote countryside 5 miles out of town to a deadend road with a 4-year-old child in the passenger seat.",
+  "onScreen": {
+   "icon": "a road",
+   "words": "A DEAD-END ROAD"
+  },
+  "viewerGuess": "It is a dead-end road."
+ },
+ {
+  "id": "b140",
+  "narration": "Okay, I see where you're going. She knew the car was acting up. She had a teenage babysitter already lined up for the afternoon. She could have left Had safely at home, taken her chances with a stalling car alone,",
+  "onScreen": {
+   "icon": "a house",
+   "words": "LEFT SAFELY AT HOME"
+  },
+  "viewerGuess": "The family is left safely at home."
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "KEMP, DONNA’S FORMER LOVER"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "VIC IS CONSUMED BY WORK"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "THEIR MARRIAGE IS UNDER STRAIN"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle",
+    "holds": "key"
+   }
+  ],
+  "words": "PART OF THE ROUTINE"
+ }
+]

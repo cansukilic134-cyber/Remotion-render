@@ -1,0 +1,31 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "THE SICK DOG GROWLS"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "TAD IS DELIRIOUS"
+ }
+]

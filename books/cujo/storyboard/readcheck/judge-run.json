@@ -1,0 +1,15 @@
+{
+ "run": "cujo-judge-f1429a1f2fc0",
+ "prepRun": "cujo-prep-b65ebf054289",
+ "at": "2026-11-06T05:36:59.112Z",
+ "inputs": {
+  "1": {
+   "guess": "551c0458af732c1aad29ced383c19c901c95e33c9b8b471c06d8171aad0e4a65",
+   "judge": "9f4edbfc1c0faa0470ae7848303f0dade087129338f2f2e94032b7d75413ff53"
+  },
+  "2": {
+   "guess": "6589fa1ac6ab18fc03d734ca37850e9cb954e0ed0b42d104d9993683081c474e",
+   "judge": "5a62ceee0a87d374418339e7b1875fcd35b3df1d38ef2b19be997f148ebc4634"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+[
+ {
+  "id": "b001",
+  "narration": "It's sweltering. It's a brutal main summer heatwave. [snorts] Donna is screaming at her former lover, Steve Kemp, trying to force him out of her house.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "angry",
+     "body": "talk"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "kitchen",
+   "words": "DONNA TELLS KEMP TO LEAVE"
+  },
+  "viewerGuess": "Donna angrily confronts Kemp in the kitchen and tells him to leave."
+ },
+ {
+  "id": "b002",
+  "narration": "Exactly. And more importantly, he actively avoids telling his dad because he's afraid his dad will use the sick dog as an excuse to cancel their rare, exciting trip to see his aunt.",
+  "onScreen": {
+   "icon": "a family group of figures",
+   "place": "room",
+   "words": "BRETT HIDES IT FROM HIS DAD"
+  },
+  "viewerGuess": "Brett hides something from his dad while the family is around."
+ },
+ {
+  "id": "b003",
+  "narration": "simply wanted to take her son on a Greyhound bus trip to Connecticut to see her sister Holly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a road",
+   "words": "CHARITY PLANS A BUS TO CONNECTICUT"
+  },
+  "viewerGuess": "Charity plans a bus trip to Connecticut."
+ }
+]

@@ -1,0 +1,48 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-06T16:10:08.796Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "55748c9b",
+      "tools": "e1885490",
+      "pin": "55748c9bd183",
+      "configHash": "4ed83e6e24d1c976",
+      "renderInputHash": "fba0abba31bc9dcb",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 443
+      },
+      "preview": {
+        "state": "MISSING",
+        "covered": true,
+        "mute": null
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Operator (savas, 2026-11-06): accepted Cujo preview NOT READY after 2 fix rounds - mute FAIL (final WRONG 2/DEAD 9/ADDS 50%; run2 3/10/57%; run3 2/11/43%), redundancy echo 73%; readcheck 0 WRONG; screen-text PASS; firewall REVIEW only. Operator ordered render on all GitHub accounts and YouTube preparation.",
+        "covered": 31,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-06T16:09:55.110Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    }
+  ]
+}

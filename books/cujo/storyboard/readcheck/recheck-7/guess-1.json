@@ -1,0 +1,13 @@
+[
+{"id":"b001","guess":"A huge rabid dog, furious, lurks near a house, threatening those inside.","misleading":"The icon is a plain house; the figure is described as a person-like character rather than clearly an animal."},
+{"id":"b002","guess":"The big dog wanders happily down a road toward the town.","misleading":"The happy face on a rabid creature contradicts the menace."},
+{"id":"b003","guess":"The dog stands calmly while an abstract line suggests paths or consequences branching out.","misleading":"The abstract orange branching line has no clear literal meaning."},
+{"id":"b004","guess":"A worried woman and a neutral man at home discuss their strained relationship or a worry that is spreading.","misleading":"The abstract orange branching line, which does not say what they are discussing."},
+{"id":"b005","guess":"The angry dog rampages through the street and sets things ablaze, bringing destruction to the neighborhood.","misleading":"The flames suggest a fire rather than an animal attack."},
+{"id":"b006","guess":"A family sits together at home, shown as a unit in danger.","misleading":"No creature or threat is shown, so the family looks safe."},
+{"id":"b007","guess":"The narrator says our blind spots leave us unprotected in the wilderness.","misleading":"The shield icon suggests safety rather than blind spots."},
+{"id":"b008","guess":"A mother and her young son are trapped in a sweltering closed car in the woods, afraid.","misleading":"The forest place hides the fact that a car is the key setting; heat waves could read as engine trouble."},
+{"id":"b009","guess":"The narrator talks about love and emotional stakes.","misleading":"A lone heart gives no concrete subject; it could be romance or health."},
+{"id":"b010","guess":"The dog is startled and surprised by what happens next.","misleading":"Surprised face on a rabid animal; no setting or context."},
+{"id":"b011","guess":"The narrator concludes the dog is not a monster, just a sick animal deserving pity.","misleading":"The heart icon with the words may read as a love story rather than sympathy."}
+]

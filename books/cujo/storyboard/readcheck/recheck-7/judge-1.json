@@ -1,0 +1,155 @@
+[
+ {
+  "id": "b001",
+  "narration": "St. Not at all. It's a dying rabid machine just waiting for them to open the door.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "icon": "a house"
+  },
+  "viewerGuess": "A huge rabid dog, furious, lurks near a house, threatening those inside."
+ },
+ {
+  "id": "b002",
+  "narration": "Sure. And he's chasing a plump brown rabbit across a sunlit meadow. The rabbit zigs and zags and it drops into a hidden overgrown hole.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "happy",
+     "body": "walk"
+    }
+   ],
+   "icon": "a road"
+  },
+  "viewerGuess": "The big dog wanders happily down a road toward the town."
+ },
+ {
+  "id": "b003",
+  "narration": "so small you'd barely even notice it if you weren't looking for it, which is crazy. Because here is what that means for you and why it's so chilling.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "an abstract orange branching line"
+  },
+  "viewerGuess": "The dog stands calmly while an abstract line suggests paths or consequences branching out."
+ },
+ {
+  "id": "b004",
+  "narration": "I really do. But I have to push back on that reading. Oh, really? Yeah. If we connect this to the bigger picture, it's actually Vic's professional panic that isolates her.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "an abstract orange branching line",
+   "place": "room"
+  },
+  "viewerGuess": "A worried woman and a neutral man at home discuss their strained relationship or a worry that is spreading."
+ },
+ {
+  "id": "b005",
+  "narration": "His muzzle is scratched, festering, and swollen. There's a constant low, unnatural rumble deep in his chest. He's clearly very sick, right?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "icon": "flames",
+   "place": "street"
+  },
+  "viewerGuess": "The angry dog rampages through the street and sets things ablaze, bringing destruction to the neighborhood."
+ },
+ {
+  "id": "b006",
+  "narration": "He tells himself Kujo just ate some poison bait in the woods or has a passing stomach bug. He talks himself out of it.",
+  "onScreen": {
+   "icon": "a family group of figures",
+   "place": "room"
+  },
+  "viewerGuess": "A family sits together at home, shown as a unit in danger."
+ },
+ {
+  "id": "b007",
+  "narration": "Normaly bias literally killed them. Our blind spots are our everyday affections.",
+  "onScreen": {
+   "icon": "a shield",
+   "place": "forest",
+   "words": "OUR BLIND SPOTS"
+  },
+  "viewerGuess": "The narrator says our blind spots leave us unprotected in the wilderness."
+ },
+ {
+  "id": "b008",
+  "narration": "His eyes are rolled back in his head. He's actively hallucinating, mumbling about the ducks at the Magic Lantern movie theater back in town.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a closed car with heat waves rising from it",
+   "place": "forest"
+  },
+  "viewerGuess": "A mother and her young son are trapped in a sweltering closed car in the woods, afraid."
+ },
+ {
+  "id": "b009",
+  "narration": "So, bringing all of this together, let's reframe this entire discussion for you listening at home.",
+  "onScreen": {
+   "icon": "a heart"
+  },
+  "viewerGuess": "The narrator talks about love and emotional stakes."
+ },
+ {
+  "id": "b010",
+  "narration": "We started out looking for a monster story. We expected a supernatural beast.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ]
+  },
+  "viewerGuess": "The dog is startled and surprised by what happens next."
+ },
+ {
+  "id": "b011",
+  "narration": "But the rabbid dog didn't win because it was supernatural. No, it wasn't evil. It wasn't brilliant or tactical.",
+  "onScreen": {
+   "icon": "a heart",
+   "words": "IT IS NOT A MONSTER"
+  },
+  "viewerGuess": "The narrator concludes the dog is not a monster, just a sick animal deserving pity."
+ }
+]

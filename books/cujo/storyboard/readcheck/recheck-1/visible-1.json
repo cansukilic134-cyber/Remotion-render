@@ -1,0 +1,37 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "angry",
+    "body": "talk"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "kitchen",
+  "words": "DONNA TELLS KEMP TO LEAVE"
+ },
+ {
+  "id": "b002",
+  "icon": "a family group of figures",
+  "place": "room",
+  "words": "BRETT HIDES IT FROM HIS DAD"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a road",
+  "words": "CHARITY PLANS A BUS TO CONNECTICUT"
+ }
+]

@@ -1,0 +1,111 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "icon": "a house"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "happy",
+    "body": "walk"
+   }
+  ],
+  "icon": "a road"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "an abstract orange branching line"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "an abstract orange branching line",
+  "place": "room"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "icon": "flames",
+  "place": "street"
+ },
+ {
+  "id": "b006",
+  "icon": "a family group of figures",
+  "place": "room"
+ },
+ {
+  "id": "b007",
+  "icon": "a shield",
+  "place": "forest",
+  "words": "OUR BLIND SPOTS"
+ },
+ {
+  "id": "b008",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "place": "forest"
+ },
+ {
+  "id": "b009",
+  "icon": "a heart"
+ },
+ {
+  "id": "b010",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ]
+ },
+ {
+  "id": "b011",
+  "icon": "a heart",
+  "words": "IT IS NOT A MONSTER"
+ }
+]

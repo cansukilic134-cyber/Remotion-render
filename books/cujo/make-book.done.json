@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-06T15:24:09.694Z",
+  "at": "2026-11-06T15:26:35.905Z",
+  "config": "config.antidote.json",
+  "configSha256": "4ed83e6e24d1c9760de9fd62d45e54c7c670f4e3ef58f7f4f6a7d6859e9146ba",
+  "inputs": {
+    "storyboard": {
+      "path": "books/cujo/art.json",
+      "sha256": "16dbece6abaf4030c65d1b3bab756f0c4456e801ccee857a570262aeae6570e9"
+    },
+    "storyBible": {
+      "path": "books/cujo/story-bible.json",
+      "sha256": "e1f1487c7583d64e57f8cc85e4257d38f7a9ce8f25c3bf960aa4a960de06487c"
+    },
+    "motifs": {
+      "path": "books/cujo/motifs.json",
+      "sha256": "444ca2b932cf7e03bf59df714fdca9c86a41d558c2bda037e267a61bfea83371"
+    },
+    "vtt": {
+      "path": "public/captions/cujo.vtt",
+      "sha256": "72a31fdbc97e39d0bf965f04daba44e9d8598e6b77c4513816f3d8dd861f014a"
+    },
+    "audio": {
+      "path": "public/audio/cujo.mp3",
+      "sha256": "9884b3c40126838fd55d07df18ce075d6e65a2d32ad4724e4563ad5915ed36f5"
+    }
+  },
+  "head": "55748c9bd183ee20a20956c3e62946b72125a7cc",
+  "previewOnly": true,
+  "skipPack": true
+}

@@ -1,0 +1,1024 @@
+[
+  {
+    "i": 76,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "INTENSE LOCALIZED PANIC",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "cast": [
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Donna's fear of Kemp exposing the affair freezes her: a feeling, staged as her face.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna's fear of exposure paralyzes her.",
+      "concreteVisual": "Donna, afraid, in the kitchen.",
+      "onScreenText": "INTENSE LOCALIZED PANIC",
+      "relationToPrevious": "Opens the passage on Donna's guilt and fear.",
+      "addedInformation": "weak: the panic is a feeling, shown only as a face and the callout."
+    }
+  },
+  {
+    "i": 77,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "donna",
+      "kemp"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Donna is afraid of Kemp's violence: the threat is the second person, drawn angry.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna fears Kemp's violence.",
+      "concreteVisual": "Donna afraid beside Kemp, angry, lanky, dark jacket.",
+      "onScreenText": "none",
+      "relationToPrevious": "From her panic to the man she fears.",
+      "addedInformation": "Kemp is named in the narration; his anger is the stated threat."
+    }
+  },
+  {
+    "i": 78,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE GUILT READING",
+        "claim": "Donna's guilt isolates her",
+        "inputs": [
+          "Donna's guilt",
+          "keeping secrets"
+        ],
+        "hub": "isolation",
+        "output": "isolates her",
+        "verdict": "push back on that reading",
+        "reason": "terrified of losing his agency",
+        "truth": "Vic's professional panic",
+        "cues": {
+          "links": "keeping secrets",
+          "result": "isolates her"
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The claim the narration puts forward: Donna's guilt is what isolates her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Guilt isolates Donna by keeping secrets.",
+      "concreteVisual": "The claim diagram: guilt and keeping secrets feed isolation.",
+      "onScreenText": "none",
+      "relationToPrevious": "Donna's fear becomes the first reading of the isolation.",
+      "addedInformation": "The claim is stated, not yet doubted."
+    }
+  },
+  {
+    "i": 79,
+    "concept": "crack",
+    "diagram": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "donna",
+      "vic"
+    ],
+    "continue": true,
+    "explainedBy": "The guilt reading is rejected and replaced by Vic's professional panic as the isolation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The guilt reading is rejected; Vic's panic isolates her.",
+      "concreteVisual": "Donna and Vic apart, a crack between them.",
+      "onScreenText": "none",
+      "relationToPrevious": "Rejects the claim the diagram holds.",
+      "addedInformation": "Replaces the claim with the narration's own model."
+    },
+    "expression": "worried",
+    "action": "idle"
+  },
+  {
+    "i": 80,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "VIC IS CAPABLE AT HOME",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "vic"
+    ],
+    "continue": true,
+    "explainedBy": "Vic's character (the swing set, mechanically capable) is the setup for the replacement model.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic is capable and hands-on when things are normal.",
+      "concreteVisual": "Vic, neutral, capable, in the room.",
+      "onScreenText": "VIC IS CAPABLE AT HOME",
+      "relationToPrevious": "Holds the diagram while the narration gives Vic's character.",
+      "addedInformation": "weak: the swing set is narration only; the diagram carries the argument."
+    },
+    "expression": "neutral",
+    "action": "idle"
+  },
+  {
+    "i": 81,
+    "concept": null,
+    "diagram": {
+      "type": "refute",
+      "labels": [],
+      "scale": 1.3,
+      "refute": {
+        "owner": "THE GUILT READING",
+        "claim": "Donna's guilt isolates her",
+        "inputs": [
+          "Donna's guilt",
+          "keeping secrets"
+        ],
+        "hub": "isolation",
+        "output": "isolates her",
+        "verdict": "push back on that reading",
+        "reason": "terrified of losing his agency",
+        "truth": "Vic's professional panic",
+        "cues": {
+          "reason": "terrified of losing his agency"
+        }
+      }
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The reason: Vic is so terrified of losing his agency that he ignores the household.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic's fear of losing his agency is the reason.",
+      "concreteVisual": "The diagram, with the reason spotlighted.",
+      "onScreenText": "none",
+      "relationToPrevious": "Gives the WHY of the replacement model.",
+      "addedInformation": "The reason is the narration's own words."
+    }
+  },
+  {
+    "i": 82,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "vic"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Vic ignores the physical reality of his household: apathy toward the car.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic ignores the household's physical state.",
+      "concreteVisual": "Vic, blank-faced, in the room.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the reason to the neglect it causes.",
+      "addedInformation": "weak: indifference shown as a face; the failing valve has no icon."
+    }
+  },
+  {
+    "i": 83,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE PINTO IS STALLING",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The Pinto is stalling out: a failing needle valve that no one fixes.",
+    "noVisual": "The vocabulary has no icon for a failing valve; the stall is carried by the callout.",
+    "storyboard": {
+      "claim": "The Pinto's needle valve is failing.",
+      "concreteVisual": "Empty room; the callout names the car's stall.",
+      "onScreenText": "THE PINTO IS STALLING",
+      "relationToPrevious": "From Vic's neglect to the car's fault.",
+      "addedInformation": "weak: text-carried, no picture of the car."
+    }
+  },
+  {
+    "i": 84,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "room",
+    "cast": [
+      "vic"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Vic leaves his family isolated with a broken car while he flies away.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic's neglect isolates Donna and Tad.",
+      "concreteVisual": "Vic, blank, in the room.",
+      "onScreenText": "none",
+      "relationToPrevious": "Carries the neglect to its result.",
+      "addedInformation": "The isolation is the narration's word; no travel is drawn."
+    }
+  },
+  {
+    "i": 85,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Marriage crashing",
+        "Car unmaintained"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "explainedBy": "Cause and effect: the marriage crashing leaves the car unmaintained.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A crashing marriage means the car goes unmaintained.",
+      "concreteVisual": "A flow: marriage crashing, then car unmaintained.",
+      "onScreenText": "Marriage crashing; Car unmaintained",
+      "relationToPrevious": "Turns the neglect into a cause-and-effect flow.",
+      "addedInformation": "The two labels are the narration's own cause and effect."
+    }
+  },
+  {
+    "i": 86,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Lethal threat missed"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The flow grows one step: the blind spot means the lethal threat in the driveway is missed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The blind spot makes him miss the lethal threat.",
+      "concreteVisual": "The same flow with a third label added.",
+      "onScreenText": "Lethal threat missed",
+      "relationToPrevious": "Adds the result of the chain.",
+      "addedInformation": "The third label is the narration's consequence."
+    }
+  },
+  {
+    "i": 87,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Household tension",
+        "Trickles down",
+        "To Tad"
+      ]
+    },
+    "callout": null,
+    "set": "room",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The same chain: the household tension trickles down to Tad, the most vulnerable.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tension trickles down to the most vulnerable person.",
+      "concreteVisual": "The same flow, unchanged.",
+      "onScreenText": "none",
+      "relationToPrevious": "Holds the chain while the narration names Tad.",
+      "addedInformation": "weak: no new label; the chain carries the point."
+    }
+  },
+  {
+    "i": 88,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "TAD'S BEDROOM AT MIDNIGHT",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "cast": [],
+    "explainedBy": "The scene moves to Tad's dark bedroom at midnight.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sequence starts in Tad's bedroom at midnight.",
+      "concreteVisual": "A dark bedroom, empty.",
+      "onScreenText": "TAD'S BEDROOM AT MIDNIGHT",
+      "relationToPrevious": "Cut from the diagram to the room.",
+      "addedInformation": "The room and the hour are stated; nothing more."
+    }
+  },
+  {
+    "i": 89,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Tad wakes and feels fear crawl over him: his face is afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tad wakes in fear.",
+      "concreteVisual": "Tad, afraid, in the bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the empty room to Tad.",
+      "addedInformation": "weak: the fear is a feeling, shown as a face."
+    }
+  },
+  {
+    "i": 90,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The blankets on the chair seem to turn into a hulking shape in Tad's fear.",
+    "noVisual": "The monster exists only in the child's view; the vocabulary has no closet icon, so the blankets are named by the callout.",
+    "storyboard": {
+      "claim": "Tad sees a monster in the blankets.",
+      "concreteVisual": "Tad, afraid, the same bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "Keeps Tad's stage; the callout names what he sees.",
+      "addedInformation": "weak: the shape is not drawn, only named."
+    }
+  },
+  {
+    "i": 91,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "MONSTER WORDS ON THE WALL",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "letter",
+    "explainedBy": "Vic holds the paper he typed up and tacks to the wall, with monster words.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic makes a paper of monster words for the wall.",
+      "concreteVisual": "Vic holds a sheet of paper in the bedroom.",
+      "onScreenText": "MONSTER WORDS ON THE WALL",
+      "relationToPrevious": "Vic enters with the paper.",
+      "addedInformation": "The paper is the object the narration names."
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "holds": "letter",
+    "continue": true,
+    "explainedBy": "Vic reads the paper aloud like a spell; the words are the callout.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic recites the monster words.",
+      "concreteVisual": "Vic, talking, holding the paper.",
+      "onScreenText": "none",
+      "relationToPrevious": "The same paper, now spoken.",
+      "addedInformation": "The callout is the narration's quote."
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Childhood fears are early warning systems: the child, worried, is the sensor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Childhood fears are accurate warnings.",
+      "concreteVisual": "Tad, worried, in the bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the monster to the child's sense of it.",
+      "addedInformation": "weak: commentary shown as a face."
+    }
+  },
+  {
+    "i": 94,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Children sense when the safety of their environment is compromised.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Children sense threats in the home.",
+      "concreteVisual": "Tad, worried, same bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; the callout states the sensing.",
+      "addedInformation": "weak: the sensing itself is not drawn."
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "vic",
+      "tad"
+    ],
+    "expression": "blank",
+    "action": "talk",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Adults dismiss the child's fears: Vic, blank, talks while Tad is afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Adults dismiss children's fears.",
+      "concreteVisual": "Vic, blank, talking; Tad afraid beside him.",
+      "onScreenText": "none",
+      "relationToPrevious": "The child's fear now faces an adult's dismissal.",
+      "addedInformation": "The relation is the dismissal; the partner's fear is stated."
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "Donna tries parent effectiveness training on Tad's terror: she talks, he is afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna uses a 1980s parenting method.",
+      "concreteVisual": "Donna, worried, talking to Tad, afraid.",
+      "onScreenText": "none",
+      "relationToPrevious": "Donna takes over from Vic's dismissal.",
+      "addedInformation": "The method is named in the callout."
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "donna",
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "continue": true,
+    "explainedBy": "Donna uses active listening and logic on a toddler's primal terror, which never works.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Logic does not calm the child.",
+      "concreteVisual": "Donna, worried, still talking; Tad afraid.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; the callout names the method.",
+      "addedInformation": "weak: the failure is stated, not drawn."
+    }
+  },
+  {
+    "i": 98,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "smirk",
+    "action": "hold",
+    "holds": "letter",
+    "explainedBy": "Vic's monster words are a jingle: he holds the paper with an ad man's smirk.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic's words are an advertising jingle.",
+      "concreteVisual": "Vic, smirking, holding the paper.",
+      "onScreenText": "none",
+      "relationToPrevious": "Back to Vic and the paper.",
+      "addedInformation": "The smirk carries the ad-man's charm, the callout the jingle."
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THEIR MARRIAGE IS UNDER STRAIN",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "donna",
+      "vic"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Both parents treat the monster as a symptom of their own marriage: two people, the same blank stance.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Both parents read the monster as their marriage's stress.",
+      "concreteVisual": "Donna and Vic side by side, neutral.",
+      "onScreenText": "THEIR MARRIAGE IS UNDER STRAIN",
+      "relationToPrevious": "Widens from one parent to both.",
+      "addedInformation": "Two people are shown as the narration names them; the shared stance is the claim."
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The parents' logic does not stop Tad's terror: he is afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The terror is still real for the child.",
+      "concreteVisual": "Tad, afraid, in the bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "Back to the child after the parents.",
+      "addedInformation": "weak: the fear is a face."
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "VIC CHECKS THE CLOSET",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "afraid",
+    "action": "walk",
+    "explainedBy": "Vic walks to the closet to check it, and he is afraid himself.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic goes to check the closet.",
+      "concreteVisual": "Vic, afraid, walking toward the closet area.",
+      "onScreenText": "VIC CHECKS THE CLOSET",
+      "relationToPrevious": "The adult now enters the fear.",
+      "addedInformation": "The walk is the deed the narration gives."
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "SMELLS A SAVAGE ANIMAL",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "For a second the rational adult smells a savage animal: his face is afraid.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic smells an animal he cannot explain.",
+      "concreteVisual": "Vic, afraid, at the closet.",
+      "onScreenText": "SMELLS A SAVAGE ANIMAL",
+      "relationToPrevious": "Continues Vic's check into fear.",
+      "addedInformation": "weak: the smell is named, not drawn."
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CLOSET DOOR SWINGS OPEN",
+      "style": "reveal"
+    },
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The closet door swings open on its own; Vic is paralyzed by fear.",
+    "noVisual": "A door opening is not drawn: the vocabulary's door icon reads as a closed book.",
+    "storyboard": {
+      "claim": "The closet door opens by itself.",
+      "concreteVisual": "Vic, afraid, same bedroom.",
+      "onScreenText": "THE CLOSET DOOR SWINGS OPEN",
+      "relationToPrevious": "Same stage; the event is named.",
+      "addedInformation": "weak: the door movement is text-only."
+    }
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PSYCHOLOGICAL OR PHYSICAL",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The text leaves the reader wondering whether the monster is psychological or physical.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The monster may be psychological or physical.",
+      "concreteVisual": "Vic, worried, in the bedroom.",
+      "onScreenText": "PSYCHOLOGICAL OR PHYSICAL",
+      "relationToPrevious": "Vic's face moves from fear to wonder.",
+      "addedInformation": "weak: the open question is a callout."
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE MONSTER IN THE CLOSET",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [],
+    "explainedBy": "The host's theory names the monster in the closet: no person is shown.",
+    "noVisual": "A host's theory has no figure; the callout labels it.",
+    "storyboard": {
+      "claim": "The hosts name their theory.",
+      "concreteVisual": "Empty bedroom with the callout.",
+      "onScreenText": "THE MONSTER IN THE CLOSET",
+      "relationToPrevious": "Moves from the scene to the hosts' theory.",
+      "addedInformation": "weak: a label, no picture of the theory."
+    }
+  },
+  {
+    "i": 106,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "The theory: Kujo projects his rabid madness into Tad's mind across the miles.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo broadcasts his madness telepathically.",
+      "concreteVisual": "Kujo, angry, in the forest.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the closet to the dog that is the theory's source.",
+      "addedInformation": "The dog stands for the theory the narration offers."
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The amber eyes in the closet are, in the theory, Kujo's eyes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The amber eyes belong to Kujo.",
+      "concreteVisual": "Kujo, angry, same forest.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; the claim is sharpened.",
+      "addedInformation": "The eyes are the narration's detail, named in the callout."
+    }
+  },
+  {
+    "i": 108,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "I COMPLETELY DISAGREE",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [],
+    "explainedBy": "The host rejects the telepathy reading: a rejection, not a picture.",
+    "noVisual": "A rejection has no figure; the callout carries it.",
+    "storyboard": {
+      "claim": "The host rejects the telepathy reading.",
+      "concreteVisual": "Empty room with the callout.",
+      "onScreenText": "I COMPLETELY DISAGREE",
+      "relationToPrevious": "Turns against the theory.",
+      "addedInformation": "weak: text-only rejection."
+    }
+  },
+  {
+    "i": 109,
+    "concept": "road",
+    "diagram": null,
+    "callout": null,
+    "set": "street",
+    "cast": [],
+    "explainedBy": "The town of Castle Rock is almost a character: a standing town.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Castle Rock is a character in the book.",
+      "concreteVisual": "A standing town on the street set.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the theory to the town itself.",
+      "addedInformation": "The city icon reads the town as a place."
+    }
+  },
+  {
+    "i": 110,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "LINKED TO FRANK DODD",
+      "style": "reveal"
+    },
+    "set": "street",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The text links the presence in the closet to Frank Dodd, the Castle Rock serial killer.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The presence links to Frank Dodd.",
+      "concreteVisual": "The same town on the street set.",
+      "onScreenText": "LINKED TO FRANK DODD",
+      "relationToPrevious": "Same stage; the name is added.",
+      "addedInformation": "The name is the narration's link."
+    }
+  },
+  {
+    "i": 111,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "POISONED THE GROUNDWATER",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Dodd's trauma lingers in the town and poisons it: the same town, now stained.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dodd's trauma stains the whole town.",
+      "concreteVisual": "The same town on the street set.",
+      "onScreenText": "POISONED THE GROUNDWATER",
+      "relationToPrevious": "Same stage; the stain is named.",
+      "addedInformation": "weak: the poisoning is a metaphor shown only by the callout."
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "During Tad's terror the monster speaks in his mind: Tad, afraid, hears the name.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The monster speaks as Frank Dodd.",
+      "concreteVisual": "Tad, afraid, in the bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "Back to the bedroom and the child.",
+      "addedInformation": "The name is spoken in the narration, written on screen."
+    }
+  },
+  {
+    "i": 113,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Ambient historical evil shows itself in a stressed little boy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ambient evil manifests in Tad.",
+      "concreteVisual": "Tad, worried, same bedroom.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; the claim widens to the family.",
+      "addedInformation": "weak: the crack in the family is not drawn, only named."
+    }
+  },
+  {
+    "i": 114,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT A TELEPATHIC DOG",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [],
+    "explainedBy": "The negation: the environment, not a telepathic dog; the dog is not drawn so the rejection stays a rejection.",
+    "noVisual": "Negation: a dog would show the thing that is rejected; the rejection is text-only.",
+    "storyboard": {
+      "claim": "It is not a telepathic dog.",
+      "concreteVisual": "Empty bedroom with the callout.",
+      "onScreenText": "NOT A TELEPATHIC DOG",
+      "relationToPrevious": "Turns back from the theory to the environment.",
+      "addedInformation": "weak: negation carried by the callout alone."
+    }
+  },
+  {
+    "i": 115,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "A CRACK IN HIS ARMOR",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The lingering violence finds a crack in Tad's psychological armor: his armor is the shield, his face worried.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tad's psychological armor has a crack.",
+      "concreteVisual": "A shield icon, Tad worried beside it.",
+      "onScreenText": "A CRACK IN HIS ARMOR",
+      "relationToPrevious": "From the environment to the child's defence.",
+      "addedInformation": "The shield reads as protection; the crack is text-only."
+    }
+  },
+  {
+    "i": 116,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PSYCHOLOGICAL OR TELEPATHIC",
+      "style": "highlight"
+    },
+    "set": "bedroom",
+    "cast": [],
+    "explainedBy": "Either reading ends in the same point: the callout states the either-or.",
+    "noVisual": "Either reading gives the same result; no single picture shows both.",
+    "storyboard": {
+      "claim": "Either way it proves the point.",
+      "concreteVisual": "Empty bedroom with the callout.",
+      "onScreenText": "PSYCHOLOGICAL OR TELEPATHIC",
+      "relationToPrevious": "A wrap-up of the theory debate.",
+      "addedInformation": "weak: a summary carried by text."
+    }
+  },
+  {
+    "i": 117,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "highway",
+    "cast": [],
+    "explainedBy": "The trap is the Pinto, a sealed car box.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trap is the sealed car.",
+      "concreteVisual": "The sealed car box on the road set.",
+      "onScreenText": "none",
+      "relationToPrevious": "Moves from the house to the car.",
+      "addedInformation": "The sealed car icon is the book's own icon for the Pinto."
+    }
+  },
+  {
+    "i": 118,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "highway",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The sealed car stands on town road number three at high noon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The car is on town road three.",
+      "concreteVisual": "The same sealed car on the road.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; the place is named.",
+      "addedInformation": "The road is the narration's location."
+    }
+  },
+  {
+    "i": 119,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE SUN BEATS THE ROOF",
+      "style": "reveal"
+    },
+    "set": "highway",
+    "cast": [],
+    "explainedBy": "The sun beats down on the car roof like a hammer.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sun hammers the car's roof.",
+      "concreteVisual": "The sealed car on the highway, heat implied by the callout.",
+      "onScreenText": "THE SUN BEATS THE ROOF",
+      "relationToPrevious": "Changes from the sealed car to the heat it gives off.",
+      "addedInformation": "The heat waves of the icon carry the heat."
+    }
+  },
+  {
+    "i": 120,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "set": "highway",
+    "cast": [],
+    "continue": true,
+    "explainedBy": "A cheap 1970s hatchback is not built for comfort: the sealed car, unchanged.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The car was not built for comfort.",
+      "concreteVisual": "The same sealed car on the road.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage; the verdict on the car.",
+      "addedInformation": "weak: a judgement carried by the callout."
+    }
+  }
+]

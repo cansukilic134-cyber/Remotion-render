@@ -1,0 +1,6 @@
+[
+ {"id":"b001","guess":"The narrator introduces the book as a Stephen King novel.","misleading":"none"},
+ {"id":"b002","guess":"The narrator says people build their own trap, like a sealed car that becomes a deadly hot cage.","misleading":"the heat-wave car icon could read as just a hot day rather than a trap"},
+ {"id":"b003","guess":"The narrator describes the brutal summer sun beating down relentlessly on the highway like a hammer.","misleading":"the flames icon could suggest a fire or car crash rather than heat"},
+ {"id":"b004","guess":"The narrator says even the family's own driveway at home becomes a cage.","misleading":"the house icon suggests safety, and may not read as a trap"}
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "i": 0,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "A FORD PINTO",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The Pinto is a sealed box in the sun: the car that will not start is the trap.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The family is stuck in a broken car in the heat.",
+      "concreteVisual": "A closed car box with heat waves rising from it.",
+      "onScreenText": "A FORD PINTO",
+      "relationToPrevious": "Cold open.",
+      "addedInformation": "Names the car and shows it sealed and hot before any person appears."
+    }
+  },
+  {
+    "i": 1,
+    "continue": true,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": {
+      "text": "HEAT KEEPS CLIMBING",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The sealed car keeps getting hotter: the same box, the heat rising.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The heat inside the sealed car keeps rising.",
+      "concreteVisual": "The same sealed car box, the heat waves growing stronger.",
+      "onScreenText": "HEAT KEEPS CLIMBING",
+      "relationToPrevious": "Same sealed car, now the heat builds inside it.",
+      "addedInformation": "Adds the rising heat to the box shown in the beat before."
+    }
+  },
+  {
+    "i": 2,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "tad",
+      "donna"
+    ],
+    "expression": "sad",
+    "action": "collapsed",
+    "partnerExpression": "worried",
+    "partnerAction": "idle",
+    "explainedBy": "The boy is losing consciousness from the heat while his mother watches him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A six-year-old boy is slipping into heat coma while his mother watches.",
+      "concreteVisual": "Tad lies collapsed and out cold; Donna beside him, worried, watching.",
+      "onScreenText": "none",
+      "relationToPrevious": "The car box gives way to the people inside it.",
+      "addedInformation": "Shows the boy unconscious and the mother watching, not just described."
+    }
+  },
+  {
+    "i": 3,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "donna"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The mother cannot help: fear and helplessness in the face of her child's suffering.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mother is completely helpless and it is suffocating.",
+      "concreteVisual": "Donna, afraid, alone in the frame.",
+      "onScreenText": "none",
+      "relationToPrevious": "Stays with Donna after the boy.",
+      "addedInformation": "Gives the helplessness a face of fear."
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "The dog is outside the car window, waiting on the gravel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A rabid dog waits outside the cracked window.",
+      "concreteVisual": "Kujo, angry, standing outside the car on the gravel.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the trapped family to the threat outside.",
+      "addedInformation": "Introduces the dog as the threat outside the car."
+    }
+  },
+  {
+    "i": 5,
+    "continue": true,
+    "concept": "home",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "The dog waits for the family to open the door.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dog is waiting for them to open the door.",
+      "concreteVisual": "The same angry dog, still outside, waiting.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same dog, now waiting.",
+      "addedInformation": "Makes the waiting explicit: the door is the trap."
+    }
+  },
+  {
+    "i": 6,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A STEPHEN KING NOVEL",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The hosts are analysing a novel, the source they were sent.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "This is a deep dive into the novel Kujo.",
+      "concreteVisual": "The book title card, a novel title on screen.",
+      "onScreenText": "A STEPHEN KING NOVEL",
+      "relationToPrevious": "From the scene to the source.",
+      "addedInformation": "Names the source as a novel."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A MONSTER STORY",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "The hosts reject a plain monster story as their subject.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The episode is not a monster story about a scary dog.",
+      "concreteVisual": "Nothing on screen but the struck phrase.",
+      "onScreenText": "A MONSTER STORY",
+      "relationToPrevious": "The source is set; now the hosts reject a reading of it.",
+      "addedInformation": "Rejects the dog-horror reading."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "ONE TERRIFYING ARGUMENT",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The episode has one central argument to prove.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The episode will prove one argument.",
+      "concreteVisual": "Only the callout: an argument, no figure.",
+      "onScreenText": "ONE TERRIFYING ARGUMENT",
+      "relationToPrevious": "Sets up the thesis.",
+      "addedInformation": "Frames the argument as the point of the video."
+    }
+  },
+  {
+    "i": 9,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Broken down car",
+        "Answered phone",
+        "Marriage coming apart"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The real horror is three ordinary failures in one family, shown as parts of one structure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The horror is ordinary failures inside one family.",
+      "concreteVisual": "A sorter with three buckets: broken car, answered phone, marriage coming apart.",
+      "onScreenText": "Broken down car / Answered phone / Marriage coming apart",
+      "relationToPrevious": "From the thesis to its three parts.",
+      "addedInformation": "Lists the three everyday failures as the parts of the horror."
+    }
+  },
+  {
+    "i": 10,
+    "concept": "sealedCarBox",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The family, not the monster, builds the trap that holds them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The family builds the trap that holds them, not the monster.",
+      "concreteVisual": "The car as the trap the family builds.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the parts to the trap they make.",
+      "addedInformation": "Says the people build the trap, not the dog."
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BEFORE THE TRAP SNAPS SHUT",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The hosts will look at the situation before the trap closes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We must look at the situation before the trap closes.",
+      "concreteVisual": "Only the callout.",
+      "onScreenText": "BEFORE THE TRAP SNAPS SHUT",
+      "relationToPrevious": "Transition to the people.",
+      "addedInformation": "Sets the time frame: before the trap closes."
+    }
+  },
+  {
+    "i": 12,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HAIRLINE CRACKED MARRIAGE",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna",
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "partnerAction": "idle",
+    "explainedBy": "Donna and Vic are a married couple whose marriage is already cracking.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Trentons' marriage is cracked.",
+      "concreteVisual": "Donna, worried, and Vic, neutral, standing apart in a suburban setting.",
+      "onScreenText": "HAIRLINE CRACKED MARRIAGE",
+      "relationToPrevious": "From the trap to the people in it.",
+      "addedInformation": "Gives the couple faces that show the strain."
+    }
+  },
+  {
+    "i": 13,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KEMP, DONNA’S FORMER LOVER",
+      "style": "highlight"
+    },
+    "cast": [
+      "donna",
+      "kemp"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "smirk",
+    "partnerAction": "idle",
+    "explainedBy": "Donna had an affair with Steve Kemp, and Kemp has the menacing smirk of the affair partner.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna had an affair with Steve Kemp.",
+      "concreteVisual": "Donna, worried, beside Kemp, smirking.",
+      "onScreenText": "KEMP, DONNA’S FORMER LOVER",
+      "relationToPrevious": "From the marriage to the affair within it.",
+      "addedInformation": "Shows the affair as a pairing between Donna and Kemp."
+    }
+  },
+  {
+    "i": 14,
+    "set": "kitchen",
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "tad"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The boy picks up on the tension in the house.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tad is highly sensitive to the tension in the house.",
+      "concreteVisual": "Tad, worried, in the kitchen.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the affair to the child who feels it.",
+      "addedInformation": "Shows the boy sensing the house's tension."
+    }
+  },
+  {
+    "i": 15,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "FARM AT A DEAD END",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The farm sits at the end of a dead-end road.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Camber farm is at the end of a dead-end road.",
+      "concreteVisual": "A road icon: the dead-end farm road.",
+      "onScreenText": "END OF A DEAD-END ROAD",
+      "relationToPrevious": "From the family to the place.",
+      "addedInformation": "Places the farm on a road with no way through."
+    }
+  },
+  {
+    "i": 16,
+    "continue": true,
+    "concept": "road",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The road leads only to the farm: the place is isolated.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The farm is incredibly isolated.",
+      "concreteVisual": "The same road icon.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same road, now isolation.",
+      "addedInformation": "Says the isolation the road implies."
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "explainedBy": "Kujo is the friendly family dog, before he changes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo is the Cambers' friendly St. Bernard.",
+      "concreteVisual": "Kujo, happy, a friendly St. Bernard.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the farm to its dog.",
+      "addedInformation": "Shows the dog before the infection, a genuine warmth."
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The friendly dog is about to become the threat.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The dog is about to become the ultimate threat.",
+      "concreteVisual": "Kujo, worried, the same friendly dog.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the friendly dog to the change coming.",
+      "addedInformation": "Foreshadows the turn in the dog."
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KUJO AT FIVE YEARS OLD",
+      "style": "reveal"
+    },
+    "cast": [
+      "kujo"
+    ],
+    "expression": "happy",
+    "action": "idle",
+    "explainedBy": "Kujo is young and playful, the start of the timeline.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo is five years old and still playful.",
+      "concreteVisual": "Kujo, happy, young and playful.",
+      "onScreenText": "KUJO AT FIVE YEARS OLD",
+      "relationToPrevious": "Starts the timeline with the dog.",
+      "addedInformation": "Gives Kujo's age and playful nature."
+    }
+  },
+  {
+    "i": 20,
+    "concept": "road",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "happy",
+    "action": "walk",
+    "explainedBy": "Kujo chases a rabbit: the playful deed that starts the chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo chases a rabbit across a meadow.",
+      "concreteVisual": "Kujo, happy, walking in pursuit.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the dog's age to what he does.",
+      "addedInformation": "Shows the chase."
+    }
+  },
+  {
+    "i": 21,
+    "set": "forest",
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KUJO FOLLOWS THE RABBIT INTO THE CAVE",
+      "style": "reveal"
+    },
+    "cast": [
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "walk",
+    "explainedBy": "Kujo follows the rabbit into a cave.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo follows the rabbit into a limestone cave.",
+      "concreteVisual": "Kujo, neutral, walking into the cave in the forest.",
+      "onScreenText": "INTO A LIMESTONE CAVE",
+      "relationToPrevious": "From the chase to the cave.",
+      "addedInformation": "Places the dog inside the cave."
+    }
+  },
+  {
+    "i": 22,
+    "continue": true,
+    "set": "forest",
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DAMP, SMELLS OF BAT",
+      "style": "reveal"
+    },
+    "cast": [
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The cave's damp smell: wet earth and the stench of bat ammonia.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cave is damp and smells of wet earth and bat ammonia.",
+      "concreteVisual": "Kujo, neutral, in the same cave.",
+      "onScreenText": "DAMP, SMELLS OF BAT",
+      "relationToPrevious": "Same cave, now the smell.",
+      "addedInformation": "Adds the smell of the cave."
+    }
+  },
+  {
+    "i": 23,
+    "continue": true,
+    "set": "forest",
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The dog's barking wakes the bats: the barking is the trigger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo's barking wakes a roost of bats.",
+      "concreteVisual": "Kujo in the same cave, the barking as the cause.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same cave; the trigger is the barking.",
+      "addedInformation": "Shows the barking as the cause of the bats waking."
+    }
+  },
+  {
+    "i": 24,
+    "continue": true,
+    "set": "forest",
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The bats are infected with rabies, a fearful danger in the dark cave.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The bats are infected with a virulent rabies strain.",
+      "concreteVisual": "Kujo, afraid, in the dark cave.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same cave; the bats are revealed as the danger.",
+      "addedInformation": "Names the infection and the fear it brings."
+    }
+  },
+  {
+    "i": 25,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "Kujo snaps at a bat and the crunch of its wing is in his mouth.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo snaps at a rabid bat and bites into its wing.",
+      "concreteVisual": "Kujo, angry, the bat's wing in his mouth.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the cave to the bite.",
+      "addedInformation": "Shows the bite the dog takes."
+    }
+  },
+  {
+    "i": 26,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A QUESTION MARK SCRATCH",
+      "style": "reveal"
+    },
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The bat scratches Kujo's muzzle, leaving a question-mark scratch.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The bat leaves a small scratch shaped like a question mark on his nose.",
+      "concreteVisual": "Kujo, worried, with the scratch on his nose.",
+      "onScreenText": "A QUESTION MARK SCRATCH",
+      "relationToPrevious": "Same dog; now the scratch.",
+      "addedInformation": "Shows the wound the callout names."
+    }
+  },
+  {
+    "i": 27,
+    "continue": true,
+    "concept": "crack",
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The wound is so small it is barely noticed: the danger is hidden.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The wound is so small you would barely notice it.",
+      "concreteVisual": "Kujo, neutral, the same wound.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same dog, the wound is minimal.",
+      "addedInformation": "Says the wound is easy to miss."
+    }
+  },
+  {
+    "i": 28,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DISASTERS WITH NO SIRENS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Real disasters do not announce themselves: no sirens, no soundtrack.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "True disasters arrive without warning signs.",
+      "concreteVisual": "Only the callout.",
+      "onScreenText": "DISASTERS WITH NO SIRENS",
+      "relationToPrevious": "From the wound to the disaster's arrival.",
+      "addedInformation": "Says disasters come without warning."
+    }
+  },
+  {
+    "i": 29,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "happy",
+    "action": "walk",
+    "explainedBy": "The disaster starts on an ordinary afternoon with the dog chasing a rabbit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It starts on a sunny ordinary afternoon with a dog chasing a rabbit.",
+      "concreteVisual": "Kujo, happy, walking, on a sunny afternoon.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the warning to the ordinary day.",
+      "addedInformation": "Shows the sunny ordinary day."
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE BIOLOGY OF RABIES",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The hosts now explain the biology of the infection.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The biology of what happens in the cave is crucial.",
+      "concreteVisual": "Only the callout.",
+      "onScreenText": "THE BIOLOGY OF RABIES",
+      "relationToPrevious": "From the afternoon to the biology.",
+      "addedInformation": "Announces the explanation."
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BULLET-SHAPED VIRUS",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The rabies virus is a bullet-shaped virus.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The rabies virus is bullet-shaped.",
+      "concreteVisual": "Only the callout.",
+      "onScreenText": "BULLET-SHAPED VIRUS",
+      "relationToPrevious": "From the announcement to the virus itself.",
+      "addedInformation": "Describes the virus shape."
+    }
+  },
+  {
+    "i": 32,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BYPASSES THE BLOODSTREAM",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The virus avoids the blood, where the immune system would flag it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The virus bypasses the bloodstream.",
+      "concreteVisual": "Only the callout.",
+      "onScreenText": "BYPASSES THE BLOODSTREAM",
+      "relationToPrevious": "From the virus to how it moves.",
+      "addedInformation": "States the route avoids the blood."
+    }
+  },
+  {
+    "i": 33,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nose and muscle nerves"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The virus binds to the nerve endings in the nose and muscle: the start of the chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The virus binds to nerve endings in the nose and muscle.",
+      "concreteVisual": "A flow: the first label, nose and muscle nerves.",
+      "onScreenText": "Nose and muscle nerves",
+      "relationToPrevious": "From the bloodstream bypass to the nerve endings it hits first.",
+      "addedInformation": "Starts the cause-effect chain of the infection."
+    }
+  },
+  {
+    "i": 34,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nose and muscle nerves",
+        "Slow crawl up the axons"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The virus crawls slowly up the nerves: the next step of the chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The virus crawls slowly up the axons of the nervous system.",
+      "concreteVisual": "The same flow, the second label added: slow crawl up the axons.",
+      "onScreenText": "Slow crawl up the axons",
+      "relationToPrevious": "Same chain, one more step.",
+      "addedInformation": "Adds the crawl along the nerves."
+    }
+  },
+  {
+    "i": 35,
+    "continue": true,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Nose and muscle nerves",
+        "Slow crawl up the axons",
+        "The brain"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The virus reaches the brain, the end of the chain, while the dog looks fine for weeks.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The virus reaches the central nervous system and the brain.",
+      "concreteVisual": "The same flow with the brain as the last label.",
+      "onScreenText": "The brain",
+      "relationToPrevious": "Same chain, the result is the brain.",
+      "addedInformation": "Completes the chain to the brain."
+    }
+  },
+  {
+    "i": 36,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The trap is silently winding up while Kujo's reaction is normal.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The trap silently winds itself up while the dog looks normal.",
+      "concreteVisual": "Kujo, neutral, looking ordinary.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the chain to the dog's ordinary look.",
+      "addedInformation": "Shows the dog seemingly fine."
+    }
+  },
+  {
+    "i": 37,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "walk",
+    "explainedBy": "Kujo leaves the cave with a bad dog feeling, as the text describes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo feels a bad dog feeling when he leaves the cave.",
+      "concreteVisual": "Kujo, worried, walking out of the cave.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the chain to the dog leaving the cave.",
+      "addedInformation": "Shows the dog's unease as he leaves."
+    }
+  }
+]

@@ -1,0 +1,147 @@
+[
+ {
+  "id": "b001",
+  "narration": "It's damp. It smells of wet earth and uh the sharp ammonia stench of bat O,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "DAMP, SMELLS OF BAT"
+  },
+  "viewerGuess": "The narrator describes a huge rabid dog in a damp forest, with a bat-like smell."
+ },
+ {
+  "id": "b002",
+  "narration": "How so? Think about who Vic Trenton is when things are normal. He is a guy who built a wooden swing set for his son Tad entirely by hand. He is mechanically capable.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "VIC IS CAPABLE AT HOME"
+  },
+  "viewerGuess": "The narrator says Vic is a capable man at home, handling things around the house."
+ },
+ {
+  "id": "b003",
+  "narration": "The sun is a relentless physical hammer beating down on the roof of this cheap mass-produced",
+  "onScreen": {
+   "place": "highway",
+   "words": "THE SUN BEATS THE ROOF"
+  },
+  "viewerGuess": "The narrator describes the sun beating down on a car roof on a hot highway."
+ },
+ {
+  "id": "b004",
+  "narration": "That completely automatic ordinary habit is the only thing that saves her throat from being ripped out by Kujo in the first 10 seconds.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "hold",
+     "holds": "key"
+    }
+   ],
+   "words": "HER HABIT SAVES HER"
+  },
+  "viewerGuess": "The narrator says a worried woman's habit of holding onto her keys saves her."
+ },
+ {
+  "id": "b005",
+  "narration": "Now, let's look at Kujo in this moment. Kujo's eyes are red and filmy.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "RED, FILMY EYES"
+  },
+  "viewerGuess": "The narrator describes the sick dog's red, filmy eyes as it stands on a street."
+ },
+ {
+  "id": "b006",
+  "narration": "and he just presses his hideous face against the spiderweb cracked safety glass of the window.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "KUJO AT THE GLASS"
+  },
+  "viewerGuess": "The narrator says Kujo, the angry dog, is at the glass, snarling at someone inside."
+ },
+ {
+  "id": "b007",
+  "narration": "Out in the high grass, she sees Brett Camber's baseball bat, the handle wrapped in friction tape. It's her only potential weapon, the only thing she can use, right? She mentally calculates",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "DONNA SEES THE BAT"
+  },
+  "viewerGuess": "The narrator says Donna sees the bat, and she is worried."
+ },
+ {
+  "id": "b008",
+  "narration": "out there waiting in the shadows, laying back in the tall bushes like a linebacker, waiting for the snap. The ultimate horror in a situation like this isn't being chased by the monster.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "forest",
+   "words": "KUJO WAITS IN THE SHADOWS"
+  },
+  "viewerGuess": "The narrator says Kujo lurks and waits in the shadows, angry."
+ },
+ {
+  "id": "b009",
+  "narration": "We absolutely have to talk about Steve Kemp's final act. The sheer plot convenience of Steve Kemp is frustrating from a narrative standpoint.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "KEMP’S CONVENIENT FINAL ACT"
+  },
+  "viewerGuess": "The narrator says Kemp's smirking final act is suspiciously convenient."
+ },
+ {
+  "id": "b010",
+  "narration": "It relies on a string of investigative failures that just happen to perfectly align with the dog's timeline.",
+  "onScreen": {
+   "icon": "a clock face",
+   "words": "THE FAILURES LINE UP"
+  },
+  "viewerGuess": "The narrator says the failures pile up as time runs out."
+ }
+]

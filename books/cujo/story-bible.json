@@ -1,0 +1,317 @@
+{
+  "slug": "cujo",
+  "world": {
+    "era": "1980s",
+    "eraEvidence": "narration: a Ford Pinto, landline phones with no signal at a rural farm, a sheriff and police welfare check, an ad agency",
+    "worldId": "cujo-1980s-maine",
+    "approxYear": 1980,
+    "setting": "rural Maine town of Castle Rock: a sealed farm garage, a farmhouse kitchen, a suburban house, a dead-end farm road",
+    "register": "contemporary-horror, grounded, domestic",
+    "forbid": [
+      "smartphone",
+      "laptop",
+      "tablet",
+      "GPS",
+      "internet"
+    ]
+  },
+  "visualProvenance": {
+    "bookId": "cujo",
+    "worldId": "cujo-1980s-maine",
+    "allowedMotifs": [
+      "car",
+      "phone",
+      "home",
+      "road",
+      "crack",
+      "shield",
+      "heart",
+      "war",
+      "sealedCarBox",
+      "deadPhone",
+      "fire",
+      "family",
+      "food",
+      "key",
+      "law",
+      "clock",
+      "hourglass"
+    ],
+    "forbiddenMotifs": [
+      "smartphone",
+      "laptop",
+      "tablet"
+    ],
+    "allowedCharacters": [
+      "kujo",
+      "donna",
+      "vic",
+      "tad",
+      "kemp",
+      "joe",
+      "gary"
+    ],
+    "allowedLocations": [
+      "kitchen",
+      "bedroom",
+      "forest",
+      "hospital",
+      "street",
+      "room",
+      "highway"
+    ],
+    "allowedProps": [
+      "car",
+      "phone",
+      "thermos"
+    ]
+  },
+  "cast": {
+    "kujo": {
+      "name": "Kujo",
+      "role": "a friendly St. Bernard turned rabid after a bat bite in a cave; the threat",
+      "look": "a huge rabid St. Bernard dog, matted red-brown coat, bloodshot eyes, foam at the mouth, heavy shoulders",
+      "variant": {
+        "outfit": "rags",
+        "headwear": "none",
+        "hairStyle": "messy",
+        "build": "heavy",
+        "height": 1,
+        "headScale": 1,
+        "beard": "none",
+        "expression": "worried",
+        "gender": "m",
+        "age": "adult",
+        "suit": "#8a5a2b",
+        "hair": "#7a4a2a"
+      },
+      "mentions": 6
+    },
+    "donna": {
+      "name": "Donna Trenton",
+      "role": "mother, Vic's wife, trapped with her son in the Pinto",
+      "look": "a 30-something woman, slim build, shoulder-length brown hair, sleeveless summer blouse and jeans, 1980s",
+      "variant": {
+        "outfit": "casual",
+        "headwear": "none",
+        "hairStyle": "long",
+        "hair": "#4a3020",
+        "build": "slight",
+        "height": 1,
+        "headScale": 1,
+        "expression": "worried",
+        "gender": "f",
+        "age": "adult",
+        "suit": "#c9b8a6"
+      },
+      "mentions": 5
+    },
+    "vic": {
+      "name": "Vic Trenton",
+      "role": "husband, advertising executive, caught up in his own affair and work crisis",
+      "look": "a 30-something man, lean build, short neat brown hair, button-down shirt and slacks, 1980s",
+      "variant": {
+        "outfit": "suit",
+        "headwear": "none",
+        "hairStyle": "short",
+        "hair": "#3a2a1e",
+        "build": "slight",
+        "height": 1.02,
+        "headScale": 1,
+        "accessory": "tie",
+        "expression": "neutral",
+        "gender": "m",
+        "age": "adult",
+        "suit": "#2f3640"
+      },
+      "mentions": 5
+    },
+    "tad": {
+      "name": "Tad Trenton",
+      "role": "their young son, about six, slipping into heat convulsions in the car",
+      "look": "a six-year-old boy, small build, messy blond hair, t-shirt and shorts, 1980s",
+      "variant": {
+        "outfit": "casual",
+        "headwear": "none",
+        "hairStyle": "messy",
+        "hair": "#e8d27a",
+        "build": "slight",
+        "height": 0.8,
+        "headScale": 1.05,
+        "age": "child",
+        "gender": "m",
+        "expression": "sad",
+        "suit": "#4a6fa5"
+      },
+      "mentions": 3
+    },
+    "kemp": {
+      "name": "Steve Kemp",
+      "role": "Donna's former lover; the menacing figure who roams the town",
+      "look": "a 30-something man, lanky build, dark hair, dark jacket, 1980s",
+      "variant": {
+        "outfit": "coat",
+        "headwear": "none",
+        "hairStyle": "short",
+        "hair": "#2a2a2a",
+        "build": "slight",
+        "height": 1.05,
+        "headScale": 1,
+        "expression": "neutral",
+        "gender": "m",
+        "age": "adult",
+        "suit": "#1d1d1d"
+      },
+      "mentions": 2
+    },
+    "joe": {
+      "name": "Joe Camber",
+      "role": "mechanic who runs a business out of his barn; owner of the farm and the dog",
+      "look": "a 40-something farmer-mechanic, stocky build, thinning hair, grease-stained work clothes, 1980s",
+      "variant": {
+        "outfit": "overalls",
+        "headwear": "cap",
+        "hairStyle": "receding",
+        "hair": "#8a7a6a",
+        "build": "heavy",
+        "height": 1,
+        "headScale": 1,
+        "beard": "stubble",
+        "expression": "worried",
+        "gender": "m",
+        "age": "adult",
+        "suit": "#5a4a3a"
+      },
+      "mentions": 2
+    },
+    "gary": {
+      "name": "Gary Pervier",
+      "role": "aging, cynical veteran; neighbour who knows the dog from five years",
+      "look": "a 50-something man, heavy build, grey stubble, faded flannel shirt, 1980s",
+      "variant": {
+        "outfit": "casual",
+        "headwear": "cap",
+        "hairStyle": "short",
+        "hair": "#9a9a9a",
+        "build": "heavy",
+        "height": 1,
+        "headScale": 1,
+        "beard": "stubble",
+        "expression": "neutral",
+        "gender": "m",
+        "age": "old",
+        "suit": "#6b7f5a"
+      },
+      "mentions": 2
+    }
+  },
+  "places": {
+    "cave": {
+      "set": "forest",
+      "look": "a limestone cave in the woods, bones on the floor, dim and damp",
+      "mentions": 8
+    },
+    "manuscript": {
+      "set": "room",
+      "look": "a plain writing desk with a typed manuscript and a sheet of paper taped to a wall",
+      "mentions": 5
+    },
+    "kitchen": {
+      "set": "kitchen",
+      "look": "the Trentons' suburban kitchen, air thick with tension, 1980s appliances",
+      "mentions": 4
+    },
+    "colonnade": {
+      "set": "room",
+      "look": "a stone-columned sanctuary, breached",
+      "mentions": 1
+    },
+    "bedroom": {
+      "set": "bedroom",
+      "look": "Tad's bedroom at midnight with a closet door left ajar",
+      "mentions": 1
+    },
+    "hospital": {
+      "set": "hospital",
+      "look": "a hospital corridor at night, pale and fluorescent",
+      "mentions": 1
+    },
+    "forest": {
+      "set": "forest",
+      "look": "woods around the Camber farm, a bait spot",
+      "mentions": 1
+    }
+  },
+  "objects": [
+    {
+      "concept": "home",
+      "mentions": 37,
+      "why": "the house and the farm as the family's shelter that stops being safe"
+    },
+    {
+      "concept": "car",
+      "mentions": 31,
+      "why": "the Pinto as a sealed box that becomes an oven"
+    },
+    {
+      "concept": "phone",
+      "mentions": 23,
+      "why": "the line that will not connect; ordinary tech that cuts the family off"
+    },
+    {
+      "concept": "road",
+      "mentions": 9,
+      "why": "the dead-end farm road: no way in, no way out"
+    },
+    {
+      "concept": "shield",
+      "mentions": 8,
+      "why": "the illusion of safety: locks, doors and routines"
+    },
+    {
+      "concept": "crack",
+      "mentions": 7,
+      "why": "the cracked window glass and the cracked marriage"
+    }
+  ],
+  "spine": [
+    {
+      "act": "setup",
+      "fromFrame": 0,
+      "claim": "A friendly family dog, a broken-down Pinto and a marriage already cracked: the ordinary parts are in place before anything goes wrong."
+    },
+    {
+      "act": "development",
+      "fromFrame": 12814,
+      "claim": "The dog's bite turns the household's routines into threats, and the family misreads the danger because it looks like a pet's illness."
+    },
+    {
+      "act": "turn",
+      "fromFrame": 25322,
+      "claim": "Donna and Tad are trapped in the sealed car at the farm, and the phone that should save them does not connect."
+    },
+    {
+      "act": "consequence",
+      "fromFrame": 40526,
+      "claim": "The heat becomes the clock: Tad slips into convulsions while Donna has no safe choice."
+    },
+    {
+      "act": "close",
+      "fromFrame": 54794,
+      "claim": "The ordinary defences that felt like safety are shown to be the ones that failed, and the book ends on that realization."
+    }
+  ],
+  "signatureObjects": [
+    {
+      "key": "sealedCarBox",
+      "concept": "sealedCarBox",
+      "why": "the Pinto as a sealed box turning into an oven"
+    },
+    {
+      "key": "deadPhone",
+      "concept": "deadPhone",
+      "why": "the landline that will not connect"
+    }
+  ],
+  "authored": true
+}

@@ -1,0 +1,1099 @@
+[
+  {
+    "i": 38,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Kujo knows only that his nose bleeds and he smells bad, not why, so the sign of the infection is what he reacts to.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo feels that something is wrong with his nose and his smell, without understanding it.",
+      "concreteVisual": "Kujo in the forest, worried, head low, the bleeding nose named in the callout.",
+      "onScreenText": "none",
+      "relationToPrevious": "Opens the dog's inner view after the bite in the cave.",
+      "addedInformation": "weak: the callout carries the bleeding; the dog's worry shows he senses it is bad."
+    }
+  },
+  {
+    "i": 39,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "EXPECTS A SCOLDING",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Kujo expects his family to scold him for getting into something nasty, so he is afraid of being found out.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo is afraid of his family's punishment for getting dirty.",
+      "concreteVisual": "Kujo, afraid, in the forest with the family's anger imagined.",
+      "onScreenText": "EXPECTS A SCOLDING",
+      "relationToPrevious": "From the nose to the dog's fear of being found out.",
+      "addedInformation": "Shows the dog's motive is fear of punishment, not the illness itself."
+    }
+  },
+  {
+    "i": 40,
+    "concept": "home",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "flee",
+    "actionCue": "He hides.",
+    "explainedBy": "Instead of going home to the family, Kujo runs away from the house to hide, so the home icon is the thing he avoids.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo avoids going home where the wound would be seen.",
+      "concreteVisual": "Kujo runs away from the house icon, off the frame, as he hides.",
+      "onScreenText": "none",
+      "relationToPrevious": "The fear of scolding becomes an act: he avoids home.",
+      "addedInformation": "The house is the threat he runs from, so the avoidance is the deed."
+    }
+  },
+  {
+    "i": 41,
+    "concept": "road",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Kujo wades into a stream to wash the stink off his coat, which hides the smell from the family.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo washes the smell off his coat in a stream.",
+      "concreteVisual": "A stream in the forest with Kujo in it, the water icon beside him.",
+      "onScreenText": "none",
+      "relationToPrevious": "The hiding turns into a deed: he goes into the water.",
+      "addedInformation": "The water icon shows the washing the narration names."
+    }
+  },
+  {
+    "i": 42,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "HIDES HIS WEAKNESS",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Pack animals hide their weakness from the alpha so they are not punished, and the mask stands for that concealment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kujo hides his weakness the way pack animals hide weakness from the alpha.",
+      "concreteVisual": "Kujo in the forest beside a mask, the false face he shows the pack.",
+      "onScreenText": "HIDES HIS WEAKNESS",
+      "relationToPrevious": "From washing the smell off to the general rule behind hiding.",
+      "addedInformation": "The mask reads as a false face, which is what hiding a weakness is."
+    }
+  },
+  {
+    "i": 43,
+    "continue": true,
+    "concept": "shield",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [
+      "kujo"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "The hiding is a survival instinct that ironically brings about Kujo's own death, so the same mask stays while his face turns sad.",
+    "noVisual": "A death cannot be drawn in this vocabulary; the sad face and the kept mask carry the irony.",
+    "storyboard": {
+      "claim": "The survival instinct to hide ends up killing him and those around him.",
+      "concreteVisual": "Kujo in the same forest with the mask, now sad.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage: the mask stays, the claim changes from hiding to its cost.",
+      "addedInformation": "weak: the cost of death is text-carried; the face shows only sadness."
+    }
+  },
+  {
+    "i": 44,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE HORROR FEELS RANDOM",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The host says the opening struck him as random, a commentary on his own reading rather than a story event.",
+    "noVisual": "A reading opinion has no picture in the vocabulary; the callout carries it.",
+    "storyboard": {
+      "claim": "The host admits the opening felt random to him.",
+      "concreteVisual": "Empty frame with the callout only, no figure.",
+      "onScreenText": "THE HORROR FEELS RANDOM",
+      "relationToPrevious": "Cut from the cave to the hosts' own reading of it.",
+      "addedInformation": "Frames the argument that follows: random is the reading being tested."
+    }
+  },
+  {
+    "i": 45,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "PHENOMENALLY BAD LUCK",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The hosts describe the chain of events as bad luck, which is the random reading they are about to test.",
+    "noVisual": "Luck is an idea, not a picture in the vocabulary; the callout names it.",
+    "storyboard": {
+      "claim": "The chase into the hole reads as pure bad luck.",
+      "concreteVisual": "Empty frame, callout only.",
+      "onScreenText": "PHENOMENALLY BAD LUCK",
+      "relationToPrevious": "From the host's doubt to the reading he doubts.",
+      "addedInformation": "weak: names the reading without picturing the chase."
+    }
+  },
+  {
+    "i": 46,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THAT SPECIFIC HOLE",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The narration says the rabbit and the hole were one specific event on one specific day, which the callout names.",
+    "noVisual": "A rabbit and a hole are not in the vocabulary, so the phrase is text-carried.",
+    "storyboard": {
+      "claim": "The rabbit chase into one specific hole was a matter of chance.",
+      "concreteVisual": "Empty frame with the callout.",
+      "onScreenText": "THAT SPECIFIC HOLE",
+      "relationToPrevious": "Continues the bad-luck reading in detail.",
+      "addedInformation": "weak: the hole is named, not drawn."
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A ROLL OF THE DICE",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A squirrel or a zig would change everything, so the hosts call the whole chain a roll of the dice.",
+    "noVisual": "Dice are not in the vocabulary; the callout carries the metaphor.",
+    "storyboard": {
+      "claim": "Small changes would have prevented the disaster, so it looks like chance.",
+      "concreteVisual": "Empty frame with the callout.",
+      "onScreenText": "A ROLL OF THE DICE",
+      "relationToPrevious": "Finishes the case for chance before the rebuttal.",
+      "addedInformation": "weak: the chance is said, not shown; a dice icon would read as a game."
+    }
+  },
+  {
+    "i": 48,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "NOT JUST RANDOM",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The rebuttal is that the horror is not random because the environment itself is the cause, which the callout states.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The horror is not just chance; the place itself was the cause.",
+      "concreteVisual": "Empty frame with the callout as the turn of the argument.",
+      "onScreenText": "NOT JUST RANDOM",
+      "relationToPrevious": "The turn from the chance reading to the environment.",
+      "addedInformation": "Marks the pivot the rest of the passage develops."
+    }
+  },
+  {
+    "i": 49,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BOTTOM LITTERED WITH BONES",
+      "style": "highlight"
+    },
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The cave floor is covered in bones of animals, which shows the place was already a death trap.",
+    "noVisual": "A bone-strewn cave floor is a texture, not an icon; the callout names it.",
+    "storyboard": {
+      "claim": "The cave bottom is littered with bones.",
+      "concreteVisual": "The forest set with the cave floor implied; no figure.",
+      "onScreenText": "BOTTOM LITTERED WITH BONES",
+      "relationToPrevious": "The argument turns from the reading to the cave itself.",
+      "addedInformation": "weak: the bones are named, the cave is a set."
+    }
+  },
+  {
+    "i": 50,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Woodchuck",
+        "Skunk",
+        "Chipmunks",
+        "Squirrels"
+      ]
+    },
+    "concept": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The bones are the remains of the animals the narration lists, sorted into the kinds that died in the cave.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cave holds the remains of many animals.",
+      "concreteVisual": "Four buckets labelled with the animal kinds the narration names.",
+      "onScreenText": "none",
+      "relationToPrevious": "Turns the bone floor into a sorted count of the dead.",
+      "addedInformation": "The sorter shows the parts of the bone history, one bucket per kind."
+    }
+  },
+  {
+    "i": 51,
+    "continue": true,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Woodchuck",
+        "Skunk",
+        "Chipmunks",
+        "Squirrels"
+      ]
+    },
+    "concept": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The sorted remains stay on screen while the hosts say this history was invisible to the family in the backyard.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The history of death is invisible, in the family's backyard.",
+      "concreteVisual": "The same four buckets stay; nothing new is added.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage: the remains stay while the hosts name them invisible.",
+      "addedInformation": "weak: no new picture; the sorter carries the remains."
+    }
+  },
+  {
+    "i": 52,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Curiosity",
+        "Animals go in",
+        "Infected bats"
+      ]
+    },
+    "concept": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The cave funnels curiosity: animals go in, and infected bats in the cave are the engine of the infection.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cave is a funnel that draws animals in, and bats there spread infection.",
+      "concreteVisual": "A flow of three steps: curiosity leads to animals going in, which leads to infected bats.",
+      "onScreenText": "none",
+      "relationToPrevious": "The sorted remains become a cause-and-effect chain for the trap.",
+      "addedInformation": "Gives the mechanism the narration states: the cave draws animals to the infected bats."
+    }
+  },
+  {
+    "i": 53,
+    "continue": true,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Curiosity",
+        "Animals go in",
+        "Infected bats"
+      ]
+    },
+    "concept": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The same flow stays while the hosts say the engine of infection is out of sight and the trap waited, overgrown.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The engine of infection stays hidden in the tall grass.",
+      "concreteVisual": "The same three-step flow stays on screen.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage: the chain stays while the hosts say it was hidden.",
+      "addedInformation": "weak: no new label; the hidden quality is only in the words."
+    }
+  },
+  {
+    "i": 54,
+    "concept": "shield",
+    "diagram": null,
+    "callout": null,
+    "set": "forest",
+    "cast": [],
+    "explainedBy": "The family's sense of safety is an illusion, and the shield stands for the protection they believed in.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The safety the family felt was an illusion; the environment was already lethal.",
+      "concreteVisual": "A shield icon in the forest set with the callout naming the illusion.",
+      "onScreenText": "none",
+      "relationToPrevious": "Turns from the mechanism to the belief that hid it.",
+      "addedInformation": "The shield reads as protection, which is the illusion the callout names."
+    }
+  },
+  {
+    "i": 55,
+    "concept": "home",
+    "diagram": null,
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The hosts move from the trap in the backyard to the emotional trap inside the house, which the home icon stands for.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A second trap is inside the family house.",
+      "concreteVisual": "The home icon with the callout, no figure yet.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the backyard cave to the house.",
+      "addedInformation": "Marks the shift of setting before the kitchen scene."
+    }
+  },
+  {
+    "i": 56,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [
+      "donna"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The hosts take the viewer into Donna Trenton's kitchen, and Donna's worry is the temperature they ask us to feel.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We enter Donna's kitchen and feel its tension.",
+      "concreteVisual": "Donna in the Trentons' kitchen, worried, standing still.",
+      "onScreenText": "none",
+      "relationToPrevious": "Moves inside the house to the woman at its centre.",
+      "addedInformation": "weak: a standing worried face; the scene is set by the kitchen."
+    }
+  },
+  {
+    "i": 57,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DONNA TELLS KEMP TO LEAVE",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "cast": [
+      "donna",
+      "kemp"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "partnerExpression": "angry",
+    "partnerAction": "idle",
+    "explainedBy": "Donna screams at Kemp to force him out of her house, so the pair stand face to face in anger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna screams at Kemp to leave her house.",
+      "concreteVisual": "Donna shouting at Kemp in the kitchen, both angry.",
+      "onScreenText": "DONNA TELLS KEMP TO LEAVE",
+      "relationToPrevious": "The kitchen scene starts with the confrontation.",
+      "addedInformation": "The two faces show a clash the narration states."
+    }
+  },
+  {
+    "i": 58,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE MILK SPILLS OUT",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "cast": [
+      "donna",
+      "kemp"
+    ],
+    "expression": "afraid",
+    "action": "struggling",
+    "partnerExpression": "angry",
+    "partnerAction": "grabbing",
+    "noVisual": "A milk carton is not in the vocabulary; the struggle carries the drop and the callout names the spill.",
+    "explainedBy": "In the struggle Kemp grabs Donna and she drops a milk carton, which splits across the floor.",
+    "storyboard": {
+      "claim": "During the struggle Donna drops a carton of milk that splits.",
+      "concreteVisual": "Donna pulling away from Kemp who grips her, in the kitchen.",
+      "onScreenText": "THE MILK SPILLS OUT",
+      "relationToPrevious": "From the shouting to a physical struggle.",
+      "addedInformation": "The grip and the pulling away show the struggle the narration describes."
+    }
+  },
+  {
+    "i": 59,
+    "continue": true,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [
+      "donna",
+      "kemp"
+    ],
+    "expression": "afraid",
+    "action": "struggling",
+    "partnerExpression": "angry",
+    "partnerAction": "grabbing",
+    "explainedBy": "The same struggle stays on screen while the narration describes the thick air of panic and rage in the room.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The air in the kitchen is thick with panic and violent rage.",
+      "concreteVisual": "The same struggle, Donna afraid, Kemp angry, unchanged.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same stage: the struggle continues while the atmosphere is named.",
+      "addedInformation": "weak: the atmosphere is in the callout; the figures carry the same tension."
+    }
+  },
+  {
+    "i": 60,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HE GRIPS HER ARM",
+      "style": "highlight"
+    },
+    "set": "kitchen",
+    "cast": [
+      "kemp",
+      "donna"
+    ],
+    "expression": "angry",
+    "action": "grabbing",
+    "partnerExpression": "afraid",
+    "partnerAction": "struggling",
+    "noVisual": null,
+    "explainedBy": "Kemp grips Donna's arm and breathes in her face, so the deed is him grabbing her while she is held.",
+    "storyboard": {
+      "claim": "Kemp grips Donna's arm and threatens her face to face.",
+      "concreteVisual": "Kemp grabbing Donna's arm, Donna struggling and afraid, in the kitchen.",
+      "onScreenText": "HE GRIPS HER ARM",
+      "relationToPrevious": "The struggle becomes a clear grip with Kemp leading.",
+      "addedInformation": "The grab is the deed; the threat is in the faces."
+    }
+  },
+  {
+    "i": 61,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Domestic chaos",
+            "glyph": "danger"
+          },
+          {
+            "label": "Cognitive bandwidth spent",
+            "glyph": "bolt"
+          },
+          {
+            "label": "Blind to threats",
+            "glyph": "eye"
+          }
+        ],
+        "token": {
+          "glyph": "brain",
+          "tag": "cognitive bandwidth",
+          "from": 1
+        },
+        "cues": {
+          "n0": "domestic life is in absolute chaos",
+          "n2": "completely blind"
+        }
+      }
+    },
+    "explainedBy": "When domestic life is in chaos, the mind becomes blind to outside physical threats, which the chain shows in order.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Chaos at home makes a person blind to outside threats.",
+      "concreteVisual": "A chain: domestic chaos, then bandwidth spent, then blind to threats; the first and last station drawn.",
+      "onScreenText": "none",
+      "relationToPrevious": "Turns from the kitchen figures to the mechanism behind the blindness.",
+      "addedInformation": "The chain states the narration's cause and result, one station per step."
+    }
+  },
+  {
+    "i": 62,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Domestic chaos",
+            "glyph": "danger"
+          },
+          {
+            "label": "Cognitive bandwidth spent",
+            "glyph": "bolt"
+          },
+          {
+            "label": "Blind to threats",
+            "glyph": "eye"
+          }
+        ],
+        "token": {
+          "glyph": "brain",
+          "tag": "cognitive bandwidth",
+          "from": 1
+        },
+        "cues": {
+          "n1": "cognitive bandwidth is spent"
+        }
+      }
+    },
+    "explainedBy": "The middle step is named: all of Donna's cognitive bandwidth is spent surviving the emotional wreckage, so the chain grows its middle link.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "All of Donna's attention is used up surviving the emotional wreckage.",
+      "concreteVisual": "The same chain; the middle station lights with the bandwidth token.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain, the middle link now drawn.",
+      "addedInformation": "The bandwidth token shows the attention the narration says is spent."
+    }
+  },
+  {
+    "i": 63,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Domestic chaos",
+            "glyph": "danger"
+          },
+          {
+            "label": "Cognitive bandwidth spent",
+            "glyph": "bolt"
+          },
+          {
+            "label": "Blind to threats",
+            "glyph": "eye"
+          }
+        ],
+        "token": {
+          "glyph": "brain",
+          "tag": "cognitive bandwidth",
+          "from": 1
+        },
+        "cues": {}
+      }
+    },
+    "explainedBy": "The same chain stays while the hosts say the human brain has a limit to what it can process.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The brain has a limit on what it can process.",
+      "concreteVisual": "The same chain, unchanged.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain; the limit is the reason for the blindness.",
+      "addedInformation": "weak: no new picture for the limit; the chain carries it."
+    }
+  },
+  {
+    "i": 64,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Domestic chaos",
+            "glyph": "danger"
+          },
+          {
+            "label": "Cognitive bandwidth spent",
+            "glyph": "bolt"
+          },
+          {
+            "label": "Blind to threats",
+            "glyph": "eye"
+          }
+        ],
+        "token": {
+          "glyph": "brain",
+          "tag": "cognitive bandwidth",
+          "from": 1
+        },
+        "cues": {}
+      }
+    },
+    "explainedBy": "The same chain stays while the narration says that terror at home means the car's oil and driving go unnoticed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Terror at home means one stops checking even the car.",
+      "concreteVisual": "The same chain, unchanged.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain; the example of the car is the result.",
+      "addedInformation": "weak: the car is named, not drawn; the chain carries the result."
+    }
+  },
+  {
+    "i": 65,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Domestic chaos",
+            "glyph": "danger"
+          },
+          {
+            "label": "Cognitive bandwidth spent",
+            "glyph": "bolt"
+          },
+          {
+            "label": "Blind to threats",
+            "glyph": "eye"
+          }
+        ],
+        "token": {
+          "glyph": "brain",
+          "tag": "cognitive bandwidth",
+          "from": 1
+        },
+        "cues": {}
+      }
+    },
+    "explainedBy": "The same chain stays while the narration names the fight-or-flight state the family is in.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The person is in pure fight-or-flight and not paying attention.",
+      "concreteVisual": "The same chain, unchanged.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain; fight-or-flight names the state.",
+      "addedInformation": "weak: the state is named in the narration only."
+    }
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "VIC IS CONSUMED BY WORK",
+      "style": "highlight"
+    },
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Vic is consumed by his own work crisis, so his posture shows him defeated and absent from the house.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic is consumed by his own work crisis, and the family's defences are down.",
+      "concreteVisual": "Vic standing bowed, worried, a work-crisis slump.",
+      "onScreenText": "VIC IS CONSUMED BY WORK",
+      "relationToPrevious": "Turns from Donna's blindness to Vic's own distraction.",
+      "addedInformation": "Adds Vic's own preoccupation, the second adult distracted."
+    }
+  },
+  {
+    "i": 67,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE RED RASPBERRY CRISIS",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The hosts introduce the cereal crisis as the next thing that distracted the family, named by its product.",
+    "noVisual": "A cereal box is not in the vocabulary; the callout names the product.",
+    "storyboard": {
+      "claim": "The next crisis is the red raspberry cereal.",
+      "concreteVisual": "Empty frame with the callout.",
+      "onScreenText": "THE RED RASPBERRY CRISIS",
+      "relationToPrevious": "Moves from Vic's mood to the crisis that causes it.",
+      "addedInformation": "weak: the product is named, not drawn."
+    }
+  },
+  {
+    "i": 68,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "cast": [
+      "vic"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "Vic runs AdWorks, a small independent ad agency, so he is the one whose business is at stake.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Vic's small agency, AdWorks, is the business at stake.",
+      "concreteVisual": "Vic in an ordinary standing pose, neutral, the agency named.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the crisis to the man and his firm.",
+      "addedInformation": "weak: a neutral standing figure; the callout carries the agency."
+    }
+  },
+  {
+    "i": 69,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "KEEPS THEM AFLOAT",
+      "style": "highlight"
+    },
+    "cast": [
+      "vic"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The Sharp cereal account is what keeps the agency afloat, so Vic's bowed worry shows how much rides on it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Sharp account is keeping the agency afloat.",
+      "concreteVisual": "Vic bowed and worried beside the callout.",
+      "onScreenText": "KEEPS THEM AFLOAT",
+      "relationToPrevious": "From the agency to the account that sustains it.",
+      "addedInformation": "The slump shows the weight of depending on one account."
+    }
+  },
+  {
+    "i": 70,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Harmless red dye",
+            "glyph": "spark"
+          },
+          {
+            "label": "Kids cannot digest it",
+            "glyph": "drop"
+          },
+          {
+            "label": "Vomit that looks like blood",
+            "glyph": "danger"
+          },
+          {
+            "label": "Parents panic",
+            "glyph": "people"
+          },
+          {
+            "label": "Vic flies out of town",
+            "glyph": "door"
+          }
+        ],
+        "token": {
+          "glyph": "spark",
+          "tag": "red dye",
+          "from": 0
+        },
+        "cues": {
+          "n0": "harmless red dye",
+          "n1": "wasn't being digested properly"
+        }
+      }
+    },
+    "explainedBy": "A harmless red dye in the cereal is not digested by children, which starts the chain of the crisis.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A harmless dye causes a chain that ends in a PR disaster.",
+      "concreteVisual": "A chain begins: harmless red dye, then kids cannot digest it.",
+      "onScreenText": "none",
+      "relationToPrevious": "Turns from the agency to the cause of the disaster.",
+      "addedInformation": "Starts the cause chain that the next beats build."
+    }
+  },
+  {
+    "i": 71,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Harmless red dye",
+            "glyph": "spark"
+          },
+          {
+            "label": "Kids cannot digest it",
+            "glyph": "drop"
+          },
+          {
+            "label": "Vomit that looks like blood",
+            "glyph": "danger"
+          },
+          {
+            "label": "Parents panic",
+            "glyph": "people"
+          },
+          {
+            "label": "Vic flies out of town",
+            "glyph": "door"
+          }
+        ],
+        "token": {
+          "glyph": "spark",
+          "tag": "red dye",
+          "from": 0
+        },
+        "cues": {
+          "n2": "throwing up what looked like pure blood"
+        }
+      }
+    },
+    "explainedBy": "The undigested dye makes thousands of children vomit what looks like blood, the next link in the chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Children vomit what looks like blood.",
+      "concreteVisual": "The same chain, the vomit station now drawn.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain: the dye leads to the vomit.",
+      "addedInformation": "Adds the frightening result the narration names."
+    }
+  },
+  {
+    "i": 72,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Harmless red dye",
+            "glyph": "spark"
+          },
+          {
+            "label": "Kids cannot digest it",
+            "glyph": "drop"
+          },
+          {
+            "label": "Vomit that looks like blood",
+            "glyph": "danger"
+          },
+          {
+            "label": "Parents panic",
+            "glyph": "people"
+          },
+          {
+            "label": "Vic flies out of town",
+            "glyph": "door"
+          }
+        ],
+        "token": {
+          "glyph": "spark",
+          "tag": "red dye",
+          "from": 0
+        },
+        "cues": {
+          "n3": "panic among parents nationwide"
+        }
+      }
+    },
+    "explainedBy": "The panic among parents is the next link: the vomit leads to an instant nationwide panic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Parents panic nationwide.",
+      "concreteVisual": "The same chain, the panic station now drawn.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain: the vomit leads to panic.",
+      "addedInformation": "Adds the reaction of parents, the people station."
+    }
+  },
+  {
+    "i": 73,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Harmless red dye",
+            "glyph": "spark"
+          },
+          {
+            "label": "Kids cannot digest it",
+            "glyph": "drop"
+          },
+          {
+            "label": "Vomit that looks like blood",
+            "glyph": "danger"
+          },
+          {
+            "label": "Parents panic",
+            "glyph": "people"
+          },
+          {
+            "label": "Vic flies out of town",
+            "glyph": "door"
+          }
+        ],
+        "token": {
+          "glyph": "spark",
+          "tag": "red dye",
+          "from": 0
+        },
+        "cues": {
+          "n4": "fly out to Boston"
+        }
+      }
+    },
+    "explainedBy": "The crisis forces Vic to fly out to Boston, New York and Cleveland, the last link in the chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The crisis sends Vic out of town on emergency trips.",
+      "concreteVisual": "The same chain, the door station now drawn for leaving town.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain: the panic leads to Vic leaving.",
+      "addedInformation": "Adds Vic's absence, which the next beat connects to the trap."
+    }
+  },
+  {
+    "i": 74,
+    "continue": true,
+    "concept": null,
+    "callout": null,
+    "cast": [],
+    "diagram": {
+      "type": "causal",
+      "labels": [],
+      "scale": 1.25,
+      "causal": {
+        "stations": [
+          {
+            "label": "Harmless red dye",
+            "glyph": "spark"
+          },
+          {
+            "label": "Kids cannot digest it",
+            "glyph": "drop"
+          },
+          {
+            "label": "Vomit that looks like blood",
+            "glyph": "danger"
+          },
+          {
+            "label": "Parents panic",
+            "glyph": "people"
+          },
+          {
+            "label": "Vic flies out of town",
+            "glyph": "door"
+          }
+        ],
+        "token": {
+          "glyph": "spark",
+          "tag": "red dye",
+          "from": 0
+        },
+        "cues": {}
+      }
+    },
+    "explainedBy": "The same chain stays while the narration says Vic is out of town exactly when the trap snaps, so both adults are distracted.",
+    "noVisual": "The trap snapping is a later event not in this beat's vocabulary; the chain stays and the callout is absent.",
+    "storyboard": {
+      "claim": "Vic is away exactly when the trap snaps shut in Castle Rock.",
+      "concreteVisual": "The same chain, unchanged.",
+      "onScreenText": "none",
+      "relationToPrevious": "Same chain; the result is Vic's absence.",
+      "addedInformation": "weak: the trap is named, not drawn."
+    }
+  },
+  {
+    "i": 75,
+    "concept": null,
+    "diagram": null,
+    "callout": null,
+    "set": "kitchen",
+    "cast": [
+      "donna"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "explainedBy": "The host says Donna's guilt over the affair is the real anchor, so Donna's sad face carries that guilt.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Donna's guilt over the affair is the real anchor.",
+      "concreteVisual": "Donna, sad, in the kitchen, the guilt named in the callout.",
+      "onScreenText": "none",
+      "relationToPrevious": "From the cereal to Donna's inner state.",
+      "addedInformation": "weak: guilt is a feeling; the sad face and the callout are the only carriers."
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+{"id":"b001","guess":"The narrator describes a huge rabid dog in a damp forest, with a bat-like smell.","misleading":"none"},
+{"id":"b002","guess":"The narrator says Vic is a capable man at home, handling things around the house.","misleading":"The neutral idle pose gives no sign of what he is capable of."},
+{"id":"b003","guess":"The narrator describes the sun beating down on a car roof on a hot highway.","misleading":"none"},
+{"id":"b004","guess":"The narrator says a worried woman's habit of holding onto her keys saves her.","misleading":"The key is small, and it is unclear what the habit is."},
+{"id":"b005","guess":"The narrator describes the sick dog's red, filmy eyes as it stands on a street.","misleading":"The sad face softens a menacing animal."},
+{"id":"b006","guess":"The narrator says Kujo, the angry dog, is at the glass, snarling at someone inside.","misleading":"The forest place does not fit the glass, which suggests a car or window."},
+{"id":"b007","guess":"The narrator says Donna sees the bat, and she is worried.","misleading":"The bat is not shown, only the worried woman in a forest."},
+{"id":"b008","guess":"The narrator says Kujo lurks and waits in the shadows, angry.","misleading":"none"},
+{"id":"b009","guess":"The narrator says Kemp's smirking final act is suspiciously convenient.","misleading":"The smirking man alone does not show what act or event is meant."},
+{"id":"b010","guess":"The narrator says the failures pile up as time runs out.","misleading":"The clock icon suggests a deadline rather than a list of failures."}
+]

@@ -1,0 +1,14 @@
+[
+{"id":"b001","guess":"The huge rabid dog wades into a stream in the forest, still moving forward.","misleading":"The road icon suggests travel or a journey rather than water."},
+{"id":"b002","guess":"The sick animal hides how weak and ill it is, protecting itself.","misleading":"The shield icon could read as protection of others rather than concealment of weakness."},
+{"id":"b003","guess":"The dog's hiding of its weakness is just a survival instinct, and it is sad rather than malicious.","misleading":"The sad face may suggest the dog is mourning rather than acting on instinct."},
+{"id":"b004","guess":"The narrator says the town itself, Castle Rock, is the real source of the trouble.","misleading":"The road icon in a street suggests a place or route, not a cause."},
+{"id":"b005","guess":"The town's troubles are linked to a person named Frank Dodd, a past local figure.","misleading":"The road icon gives no hint of a person or a link."},
+{"id":"b006","guess":"Something in the town poisoned the groundwater, offered as an explanation for the events.","misleading":"The road and street imagery has nothing to do with water or poison."},
+{"id":"b007","guess":"A frightened man realizes his dog has rabies.","misleading":"The heart icon suggests love or health rather than disease."},
+{"id":"b008","guess":"A frightened mother is shown an illusion of choice, with paths that branch but all lead the same way.","misleading":"The orange branching line is abstract and the forest place doesn't match the idea of choice."},
+{"id":"b009","guess":"The terrified woman fears she will have to watch her son die.","misleading":"The branching line icon gives no sign of a child or death."},
+{"id":"b010","guess":"The worried woman decides to run for the bat to defend herself against the attacker.","misleading":"The branching line icon and forest setting don't show a bat or a fight, so it reads as flight."},
+{"id":"b011","guess":"The narrator argues the supernatural explanation is a convenient smokescreen hiding the real causes.","misleading":"The shield icon reads as protection rather than concealment, and there is no place or person."},
+{"id":"b012","guess":"The narrator says the supernatural element is just a convenient narrative tool for the author, said with a smirk.","misleading":"The house icon and smirking man suggest a home or a villain rather than a storytelling device."}
+]

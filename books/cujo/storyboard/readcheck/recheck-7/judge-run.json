@@ -1,0 +1,11 @@
+{
+ "run": "cujo-judge-05ebc599457d",
+ "prepRun": "cujo-prep-24ede8d3ab6c",
+ "at": "2026-11-06T15:20:14.504Z",
+ "inputs": {
+  "1": {
+   "guess": "a856275aed69e0dd0769d694f2ce0bffa8d9c2941ff4098a35c5636c545cf867",
+   "judge": "4acd09bdef3957634fa6a8dc7d1d076c3e75d289e93f7aee23da420951e0c9ad"
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{"run":"cujo-judge-05ebc599457d","items":[
+{"id":"b001","correctness":"CORRECT","blame":"nothing-fits","why":"Rabid angry dog by a house matches a dying rabid machine waiting for the door to open."},
+{"id":"b002","correctness":"NEUTRAL","blame":"icon","why":"Happy dog walking a road conveys a happy dog but misses the rabbit chase and the hole."},
+{"id":"b003","correctness":"NEUTRAL","blame":"diagram","why":"Calm dog with an abstract branching line is vague and misses the tiny hidden hole and chilling point."},
+{"id":"b004","correctness":"NEUTRAL","blame":"people","why":"Worried woman and man at home suggests strain, roughly fitting Vic's isolation but missing the professional panic."},
+{"id":"b005","correctness":"WRONG","blame":"icon","why":"The flames icon makes the viewer think the dog sets things ablaze rather than being sick with a festering muzzle."},
+{"id":"b006","correctness":"NEUTRAL","blame":"nothing-fits","why":"A family at home is vaguely related but misses the denial about the dog being sick."},
+{"id":"b007","correctness":"NEUTRAL","blame":"icon","why":"Words say blind spots, but the shield and forest drive a wilderness-protection reading instead of blind spots about everyday affection."},
+{"id":"b008","correctness":"WRONG","blame":"icon","why":"The hot closed car and mother with child suggest a trapped family, not a hallucinating sick person mumbling about ducks."},
+{"id":"b009","correctness":"NEUTRAL","blame":"icon","why":"A heart gives a vague emotional reading for a generic reframing line."},
+{"id":"b010","correctness":"NEUTRAL","blame":"face","why":"A surprised dog does not convey expecting a supernatural monster story, though it does not contradict it."},
+{"id":"b011","correctness":"CORRECT","blame":"nothing-fits","why":"The words say it is not a monster and the guess matches the narration's meaning."}
+]}

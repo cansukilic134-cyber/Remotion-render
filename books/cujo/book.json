@@ -1,0 +1,66 @@
+{
+  "slug": "cujo",
+  "title": "Cujo",
+  "author": "Stephen King",
+  "genre": "horror",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): contemporary fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%) RISK: violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "contemporary",
+    "era": 1980,
+    "realPeople": false,
+    "format": "story",
+    "violence": "central",
+    "violenceOf": "animals",
+    "animalHarm": {
+      "role": "main-conflict",
+      "mustShow": true,
+      "weight": "high"
+    },
+    "minorHarm": false,
+    "mustSee": [
+      "Cujo, the rabid St. Bernard, in the Camber farmyard",
+      "a Ford Pinto stalled in a sealed-up farm garage in the summer heat",
+      "Donna and her son Tad trapped inside the car",
+      "the small-town Maine kitchen where the marriage frays",
+      "the phone that will not get a signal"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 35,
+    "reasons": [
+      "contemporary fiction with a cast → staged characters in Antidote (We Were Liars: 0/30 wrong, image adds 70%)"
+    ],
+    "risks": [
+      "violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically"
+    ]
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-06",
+    "fit": "antidote",
+    "confidence": "moderate",
+    "voxScore": 1.4,
+    "antidoteScore": 8.2,
+    "signals": {
+      "year": 0,
+      "history": 0.6,
+      "second": 11.5,
+      "abstract": 5.2,
+      "sensitive": 4.9,
+      "era": 1980,
+      "words": 6883
+    },
+    "reasons": [
+      "no dominant signal — the story itself decides; contemporary fiction with a cast works in Antidote (WWL), period or documentary worlds in Vox"
+    ],
+    "risks": [],
+    "confirmed": false
+  },
+  "audioSource": "public/audio/cujo.mp3"
+}

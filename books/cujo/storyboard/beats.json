@@ -1,0 +1,2811 @@
+{
+  "book": {
+    "slug": "cujo",
+    "title": "Cujo",
+    "author": "Stephen King",
+    "genre": "horror"
+  },
+  "instructions": [
+    "Rewrite `callout.text` per beat: 2-4 words, concrete and loaded, in the viewer's second person where it fits.",
+    "NEVER an abstract noun (ORGANIZATION / MANAGEMENT / INFORMATION). Prefer what a person can see, feel or do.",
+    "Set callout to null when the beat has no hook worth stamping — silence is a valid, good choice.",
+    "`style`: reveal (3-4 words) | highlight (2 words) | strike (a negation) | outline (a real stat) | box | stack.",
+    "`concept`: the beat's LITERAL subject → a scene icon that gets shown instead of talking heads.",
+    "  Allowed: alarmClock, butterfly, subway, car, coffee, codeWindow, rocketLaunch, funnelMetrics, dollarExchange, laptopMockup, crash, ledge, water, grave, medical, notes, phone, school, home, family, road, storm, star, heart, fire, tree, mask, mirror, key, law, photo, war, game, work, city, food, coin, door, lightbulb, shadowSelf, puppeteer, chains, compass, dominoCascade, icebergDepth, funnelTrap, thirtyTyrants, ringOfGyges, caveAllegory, shipOfState, tripartiteSoul, kallipolis, fiveRegimes, mythOfEr, boulder, summit, ladder, crack, clock, balance, book, shield, trophy, hourglass, sword, target, magnifier, wallet, gift, inheritance, zap. Set a string when the beat is really ABOUT that thing",
+    "  (a crash, a home, a lake, a wall of notes); null or omitted = no icon (there is no lexicon",
+    "  fallback). Use only when it's the true subject — a wrong icon is worse than none. The icon must",
+    "  be in the book's story-bible visualProvenance.allowedMotifs or it is dropped with a warning.",
+    "`set` (optional): the location, one of the renderer's sets — honoured as written.",
+    "`shotOverride` (optional): force a framing. `shot` above is only the director's first guess.",
+    "The director stages the body itself from the concept — a beat whose subject is a",
+    "  letter/phone/key/photo/book/coin/mirror/mask/idea/compass/meal/love/job/court puts that",
+    "  object IN THE LEAD'S HAND, an outdoor beat can make them walk across the set, an indoor",
+    "  one can sit them down. You do not author that here; naming the right `concept` is what",
+    "  turns it on. A wrong concept costs more now than it used to.",
+    "`diagram`: an EXPLANATORY self-drawing graphic that BECOMES the whole beat (cast dropped,",
+    "  no callout). Author one ONLY on a genuinely conceptual beat; leave null otherwise — a weak",
+    "  or generic diagram is worse than none. Use at most a handful across the whole book. Shape:",
+    "  { type, title?, labels[], values[] }, where type is one of:",
+    "    sorter   — a taxonomy sorting into buckets. labels = the 2-4 category names; values = optional per-bucket counts.",
+    "    matchWave— two rhythms drifting then locking into sync. labels[0] = the payoff word (e.g. IN SYNC).",
+    "    flow     — a cause→effect chain. labels = 2-3 ordered node names.",
+    "    spectrum — a marker on a continuum. labels = [leftPole, rightPole]; values = [0..1 marker position].",
+    "  Keep labels 1-2 words. Best on the beat that first NAMES a framework, a sync, a process or a scale.",
+    "`concept: null` means NO icon on this beat (not even a decorative one); omitting the key is ALSO no icon — there is no lexicon fallback (Faz 0). Every beat needs an entry; an unauthored beat fails gate-authorship.",
+    "Do not leave a beat silent when its narration names concrete things (a list of objects, an anecdote, a person doing something) — give it the narrator's phrase or the object.",
+    "Prefer the narrator's concrete phrase over an abstract metaphor label (\"PAUSE THE IMPULSE\", not \"A LOGIC FILTER\").",
+    "A diagram title must not promise a shape its type cannot draw (no \"LOOP\"/\"PYRAMID\" on a straight flow).",
+    "Keep the array order and length. Then re-run plan-antidote with --callouts=<this file>.",
+    "After re-running: node scripts/audit-antidote.js --slug=<slug> — it FAILS the plan if any",
+    "  window runs longer than 8s with nothing happening on screen."
+  ],
+  "beats": [
+    {
+      "i": 0,
+      "shot": "lowAngle",
+      "beat": "title",
+      "concept": null,
+      "diagram": null,
+      "narration": "Picture a Ford Pinto that uh simply won't start. Oh man, just a brutal image, right? It's sitting in this sunbaked, completely",
+      "callout": {
+        "text": "START",
+        "style": "box"
+      }
+    },
+    {
+      "i": 1,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "sealed farm garage in the dead of summer. The heat inside the car is just steadily climbing. Yeah. It's basically an oven at that Exactly.",
+      "callout": null
+    },
+    {
+      "i": 2,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And in the passenger seat, you've got a six-year-old boy who is well, he's slipping into a heat induced coma while his mother watches",
+      "callout": null
+    },
+    {
+      "i": 3,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and she's completely helpless. It's an absolutely suffocating It really does. It hits you right in the chest.",
+      "callout": null
+    },
+    {
+      "i": 4,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It really does because outside the cracked glass of the window, waiting on the crushed gravel, is a 200B",
+      "callout": null
+    },
+    {
+      "i": 5,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "St. Not at all. It's a dying rabid machine just waiting for them to open the door.",
+      "callout": {
+        "text": "OPEN THE DOOR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 6,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's terrifying. So, you asked us to do a deep dive into the pages you shared with us regarding Stephen King's novel Kujo.",
+      "callout": null
+    },
+    {
+      "i": 7,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "And I want to be super clear right off the bat. Our mission today isn't to just, you know, recount a monster story for you. Nuh-uh. Great. We're not here to just talk about a scary dog. Yep.",
+      "callout": null
+    },
+    {
+      "i": 8,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We are here to prove one very specific, terrifying argument based on the notes and the research you sent over. And that argument is this.",
+      "callout": null
+    },
+    {
+      "i": 9,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The dog is not the real horror here. the true horror is how ordinary everyday failures inside one single family, a broken down car, an answered phone, and a marriage that is already coming apart",
+      "callout": {
+        "text": "FAMILY A BROKEN",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 10,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "at the seams. Turn a loose sick animal into a trap that absolutely nobody can climb out of. Yes, exactly. The monster doesn't build the cage. We build it ourselves.",
+      "callout": {
+        "text": "BUILD THE CAGE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 11,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Piece by mundane piece. Right. And uh to truly understand how this happens, I mean, we really need to look at the board before the trap actually snaps shut.",
+      "callout": null
+    },
+    {
+      "i": 12,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "We have to look at the people involved. The Trenton, right? Vic and Donna Trenton. So, this is a married couple living what looks like, you know, a completely normal suburban life, but their marriage is hairline cracked because Donna",
+      "callout": null
+    },
+    {
+      "i": 13,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "recently had an affair. Exactly. With a man named Steve Kemp. And they share a 4-year-old son, Tad, who is",
+      "callout": null
+    },
+    {
+      "i": 14,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "well, he's highly sensitive to the tension in the house. Kids always pick up on that stuff. They really do. And geographically, you have to picture where this trap is being set.",
+      "callout": {
+        "text": "KIDS ALWAYS PICK",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 15,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's the Camber Farm, which is located at the absolute end of a deadend road, town road number three in the rural outskirts of Tassel Rock, Maine.",
+      "callout": null
+    },
+    {
+      "i": 16,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's incredibly isolated. Yeah. It's the kind of place you only go if you have a specific reason to be Which brings us to the final element, right? The catalyst for the entire disaster.",
+      "callout": null
+    },
+    {
+      "i": 17,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Coojo himself. Good old Cooj, right? He is Joe and Charity Camber's friendly lumbering St. Bernard. I mean, he's a good boy.",
+      "callout": null
+    },
+    {
+      "i": 18,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He's the kind of dog that plays with kids. But he is about to become the ultimate threat due to this completely tragic, totally mundane Yeah. So, we have to drop right into",
+      "callout": {
+        "text": "PLAYS WITH KIDS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 19,
+      "shot": "split",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "the timeline here. June 16th, picture Kujo. He's 5 years old, so he's past his puppyhood, but he still has that playful instinct, right?",
+      "callout": {
+        "text": "STILL HAS THAT PLAYFUL INSTINCT",
+        "style": "box"
+      }
+    },
+    {
+      "i": 20,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Sure. And he's chasing a plump brown rabbit across a sunlit meadow. The rabbit zigs and zags and it drops into a hidden overgrown hole.",
+      "callout": null
+    },
+    {
+      "i": 21,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a dog being a dog. Exactly. Kujo follows it, wedging his heavy shoulders into this limestone cave. And I really want you to feel this space.",
+      "callout": null
+    },
+    {
+      "i": 22,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's damp. It smells of wet earth and uh the sharp ammonia stench of bat O,",
+      "callout": null
+    },
+    {
+      "i": 23,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "gross. Yeah, it's awful. And his barking echoes in this tight space and it wakes up a roost of bats.",
+      "callout": null
+    },
+    {
+      "i": 24,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "But these aren't just any bats. They are infected with a highly virulent strain of rabies. The worst kind. All right. So, they swarm him in the dark.",
+      "callout": null
+    },
+    {
+      "i": 25,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Kujo snaps at them defensively. And there's this sudden sickening crunch of a rabid bat's brown black wing right in his mouth.",
+      "callout": null
+    },
+    {
+      "i": 26,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, man. Right before the bat scratches his highly sensitive muzzle. And it leaves the small like almost innocuous wound. A scratch shaped almost exactly like a question mark on his nose.",
+      "callout": {
+        "text": "LEAVES THE SMALL",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 27,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "so small you'd barely even notice it if you weren't looking for it, which is crazy. Because here is what that means for you and why it's so chilling.",
+      "callout": null
+    },
+    {
+      "i": 28,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "True disasters, like the ones that actually destroy lives, they don't announce themselves with sirens. No, they don't. They don't have an ominous soundtrack playing in the background.",
+      "callout": null
+    },
+    {
+      "i": 29,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They start on a perfectly sunny, ordinary afternoon when you're just, you know, going about your business. A dog chases a rabbit.",
+      "callout": null
+    },
+    {
+      "i": 30,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's it. Let's talk about the biology of what's actually happening in that cave, though, because it's crucial to understanding the horror here. Yeah. Break that down for us.",
+      "callout": {
+        "text": "BREAK",
+        "style": "box"
+      }
+    },
+    {
+      "i": 31,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, rabies isn't just a generic sickness. The rabies virus, it's part of the rabbi family, is this bulletshaped virion that completely",
+      "callout": null
+    },
+    {
+      "i": 32,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "bypasses the bloodstream. Wait, really? It doesn't go into the No, exactly. Because if it went into the blood, the dog's immune system would flag it and fight it off.",
+      "callout": null
+    },
+    {
+      "i": 33,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, wow. I didn't know that. Yeah, it's insidious. Instead, the virus binds directly to the nerve endings in Kujo's nose and muscle tissue. It completely hijacks the peripheral",
+      "callout": null
+    },
+    {
+      "i": 34,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "nervous system and begins this slow, silent crawl up his axons, just creeping up, right? Moving at a rate of maybe 12 to 24",
+      "callout": {
+        "text": "SLOW",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 35,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "millm a day, just hitting straight for his central nervous system in his brain. So for weeks, the dog looks perfectly fine.",
+      "callout": null
+    },
+    {
+      "i": 36,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The trap is silently winding itself up. That's terrifying. And look at Kujo's immediate reaction, which is just heartbreakingly normal.",
+      "callout": null
+    },
+    {
+      "i": 37,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "When he gets out of the cave, he feels what the text describes as a bad dog feeling. All one word, bad dog. The poor guy, right?",
+      "callout": null
+    },
+    {
+      "i": 38,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He doesn't understand viology. He just knows his nose is bleeding and he smells awful. So, he assumes his human masters, Joe,",
+      "callout": null
+    },
+    {
+      "i": 39,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Charity, or young Brett, are going to scold him for getting into something nasty, like any dog would. Exactly. So, what does he do?",
+      "callout": null
+    },
+    {
+      "i": 40,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Instead of going straight home where they might have seen the wound, realized what happened, and called a vet to get him a rabies booster, he actively avoids them. He hides.",
+      "callout": null
+    },
+    {
+      "i": 41,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. He wades into a nearby stream, washing the nasty, watery green limestone stink off his coat.",
+      "callout": null
+    },
+    {
+      "i": 42,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is actively masking a lethal infection from his family just because he doesn't want to be a bad boy. Well, it's pack animal psychology, You hide your weakness. You hide your mistakes from the alpha so you don't get punished or, you know,",
+      "callout": {
+        "text": "HIDE YOUR MISTAKES",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 43,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "cast out, right? It's a survival instinct that ironically ensures his own death and the deaths of those around him. Yeah.",
+      "callout": null
+    },
+    {
+      "i": 44,
+      "shot": "diorama",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But I've got to tell you, when I was reading through these notes, I struggled a little bit with this opening sequence.",
+      "callout": null
+    },
+    {
+      "i": 45,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Really? How so? Because the horror here feels like pure randomness to me. It feels like phenomenally bad luck that Kujo decided to chase that specific rabbit on that specific",
+      "callout": {
+        "text": "BAD LUCK",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 46,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "day into that specific hole. I mean, if the rabbit zigs instead of zags,",
+      "callout": null
+    },
+    {
+      "i": 47,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "or if Kujo gets distracted by a squirrel 5 seconds earlier, this entire nightmare doesn't happen. It just feels like a roll of the dice.",
+      "callout": null
+    },
+    {
+      "i": 48,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, I see why you'd read it that way. And honestly, the sheer bad luck of it is staggering. But I really have to point out that it's not just random It's not.",
+      "callout": {
+        "text": "SHEER BAD LUCK",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 49,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, it is the environment itself. If we look closer at the description of that limestone cave, the text explicitly tells us its bottom is littered with bones.",
+      "callout": null
+    },
+    {
+      "i": 50,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, right. Yeah. A woodchuck, a skunk, chipmunks, squirrels. There's even the skeleton of a house cat named Mr. Clean that the Cambers had lost two years prior, right? Mr. Clean.",
+      "callout": {
+        "text": "LOST TWO YEARS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 51,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. It's an invisible history of death right in the family's backyard. Oh, wow. Okay. So, this wasn't just a random hole. Not at all.",
+      "callout": null
+    },
+    {
+      "i": 52,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a predator pit. The cave is a natural funnel for curiosity. Animals go in and infected bats are The campers lived their daily lives mowing the lawn, having barbecues, completely oblivious to this churning",
+      "callout": null
+    },
+    {
+      "i": 53,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "engine of infection, just out of sight in the tall grass. The trap was always there, overgrown,",
+      "callout": null
+    },
+    {
+      "i": 54,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "just waiting for a victim to stumble in. That's the illusion of safety. The environment was already lethal, just waiting for the right afternoon. Which brings us right back to our core argument here. The trap is built from the",
+      "callout": null
+    },
+    {
+      "i": 55,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "ordinary. Let's move from the literal trap in the backyard to the emotional trap inside the house because the dog is only half the equation here.",
+      "callout": {
+        "text": "MOVE",
+        "style": "box"
+      }
+    },
+    {
+      "i": 56,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We really need to look at the Trenton. Yes. Let's drop into Donna Trenton's kitchen. And I want you to feel the temperature here.",
+      "callout": null
+    },
+    {
+      "i": 57,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's sweltering. It's a brutal main summer heatwave. [snorts] Donna is screaming at her former lover, Steve Kemp, trying to force him out of her house.",
+      "callout": null
+    },
+    {
+      "i": 58,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Such a tense scene. It really is. She drops a carton of milk in the struggle and it splits and spills all across the lenolium floor.",
+      "callout": null
+    },
+    {
+      "i": 59,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The air in that kitchen is incredibly thick. It's its primal jungle mixture of the souring dairy on the floor, her cold sweat of pure panic, and his violent, unpredictable rage.",
+      "callout": {
+        "text": "PURE PANIC",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 60,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He's a very scary guy. Very. He is gripping her arm, breathing right in her face, explicitly threatening her. It is an incredibly invasive, suffocating moment.",
+      "callout": null
+    },
+    {
+      "i": 61,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Her sanctuary has been completely breached. Right? So, what does this mean for the larger story? It means that when your domestic life is in absolute chaos, you become completely blind",
+      "callout": {
+        "text": "YOUR DOMESTIC LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 62,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "to external physical threats. Right. You just can't see them. Exactly. 100% of Donna's cognitive bandwidth is spent just trying to survive the immediate emotional",
+      "callout": {
+        "text": "100",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 63,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and physical wreckage inside her own house. I mean, the human brain has a limit to what it can process.",
+      "callout": null
+    },
+    {
+      "i": 64,
+      "shot": "twoShot",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "when you are terrified that a violent man is going to ruin your life or hurt you right there in your own kitchen, you aren't checking the oil in your car.",
+      "callout": {
+        "text": "YOUR LIFE OR HURT",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 65,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You aren't paying attention to where you're driving. You are in pure fightor-flight And it's not just Donna who is distracted.",
+      "callout": null
+    },
+    {
+      "i": 66,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Vic is entirely consumed by his own parallel crisis at work. The family's defenses are down across the Oh man. Right.",
+      "callout": {
+        "text": "CRISIS AT WORK",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 67,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We have to talk about the red raspberry zinger serial crisis. Yes, the cereal.",
+      "callout": null
+    },
+    {
+      "i": 68,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "So Vic and his business partner Roger run this small independent ad agency called AdWorks.",
+      "callout": {
+        "text": "RUN THIS SMALL",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 69,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And they landed this massive account with Sharp cereal which is basically keeping them afloat.",
+      "callout": null
+    },
+    {
+      "i": 70,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But suddenly there's a disaster. A huge disaster, right? A harmless red dye in the red raspberry zinger cereal wasn't being digested properly by children.",
+      "callout": {
+        "text": "HUGE DISASTER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 71,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Meaning thousands of kids across the country were going to the bathroom and seemingly throwing up what looked like pure blood. Yeah.",
+      "callout": null
+    },
+    {
+      "i": 72,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The panic among parents nationwide was instant and overwhelming. Exactly. and their beloved mascot, the sharp serial professor, whose catchphrase is literally, \"Nope, nothing wrong here,\" has suddenly become",
+      "callout": {
+        "text": "PANIC AMONG PARENTS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 73,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "this morbid, terrible joke. It's a PR nightmare. It is. This professional crisis forces Vic to fly out to Boston, New York, and Cleveland for emergency meetings. He is frantically trying to save his",
+      "callout": null
+    },
+    {
+      "i": 74,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "livelihood. And this corporate emergency ensures that he is out of town exactly when the trap back in Castle Rock snaps Both adults are completely consumed by the fires burning in",
+      "callout": null
+    },
+    {
+      "i": 75,
+      "shot": "diorama",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "their own immediate I see that. But I'd actually argue that Donna's guilt over the affair is the real anchor here.",
+      "callout": null
+    },
+    {
+      "i": 76,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You think so? Yeah. It paralyzes her. She ended it with Steve Kemp, but her fear of Kemp exposing her infidelity to Vic creates this intense localized",
+      "callout": null
+    },
+    {
+      "i": 77,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "panic. She's terrified of her husband finding out. She's terrified of Kemp's violence.",
+      "callout": null
+    },
+    {
+      "i": 78,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And that guilt is what isolates her. She's keeping secrets and secrets cut you off from help. I get that perspective.",
+      "callout": null
+    },
+    {
+      "i": 79,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "I really do. But I have to push back on that reading. Oh, really? Yeah. If we connect this to the bigger picture, it's actually Vic's professional panic that isolates her.",
+      "callout": null
+    },
+    {
+      "i": 80,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "How so? Think about who Vic Trenton is when things are normal. He is a guy who built a wooden swing set for his son Tad entirely by hand. He is mechanically capable.",
+      "callout": null
+    },
+    {
+      "i": 81,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "He pays attention. Right. He's a hands-on dad. Exactly. But because he's so completely terrified of losing his agency, of failing in his patriarchal",
+      "callout": null
+    },
+    {
+      "i": 82,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "role as a provider, he ignores the physical reality of his own household. The Ford Pinto has a failing needle valve.",
+      "callout": null
+    },
+    {
+      "i": 83,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's stalling out. Right. It's been having issues. Yes. If Vic wasn't so completely consumed by the sharp serial account, he would have recognized the mechanical issue. He probably would have just fixed the",
+      "callout": null
+    },
+    {
+      "i": 84,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Pinto's carburetor himself on a Saturday afternoon. Yeah, that makes sense. or at the very least he wouldn't have left his wife and child isolated in a rural town with a severely malfunctioning vehicle while he flew across",
+      "callout": {
+        "text": "WIFE AND CHILD",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 85,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the country. The software of the marriage was crashing, which meant the hardware of their lives, like the car, went completely unmaintained.",
+      "callout": null
+    },
+    {
+      "i": 86,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Wow. Okay, that completely reframes it for me. You're right. The domestic tension creates a massive blind spot. Because he is focused on a harmless red dye hundreds of miles away, he completely misses",
+      "callout": null
+    },
+    {
+      "i": 87,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "the lethal threat in his own driveway. Once again, the trap is built from the ordinary. And we really have to look at how this intense domestic tension trickles down to the most vulnerable person in the house, their four-year-old son, Tad.",
+      "callout": {
+        "text": "AGAIN THE TRAP",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 88,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, this sequence is genuinely It is. So, we're in Tad's bedroom at midnight. The house is dark.",
+      "callout": null
+    },
+    {
+      "i": 89,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "He wakes up needing to use the bathroom and then he sees it. He gets that feeling. His scrotum is literally crawling with fear.",
+      "callout": null
+    },
+    {
+      "i": 90,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Such a visceral description, right? He looks at his closet and the blankets stacked on a chair inside are morphing into hulking shoulders and amber eyes. He actually smells sweet carrying breath drifting out of the darkness.",
+      "callout": null
+    },
+    {
+      "i": 91,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's so vivid. It feels incredibly real to him. Yes. so real that his dad, Vic, has to literally type up a piece of paper and tack it to the wall with monster words to keep the beast at bay.",
+      "callout": null
+    },
+    {
+      "i": 92,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And Vic reads it like a spell, right? He says, \"Monsters, stay out of this room. You have no business here.\" Yeah, exactly.",
+      "callout": null
+    },
+    {
+      "i": 93,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And here's where it gets really interesting for anyone listening. Childhood fears are often incredibly accurate early warning systems.",
+      "callout": {
+        "text": "EARLY WARNING",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 94,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Kids pick up on micro expressions. They pick up on ambient stress. They sense when the safety of their environment is compromised. Absolutely. They are",
+      "callout": {
+        "text": "KIDS PICK",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 95,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "right? But adults consistently dismiss these fears using cold logic, leaving the vulnerable unprotected.",
+      "callout": null
+    },
+    {
+      "i": 96,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Donna tries to handle Tad's terror using 1980s pop psychology. She uses parent effectiveness training,",
+      "callout": {
+        "text": "HANDLE TAD'S TERROR",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 97,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "basically trying to use active listening and logic to talk a toddler out of primal terror, which never works. Never. And Vic, on the other hand,",
+      "callout": {
+        "text": "NEVER WORKS",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 98,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "uses a completely fabricated advertising style incantation. The monster words are essentially a jingle for fast, fast, fast relief.",
+      "callout": null
+    },
+    {
+      "i": 99,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "That's a great way to put it. Both parents treat the monster in the closet purely as a psychological symptom of their own marital stress bleeding over onto the kid.",
+      "callout": null
+    },
+    {
+      "i": 100,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "They don't treat it as a physical warning of actual danger. They intellectualize the fear until it's harmless to them, but it's still completely terrifying to him. And yet, what's brilliant is that Vic experiences",
+      "callout": {
+        "text": "ACTUAL DANGER",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 101,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "this primal dread himself, despite all his logic. He does. This is my favorite detail. Vic goes into Tad's closet to investigate, mostly to perform a safety check for his son.",
+      "callout": null
+    },
+    {
+      "i": 102,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He steps in, expecting to smell mothballs and old fabric. But for just a split second, the rational adult smells a savage matted",
+      "callout": null
+    },
+    {
+      "i": 103,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "animal aura. He feels it, too. Yeah. He even sees the closet door swing open on its own later, driven by some unseen draft or maybe gravity, but it paralyzes him with fear.",
+      "callout": {
+        "text": "CLOSET DOOR",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 104,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The text forces the reader and Vic to wonder if the monster is just psychological or if something is actually physically manifesting in that house.",
+      "callout": null
+    },
+    {
+      "i": 105,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It really blurs the line, which leads me to my theory on this. I really think the monster in the closet is",
+      "callout": null
+    },
+    {
+      "i": 106,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "actually Kujo telepathically projecting his raid, feverish madness into Tad's highly sensitive mind across the miles. Yeah, the dog's brain is boiling with a virus. He's in agony and he is",
+      "callout": {
+        "text": "DOG'S BRAIN",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 107,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "broadcasting this sickness like a radio tower. Because Ted is so young and stressed, he is acting as the receiver. The amber eyes in the closet are Kujo's eyes.",
+      "callout": null
+    },
+    {
+      "i": 108,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, it's a very compelling idea, especially given how Stephen King often uses telepathy in his other work, but I completely disagree with that reading here.",
+      "callout": {
+        "text": "OTHER WORK",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 109,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You do? Yeah. This raises an important question about the town of Castle Rock itself, which is almost its own character in the book.",
+      "callout": null
+    },
+    {
+      "i": 110,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "The text explicitly links the presence in the closet, not just to Kujo, but to Frank Dodd. Wait, Frank Dodd, the Castle Rock serial Exactly.",
+      "callout": null
+    },
+    {
+      "i": 111,
+      "shot": "insert",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "The cop who murdered women in that town years prior. Dot eventually killed himself, but the psychological stain of that immense trauma lingers in the town's subconscious. It poisoned the groundwater, so to speak.",
+      "callout": {
+        "text": "TOWN YEARS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 112,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, wow. I didn't think about it like Yeah. During one of Tad's terrors, the monster actually speaks in Tad's mind. It says, \"My name was Frank Dodd once. I'm the monster, Tad, the old",
+      "callout": null
+    },
+    {
+      "i": 113,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "monster.\" That is so creepy, right? It's the ambient historical evil of the town manifesting in a stressed little boy whose parents' marriage is failing. The crack in the Trenton family's foundation allows",
+      "callout": null
+    },
+    {
+      "i": 114,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the ambient darkness of Castle Rock to seep right Okay, I see what you're saying. So, it's not a telepathic dog.",
+      "callout": null
+    },
+    {
+      "i": 115,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's the environment again. Just like the bones in the cave, the lingering ghost of human violence finds a crack in Tad's psychological armor, making him hypervulnerable right as a physical monster is about to enter his",
+      "callout": null
+    },
+    {
+      "i": 116,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "life. Well, whether it's psychological trauma or a telepathic projection, it proves the point.",
+      "callout": null
+    },
+    {
+      "i": 117,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The trap is built from the Let's move to the physical mechanism of the trap itself because this is where the mundane details become incredibly",
+      "callout": null
+    },
+    {
+      "i": 118,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right. Put yourself in the pinto on town road number three. It's high noon.",
+      "callout": {
+        "text": "PUT YOURSELF",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 119,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The sun is a relentless physical hammer beating down on the roof of this cheap mass-produced",
+      "callout": null
+    },
+    {
+      "i": 120,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "1970s hatchback. Those cars were not built for comfort. No, they were not.",
+      "callout": {
+        "text": "NOT BUILT FOR COMFORT",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 121,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Donna and Tad are climbing the steep, unpaved hill to the camera farm. The engine is struggling.",
+      "callout": null
+    },
+    {
+      "i": 122,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "The speedometer needle shuddters and drops from 40 down to 30. You can just hear it dying. Yes. The engine bucks violently under the hood.",
+      "callout": null
+    },
+    {
+      "i": 123,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The exhaust is backfiring with these loud popping sounds. And the red amp idiot light flickers on the plastic dash like a dying heartbeat.",
+      "callout": null
+    },
+    {
+      "i": 124,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's giving up completely. The car manages to roll into the camera driveway on its very last pathetic gasp of momentum and then the engine just dies.",
+      "callout": null
+    },
+    {
+      "i": 125,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Complete silence. Utter catastrophic mechanical failure at the worst possible",
+      "callout": null
+    },
+    {
+      "i": 126,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "geographic location. Right? And here is what we need to realize about our modern lives.",
+      "callout": null
+    },
+    {
+      "i": 127,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We trust our technology implicitly. You get in your car, you turn the key, you expect explosions in the engine block to perfectly propel you forward. We don't even think about it.",
+      "callout": null
+    },
+    {
+      "i": 128,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, we take it for But the moment our machines fail us, the moment that needle valve in the carburetor gets stuck and floods the engine, we are instantly stripped of centuries of human defense.",
+      "callout": {
+        "text": "MOMENT OUR MACHINES FAIL",
+        "style": "box"
+      }
+    },
+    {
+      "i": 129,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We really are. We are plunged right back down the food chain, left as vulnerable as our ancient ancestors out on the savannah. In the span of 3 seconds, that Ford Pinto",
+      "callout": {
+        "text": "FOOD CHAIN",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 130,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "stops being a marvel of modern trans transportation and becomes nothing more than a metal cage baking in the sun. It's a terrifying paradigm shift.",
+      "callout": null
+    },
+    {
+      "i": 131,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But I want to highlight that technology and specifically Donna's ingrained technological habits is also the only thing that saves them in that initial moment of contact. Oh yes, this is such a",
+      "callout": null
+    },
+    {
+      "i": 132,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "brilliant detail. Donna's father taught her to drive and he drilled a very specific almost militaristic routine into her head when parking.",
+      "callout": null
+    },
+    {
+      "i": 133,
+      "shot": "twoShot",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Stop the car, roll up the window, set the parking brake, take the keys out of the ignition. It's rope It's just muscle memory for her.",
+      "callout": {
+        "text": "STOP",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 134,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "That completely automatic ordinary habit is the only thing that saves her throat from being ripped out by Kujo in the first 10 seconds.",
+      "callout": null
+    },
+    {
+      "i": 135,
+      "shot": "split",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She is rolling her window up mechanically, not even thinking about it, just as this 200lb raid monstrosity lunges out of the dark It's so close. So close. If she hadn't had that mundane",
+      "callout": {
+        "text": "EVEN THINKING",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 136,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "driver's ed reflex instilled in her decades ago, they would have been dead before they even realized what was It's crazy to think about.",
+      "callout": null
+    },
+    {
+      "i": 137,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But honestly, looking at the leadup to this moment, I have to heavily criticize Donna here because",
+      "callout": null
+    },
+    {
+      "i": 138,
+      "shot": "diorama",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "it was wildly unfathomably foolish to drive a severely stalling car into the remote countryside 5 miles out of town to a deadend road with a 4-year-old child in the passenger seat.",
+      "callout": null
+    },
+    {
+      "i": 139,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Okay, I see where you're going. She knew the car was acting up. She had a teenage babysitter already lined up for the afternoon. She could have left Had safely at home, taken her chances with a stalling car alone,",
+      "callout": {
+        "text": "CAR ALONE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 140,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and dealt with the mechanic. But you have to look at her choices in the context of what just happened to her. You're judging her with the cold rationality of hindsight.",
+      "callout": null
+    },
+    {
+      "i": 141,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, maybe. Think about it. Remember the kitchen scene? She's practically forced to flee her own home because her violent ex-lover, Steve Camp, had just ambushed her there. He trashed her sense of security.",
+      "callout": null
+    },
+    {
+      "i": 142,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The house felt polluted, violated, and intensely dangerous to That's true. From her perspective, leaving Tad at home with a teenage babysitter while a deranged, violent Kemp was actively",
+      "callout": {
+        "text": "THAT'S TRUE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 143,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "roaming around town, that was unthinkable. Yeah, that would be hard to do, right? The broken car heading toward a rural mechanic felt like the lesser of two evils.",
+      "callout": null
+    },
+    {
+      "i": 144,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She was seeking a fix, a solution, getting away from the human monster. And in doing so, she drove right into the jaws of a biological one.",
+      "callout": null
+    },
+    {
+      "i": 145,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Wow. Okay, I see your point. The trauma of the domestic threat pushed her into the natural one. She chose the broken machine over the broken man.",
+      "callout": {
+        "text": "CHOSE THE BROKEN",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 146,
+      "shot": "overShoulder",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "And the trap is built from the ordinary. And once they are in the trap, the isolation is finalized by the next failure of ordinary technology,",
+      "callout": null
+    },
+    {
+      "i": 147,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the Oh man, this scene is absolute agony to It really is.",
+      "callout": null
+    },
+    {
+      "i": 148,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Picture the telephone ringing inside the empty camber house. Donna and Tad are sitting in the pinto. The heat is already rising and they can hear",
+      "callout": null
+    },
+    {
+      "i": 149,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the muffled persistent ringing of the phone. Right through the walls of the house. It's right there. So close.",
+      "callout": null
+    },
+    {
+      "i": 150,
+      "shot": "insert",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "And the sound of that ringing telephone drives Kujo into a bellowing, roaring frenzy. He attacks the car door. Foam flying from his jaws, headbutting the And why does he attack the car when the phone rings?",
+      "callout": {
+        "text": "CAR DOOR",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 151,
+      "shot": "insert",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "VIRUS",
+          "HYPERACUSIS"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "Because of the rebies. The virus causes hyperacusis, an extreme sensitivity to sound. That sharp mechanical ringing",
+      "callout": null
+    },
+    {
+      "i": 152,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "physically hurts his infected brain. It feels like ice picks in his ears. So he associates the pain with the humans in the car and attacks them.",
+      "callout": null
+    },
+    {
+      "i": 153,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The phone is right there, just yards away, totally inaccessible, and actively making the monster more aggressive.",
+      "callout": null
+    },
+    {
+      "i": 154,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We rely entirely on communication tools to save us. We believe that help is only nine numbers away.",
+      "callout": {
+        "text": "ONLY NINE NUMBERS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 155,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "But when those tools fail, or when they just ring empty in an empty house, they actually isolate us far more than if they never existed at all. The silence on the other end of a ringing phone is weaponized.",
+      "callout": null
+    },
+    {
+      "i": 156,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a psychological torture device reminding Donna of the civilization she is cut off And we see this exact same torture playing out simultaneously with Vic hundreds of miles away.",
+      "callout": null
+    },
+    {
+      "i": 157,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "We do. Vic is sitting in his dark hotel room in Boston or New York, endlessly dialing his home number in Castle Rock.",
+      "callout": {
+        "text": "DARK HOTEL ROOM",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 158,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "He lets it ring a dozen times, 20 times, just waiting. But instead of the rational part of his brain kicking in, instead of realizing, hey, my family might be in mortal danger, or maybe the",
+      "callout": {
+        "text": "20 TIMES",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 159,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "car finally broke down completely, Vic uses the empty ringing to feed his own deep-seated insecurities.",
+      "callout": null
+    },
+    {
+      "i": 160,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Because of the affair, he convinces himself that Donna has finally packed up Tad and run off with Steve Kemp. He listens to the ringing, and every ring reinforces his worst marital fears.",
+      "callout": null
+    },
+    {
+      "i": 161,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's so tragic. Now, I'd argue that the fatal flaw in this specific scenario, the mechanical failure, is Joe Camber. Joe Camber.",
+      "callout": null
+    },
+    {
+      "i": 162,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. Joe is a mechanic running a business out of his barn. But he stubbornly refuses to put a phone extension in his garage workshop.",
+      "callout": {
+        "text": "PUT A PHONE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 163,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He makes his wife Charity or his son Brett run messages out to him from the house.",
+      "callout": null
+    },
+    {
+      "i": 164,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a weird power trip. It is a bit controlling. Yeah. Right. If he had just wired a phone extension into the barn, Vic might have reached him earlier, or Donna might have heard it ring out",
+      "callout": {
+        "text": "WEIRD POWER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 165,
+      "shot": "diorama",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "in the barn and known for a fact that nobody was home, changing her entire calculus. I push back hard on that, actually.",
+      "callout": {
+        "text": "FACT THAT NOBODY",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 166,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. The real flaw here isn't the hardware of the camber farm. It's not the lack of copper wire to the barn. The fatal flaw is the software of Vic's Okay, unpack that. Think about the psychology of what Vic",
+      "callout": null
+    },
+    {
+      "i": 167,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "assumes when Donna doesn't answer. If Vic had fundamental trust in his wife, if they had a solid communicative marriage, a missed call late at night would mean she's broken down somewhere or she had to take Tad to the hospital.",
+      "callout": {
+        "text": "DONNA DOESN'T ANSWER",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 168,
+      "shot": "insert",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "AFFAIR",
+          "INSTEAD"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "He would assume an emergency. Exactly. He would have called the Castle Rock police immediately for a welfare check. Instead, because of the affair, a missed call translates",
+      "callout": null
+    },
+    {
+      "i": 169,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "immediately and unequivocally to she abandoned me for her lover. The lack of trust is what prevents Vic from calling the police for days.",
+      "callout": null
+    },
+    {
+      "i": 170,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "EMBARRASSED",
+          "WAITS"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "He waits because he's embarrassed. He's hurt and he assumes she left him. That is incredibly tragic.",
+      "callout": null
+    },
+    {
+      "i": 171,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "A missed phone call, an everyday occurrence that happens to all of us becomes the padlock on Donna's cage because he doesn't trust her.",
+      "callout": null
+    },
+    {
+      "i": 172,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "He doesn't look for her. Proving again the trap is built from the Which brings us to the human element at the Camber farm before Donna even arrives.",
+      "callout": null
+    },
+    {
+      "i": 173,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "We have to ask, how did a 200- pound dog slowly go rabbit over a period of days without anyone in its own family or neighborhood realizing it was a lethal threat?",
+      "callout": {
+        "text": "200",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 174,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We have to look at Gary Pervier, the CBER's nearest neighbor. Gary is an aging, cynical veteran. He's a hardcore alcoholic.",
+      "callout": null
+    },
+    {
+      "i": 175,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "You picture him sitting on his porch drunk on cheap popoff vodka and orange juice, sitting in this broken, webbed lawn chair that's literally sinking into the weeds of his unckempt yard.",
+      "callout": {
+        "text": "WEBBED LAWN CHAIR",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 176,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Not a great picture. No. And he's tossing bone-shaped dog biscuits to Kujo.",
+      "callout": null
+    },
+    {
+      "i": 177,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Now, let's look at Kujo in this moment. Kujo's eyes are red and filmy.",
+      "callout": null
+    },
+    {
+      "i": 178,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "His muzzle is scratched, festering, and swollen. There's a constant low, unnatural rumble deep in his chest. He's clearly very sick, right?",
+      "callout": null
+    },
+    {
+      "i": 179,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Kujo is actively fighting the virus, and he actually thinks about attacking Gary right then and there. Yet Gary looking right at this nightmare just reaches out to pat him on the head.",
+      "callout": null
+    },
+    {
+      "i": 180,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He literally cannot see the monster sitting two feet in front of him. Exactly. And here is what this means for you.",
+      "callout": null
+    },
+    {
+      "i": 181,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We are entirely blinded by our past relationships and our routines. We literally cannot see a lethal threat in front of us because our brains automatically overlay our comforting memories over the present danger.",
+      "callout": null
+    },
+    {
+      "i": 182,
+      "shot": "insert",
+      "beat": "time",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's cognitive dissonance. Yeah. Gary sees good old Cooj, the goofy dog he's known for 5 years.",
+      "callout": {
+        "text": "5 YEARS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 183,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "His brain refuses to process the terrifying new data, the red eyes, the growl, because acknowledging it would shatter his And Joe Camber,",
+      "callout": null
+    },
+    {
+      "i": 184,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Kujo's actual owner, makes the exact same fatal error. Yes. The climax of Joe Camber's life is a masterclass in this psychological blind spot.",
+      "callout": {
+        "text": "SAME FATAL ERROR",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 185,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Joe walks into his garage. He sees massive, sickly dog droppings on the floor. He sees the destruction.",
+      "callout": null
+    },
+    {
+      "i": 186,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The light bulb goes off in his head. He realizes with absolute cold horror",
+      "callout": null
+    },
+    {
+      "i": 187,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "that his dog has contracted rabies. He figures it out. He knows it intellectually.",
+      "callout": null
+    },
+    {
+      "i": 188,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But when Kujo suddenly lunges out of the dark shadows covered in dried blood and foam,",
+      "callout": null
+    },
+    {
+      "i": 189,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Joe's ingrained everyday reflex betrays him. Instead of grabbing a weapon or diving for cover, Joe puts his hand out and instinctively whispers, \"Nice",
+      "callout": null
+    },
+    {
+      "i": 190,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "doggy.\" Right as the dog rips his throat out. It's chilling. His brain knows it's the monster,",
+      "callout": null
+    },
+    {
+      "i": 191,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "but his muscle memory built over years of patting the dog treats it as a pet. That's right. I dismiss Gary and Joe's failures as just being the result of them being drunk",
+      "callout": {
+        "text": "BUILT OVER YEARS",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 192,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and oblivious. I mean, Gary's a hardcore morning toight alcoholic. And Joe Camber was drinking heavily that day, too, celebrating his wife leaving for a trip.",
+      "callout": null
+    },
+    {
+      "i": 193,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "INTOXICATED",
+          "MISSED THE THREAT"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "You think it was just the booze? Yeah. Their senses were chemically dulled. They missed the threat because they were intoxicated.",
+      "callout": null
+    },
+    {
+      "i": 194,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "I disagree completely. Yeah. It is way too easy to blame the alcohol.",
+      "callout": {
+        "text": "EASY TO BLAME",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 195,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's not intoxication. It's human nature. It is a textbook psychological phenomenon called normaly Normaly bias. Right.",
+      "callout": null
+    },
+    {
+      "i": 196,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Look at young Brett Campber, Joe's son. Brett is a child. He isn't drunk. Before he leaves on the bus trip to Connecticut with his mom, Brett explicitly notices that Kujo looks gross and sick.",
+      "callout": null
+    },
+    {
+      "i": 197,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Right. He does notice. He sees the sluggishness, the red, painful eyes, the lack of appetite, but the human need to normalize the familiar makes Brett rationalize it away.",
+      "callout": null
+    },
+    {
+      "i": 198,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He tells himself Kujo just ate some poison bait in the woods or has a passing stomach bug. He talks himself out of it.",
+      "callout": null
+    },
+    {
+      "i": 199,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. And more importantly, he actively avoids telling his dad because he's afraid his dad will use the sick dog as an excuse to cancel their rare, exciting trip to see his aunt.",
+      "callout": {
+        "text": "HE'S AFRAID",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 200,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Brett, completely sober, normalizes the horror because acknowledging it would disrupt his ordinary life and his plans. That is devastating.",
+      "callout": null
+    },
+    {
+      "i": 201,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Normaly bias literally killed them. Our blind spots are our everyday affections.",
+      "callout": null
+    },
+    {
+      "i": 202,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We want things to be normal so badly that we ignore the monster in the room.",
+      "callout": null
+    },
+    {
+      "i": 203,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The trap is built from the ordinary. And once that trap is fully closed on Donna and Tad, the nature of the threat fundamentally shifts.",
+      "callout": {
+        "text": "ONCE THAT TRAP",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 204,
+      "shot": "twoShot",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's not just a story about a rabid dog anymore. No, we have to go back into the interior of that Ford Pinto.",
+      "callout": null
+    },
+    {
+      "i": 205,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "The heat wave is peaking. It is 140° inside that sealed metal box. Unbearable. Tad is having heat induced convulsions. His lips are horribly blistered and cracked.",
+      "callout": {
+        "text": "140",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 206,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "His eyes are rolled back in his head. He's actively hallucinating, mumbling about the ducks at the Magic Lantern movie theater back in town.",
+      "callout": null
+    },
+    {
+      "i": 207,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "He's dying of dehydration. It's agonizing to read. And outside, Kujo is keeping watch.",
+      "callout": null
+    },
+    {
+      "i": 208,
+      "shot": "illustration",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Kujo's face is covered in dried matted blood. The text describes his head looking like a a gouged chunk of ignous rock.",
+      "callout": {
+        "text": "KUJO'S FACE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 209,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and he just presses his hideous face against the spiderweb cracked safety glass of the window.",
+      "callout": null
+    },
+    {
+      "i": 210,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The environment inside the car becomes the primary antagonist. It overtakes the dog in terms of immediate lethality.",
+      "callout": null
+    },
+    {
+      "i": 211,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. In any true survival situation, the environment and the relentless passage of time become just as predatory and lethal as the physical monster trying to eat you.",
+      "callout": {
+        "text": "ANY TRUE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 212,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The summer heat is an active impartial killer. It is slow cooking them and the prolonged exposure to this environment systematically strips away everything",
+      "callout": null
+    },
+    {
+      "i": 213,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "human about the occupants. The absolute loss of dignity is",
+      "callout": null
+    },
+    {
+      "i": 214,
+      "shot": "insert",
+      "beat": "negative",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "REAL",
+          "STAGGERING AND BRILLIANT TO READ"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "staggering and brilliant to read because it's so real. Donna is forced to urinate into Tad's plastic thermos bottle because they can't open the doors.",
+      "callout": null
+    },
+    {
+      "i": 215,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The entire interior of the car smells of sour milk, stale sweat, and hot urine.",
+      "callout": null
+    },
+    {
+      "i": 216,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The vehicle systematically strips away every societal norm, every piece of civilized conditioning Donna has acquired over her lifetime until only primal vicious animal survival remains. She becomes feral",
+      "callout": null
+    },
+    {
+      "i": 217,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "in order to match the feral dog outside. It's a complete deevolution. Now, reading this section, as the standoff stretch from day one to day two, I kept theorizing that the dog is incredibly intelligent.",
+      "callout": null
+    },
+    {
+      "i": 218,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "yeah. It feels like Kujo is purposely using the heat in the car as a calculated military siege tactic. He attacks the car to keep them inside",
+      "callout": null
+    },
+    {
+      "i": 219,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and then he strategically retreats to the cool shade of the barn waiting for the sun to literally bake them out of their metal box. It feels profoundly malicious and tactical.",
+      "callout": null
+    },
+    {
+      "i": 220,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "That is a terrifying thought. But what's truly fascinating here is the underlying biology. The dog is not a supernatural genius.",
+      "callout": null
+    },
+    {
+      "i": 221,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's not a tactical mastermind. It's not. No. Kujo is a victim of biology",
+      "callout": null
+    },
+    {
+      "i": 222,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and he is dying too. The heat is an impartial executioner for both of them. It's killing the humans in the car slightly faster than the rabies virus is destroying the dog's nervous system in the shade.",
+      "callout": null
+    },
+    {
+      "i": 223,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh wow. Kujo retreats to the barn not out of tactical genius, but because the rabies virus causes extreme phototohobia. The bright summer sunlight physically",
+      "callout": null
+    },
+    {
+      "i": 224,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "burns his infected retinas. I had no idea rabies did that. Yeah. The virus is also destroying his motor neurons,",
+      "callout": null
+    },
+    {
+      "i": 225,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "making his joints feel like they are filled with crushed glass. He has to lie down in the dark. The true horror of this standoff is that it's a grim race of attrition between two",
+      "callout": null
+    },
+    {
+      "i": 226,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "biological systems shutting down. Who dies first? The dehydrated boy or the rabid dog? The environment doesn't care who wins.",
+      "callout": {
+        "text": "DIES FIRST",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 227,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The sun just keeps beating down. Summer heat a parked car. The trap is built from the ordinary, which forces Donna to face an absolutely impossible",
+      "callout": null
+    },
+    {
+      "i": 228,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "decision as Tad begins to slip away. We are at the final stage of the standoff here. Donna looks through the milky shattered glass of the Pinto's window.",
+      "callout": null
+    },
+    {
+      "i": 229,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "Out in the high grass, she sees Brett Camber's baseball bat, the handle wrapped in friction tape. It's her only potential weapon, the only thing she can use, right? She mentally calculates",
+      "callout": null
+    },
+    {
+      "i": 230,
+      "shot": "insert",
+      "beat": "story",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "CAR DOOR",
+          "HOUSE"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "the number of steps from the car door to the house. She can feel the warm, sticky wetness on her leg, which is already bleeding from a previous bite she sustained when she tried to open the door earlier. And she knows the dog is",
+      "callout": null
+    },
+    {
+      "i": 231,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "out there waiting in the shadows, laying back in the tall bushes like a linebacker, waiting for the snap. The ultimate horror in a situation like this isn't being chased by the monster.",
+      "callout": null
+    },
+    {
+      "i": 232,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, it's being forced to make a calculated decision where both remaining options seem to guarantee your own death. It's the illusion of choice.",
+      "callout": {
+        "text": "YOUR OWN DEATH",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 233,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Do I stay in the baking car and watch my son die of heat stroke and dehydration right in front of my eyes?",
+      "callout": null
+    },
+    {
+      "i": 234,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Or do I make a run for the bat and the house knowing the dog is faster, stronger, and will likely rip my throat out before I get there, which leaves Tad trapped alone in the car to die anyway.",
+      "callout": {
+        "text": "TAD TRAPPED ALONE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 235,
+      "shot": "insert",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "title": null,
+        "labels": [
+          "QUIETLY",
+          "HOPE OF RESCUE"
+        ],
+        "values": [],
+        "at": 4,
+        "scale": 1
+      },
+      "narration": "And we have to talk about the third option, the hope of rescue, because it has been quietly",
+      "callout": null
+    },
+    {
+      "i": 236,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "accidentally eliminated by another completely ordinary action. The devastating cruelty of the mailman. The Donna sits in that car praying for the mailman to arrive.",
+      "callout": null
+    },
+    {
+      "i": 237,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It's a rual route. He comes every day. It is her last beacon of hope.",
+      "callout": null
+    },
+    {
+      "i": 238,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "A federal employee in a truck. But he doesn't come. No. Because Charity Camber, before all this started,",
+      "callout": null
+    },
+    {
+      "i": 239,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "simply wanted to take her son on a Greyhound bus trip to Connecticut to see her sister Holly.",
+      "callout": null
+    },
+    {
+      "i": 240,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And before leaving, Charity did what any responsible, organized citizen does when they go on vacation. She called the post office and put a hold on the mail. Just a normal errand.",
+      "callout": null
+    },
+    {
+      "i": 241,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. The wait for rescue option is silently negated by a totally normal, responsible family errand. Now, I have to be honest. I was reading this section getting angrily",
+      "callout": null
+    },
+    {
+      "i": 242,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "frustrated with Donna. I kept arguing to myself that she should have made a run for the house on day one when she still had her physical strength before she was severely",
+      "callout": null
+    },
+    {
+      "i": 243,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "dehydrated when she might have had the element of surprise. Waiting 3 days in a 140°ree car while her son died was a fatal tactical mistake. She let the heat destroy her only advantage.",
+      "callout": null
+    },
+    {
+      "i": 244,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "I see why that's frustrating as a reader, but I strongly object to calling it a mistake.",
+      "callout": null
+    },
+    {
+      "i": 245,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You do? Absolutely. This raises an important question about maternal biology and psychology.",
+      "callout": null
+    },
+    {
+      "i": 246,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are asking her to be a cold, calculating tactician, but running on day one meant risking Tad.",
+      "callout": null
+    },
+    {
+      "i": 247,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "True. But no, listen. Donna's maternal imperative, her literal neurobiology, the amygdala response to a threat against her offspring,",
+      "callout": null
+    },
+    {
+      "i": 248,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "biologically locked her to that car to shield her son. You cannot expect a mother to leave a screaming four-year-old alone in a car while a 200lb rabid dog is circling it.",
+      "callout": null
+    },
+    {
+      "i": 249,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "I guess that's fair. Her deepest, most primal instinct was to put a physical barrier between her child and the teeth.",
+      "callout": null
+    },
+    {
+      "i": 250,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Her instinct was to protect, making staying in the Pinto the only logical yet ultimately fatal choice for a mother. She was acting on biological imperative,",
+      "callout": {
+        "text": "FATAL CHOICE",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 251,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "not military Well, you're right. She couldn't leave him, even to save him. A held mail delivery and a mother's fierce instinct.",
+      "callout": null
+    },
+    {
+      "i": 252,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "The trap is built from the ordinary. We've laid out the mechanics of this trap meticulously,",
+      "callout": null
+    },
+    {
+      "i": 253,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "from the virus to the carburetor to the psychology of a crumbling marriage. But before we conclude, we really need to step back and offer an honest critique of the material itself. Yeah, let's do that.",
+      "callout": {
+        "text": "OFFER AN HONEST",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 254,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Because as tightly wound as this narrative is, where does it strain credul? Where does the trap feel forced?",
+      "callout": null
+    },
+    {
+      "i": 255,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We absolutely have to talk about Steve Kemp's final act. The sheer plot convenience of Steve Kemp is frustrating from a narrative standpoint.",
+      "callout": null
+    },
+    {
+      "i": 256,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Very frustrating. Kemp, enraged that Donna dumped him, breaks into the Trenton home while they are gone. He utterly destroys the house, slashing furniture, breaking glass, and culminates his vandalism",
+      "callout": null
+    },
+    {
+      "i": 257,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "by leaving his bodily fluids all over Vic and Donna's bed. It is an incredibly terrifying",
+      "callout": null
+    },
+    {
+      "i": 258,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "violating act. But narratively, it acts as a massive, almost too convenient smokeokc screen for the police.",
+      "callout": null
+    },
+    {
+      "i": 259,
+      "shot": "wide",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. It strains cruel that the police, specifically Sheriff George Bannerman, spend crucial life ordeath days assuming Donna and Tad were violently kidnapped by Kemp rather than simply doing basic",
+      "callout": {
+        "text": "SPEND CRUCIAL LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 260,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "police work like looking for a woman whose car was known to be breaking down, right? They just assume the worst. The police treat it entirely as a domestic abduction",
+      "callout": null
+    },
+    {
+      "i": 261,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "because of the vandalism. It feels a bit like the author putting his thumb on the scale, forcing the trap shut,",
+      "callout": null
+    },
+    {
+      "i": 262,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "using Kemp as a highly convenient narrative tool to ensure that absolutely nobody goes looking for Donna",
+      "callout": {
+        "text": "NOBODY",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 263,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "at the camper farm until it's far, far too late. It requires the police to have complete tunnel vision. Yeah, it's the one piece of the puzzle that feels authored rather than organic.",
+      "callout": null
+    },
+    {
+      "i": 264,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It relies on a string of investigative failures that just happen to perfectly align with the dog's timeline.",
+      "callout": null
+    },
+    {
+      "i": 265,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, bringing all of this together, let's reframe this entire discussion for you listening at home.",
+      "callout": null
+    },
+    {
+      "i": 266,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We started out looking for a monster story. We expected a supernatural beast.",
+      "callout": null
+    },
+    {
+      "i": 267,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the rabbid dog didn't win because it was supernatural. No, it wasn't evil. It wasn't brilliant or tactical.",
+      "callout": {
+        "text": "DOG DIDN'T WIN",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 268,
+      "shot": "closeUp",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "The dog won because the mundane invisible safety nets of modern life that we all rely on,",
+      "callout": null
+    },
+    {
+      "i": 269,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the mechanical reliability of our cars, the connectivity of our phones, the foundational trust in our marriages,",
+      "callout": null
+    },
+    {
+      "i": 270,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and the daily boring schedule of the postal service, all snapped at the exact same Think about your own life today.",
+      "callout": {
+        "text": "YOUR OWN LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 271,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Look around you. Look at the smartphone in your hand, your car keys on the counter, the dead bolts on your front door.",
+      "callout": {
+        "text": "YOUR FRONT DOOR",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 272,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We assume civilization is this impenetrable fortress that protects us from the wild.",
+      "callout": null
+    },
+    {
+      "i": 273,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But if just three of your ordinary boring routines failed today, if your battery died, your car stalled, and you had a fight with your spouse, how quickly would your own driveway turn into a cage?",
+      "callout": {
+        "text": "TURN INTO A CAGE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 274,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Keep that in mind next time you turn the key in your ignition.",
+      "callout": {
+        "text": "MIND NEXT TIME",
+        "style": "reveal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,785 @@
+{
+ "run": "cujo-judge-048953ffe62a",
+ "items": [
+  {
+   "id": "b001",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b002",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b003",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b004",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b005",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b006",
+   "correctness": "WRONG",
+   "blame": "people",
+   "why": "Kemp the lover reads as the husband, so the affair is lost."
+  },
+  {
+   "id": "b007",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b008",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "A road only vaguely conveys isolation."
+  },
+  {
+   "id": "b009",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b010",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Worried dog is vague about the coming threat."
+  },
+  {
+   "id": "b011",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b012",
+   "correctness": "NEUTRAL",
+   "blame": "place",
+   "why": "Dog wandering conveys nothing of the damp cave."
+  },
+  {
+   "id": "b013",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "No bats shown, dog just calm."
+  },
+  {
+   "id": "b014",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b015",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b016",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Blank dog misses the tiny bite point."
+  },
+  {
+   "id": "b017",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b018",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b019",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b020",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b021",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b022",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Road icon hides the stream washing."
+  },
+  {
+   "id": "b023",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b024",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Shelter reading misses the illusion of safety."
+  },
+  {
+   "id": "b025",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "House alone does not say emotional trap."
+  },
+  {
+   "id": "b026",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b027",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b028",
+   "correctness": "WRONG",
+   "blame": "body",
+   "why": "Bowed head reads as shame over a deed, not work crisis."
+  },
+  {
+   "id": "b029",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Flat man says nothing about the ad agency."
+  },
+  {
+   "id": "b030",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b031",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b032",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b033",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b034",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b035",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b036",
+   "correctness": "NEUTRAL",
+   "blame": "body",
+   "why": "Letter does not read as a spoken spell."
+  },
+  {
+   "id": "b037",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b038",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b039",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b040",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b041",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b042",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Smug letter holder only loosely suggests a jingle."
+  },
+  {
+   "id": "b043",
+   "correctness": "WRONG",
+   "blame": "people",
+   "why": "Calm couple standing together contradicts marital stress."
+  },
+  {
+   "id": "b044",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b045",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b046",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b047",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b048",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b049",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b050",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b051",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b052",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Flames suggest burning rather than heat."
+  },
+  {
+   "id": "b053",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Generic hot car, nothing about cheap build."
+  },
+  {
+   "id": "b054",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Misses the engine failing."
+  },
+  {
+   "id": "b055",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Misses the dashboard light and backfiring."
+  },
+  {
+   "id": "b056",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Terror read but not the engine dying."
+  },
+  {
+   "id": "b057",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b058",
+   "correctness": "NEUTRAL",
+   "blame": "body",
+   "why": "Taking a key is thin for trusting technology."
+  },
+  {
+   "id": "b059",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b060",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Calm thinking lacks the driving-lesson context."
+  },
+  {
+   "id": "b061",
+   "correctness": "WRONG",
+   "blame": "body",
+   "why": "Taking keys out reads as trying the key again, opposite action."
+  },
+  {
+   "id": "b062",
+   "correctness": "NEUTRAL",
+   "blame": "body",
+   "why": "Holding key does not show saving her from the dog."
+  },
+  {
+   "id": "b063",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b064",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Worry does not convey criticism of Donna."
+  },
+  {
+   "id": "b065",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "House icon blurs leaving Tad at home."
+  },
+  {
+   "id": "b066",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b067",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b068",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Crossed phone suggests no phone rather than unreachable ringing phone."
+  },
+  {
+   "id": "b069",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b070",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b071",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b072",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Unanswered calls is vague."
+  },
+  {
+   "id": "b073",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Dead line only loosely fits the torture of cut-off."
+  },
+  {
+   "id": "b074",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b075",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Generic sitting and calling."
+  },
+  {
+   "id": "b076",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Neutral mechanic is vague."
+  },
+  {
+   "id": "b077",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b078",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b079",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Vague worry about a call."
+  },
+  {
+   "id": "b080",
+   "correctness": "NEUTRAL",
+   "blame": "place",
+   "why": "Worry in kitchen does not convey the pushback."
+  },
+  {
+   "id": "b081",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Worried husband misses the software argument."
+  },
+  {
+   "id": "b082",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Calm thinking, not the not-looking-for-her point."
+  },
+  {
+   "id": "b083",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Older man without alcoholic veteran cues."
+  },
+  {
+   "id": "b084",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Sad dog misses red filmy eyes."
+  },
+  {
+   "id": "b085",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Angry reads aggression, not sickness."
+  },
+  {
+   "id": "b086",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Stunned confrontation instead of failure to see."
+  },
+  {
+   "id": "b087",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Facing the dog misses brain refusing data."
+  },
+  {
+   "id": "b088",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Worry at home is vague."
+  },
+  {
+   "id": "b089",
+   "correctness": "NEUTRAL",
+   "blame": "body",
+   "why": "Pacing does not show discovering droppings."
+  },
+  {
+   "id": "b090",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b091",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Heart suggests love, not rabies realization."
+  },
+  {
+   "id": "b092",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b093",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b094",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b095",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Sad dog, rationalizing is not shown."
+  },
+  {
+   "id": "b096",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Quiet dog misses self-talk."
+  },
+  {
+   "id": "b097",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b098",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b099",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b100",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b101",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b102",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b103",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b104",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b105",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b106",
+   "correctness": "NEUTRAL",
+   "blame": "body",
+   "why": "Lying worried dog misses motor neuron failure."
+  },
+  {
+   "id": "b107",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Hourglass misses who dies first."
+  },
+  {
+   "id": "b108",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Repeats car heat, misses Donna impossible decision."
+  },
+  {
+   "id": "b109",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b110",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Bat not shown."
+  },
+  {
+   "id": "b111",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b112",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b113",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b114",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b115",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Numb calm misses hope of rescue."
+  },
+  {
+   "id": "b116",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Road misses the mailman."
+  },
+  {
+   "id": "b117",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b118",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b119",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b120",
+   "correctness": "NEUTRAL",
+   "blame": "face",
+   "why": "Worry about car misses mother instinct."
+  },
+  {
+   "id": "b121",
+   "correctness": "NEUTRAL",
+   "blame": "people",
+   "why": "Smirking man reads as husband not Kemp."
+  },
+  {
+   "id": "b122",
+   "correctness": "NEUTRAL",
+   "blame": "people",
+   "why": "Angry man thinking of home, not breaking in and vandalism."
+  },
+  {
+   "id": "b123",
+   "correctness": "NEUTRAL",
+   "blame": "people",
+   "why": "Smug man at home, not narrative convenience."
+  },
+  {
+   "id": "b124",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Time running out only loosely matches."
+  },
+  {
+   "id": "b125",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Empty home does not reframe discussion."
+  },
+  {
+   "id": "b126",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b127",
+   "correctness": "CORRECT",
+   "blame": "nothing",
+   "why": "The guess carries the narration meaning."
+  },
+  {
+   "id": "b128",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Phone reading is ambiguous and could imply rescue."
+  },
+  {
+   "id": "b129",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Reads as actual protection, whereas the point is a false assumption."
+  },
+  {
+   "id": "b130",
+   "correctness": "NEUTRAL",
+   "blame": "icon",
+   "why": "Key as answer is vague."
+  }
+ ]
+}

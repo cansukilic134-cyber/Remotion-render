@@ -1,0 +1,107 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "DAMP, SMELLS OF BAT"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "VIC IS CAPABLE AT HOME"
+ },
+ {
+  "id": "b003",
+  "place": "highway",
+  "words": "THE SUN BEATS THE ROOF"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "hold",
+    "holds": "key"
+   }
+  ],
+  "words": "HER HABIT SAVES HER"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "RED, FILMY EYES"
+ },
+ {
+  "id": "b006",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "KUJO AT THE GLASS"
+ },
+ {
+  "id": "b007",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "DONNA SEES THE BAT"
+ },
+ {
+  "id": "b008",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "KUJO WAITS IN THE SHADOWS"
+ },
+ {
+  "id": "b009",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "KEMP’S CONVENIENT FINAL ACT"
+ },
+ {
+  "id": "b010",
+  "icon": "a clock face",
+  "words": "THE FAILURES LINE UP"
+ }
+]

@@ -1,0 +1,1293 @@
+[
+ {
+  "id": "b001",
+  "icon": "a closed car with heat waves rising from it",
+  "words": "A FORD PINTO"
+ },
+ {
+  "id": "b002",
+  "icon": "a closed car with heat waves rising from it",
+  "words": "HEAT KEEPS CLIMBING"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "sad",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   },
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "SLIPPING INTO A COMA"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "COMPLETELY HELPLESS"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "words": "OUTSIDE THE CRACKED GLASS"
+ },
+ {
+  "id": "b006",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "words": "WAITING FOR THE DOOR"
+ },
+ {
+  "id": "b007",
+  "icon": "a book",
+  "words": "A STEPHEN KING NOVEL"
+ },
+ {
+  "id": "b008",
+  "words": "A MONSTER STORY (crossed out)"
+ },
+ {
+  "id": "b009",
+  "words": "ONE TERRIFYING ARGUMENT"
+ },
+ {
+  "id": "b010",
+  "diagram": "labelled buckets: Broken down car / Answered phone / Marriage coming apart"
+ },
+ {
+  "id": "b011",
+  "icon": "chain links",
+  "words": "WE BUILD THE CAGE"
+ },
+ {
+  "id": "b012",
+  "words": "BEFORE THE TRAP SNAPS SHUT"
+ },
+ {
+  "id": "b013",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "HAIRLINE CRACKED MARRIAGE"
+ },
+ {
+  "id": "b014",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "AN AFFAIR WITH KEMP"
+ },
+ {
+  "id": "b015",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "kitchen",
+  "words": "HIGHLY SENSITIVE TO TENSION"
+ },
+ {
+  "id": "b016",
+  "icon": "a road",
+  "words": "FARM AT A DEAD END"
+ },
+ {
+  "id": "b017",
+  "icon": "a road",
+  "words": "INCREDIBLY ISOLATED"
+ },
+ {
+  "id": "b018",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "words": "A FRIENDLY ST. BERNARD"
+ },
+ {
+  "id": "b019",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "THE ULTIMATE THREAT"
+ },
+ {
+  "id": "b020",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "happy",
+    "body": "idle"
+   }
+  ],
+  "words": "KUJO AT FIVE YEARS OLD"
+ },
+ {
+  "id": "b021",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "happy",
+    "body": "walk"
+   }
+  ],
+  "words": "CHASING A RABBIT"
+ },
+ {
+  "id": "b022",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "walk"
+   }
+  ],
+  "place": "forest",
+  "words": "KUJO FOLLOWS THE RABBIT INTO THE CAVE"
+ },
+ {
+  "id": "b023",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "WET EARTH AND AMMONIA"
+ },
+ {
+  "id": "b024",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "THE BARKING WAKES BATS"
+ },
+ {
+  "id": "b025",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "INFECTED WITH RABIES"
+ },
+ {
+  "id": "b026",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "words": "A BAT'S WING IN HIS MOUTH"
+ },
+ {
+  "id": "b027",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "A QUESTION MARK SCRATCH"
+ },
+ {
+  "id": "b028",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "BARELY NOTICE IT"
+ },
+ {
+  "id": "b029",
+  "words": "DISASTERS WITH NO SIRENS"
+ },
+ {
+  "id": "b030",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "happy",
+    "body": "walk"
+   }
+  ],
+  "words": "A SUNNY ORDINARY AFTERNOON"
+ },
+ {
+  "id": "b031",
+  "words": "THE BIOLOGY OF RABIES"
+ },
+ {
+  "id": "b032",
+  "words": "BULLET-SHAPED VIRUS"
+ },
+ {
+  "id": "b033",
+  "words": "BYPASSES THE BLOODSTREAM"
+ },
+ {
+  "id": "b034",
+  "diagram": "arrows linking labels in a chain: Nose and muscle nerves"
+ },
+ {
+  "id": "b035",
+  "diagram": "arrows linking labels in a chain: Nose and muscle nerves / Slow crawl up the axons"
+ },
+ {
+  "id": "b036",
+  "diagram": "arrows linking labels in a chain: Nose and muscle nerves / Slow crawl up the axons / The brain"
+ },
+ {
+  "id": "b037",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "SILENTLY WINDING UP"
+ },
+ {
+  "id": "b038",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "walk"
+   }
+  ],
+  "words": "A BAD DOG FEELING"
+ },
+ {
+  "id": "b039",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "NOSE IS BLEEDING"
+ },
+ {
+  "id": "b040",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "EXPECTS A SCOLDING"
+ },
+ {
+  "id": "b041",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "flee"
+   }
+  ],
+  "motion": "the first person runs away through the home and is gone",
+  "icon": "a house",
+  "place": "forest",
+  "words": "INSTEAD OF GOING HOME"
+ },
+ {
+  "id": "b042",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "water waves",
+  "place": "forest",
+  "words": "WADES INTO THE STREAM"
+ },
+ {
+  "id": "b043",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a theatre mask",
+  "place": "forest",
+  "words": "HIDES HIS WEAKNESS"
+ },
+ {
+  "id": "b044",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "icon": "a theatre mask",
+  "place": "forest",
+  "words": "A SURVIVAL INSTINCT"
+ },
+ {
+  "id": "b045",
+  "words": "THE HORROR FEELS RANDOM"
+ },
+ {
+  "id": "b046",
+  "words": "PHENOMENALLY BAD LUCK"
+ },
+ {
+  "id": "b047",
+  "words": "THAT SPECIFIC HOLE"
+ },
+ {
+  "id": "b048",
+  "words": "A ROLL OF THE DICE"
+ },
+ {
+  "id": "b049",
+  "words": "NOT JUST RANDOM"
+ },
+ {
+  "id": "b050",
+  "place": "forest",
+  "words": "BOTTOM LITTERED WITH BONES"
+ },
+ {
+  "id": "b051",
+  "place": "forest",
+  "diagram": "labelled buckets: Woodchuck / Skunk / Chipmunks / Squirrels"
+ },
+ {
+  "id": "b052",
+  "place": "forest",
+  "diagram": "labelled buckets: Woodchuck / Skunk / Chipmunks / Squirrels"
+ },
+ {
+  "id": "b053",
+  "place": "forest",
+  "diagram": "arrows linking labels in a chain: Curiosity / Animals go in / Infected bats"
+ },
+ {
+  "id": "b054",
+  "place": "forest",
+  "diagram": "arrows linking labels in a chain: Curiosity / Animals go in / Infected bats"
+ },
+ {
+  "id": "b055",
+  "icon": "a shield",
+  "place": "forest",
+  "words": "ILLUSION OF SAFETY"
+ },
+ {
+  "id": "b056",
+  "icon": "a house",
+  "words": "EMOTIONAL TRAP INSIDE"
+ },
+ {
+  "id": "b057",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "kitchen",
+  "words": "DONNA TRENTON'S KITCHEN"
+ },
+ {
+  "id": "b058",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "angry",
+    "body": "talk"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "kitchen",
+  "words": "TRYING TO FORCE HIM OUT"
+ },
+ {
+  "id": "b059",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "struggling"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "angry",
+    "body": "grabbing"
+   }
+  ],
+  "place": "kitchen",
+  "words": "THE MILK SPILLS OUT"
+ },
+ {
+  "id": "b060",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "struggling"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "angry",
+    "body": "grabbing"
+   }
+  ],
+  "place": "kitchen",
+  "words": "COLD SWEAT OF PANIC"
+ },
+ {
+  "id": "b061",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "angry",
+    "body": "grabbing"
+   },
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "struggling"
+   }
+  ],
+  "place": "kitchen",
+  "words": "HE GRIPS HER ARM"
+ },
+ {
+  "id": "b062",
+  "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [dashed box with a big \"?\"] → [an eye \"Blind to threats\"]"
+ },
+ {
+  "id": "b063",
+  "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+ },
+ {
+  "id": "b064",
+  "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+ },
+ {
+  "id": "b065",
+  "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+ },
+ {
+  "id": "b066",
+  "diagram": "a left-to-right chain of arrows: [a warning sign \"Domestic chaos\"] → [a lightning bolt \"Cognitive bandwidth spent\"] → [an eye \"Blind to threats\"]"
+ },
+ {
+  "id": "b067",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "CONSUMED BY HIS WORK"
+ },
+ {
+  "id": "b068",
+  "words": "THE RED RASPBERRY CRISIS"
+ },
+ {
+  "id": "b069",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "ADWORKS, A SMALL AGENCY"
+ },
+ {
+  "id": "b070",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "KEEPS THEM AFLOAT"
+ },
+ {
+  "id": "b071",
+  "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"]"
+ },
+ {
+  "id": "b072",
+  "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"]"
+ },
+ {
+  "id": "b073",
+  "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"] → [two people \"Parents panic\"]"
+ },
+ {
+  "id": "b074",
+  "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"] → [two people \"Parents panic\"] → [a door \"Vic flies out of town\"]"
+ },
+ {
+  "id": "b075",
+  "diagram": "a left-to-right chain of arrows: [a spark \"Harmless red dye\"] → [a drop \"Kids cannot digest it\"] → [a warning sign \"Vomit that looks like blood\"] → [two people \"Parents panic\"] → [a door \"Vic flies out of town\"]"
+ },
+ {
+  "id": "b076",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "place": "kitchen",
+  "words": "DONNA'S GUILT OVER THE AFFAIR"
+ },
+ {
+  "id": "b077",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "kitchen",
+  "words": "INTENSE LOCALIZED PANIC"
+ },
+ {
+  "id": "b078",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "TERRIFIED OF KEMP'S VIOLENCE"
+ },
+ {
+  "id": "b079",
+  "place": "room",
+  "diagram": "refute: "
+ },
+ {
+  "id": "b080",
+  "place": "room",
+  "diagram": "refute: "
+ },
+ {
+  "id": "b081",
+  "place": "room",
+  "diagram": "refute: "
+ },
+ {
+  "id": "b082",
+  "place": "room",
+  "diagram": "refute: "
+ },
+ {
+  "id": "b083",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "IGNORES THE PHYSICAL REALITY"
+ },
+ {
+  "id": "b084",
+  "place": "room",
+  "words": "THE PINTO IS STALLING"
+ },
+ {
+  "id": "b085",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "LEFT WIFE AND CHILD ISOLATED"
+ },
+ {
+  "id": "b086",
+  "place": "room",
+  "diagram": "arrows linking labels in a chain: Marriage crashing / Car unmaintained"
+ },
+ {
+  "id": "b087",
+  "place": "room",
+  "diagram": "arrows linking labels in a chain: Lethal threat missed"
+ },
+ {
+  "id": "b088",
+  "place": "room",
+  "diagram": "arrows linking labels in a chain: Household tension / Trickles down / To Tad"
+ },
+ {
+  "id": "b089",
+  "place": "bedroom",
+  "words": "TAD'S BEDROOM AT MIDNIGHT"
+ },
+ {
+  "id": "b090",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "CRAWLING WITH FEAR"
+ },
+ {
+  "id": "b091",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "BLANKETS MORPHING INTO SHOULDERS"
+ },
+ {
+  "id": "b092",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "letter"
+   }
+  ],
+  "place": "bedroom",
+  "words": "MONSTER WORDS ON THE WALL"
+ },
+ {
+  "id": "b093",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "talk",
+    "holds": "letter"
+   }
+  ],
+  "place": "bedroom",
+  "words": "MONSTERS, STAY OUT OF THIS ROOM"
+ },
+ {
+  "id": "b094",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "EARLY WARNING SYSTEMS"
+ },
+ {
+  "id": "b095",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "SENSE WHEN SAFETY IS COMPROMISED"
+ },
+ {
+  "id": "b096",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "blank",
+    "body": "talk"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "ADULTS DISMISS THESE FEARS"
+ },
+ {
+  "id": "b097",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "talk"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "PARENT EFFECTIVENESS TRAINING"
+ },
+ {
+  "id": "b098",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "talk"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "ACTIVE LISTENING AND LOGIC"
+ },
+ {
+  "id": "b099",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "smirk",
+    "body": "hold",
+    "holds": "letter"
+   }
+  ],
+  "place": "bedroom",
+  "words": "A JINGLE FOR FAST RELIEF"
+ },
+ {
+  "id": "b100",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a 30-something man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "PSYCHOLOGICAL SYMPTOM OF MARITAL STRESS"
+ },
+ {
+  "id": "b101",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "STILL COMPLETELY TERRIFYING"
+ },
+ {
+  "id": "b102",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "afraid",
+    "body": "walk"
+   }
+  ],
+  "place": "bedroom",
+  "words": "VIC CHECKS THE CLOSET"
+ },
+ {
+  "id": "b103",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "SMELLS A SAVAGE ANIMAL"
+ },
+ {
+  "id": "b104",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "THE CLOSET DOOR SWINGS OPEN"
+ },
+ {
+  "id": "b105",
+  "people": [
+   {
+    "looks": "a 30-something man",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "PSYCHOLOGICAL OR PHYSICAL"
+ },
+ {
+  "id": "b106",
+  "place": "bedroom",
+  "words": "THE MONSTER IN THE CLOSET"
+ },
+ {
+  "id": "b107",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "TELEPATHICALLY PROJECTING HIS MADNESS"
+ },
+ {
+  "id": "b108",
+  "people": [
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "THE AMBER EYES ARE KUJO'S"
+ },
+ {
+  "id": "b109",
+  "place": "room",
+  "words": "I COMPLETELY DISAGREE"
+ },
+ {
+  "id": "b110",
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "CASTLE ROCK ITSELF"
+ },
+ {
+  "id": "b111",
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "LINKED TO FRANK DODD"
+ },
+ {
+  "id": "b112",
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "POISONED THE GROUNDWATER"
+ },
+ {
+  "id": "b113",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "MY NAME WAS FRANK DODD"
+ },
+ {
+  "id": "b114",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "bedroom",
+  "words": "EVIL MANIFESTING IN A BOY"
+ },
+ {
+  "id": "b115",
+  "place": "bedroom",
+  "words": "NOT A TELEPATHIC DOG"
+ },
+ {
+  "id": "b116",
+  "people": [
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "place": "bedroom",
+  "words": "A CRACK IN HIS ARMOR"
+ },
+ {
+  "id": "b117",
+  "place": "bedroom",
+  "words": "PSYCHOLOGICAL OR TELEPATHIC"
+ },
+ {
+  "id": "b118",
+  "icon": "a closed car with heat waves rising from it",
+  "place": "highway",
+  "words": "THE TRAP IS BUILT"
+ },
+ {
+  "id": "b119",
+  "icon": "a closed car with heat waves rising from it",
+  "place": "highway",
+  "words": "ON TOWN ROAD NUMBER THREE"
+ },
+ {
+  "id": "b120",
+  "icon": "a closed car with heat waves rising from it",
+  "place": "highway",
+  "words": "THE SUN IS A HAMMER"
+ },
+ {
+  "id": "b121",
+  "icon": "a closed car with heat waves rising from it",
+  "place": "highway",
+  "words": "NOT BUILT FOR COMFORT"
+ },
+ {
+  "id": "b122",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "words": "THE ENGINE STRUGGLES"
+ },
+ {
+  "id": "b123",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "words": "NEEDLE DROPS TO 30"
+ },
+ {
+  "id": "b124",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "words": "RED LIGHT FLICKERS"
+ },
+ {
+  "id": "b125",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "words": "ENGINE JUST DIES"
+ },
+ {
+  "id": "b126",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "blank",
+    "body": "idle"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "words": "COMPLETE SILENCE"
+ },
+ {
+  "id": "b127",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a six-year-old boy",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "icon": "a closed car with heat waves rising from it",
+  "words": "WORST POSSIBLE LOCATION"
+ },
+ {
+  "id": "b128",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "take",
+    "holds": "key"
+   }
+  ],
+  "words": "TURN THE KEY"
+ },
+ {
+  "id": "b129",
+  "diagram": "arrows linking labels in a chain: Machines fail / Defense stripped"
+ },
+ {
+  "id": "b130",
+  "diagram": "arrows linking labels in a chain: Machines fail / Defense stripped / Food chain"
+ },
+ {
+  "id": "b131",
+  "icon": "a closed car with heat waves rising from it",
+  "words": "BAKING IN THE SUN"
+ },
+ {
+  "id": "b132",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "HER HABITS SAVE THEM"
+ },
+ {
+  "id": "b133",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "A PARKING ROUTINE"
+ },
+ {
+  "id": "b134",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "neutral",
+    "body": "take",
+    "holds": "key"
+   }
+  ],
+  "words": "TAKE THE KEYS OUT"
+ },
+ {
+  "id": "b135",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "hold",
+    "holds": "key"
+   }
+  ],
+  "words": "SAVES HER THROAT"
+ },
+ {
+  "id": "b136",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "KUJO LUNGES AT DONNA"
+ },
+ {
+  "id": "b137",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "afraid",
+    "body": "idle"
+   },
+   {
+    "looks": "a huge rabid St",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "place": "forest",
+  "words": "DRIVER'S ED REFLEX"
+ },
+ {
+  "id": "b138",
+  "people": [
+   {
+    "looks": "a 30-something woman",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "HEAVILY CRITICIZE DONNA"
+ },
+ {
+  "id": "b139",
+  "icon": "a road",
+  "words": "A DEAD-END ROAD"
+ },
+ {
+  "id": "b140",
+  "icon": "a house",
+  "words": "LEFT SAFELY AT HOME"
+ }
+]

@@ -1,0 +1,176 @@
+[
+ {
+  "id": "b001",
+  "narration": "Yes. He wades into a nearby stream, washing the nasty, watery green limestone stink off his coat.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a road",
+   "place": "forest",
+   "words": "WADES INTO THE STREAM"
+  },
+  "viewerGuess": "The huge rabid dog wades into a stream in the forest, still moving forward."
+ },
+ {
+  "id": "b002",
+  "narration": "He is actively masking a lethal infection from his family just because he doesn't want to be a bad boy. Well, it's pack animal psychology, You hide your weakness. You hide your mistakes from the alpha so you don't get punished or, you know,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "forest",
+   "words": "HIDES HIS WEAKNESS"
+  },
+  "viewerGuess": "The sick animal hides how weak and ill it is, protecting itself."
+ },
+ {
+  "id": "b003",
+  "narration": "cast out, right? It's a survival instinct that ironically ensures his own death and the deaths of those around him. Yeah.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "place": "forest",
+   "words": "A SURVIVAL INSTINCT"
+  },
+  "viewerGuess": "The dog's hiding of its weakness is just a survival instinct, and it is sad rather than malicious."
+ },
+ {
+  "id": "b004",
+  "narration": "You do? Yeah. This raises an important question about the town of Castle Rock itself, which is almost its own character in the book.",
+  "onScreen": {
+   "icon": "a road",
+   "place": "street",
+   "words": "CASTLE ROCK ITSELF"
+  },
+  "viewerGuess": "The narrator says the town itself, Castle Rock, is the real source of the trouble."
+ },
+ {
+  "id": "b005",
+  "narration": "The text explicitly links the presence in the closet, not just to Kujo, but to Frank Dodd. Wait, Frank Dodd, the Castle Rock serial Exactly.",
+  "onScreen": {
+   "icon": "a road",
+   "place": "street",
+   "words": "LINKED TO FRANK DODD"
+  },
+  "viewerGuess": "The town's troubles are linked to a person named Frank Dodd, a past local figure."
+ },
+ {
+  "id": "b006",
+  "narration": "The cop who murdered women in that town years prior. Dot eventually killed himself, but the psychological stain of that immense trauma lingers in the town's subconscious. It poisoned the groundwater, so to speak.",
+  "onScreen": {
+   "icon": "a road",
+   "place": "street",
+   "words": "POISONED THE GROUNDWATER"
+  },
+  "viewerGuess": "Something in the town poisoned the groundwater, offered as an explanation for the events."
+ },
+ {
+  "id": "b007",
+  "narration": "that his dog has contracted rabies. He figures it out. He knows it intellectually.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 40-something farmer-mechanic",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a heart",
+   "place": "room",
+   "words": "HIS DOG HAS RABIES"
+  },
+  "viewerGuess": "A frightened man realizes his dog has rabies."
+ },
+ {
+  "id": "b008",
+  "narration": "No, it's being forced to make a calculated decision where both remaining options seem to guarantee your own death. It's the illusion of choice.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "an abstract orange branching line",
+   "place": "forest",
+   "words": "THE ILLUSION OF CHOICE"
+  },
+  "viewerGuess": "A frightened mother is shown an illusion of choice, with paths that branch but all lead the same way."
+ },
+ {
+  "id": "b009",
+  "narration": "Do I stay in the baking car and watch my son die of heat stroke and dehydration right in front of my eyes?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "an abstract orange branching line",
+   "place": "forest",
+   "words": "WATCH MY SON DIE"
+  },
+  "viewerGuess": "The terrified woman fears she will have to watch her son die."
+ },
+ {
+  "id": "b010",
+  "narration": "Or do I make a run for the bat and the house knowing the dog is faster, stronger, and will likely rip my throat out before I get there, which leaves Tad trapped alone in the car to die anyway.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something woman",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "an abstract orange branching line",
+   "place": "forest",
+   "words": "RUN FOR THE BAT"
+  },
+  "viewerGuess": "The worried woman decides to run for the bat to defend herself against the attacker."
+ },
+ {
+  "id": "b011",
+  "narration": "violating act. But narratively, it acts as a massive, almost too convenient smokeokc screen for the police.",
+  "onScreen": {
+   "icon": "a shield",
+   "words": "A CONVENIENT SMOKESCREEN"
+  },
+  "viewerGuess": "The narrator argues the supernatural explanation is a convenient smokescreen hiding the real causes."
+ },
+ {
+  "id": "b012",
+  "narration": "using Kemp as a highly convenient narrative tool to ensure that absolutely nobody goes looking for Donna",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a 30-something man",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a house",
+   "words": "A CONVENIENT NARRATIVE TOOL"
+  },
+  "viewerGuess": "The narrator says the supernatural element is just a convenient narrative tool for the author, said with a smirk."
+ }
+]

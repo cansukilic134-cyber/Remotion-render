@@ -1,0 +1,10 @@
+{
+  "slug": "cujo",
+  "generatedAt": "2026-11-06T16:10:13.415Z",
+  "frozen": false,
+  "status": "PASS",
+  "scenes": 275,
+  "strings": 161,
+  "violations": [],
+  "counts": {}
+}

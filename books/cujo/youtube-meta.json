@@ -1,0 +1,89 @@
+{
+  "slug": "cujo",
+  "title": "Cujo",
+  "author": "Stephen King",
+  "genre": "horror",
+  "engine": "antidote",
+  "primaryKeyword": "Cujo Stephen King summary",
+  "titles": [
+    "Cujo Summary by Stephen King: Explained",
+    "Cujo by Stephen King: Analysis and Ending Explained",
+    "Cujo Is Not Really About the Dog: Stephen King Review",
+    "The Trap in Cujo Is Ordinary: Stephen King Analysis",
+    "Stephen King Cujo: The Car, the Phone, the Marriage"
+  ],
+  "titleAngles": [
+    {
+      "kind": "myth",
+      "myth": "Cujo is a story about a monster dog",
+      "book": "Cujo",
+      "quote": "The trap is built from the ordinary"
+    },
+    {
+      "kind": "myth",
+      "myth": "the dog is the real horror",
+      "book": "Cujo",
+      "quote": "a broken down car, an answered phone"
+    }
+  ],
+  "description": "Stephen King’s Cujo is usually remembered as a killer-dog story. This video argues the dog is only the final piece: an ordinary family, a car that won’t start, a phone that won’t connect, and a marriage already cracking.\n\nWe walk through the setup in Castle Rock, Maine, the bite that turns a friendly St. Bernard into a threat, and the long afternoon when Donna and her son Tad are trapped in a sealed Pinto. We also take on the book’s hardest criticism.\n\n⏱️ Chapters:\n0:00 The setup\n7:07 The bite and the household’s blind spots\n14:04 The trap is built from the ordinary\n22:31 Trapped in the car\n30:29 The consequence and the close\n\n🔔 Subscribe for more book breakdowns.\n\n#Cujo #BookSummary #StephenKing #Horror #Books",
+  "tags": [
+    "Cujo summary",
+    "Cujo explained",
+    "Cujo analysis",
+    "Cujo ending explained",
+    "Cujo book",
+    "Cujo themes",
+    "Cujo characters",
+    "Stephen King",
+    "Cujo Stephen King",
+    "Stephen King Cujo",
+    "Stephen King books",
+    "book summary",
+    "book analysis",
+    "book review",
+    "booktube",
+    "horror books",
+    "best horror books",
+    "book club",
+    "Cujo"
+  ],
+  "hashtags": [
+    "#Cujo",
+    "#BookSummary",
+    "#Horror",
+    "#Books",
+    "#BookTube"
+  ],
+  "chapters": [
+    {
+      "t": 0,
+      "label": "The setup"
+    },
+    {
+      "t": 427,
+      "label": "The bite and the household’s blind spots"
+    },
+    {
+      "t": 844,
+      "label": "The trap is built from the ordinary"
+    },
+    {
+      "t": 1351,
+      "label": "Trapped in the car"
+    },
+    {
+      "t": 1829,
+      "label": "The consequence and the close"
+    }
+  ],
+  "thumbnail": {
+    "hook": "THE DOG IS THE SMALLEST PART",
+    "subject": "dramatic cinematic scene representing \"Cujo\", intense emotional character framed on right side with dark atmospheric lighting",
+    "layout": "cinematic-bleed",
+    "image": "scenes/cujo/thumbnail-hero.png"
+  },
+  "metaSource": "fallback",
+  "needsClaudeRefine": true,
+  "generatedAt": null
+}

@@ -1,0 +1,39 @@
+[
+ {
+  "id": "b001",
+  "narration": "His muzzle is scratched, festering, and swollen. There's a constant low, unnatural rumble deep in his chest. He's clearly very sick, right?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a huge rabid St",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "place": "street",
+   "words": "THE SICK DOG GROWLS"
+  },
+  "viewerGuess": "A huge, sick, angry dog is growling and threatening on the street."
+ },
+ {
+  "id": "b002",
+  "narration": "His eyes are rolled back in his head. He's actively hallucinating, mumbling about the ducks at the Magic Lantern movie theater back in town.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a six-year-old boy",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a 30-something woman",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "place": "room",
+   "words": "TAD IS DELIRIOUS"
+  },
+  "viewerGuess": "A young boy is feverish and delirious while his frightened mother watches over him at home."
+ }
+]
