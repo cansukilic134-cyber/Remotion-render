@@ -1,0 +1,17 @@
+{
+  "ready": true,
+  "at": "2026-11-06T12:16:45.855Z",
+  "head": "55748c9bd183ee20a20956c3e62946b72125a7cc",
+  "configSha256": "e94fc5a6c0880f668c2e474d2a746b3be3ae12710baefafe627829cf189b8da3",
+  "renderInputHash": "072c37047e7808b8",
+  "mute": {
+    "label": "run2",
+    "sample": "fresh",
+    "n": 30,
+    "wrong": 0,
+    "dead": 5,
+    "adds": 21,
+    "pass": true
+  },
+  "failed": []
+}

@@ -1,0 +1,61 @@
+{
+  "slug": "gardens-of-the-moon",
+  "title": "Gardens of the Moon",
+  "author": "Steven Erikson",
+  "genre": "fantasy",
+  "engine": "antidote",
+  "engineRationale": "Book profile (strong): speculative fiction with a cast → staged characters and invented things drawn in Antidote (measured: I, Robot 1/30 wrong, Ready Player One 0/30 — data/engine-outcomes.json; no speculative Vox book measured) RISK: violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically",
+  "engineDecidedBy": "book-profile",
+  "engineProfile": {
+    "kind": "fiction",
+    "world": "speculative",
+    "realPeople": false,
+    "format": "story",
+    "violence": "central",
+    "minorHarm": false,
+    "mustSee": [
+      "the Malazan army marching across the Genabackan desert",
+      "the siege of the city of Pale",
+      "the floating fortress Moon's Spawn",
+      "the sorcerer Kellanved and the Crippled God's wounded followers",
+      "the mercenary squad of Whiskeyjack"
+    ]
+  },
+  "engineRubric": {
+    "pick": "antidote",
+    "confidence": "strong",
+    "voxScore": 0,
+    "antidoteScore": 35,
+    "reasons": [
+      "speculative fiction with a cast → staged characters and invented things drawn in Antidote (measured: I, Robot 1/30 wrong, Ready Player One 0/30 — data/engine-outcomes.json; no speculative Vox book measured)"
+    ],
+    "risks": [
+      "violence/death is central to the key scenes → Flux refuses many of those images (CONTENT_FILTERED); Antidote draws them symbolically"
+    ]
+  },
+  "bgTint": true,
+  "engineCheck": {
+    "at": "2026-11-06",
+    "fit": "vox",
+    "confidence": "strong",
+    "voxScore": 22.3,
+    "antidoteScore": 9.2,
+    "signals": {
+      "year": 0,
+      "history": 9.3,
+      "second": 20.2,
+      "abstract": 2.7,
+      "sensitive": 5.4,
+      "era": 1300,
+      "words": 5601
+    },
+    "reasons": [
+      "real-world / dated references (0 years, 9.3 history terms per 1k words) → photoreal shows the actual world (Vox)",
+      "the narration addresses the viewer (\"you\" 20.2/1k) → an idea/advice film, drawn as icons, diagrams and an everyman (Antidote)"
+    ],
+    "risks": [],
+    "confirmed": true,
+    "confirmedBy": "appr-1"
+  },
+  "audioSource": "public/audio/gardens-of-the-moon.mp3"
+}

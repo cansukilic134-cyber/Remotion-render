@@ -1,0 +1,23 @@
+{
+  "note": "operator approvals for routine production work (preview-state.js approve). Append-only. A record matches only its attempt (engine, pin, audio, VTT). Quality debt, render, upload, publish and cleanup are NEVER recorded here.",
+  "approvals": [
+    {
+      "id": "appr-1",
+      "at": "2026-11-06T05:38:58.542Z",
+      "by": "savas",
+      "book": "gardens-of-the-moon",
+      "words": "Keep Antidote, the audio was written for Antidote.",
+      "scope": "engineKeep",
+      "attempt": {
+        "engine": "antidote",
+        "productionBase": "55748c9bd183ee20a20956c3e62946b72125a7cc",
+        "audioSha256": "2b7933d3713b961a3806aca132805418b06c94e70e7c8b3cf291e1175ad99951",
+        "vttSha256": "3935a1df96b558e80dbb424ac31fa9eddc1c0cd541557fb683e26d8c2857b819"
+      },
+      "limits": {
+        "conditions": "Keep Antidote: the audio was written for Antidote"
+      },
+      "used": []
+    }
+  ]
+}

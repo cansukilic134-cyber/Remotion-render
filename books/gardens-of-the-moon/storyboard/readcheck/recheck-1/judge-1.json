@@ -1,0 +1,39 @@
+[
+ {
+  "id": "b001",
+  "narration": "Doesn't his point of view inherently make this a privileged top- down perspective? I mean, he is the guy inspecting the troops, not the guy digging the latrines.",
+  "onScreen": {
+   "place": "abstract",
+   "words": "Inspecting, not digging"
+  },
+  "viewerGuess": "The narrator introduces an approach of examining or investigating something carefully rather than excavating it."
+ },
+ {
+  "id": "b002",
+  "narration": "They are just grunts who happen to have slightly better shields than the regular infantry.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young woman mage",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "Ordinary soldiers with shields"
+  },
+  "viewerGuess": "The narrator describes two ordinary soldiers, a young woman mage and a middle-aged man, who are just regular troops with shields."
+ },
+ {
+  "id": "b003",
+  "narration": "That tension with Sorry is exactly the proof of their loyalty to each other. Wait, really? Yes. They don't trust her.",
+  "onScreen": {
+   "words": "Distrust is their loyalty"
+  },
+  "viewerGuess": "The narrator says that in this world, mutual distrust is what holds people together and counts as loyalty."
+ }
+]

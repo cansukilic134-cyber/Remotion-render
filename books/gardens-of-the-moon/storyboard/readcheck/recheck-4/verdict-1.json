@@ -1,0 +1,12 @@
+{"run":"gardens-of-the-moon-judge-1db7e47b9e5d","items":[
+{"id":"b001","correctness":"CORRECT","blame":"nothing","why":"Afraid soldier plus 'Out of his depth' carries the meaning."},
+{"id":"b002","correctness":"CORRECT","blame":"nothing","why":"Angry soldier with battlefield and 'Rage drowned by the noise' matches the muted howl."},
+{"id":"b003","correctness":"NEUTRAL","blame":"icon","why":"Guess captures 'sword or magic, same' but the shield suggests defense and misses the umbrella point about being powerless."},
+{"id":"b004","correctness":"CORRECT","blame":"nothing","why":"Grim trench-level soldier perspective matches the narration's small, trench-view framing."},
+{"id":"b005","correctness":"CORRECT","blame":"nothing","why":"Terror and blood-filled chaos conveyed, though it is horses rather than the soldier; the gist of terror and gore holds."},
+{"id":"b006","correctness":"NEUTRAL","blame":"icon","why":"Powerless to help Rake is right, but chain links make the viewer think Rake is in bondage and the man a friend, which is not stated."},
+{"id":"b007","correctness":"NEUTRAL","blame":"icon","why":"Dreams of mortals are read, but the glowing star makes it hopeful and misses the god being constrained."},
+{"id":"b008","correctness":"CORRECT","blame":"nothing","why":"Dropped mid-journey on a long road matches dropped halfway through a marathon."},
+{"id":"b009","correctness":"CORRECT","blame":"nothing","why":"Earned, not assigned is conveyed directly, even if the bridge burner label is not shown."},
+{"id":"b010","correctness":"WRONG","blame":"words","why":"Viewer believes the army is marching to be slaughtered, reversing that the Moranth march to slaughter citizens."}
+]}

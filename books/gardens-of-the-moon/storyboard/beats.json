@@ -1,0 +1,2162 @@
+{
+  "book": {
+    "slug": "gardens-of-the-moon",
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "genre": "fantasy"
+  },
+  "instructions": [
+    "Rewrite `callout.text` per beat: 2-4 words, concrete and loaded, in the viewer's second person where it fits.",
+    "NEVER an abstract noun (ORGANIZATION / MANAGEMENT / INFORMATION). Prefer what a person can see, feel or do.",
+    "Set callout to null when the beat has no hook worth stamping — silence is a valid, good choice.",
+    "`style`: reveal (3-4 words) | highlight (2 words) | strike (a negation) | outline (a real stat) | box | stack.",
+    "`concept`: the beat's LITERAL subject → a scene icon that gets shown instead of talking heads.",
+    "  Allowed: alarmClock, butterfly, subway, car, coffee, codeWindow, rocketLaunch, funnelMetrics, dollarExchange, laptopMockup, crash, ledge, water, grave, medical, notes, phone, school, home, family, road, storm, star, heart, fire, tree, mask, mirror, key, law, photo, war, game, work, city, food, coin, door, lightbulb, shadowSelf, puppeteer, chains, compass, dominoCascade, icebergDepth, funnelTrap, thirtyTyrants, ringOfGyges, caveAllegory, shipOfState, tripartiteSoul, kallipolis, fiveRegimes, mythOfEr, boulder, summit, ladder, crack, clock, balance, book, shield, trophy, hourglass, sword, target, magnifier, wallet, gift, inheritance, zap. Set a string when the beat is really ABOUT that thing",
+    "  (a crash, a home, a lake, a wall of notes); null or omitted = no icon (there is no lexicon",
+    "  fallback). Use only when it's the true subject — a wrong icon is worse than none. The icon must",
+    "  be in the book's story-bible visualProvenance.allowedMotifs or it is dropped with a warning.",
+    "`set` (optional): the location, one of the renderer's sets — honoured as written.",
+    "`shotOverride` (optional): force a framing. `shot` above is only the director's first guess.",
+    "The director stages the body itself from the concept — a beat whose subject is a",
+    "  letter/phone/key/photo/book/coin/mirror/mask/idea/compass/meal/love/job/court puts that",
+    "  object IN THE LEAD'S HAND, an outdoor beat can make them walk across the set, an indoor",
+    "  one can sit them down. You do not author that here; naming the right `concept` is what",
+    "  turns it on. A wrong concept costs more now than it used to.",
+    "`diagram`: an EXPLANATORY self-drawing graphic that BECOMES the whole beat (cast dropped,",
+    "  no callout). Author one ONLY on a genuinely conceptual beat; leave null otherwise — a weak",
+    "  or generic diagram is worse than none. Use at most a handful across the whole book. Shape:",
+    "  { type, title?, labels[], values[] }, where type is one of:",
+    "    sorter   — a taxonomy sorting into buckets. labels = the 2-4 category names; values = optional per-bucket counts.",
+    "    matchWave— two rhythms drifting then locking into sync. labels[0] = the payoff word (e.g. IN SYNC).",
+    "    flow     — a cause→effect chain. labels = 2-3 ordered node names.",
+    "    spectrum — a marker on a continuum. labels = [leftPole, rightPole]; values = [0..1 marker position].",
+    "  Keep labels 1-2 words. Best on the beat that first NAMES a framework, a sync, a process or a scale.",
+    "`concept: null` means NO icon on this beat (not even a decorative one); omitting the key is ALSO no icon — there is no lexicon fallback (Faz 0). Every beat needs an entry; an unauthored beat fails gate-authorship.",
+    "Do not leave a beat silent when its narration names concrete things (a list of objects, an anecdote, a person doing something) — give it the narrator's phrase or the object.",
+    "Prefer the narrator's concrete phrase over an abstract metaphor label (\"PAUSE THE IMPULSE\", not \"A LOGIC FILTER\").",
+    "A diagram title must not promise a shape its type cannot draw (no \"LOOP\"/\"PYRAMID\" on a straight flow).",
+    "Keep the array order and length. Then re-run plan-antidote with --callouts=<this file>.",
+    "After re-running: node scripts/audit-antidote.js --slug=<slug> — it FAILS the plan if any",
+    "  window runs longer than 8s with nothing happening on screen."
+  ],
+  "beats": [
+    {
+      "i": 0,
+      "shot": "lowAngle",
+      "beat": "title",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is early morning on the planes outside the city of Pale, You are huddled in the mud with the ninth squad of the Molassen second army",
+      "callout": {
+        "text": "GARDENS OF THE MOON",
+        "style": "plain"
+      }
+    },
+    {
+      "i": 1,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and the air just it just stinks. Oh, absolutely reeks. Yeah, it is this heavy suffocating mix of latrine trenches, sweat, and horsung",
+      "callout": null
+    },
+    {
+      "i": 2,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "burning in brazers just to ward off the biting chill because the wind has turned overnight. Exactly. The wind turned so you are breathing all of it in and you're looking up at a floating mountain made of black stone called moonspan",
+      "callout": null
+    },
+    {
+      "i": 3,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "which is terrifying. It is. And nobody is explaining the grand strategy to you. Nobody is telling you if you're going to live through the next 5 minutes let alone the rest of the You're just waiting just waiting for the",
+      "callout": {
+        "text": "MINUTES LET ALONE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 4,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "sky to fall. Asking the one question that actually matters like who in this war actually knows what is happening? And that is exactly the question you are meant to be asking in that mud, Because",
+      "callout": null
+    },
+    {
+      "i": 5,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Gardens of the Moon completely refuses to be a traditional fantasy It absolutely rejects the standard premise of, you know, kings and gods moving pieces",
+      "callout": null
+    },
+    {
+      "i": 6,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "on a pristine, well-lit I mean, we've all read those books, right? Where everything is clean.",
+      "callout": null
+    },
+    {
+      "i": 7,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But instead, this is a story entirely about the soldiers who are never told the whole plan. Yeah. It is a fantasy that only makes sense from the bottom of the chain of command up.",
+      "callout": {
+        "text": "WHOLE PLAN",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 8,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The immediate reality for these people in the dirt is just incredibly heavy. So heavy. We are talking about the bridge burners here. Specifically the ninth squad led by",
+      "callout": null
+    },
+    {
+      "i": 9,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "this battered exhausted sergeant named Whiskeyjack. You have to understand the meat grinder they are facing right now. It is the molassin siege of the free city of Pale.",
+      "callout": null
+    },
+    {
+      "i": 10,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And Pale is being guarded by that floating basalt fortress. Moonspawn. Moonspawn and its lord",
+      "callout": null
+    },
+    {
+      "i": 11,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Anomor Rake. Meanwhile, miles behind the lines pushing these grunts into the fire, you have the Empress Leine, her adjunct Lauren, and this whole pantheon of meddling just inscrable gods.",
+      "callout": null
+    },
+    {
+      "i": 12,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And it is vital to note that Steven Ericson, the author, actually comes from a background in anthropology and Oh, really? Yeah.",
+      "callout": null
+    },
+    {
+      "i": 13,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "And that completely informs how he builds this world. He does not subscribe to the great man theory of history where a few kings make decisions and the world neatly follows.",
+      "callout": null
+    },
+    {
+      "i": 14,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. He knows history is messy. He knows it is built on the bones of people who had no idea why they were dying.",
+      "callout": null
+    },
+    {
+      "i": 15,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You don't get a war room to sit in. You don't get a clean top down view of the map with the little wooden blocks being pushed around by brilliant generals.",
+      "callout": {
+        "text": "WAR ROOM",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 16,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are in the trench. So, let us drop right into the aftermath of a magical barrage on those planes to see what that actually looks like.",
+      "callout": null
+    },
+    {
+      "i": 17,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "set the scene. Okay, so the male sorceress Tatterail is standing there and she is watching four soldiers trudge up a blasted smoking The visual here is haunting. Really is.",
+      "callout": null
+    },
+    {
+      "i": 18,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Their faces are almost bone white beneath the mud and these stark crimson streaks of blood.",
+      "callout": null
+    },
+    {
+      "i": 19,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You can literally hear their armor crunching and their eyes are just empty, entirely dispassionate, just hollowed out and exhausted.",
+      "callout": null
+    },
+    {
+      "i": 20,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "This is Whiskey Jack, Kalam, Quickben, and that incredibly unnerving young girl they call Sorry, They literally just watched their comrade, Herlock, get cut in half. And they don't look heroic.",
+      "callout": null
+    },
+    {
+      "i": 21,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "No, not at all. They don't look like glorious fantasy warriors returning from a quest. They look completely spent. Think about what that does to you, the reader.",
+      "callout": null
+    },
+    {
+      "i": 22,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are forced to experience this war through the tired, cynical eyes of veterans who know their lives are considered entirely expendable by their own commanders. Yeah. Because when Tatile sees them, she",
+      "callout": null
+    },
+    {
+      "i": 23,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "realizes immediately who they are. Right. The legendary Bridgeurners, the elite of the elite. But there is no awe in the moment.",
+      "callout": null
+    },
+    {
+      "i": 24,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "No sweeping musical cue. Exactly. There is just a shared recognition of profound trauma. The squad approaches are not for comfort,",
+      "callout": {
+        "text": "NOT FOR COMFORT",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 25,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "not to strategize, but to coldly check if they are the burial detail for a man who hasn't even fully died yet.",
+      "callout": null
+    },
+    {
+      "i": 26,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "That is the lens through which you view this entire conflict. It is not about glory.",
+      "callout": null
+    },
+    {
+      "i": 27,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is about surviving a system that actively does not care if you live or And it is not just the rank and file grants who feel this crush. Look at Captain Ganos Pon.",
+      "callout": null
+    },
+    {
+      "i": 28,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, Pon is such a good example. He realizes that after 1300 bridge burners die in the tunnels at Paleo, 1300 elite",
+      "callout": {
+        "text": "1300",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 29,
+      "shot": "diorama",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "soldiers crushed under the earth. And there is no grand ceremony. It is just some lowranking officer delivering a wagon load of generic tripe about heroism to 39",
+      "callout": null
+    },
+    {
+      "i": 30,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "stone-faced survivors. And this is where the reality of the Mazin military sets in. Yeah. Because that same officer giving the hollow speech is found expertly gared in his room just",
+      "callout": null
+    },
+    {
+      "i": 31,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "two hours later. The mood in the army has turned so toxic, so deeply paranoid that the assassination of an officer giving a fake speech doesn't even make anyone Nobody cares.",
+      "callout": {
+        "text": "MAKE ANYONE NOBODY",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 32,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a brutal reality check about where the real power dynamics lie in a military camp. Hang on, though. Let me push back a bit",
+      "callout": {
+        "text": "REAL POWER",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 33,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "What about Par himself? You were saying this is entirely a grunt story, but Parin is literally a highborn nobleman from the capital city of Una.",
+      "callout": null
+    },
+    {
+      "i": 34,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is. He's an officer handpicked by Adjunct Lauren. the empress's right hand.",
+      "callout": null
+    },
+    {
+      "i": 35,
+      "shot": "split",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Doesn't his point of view inherently make this a privileged top- down perspective? I mean, he is the guy inspecting the troops, not the guy digging the latrines.",
+      "callout": {
+        "text": "GUY DIGGING THE LATRINES",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 36,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Well, he starts as a noble wanting prestige. Absolutely. He tells himself he wants something more challenging than overseeing his family's wine shipments.",
+      "callout": null
+    },
+    {
+      "i": 37,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He wants the romanticized glory of the Imperial like a lot of young officers do. Exactly. But the moment he steps into the field, the moment he gets anywhere near the actual conflict,",
+      "callout": null
+    },
+    {
+      "i": 38,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "he is completely reduced to a pawn. Oh, for sure. He gets slaughtered just like a grunt on a dirty country road.",
+      "callout": null
+    },
+    {
+      "i": 39,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He realizes very quickly and very violently that he is completely out of his depth.",
+      "callout": null
+    },
+    {
+      "i": 40,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "All that noble blood, all that officer training, his fancy sword, it means absolutely nothing when the magic hits or the assassins come out of the",
+      "callout": null
+    },
+    {
+      "i": 41,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a massive shock to his system. and He is violently stripped of his top down privilege. He is forced to look up from the dirt just like Whiskey Jack.",
+      "callout": null
+    },
+    {
+      "i": 42,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It just goes to show that whether you are a farm boy or a highborn captain with a signant ring, the reality of this world only rings true when you are looking at it from the absolute bottom. Precisely. And that brings",
+      "callout": {
+        "text": "ONLY RINGS TRUE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 43,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "us to the mechanics of this universe, specifically how it handles magic. Okay. Yeah. If you look at the broader landscape of modern fantasy, magic is often this neat academic system. Oh, absolutely. Like you read Brandon Sanderson and",
+      "callout": null
+    },
+    {
+      "i": 44,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "you know exactly what the physics of a specific metal will do. Right. It is a hard science. It has mana costs, spell components, clear",
+      "callout": {
+        "text": "MANA COSTS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 45,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But here, let us put you back on that hill during the siege of Pale. It is not a classroom. It is a sensory nightmare.",
+      "callout": null
+    },
+    {
+      "i": 46,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Total chaos. You have high mage Tan unleashing literal waves of golden flame from the center hill and Anamander Rake responding from moonspawn with black writhing necess waves of magic.",
+      "callout": {
+        "text": "TOTAL CHAOS",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 47,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "In Tatterale, our point of view on the ground, she isn't analyzing the spell structure.",
+      "callout": null
+    },
+    {
+      "i": 48,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She feels her limbs aching as if she's been beaten with iron clubs. She tastes something bitter and metallic on her tongue.",
+      "callout": null
+    },
+    {
+      "i": 49,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. As this ancient elder magic rips the sky apart, the sun literally turns into a a coppery disc behind downpours of ash.",
+      "callout": null
+    },
+    {
+      "i": 50,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "We really need to explain what is actually happening mechanically here because it highlights why it feels so",
+      "callout": null
+    },
+    {
+      "i": 51,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Go for it. In the Malazan world, magic doesn't just happen because you say a magic word. Mages access these alternate dimensions called warren.",
+      "callout": null
+    },
+    {
+      "i": 52,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Warren, right? Imagine reality has a fabric and a mage is forcefully tearing a hole in that fabric to channel the raw elemental energy of another universe into ours. That sounds dangerous.",
+      "callout": null
+    },
+    {
+      "i": 53,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is incredibly dangerous. When Tan uses the War of Thre, he is ripping open a portal to a dimension of light and fire. When Anamander Rake uses Coral Galain,",
+      "callout": {
+        "text": "TAN USES THE WAR",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 54,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "he is unleashing the elder realm of pure darkness. So magic isn't a tool for the characters to easily wield. No, it is heavy artillery falling on your head. When Tatterale experiences it,",
+      "callout": {
+        "text": "YOUR HEAD",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 55,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "it is purely as concussive trauma. The earth rises skyward in thundering columns. Rocks rip through men like hot stones through snow.",
+      "callout": null
+    },
+    {
+      "i": 56,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is devastating, indiscriminate, and it is experienced primarily as a frantic scramble to just not get obliterated. You don't understand the rules.",
+      "callout": null
+    },
+    {
+      "i": 57,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You just feel the blast wave. And it is so entirely arbitrary in who it kills. Think about hairlock. Here is a cadre mage that is a highranking",
+      "callout": null
+    },
+    {
+      "i": 58,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "powerful magic user. All right. He hasn't defeated some glorious dramatic duel of wits where he and the villain exchange monologues on a",
+      "callout": null
+    },
+    {
+      "i": 59,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Not at all. He is just standing on the hill and a random wave of screaming sorcery simply sweeps past his defenses and cuts him in half at the waist.",
+      "callout": null
+    },
+    {
+      "i": 60,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And his howl of rage is instantly muted by the deafening noise at the It is sudden. It is violent. And it's completely devoid of any narrative It is the exact equivalent of",
+      "callout": {
+        "text": "HOWL OF RAGE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 61,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "catching a stray piece of shrapnel in a trench. Yeah. Doesn't matter how powerful you are, how much backstory you have, or how important you think you are to the plot.",
+      "callout": null
+    },
+    {
+      "i": 62,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "If you are in the wrong place when the artillery lands, you are just gone. But wait, I have to push back here.",
+      "callout": null
+    },
+    {
+      "i": 63,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Tatterale and Quickben are mages. They aren't just helpless infantrymen waiting to be stepped on. They understand the warns.",
+      "callout": null
+    },
+    {
+      "i": 64,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They channel this stuff themselves. Well, yes, but I mean QuickBen is from seven cities. He has got access to multiple wars.",
+      "callout": null
+    },
+    {
+      "i": 65,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Tatterale commands the whole cadre, but surely they have some level of mastery and control over this environment. They channel it, yes, but they don't control the storm. That is the vital distinction Ericson",
+      "callout": null
+    },
+    {
+      "i": 66,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "makes. When Tatterale taps into her Warren, how does she actually describe the physical sensation? It is not reading calmly from a spell book,",
+      "callout": null
+    },
+    {
+      "i": 67,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is finding a gate in the beyond, nudging it open. in a tiny crack and praying her physical body doesn't fail her while the power leaks out. That is terrifying.",
+      "callout": {
+        "text": "BODY DOESN'T FAIL",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 68,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She explicitly remembers the warning of her masters. When the body fails, the gate closes.",
+      "callout": null
+    },
+    {
+      "i": 69,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "They are just grunts who happen to have slightly better shields than the regular infantry.",
+      "callout": null
+    },
+    {
+      "i": 70,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "They are absolutely terrified of the powers they are caught between. When Anamander Rakes sorcery hits, Tatterale and Kallet are just desperately pooling their power to stop from being instantly annihilated by the pressure.",
+      "callout": {
+        "text": "STOP",
+        "style": "box"
+      }
+    },
+    {
+      "i": 71,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They aren't masters of the No, they are people holding up an umbrella in a category 5 hurricane.",
+      "callout": null
+    },
+    {
+      "i": 72,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "That umbrella analogy is so perfect because whether it is a regular iron sword in your hand or a magical Warren you are desperately tapping into, the reality is exactly the same.",
+      "callout": null
+    },
+    {
+      "i": 73,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are small. The forces around you are and the world only makes sense from that trench level perspective. And if the magic doesn't get you, the political machinery of your own side will.",
+      "callout": {
+        "text": "YOU ARE SMALL",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 74,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The politics in this book are so deeply cynical. Let us set a scene in the free city of Dujasan. It is quiet,",
+      "callout": null
+    },
+    {
+      "i": 75,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "but it is incredibly tense. Yeah. Whiskey Jack is rocking his chair on its back two legs in this dingy little room.",
+      "callout": {
+        "text": "DINGY LITTLE ROOM",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 76,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It reeks of damp wood and urine. The rain is just lashing against the windows outside. Such a moody scene. and he's sitting there listening to highfist Dujek onearmm",
+      "callout": null
+    },
+    {
+      "i": 77,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "his commanding general explain that there is immense political pressure coming all the way from the empress",
+      "callout": null
+    },
+    {
+      "i": 78,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "to completely disband the bridge burners this scene is pivotal it tells you that the greatest threat to a soldier in this world isn't the enemy army standing in front of them with",
+      "callout": {
+        "text": "WORLD ISN'T THE ENEMY",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 79,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "swords drawn the greatest threat is the cold paranoid unfinished political machinery of their own empire operating behind their backs Whiskey Jack and his squad survived the horror of Pale.",
+      "callout": null
+    },
+    {
+      "i": 80,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They survived the elder magic and the explosives only to realize that their own government is actively trying to erase them because they are politically inconvenient.",
+      "callout": null
+    },
+    {
+      "i": 81,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And it is not just some vague bureaucratic threat. Let us look at how the Malazin Empire actually functions under Empress Lassine.",
+      "callout": null
+    },
+    {
+      "i": 82,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The politics in the capital aren't about grand noble ideals of spreading Not at all. They are about sheer ruthless utility.",
+      "callout": null
+    },
+    {
+      "i": 83,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Lassine suspects that Djuk One has too much loyalty from his men. He's too popular and the bridge burners are too loyal to the old regime.",
+      "callout": null
+    },
+    {
+      "i": 84,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "So she is completely willing to orchestrate a bloodbath to intentionally put her own elite troops in a position to be slaughtered in those tunnels at Pale",
+      "callout": null
+    },
+    {
+      "i": 85,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "just to disarm her own general. It is the ultimate betrayal of the soldier.",
+      "callout": null
+    },
+    {
+      "i": 86,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The people at the top of the chain of command are looking at a ledger balancing political threats.",
+      "callout": null
+    },
+    {
+      "i": 87,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "And the cost of balancing that ledger is paid in the blood of 1300 bridge burners. And look at Lauren, the adjunct.",
+      "callout": {
+        "text": "1300 BRIDGE",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 88,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "She embodies this cold pragmatism. She really does. As the empress's personal extension of will, she views people entirely as tools.",
+      "callout": null
+    },
+    {
+      "i": 89,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "You're either useful for the stability of the empire or you are a threat to be eliminated. It is chilling. Okay, but let us look at the flip side of that coin.",
+      "callout": null
+    },
+    {
+      "i": 90,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "We get inside Panted early in the book and he actually muses on the nature of the empire, He thinks about how within the Molassin borders, people are living in unprecedented peace.",
+      "callout": {
+        "text": "INSIDE PANTED EARLY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 91,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The empire brings They build roads. They secure commerce. They standardize the laws.",
+      "callout": null
+    },
+    {
+      "i": 92,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "If you take away the petty local tyrants and institute molassin law, isn't the empire actually a force for good? Isn't Leine doing what has to be done for the greater peace of the continent? It is a compelling argument until you",
+      "callout": null
+    },
+    {
+      "i": 93,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "look at the mechanics of how that piece is actually maintained. Right? That unprecedented piece is enforced by the claw. We should definitely explain the claw.",
+      "callout": null
+    },
+    {
+      "i": 94,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The claw is the empress's ruthless secret police force. They are state sanctioned assassins who murder anyone deemed a threat to the throne without trial, without public record. they just make you disappear.",
+      "callout": null
+    },
+    {
+      "i": 95,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And more importantly, that internal peace requires endless brutal wars of expansion on the frontiers. It is like the psana.",
+      "callout": null
+    },
+    {
+      "i": 96,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. It only works if you are constantly subjugating your neighbors to keep the military occupied and the economy moving. The grunts bleeding in the dirt at Pale or Geneabacus never get to see that",
+      "callout": {
+        "text": "ONLY WORKS",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 97,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "piece. The piece of the empire is a luxury enjoyed by the wealthy merchants in UN paid for by the soldiers who are treated as utterly disposable.",
+      "callout": null
+    },
+    {
+      "i": 98,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is such a jarring disconnect. The politics of the capital, the grand strategies of peace and order, they're just these lethal rumors to the soldiers on the ground.",
+      "callout": null
+    },
+    {
+      "i": 99,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "rumors that get them Once again, it all comes back to that grunt's eye view.",
+      "callout": null
+    },
+    {
+      "i": 100,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The reality of the empire is the blood in the mud, not the proclamations in the throne room. And that disposability of the soldier is a theme Ericson returns to over and over, particularly",
+      "callout": {
+        "text": "THRONE ROOM",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 101,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "in how he depicts It is incredibly brutal. Let us drop back onto that blasted summit of the hill just after the magic at Pale finally stops. Right. A whole company of Molassin",
+      "callout": null
+    },
+    {
+      "i": 102,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "soldiers had sought refuge up there during the barrage. Tatterale looks over her body just throbbing with pain, expecting to see the wounded, expecting to have to deal with the messy aftermath of a battle.",
+      "callout": {
+        "text": "OVER HER BODY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 103,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Instead, there is nothing left of the entire company but empty armor, just a sudden",
+      "callout": null
+    },
+    {
+      "i": 104,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "violent eraser. What is happening here is Erikson deliberately stripping away the romanticism of fantasy warfare. In a lot of fantasy, death is given profound meaning.",
+      "callout": null
+    },
+    {
+      "i": 105,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It comes with a final It comes with a comrade holding your hand as you slip away, passing on a vital piece of information.",
+      "callout": null
+    },
+    {
+      "i": 106,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But in Guards of the Moon, you are here one second trying to survive and gone the next. The magic hits and you just And the survivors, like Tatterale, don't even have the luxury of time",
+      "callout": {
+        "text": "LUXURY OF TIME",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 107,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "to mourn because the war machine immediately demands their attention elsewhere. You see this exact same eraser at the ichthines road early in the book.",
+      "callout": null
+    },
+    {
+      "i": 108,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh man, that scene. This is the scene that really sets the tone for the violence in this world. 175 men and women, 210",
+      "callout": {
+        "text": "175",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 109,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "horses completely slaughtered by sorcery. When Pin walks through that carnage, the details are",
+      "callout": null
+    },
+    {
+      "i": 110,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "sickening. He sees the signs of absolute terror on the horses, right? The crusted foam, the glittering carpet of blood and feces.",
+      "callout": null
+    },
+    {
+      "i": 111,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is grotesque. It is not a noble battlefield. It is a slaughterhouse. And Parn to keep from losing his mind has to force this detached professional coolness just to do his job as an investigator.",
+      "callout": {
+        "text": "KEEP FROM LOSING",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 112,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a psychological defense mechanism. If you let yourself feel the weight of that unceremonious death, it crushes",
+      "callout": {
+        "text": "YOU LET YOURSELF",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 113,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "The sheer scale of the slaughter on that road makes the individual lives seem terrifyingly insignificant. But wait, I have to point out a massive exception to this.",
+      "callout": null
+    },
+    {
+      "i": 114,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We do see mourning in the book. Okay, where after the siege of Pale, Highage Bellerin wanders the blasted battlefield.",
+      "callout": null
+    },
+    {
+      "i": 115,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is physically collecting the scattered limbs of Nightshell, his fellow high mage, and he is wailing in absolute pathos. It is this",
+      "callout": null
+    },
+    {
+      "i": 116,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "deeply tragic, highly cinematic moment of grief. So there is ceremony in mourning for the dead. That discrepancy is exactly the point Ericson is making. Oh, I see.",
+      "callout": null
+    },
+    {
+      "i": 117,
+      "shot": "medium",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "Look at who gets to mourn and be mourned. The high mages get tragedy. The elite get the cinematic moments of Belellodon gets to whail for night But the 1300 bridge",
+      "callout": null
+    },
+    {
+      "i": 118,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "burners who died in the tunnels, the rank and file infantry, they just get left for the worms. There is no high mage collecting their Exactly.",
+      "callout": null
+    },
+    {
+      "i": 119,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The elites are treated as individuals with narrative weight. The soldiers are treated as a statistic.",
+      "callout": null
+    },
+    {
+      "i": 120,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "And it's so dark, but it perfectly illustrates how class and power function here.",
+      "callout": {
+        "text": "CLASS AND POWER",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 121,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The value of a life depends entirely on your rank. And the tragedy of the world is only really visible when you are looking up from the bottom. And this structural inequality, this profound",
+      "callout": null
+    },
+    {
+      "i": 122,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "sense of being pawns in someone else's game. It extends all the way up to the heavens.",
+      "callout": {
+        "text": "ELSE'S GAME",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 123,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Oh, the gods. Let us talk about the gods because this is where the world building gets really trippy. I want to paint this surreal picture for you. Pin is dead.",
+      "callout": null
+    },
+    {
+      "i": 124,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "He has been murdered and his soul is lying on this strange yielding lom outside Hood's gate. Hood being the lord of death, right?",
+      "callout": {
+        "text": "SOUL IS LYING",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 125,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And above him, two ascendants upon the twins of chance are just casually bickering.",
+      "callout": null
+    },
+    {
+      "i": 126,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is so bizarre. They are arguing with Shadow Throne, the king of high house shadow, who is standing there with his massive redeyed hounds. And they are literally arguing over who gets to use Parn's soul.",
+      "callout": null
+    },
+    {
+      "i": 127,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is like watching petty middle managers fighting over who gets to claim credit for a spreadsheet, except the spreadsheet is a human being's eternal soul.",
+      "callout": null
+    },
+    {
+      "i": 128,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Exactly. Like he is a poker chip they dropped on the floor. This scene reveals the brilliant twist of the Molassin universe.",
+      "callout": null
+    },
+    {
+      "i": 129,
+      "shot": "medium",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "In a lot of epic fantasy, the gods are these omnisient masters playing 40 chess, executing flawless plans that span But not here. To understand why, you have to understand",
+      "callout": null
+    },
+    {
+      "i": 130,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "what an ascendant is. In this world, mortals who become powerful enough can",
+      "callout": null
+    },
+    {
+      "i": 131,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "ascend to godhood. Which means the gods are just heavily armed immortal humans with all their petty flaws, neurosis, and grudges completely intact.",
+      "callout": null
+    },
+    {
+      "i": 132,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They are scrambling. They are improvising. They are meddling in the Shadow Throne wants parent for one reason, open once and for another.",
+      "callout": null
+    },
+    {
+      "i": 133,
+      "shot": "lowAngle",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "And none of them seem to have a flawless master plan. They are just pushing pieces around despite each other. We see this incredible constraint on the divine again with Cruel.",
+      "callout": {
+        "text": "MASTER PLAN",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 134,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is an ancient elder god. Oh yeah. He appears in the alchemist Baroo's Beleffrey in Darjustan. There is a terrifying demon unleashed on the city.",
+      "callout": null
+    },
+    {
+      "i": 135,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "You would think an elder god could just snap his fingers and smite it. Right. But cruel flatly admits he has no power to assist Anomor Rake directly.",
+      "callout": {
+        "text": "NO POWER",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 136,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He says, \"I am manifest in the sanctified place and manifest in a lone mortal dreams, but nowhere else.\" The god is fundamentally constrained.",
+      "callout": null
+    },
+    {
+      "i": 137,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He is forced to rely on mortal dreams and these desperate, convoluted gambles just to influence events. It completely demystifies the divine.",
+      "callout": null
+    },
+    {
+      "i": 138,
+      "shot": "medium",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They are incredibly powerful. Yes. But they are not all knowing and they are not all powerful. They are subject to the rules of the Warren,",
+      "callout": null
+    },
+    {
+      "i": 139,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "the rules of manifestation, and the chaotic push and pull of other ascendants. Exactly. But hold on. Look at what Open actually accomplishes.",
+      "callout": null
+    },
+    {
+      "i": 140,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They literally resurrect They do. They pluck a man back from the gates of death. They spin a coin and he breathes again.",
+      "callout": {
+        "text": "GATES OF DEATH",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 141,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "If a being can casually reverse death, aren't they in total control of the board? They have immense localized power.",
+      "callout": null
+    },
+    {
+      "i": 142,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yes. But look at why they do it and what they actually say to PN. Okay. Opin admits that they are just playing with this stumbling ignorant thing you call your life because they delight in uncertainty.",
+      "callout": {
+        "text": "YOU CALL YOUR LIFE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 143,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "They explicitly tell Shadow Throne that they don't know the outcome of this They resurrect Piran simply to blindside Shadow Throne and throw a wrench in his plans. They don't have a grand design for Piran's",
+      "callout": null
+    },
+    {
+      "i": 144,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "ultimate destiny. They just want to ruin someone else's immediate plan. They are playing a game of chance,",
+      "callout": null
+    },
+    {
+      "i": 145,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "which means they are as blind to the final outcome as anyone else. So, they are just throwing a rock in a pond to see where the ripples go.",
+      "callout": null
+    },
+    {
+      "i": 146,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "That is terrifying if you are the rock. It ties it all together perfectly.",
+      "callout": null
+    },
+    {
+      "i": 147,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "Even the gods are just grunts in a larger unseen cosmic war reacting to events they can't fully control. Which perfectly explains the way the book itself is written and how it treats you, the",
+      "callout": {
+        "text": "UNSEEN COSMIC WAR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 148,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "reader. This is where we have to talk about the structure because it is infamous in the fantasy community. Let us put you right next to Whiskey Jack for a moment.",
+      "callout": null
+    },
+    {
+      "i": 149,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Quickban leans in and whispers this terrifying theory that High Mage Taun kept the Burge burners in the collapsing tunnels on purpose during the siege. As a reader, you are just",
+      "callout": null
+    },
+    {
+      "i": 150,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "hearing this fragment of a conspiracy. You are getting drops of context and you are forced to scramble to figure out why.",
+      "callout": null
+    },
+    {
+      "i": 151,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Why would a high mage sabotage his own elite troops? You aren't given a flashback. No, you just get the paranoid whisper in the",
+      "callout": null
+    },
+    {
+      "i": 152,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "This is a highly deliberate choice. Ericson explains this in his own preface to the book. You, the reader, are treated exactly like a new recruit to the squad.",
+      "callout": null
+    },
+    {
+      "i": 153,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You aren't given a history lesson. You aren't spoonfed the grand strategy of the Genevacis campaign. You are dropped halfway through a marathon,",
+      "callout": null
+    },
+    {
+      "i": 154,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and you have to figure out the rules of survival simply by watching the veterans and listening to their fragmented conversations. It happens over and over. Look at how we discover the assassin war in Dujaan, We don't get a grand omnisient",
+      "callout": {
+        "text": "OUT THE RULES",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 155,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "historical charter explaining the assassin's guild and the tarud kabal. No, we just follow crocus",
+      "callout": null
+    },
+    {
+      "i": 156,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "but teenage thief running across the rooftops at We see the violent fallout of these secret organizations clashing. We see assassins striking out in the dark",
+      "callout": null
+    },
+    {
+      "i": 157,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "and we have to piece together the political rivalries of Councilman Turban Ore and the alchemist Baroo",
+      "callout": null
+    },
+    {
+      "i": 158,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "entirely through the blood left on the bronze tiles. It is incredibly disorienting. It demands active participation from the reader.",
+      "callout": null
+    },
+    {
+      "i": 159,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are forced to be a detective in a foreign world. You only know what the people in the dirt know. Okay.",
+      "callout": null
+    },
+    {
+      "i": 160,
+      "shot": "split",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But as a reader, isn't that just a flaw? Isn't that just overly dense, complicated writing that alienates the I don't think so.",
+      "callout": null
+    },
+    {
+      "i": 161,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "I mean, if I have to read a fan wiki just to understand who is fighting who in chapter 2, hasn't the author failed at basic exposition?",
+      "callout": {
+        "text": "AUTHOR FAILED",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 162,
+      "shot": "twoShot",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "I completely disagree that it is a flaw. It is a design choice that creates unparalleled How so? Think about it.",
+      "callout": null
+    },
+    {
+      "i": 163,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "If an author pauses a chaotic siege or a frantic rooftop chase to give you a threepage",
+      "callout": null
+    },
+    {
+      "i": 164,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "encyclopedia entry on the history of the assassin's guilt, it completely shatters the reality of the moment. The characters wouldn't stop to explain things they all already know, right? The confusion you feel as",
+      "callout": null
+    },
+    {
+      "i": 165,
+      "shot": "overShoulder",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "a reader is the realism. It mimics the exact fog of war and lack of information that the characters are experiencing.",
+      "callout": {
+        "text": "EXACT FOG OF WAR",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 166,
+      "shot": "overShoulder",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "So, the disorientation is the point. The reader's confusion perfectly mirrors the squad's confusion. We are kept in the dark because again, the world is only honest when you are looking up from the trench. And when you strip away the",
+      "callout": {
+        "text": "ONLY HONEST",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 167,
+      "shot": "diorama",
+      "beat": "positive",
+      "concept": null,
+      "diagram": null,
+      "narration": "grand narratives, the political clarity, and the divine plans, what is actually left for these soldiers to hold on to? The only thing left is each other. Let us look closely at the dynamic inside",
+      "callout": null
+    },
+    {
+      "i": 168,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "the ninth squad. Look at Whiskey Jack, Kalam, and You see these incredibly deadly men.",
+      "callout": null
+    },
+    {
+      "i": 169,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Kam is a former claw assassin. Quickben is a high mage in hiding. And they are desperately seeking to take the immense weight of command off Whiskey Jack's They know he is a man pushed to the very",
+      "callout": null
+    },
+    {
+      "i": 170,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "edge of his crumbling beliefs. He's exhausted. He is targeted by his own empire,",
+      "callout": null
+    },
+    {
+      "i": 171,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "and his squad is the only thing keeping him from breaking completely. This is the emotional core of the entire book and really the entire When the empire you serve actively wants you dead",
+      "callout": {
+        "text": "WANTS YOU DEAD",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 172,
+      "shot": "diorama",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "and the gods are literally playing dice with your soul, ideologies lose all meaning. The only reality that actually matters.",
+      "callout": null
+    },
+    {
+      "i": 173,
+      "shot": "illustration",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The only thing you can trust is the soldier standing to your left and your right. That unit cohesion becomes a sacred bond.",
+      "callout": null
+    },
+    {
+      "i": 174,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It replaces religion and We see this instinct in the magic users too. Remember Klet and Tatterale on the Oh man.",
+      "callout": null
+    },
+    {
+      "i": 175,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah. As this virilent screaming power washes over Tatterale, threatening to crush her mind and body. What happens? It is Kallet who throws his magic to bolster her faltering shield.",
+      "callout": {
+        "text": "MIND AND BODY",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 176,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "He uses the Warren of Mocha, which is normally the magic of illusion and the mind, and he forces it to act as a physical shield.",
+      "callout": null
+    },
+    {
+      "i": 177,
+      "shot": "diorama",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a completely instinctive, desperate act to save a comrade. And the tragedy is it is paid for just moments later when Colot is incinerated by blue fire. He dies protecting his unit.",
+      "callout": null
+    },
+    {
+      "i": 178,
+      "shot": "closeUp",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "It highlights that in this meat grinder, the instinct to protect your own is the strongest force there is. Stronger than the fear of the enemy, stronger than the fear of the magic.",
+      "callout": null
+    },
+    {
+      "i": 179,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But wait, look at the ninth squad again. Their unit cohesion is terrible. Is it? Look at Sorry. She's a literal supernatural killer.",
+      "callout": null
+    },
+    {
+      "i": 180,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "She was slipped into their ranks and nobody trusts her. They are terrified of her. Whiskey Jack scowls at her. The others flinch when she's near.",
+      "callout": {
+        "text": "RANKS AND NOBODY",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 181,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "How can you say friendship and unit cohesion is what survives when they have a murderous wild card in their own squad and they all hate her?",
+      "callout": null
+    },
+    {
+      "i": 182,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "That tension with Sorry is exactly the proof of their loyalty to each other. Wait, really? Yes. They don't trust her.",
+      "callout": null
+    },
+    {
+      "i": 183,
+      "shot": "twoShot",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "And because they don't trust her, they explicitly refuse to call her a bridge burner. She has been with the squad for 2 years and they still only refer to her as the recruit. Oh wow, that is true.",
+      "callout": {
+        "text": "2 YEARS",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 184,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "Whiskey Jack understands why. They are fiercely protecting the sacred identity of their found family. To call her a bridge burner would be to pollute the only pure thing they have left. Their rejection of her is the strongest evidence",
+      "callout": null
+    },
+    {
+      "i": 185,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "of their devotion to the true The label of bridge burner is earned, not assigned.",
+      "callout": {
+        "text": "LABEL OF BRIDGE",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 186,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a badge of survival. The only truth you can trust is the squad.",
+      "callout": {
+        "text": "ONLY TRUTH",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 187,
+      "shot": "insert",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Which proves once more that the real story is happening at the absolute bottom of the hierarchy.",
+      "callout": {
+        "text": "REAL STORY",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 188,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And this ground level reality fundamentally changes how a story like this has to end. Right? Because there is no neat tidy bow at the end of this book.",
+      "callout": null
+    },
+    {
+      "i": 189,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "Let us paint the final image of the siege of Pale which happens early on but sets the pattern for the whole narrative. The city has fallen.",
+      "callout": null
+    },
+    {
+      "i": 190,
+      "shot": "closeUp",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "The black armored Morantha are marching in to slaughter the citizens. And we should explain the Moranth. They are these enigmatic insectile armored allies of the Molassins who use devastating",
+      "callout": null
+    },
+    {
+      "i": 191,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "alchemical explosives. They are buzzing and clicking as they march in.",
+      "callout": null
+    },
+    {
+      "i": 192,
+      "shot": "medium",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And Moonspawn, smoking in a blaze in a dozen places, is simply pulling away, drifting south. The conflict isn't over.",
+      "callout": null
+    },
+    {
+      "i": 193,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It just This is the reality of being a soldier. A victory doesn't mean happily ever after. It doesn't mean you get to go home and farm. For a grunt, a victory just means you get your marching orders to the next city, the",
+      "callout": null
+    },
+    {
+      "i": 194,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "next siege, the next nightmare. There is no ultimate resolution because the empire's appetite is endless. We see the exact same thing at the end of the book in Daran.",
+      "callout": null
+    },
+    {
+      "i": 195,
+      "shot": "closeUp",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "We get these massive explosive climaxes. The Fett, the ancient demon lord race tearing things up, and Amanda Rake veering into a massive dragon.",
+      "callout": null
+    },
+    {
+      "i": 196,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "But the underlying geopolitical tension, the Malazin advance, the presence of the mercenary crimson guard,",
+      "callout": null
+    },
+    {
+      "i": 197,
+      "shot": "overShoulder",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "it all remains. The board is just reset for the next campaign. The characters survive the night, but the war is still looming on the horizon.",
+      "callout": null
+    },
+    {
+      "i": 198,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "The macrolevel conflict is left intentionally unresolved because for the people we are following, war is a permanent state of being.",
+      "callout": null
+    },
+    {
+      "i": 199,
+      "shot": "closeUp",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "But hold on. If the Malazan Empire isn't defeated and they don't conquer the continent, as a reader, I'm thinking, did I just read a 700page prologue?",
+      "callout": null
+    },
+    {
+      "i": 200,
+      "shot": "medium",
+      "beat": "question",
+      "concept": null,
+      "diagram": null,
+      "narration": "It can feel that way. It feels incomplete. Don't we deserve a climax that actually changes the world?",
+      "callout": null
+    },
+    {
+      "i": 201,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "I would argue it has a massive satisfying climax. The character arcs resolve. Crocus makes his choice about his future.",
+      "callout": {
+        "text": "MAKES HIS CHOICE",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 202,
+      "shot": "overShoulder",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "Rick completes his mission. The immediate localized threat to Darushan is neutralized. What is left unresolved are the macro",
+      "callout": null
+    },
+    {
+      "i": 203,
+      "shot": "silhouette",
+      "beat": "negative",
+      "concept": null,
+      "diagram": null,
+      "narration": "politics, the movements of armies and empires. The story is complete for the characters in the moment. They survive the immediate crisis, but the war machine itself never To wrap up the",
+      "callout": {
+        "text": "CRISIS BUT THE WAR",
+        "style": "strike"
+      }
+    },
+    {
+      "i": 204,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "entire geopolitical war in one book would betray the gritty realism Ericson has built. It would feel cheap. That makes a lot of sense.",
+      "callout": {
+        "text": "FEEL CHEAP",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 205,
+      "shot": "wide",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "You only get to survive the day. You don't get to end the war. Now, despite how brilliant the structure is, we do have to offer one honest structural criticism based on the text itself.",
+      "callout": null
+    },
+    {
+      "i": 206,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "Yeah, we have to talk about the learning curve because the cast is undeniably It is massive, dropping the reader in media rays into a sprawling magical war with zero handholding",
+      "callout": null
+    },
+    {
+      "i": 207,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "means that a lot of readers will simply bounce off the first third of the novel. It is incredibly dense, very dense.",
+      "callout": {
+        "text": "OFF THE FIRST",
+        "style": "reveal"
+      }
+    },
+    {
+      "i": 208,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "And furthermore, elements like the ancient history of the Tlan Emas, these undead Neanderl warriors,",
+      "callout": null
+    },
+    {
+      "i": 209,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "or the broader offscreen machinations of Empress Leine, clearly feel like threads that are intentionally left dangling",
+      "callout": null
+    },
+    {
+      "i": 210,
+      "shot": "insert",
+      "beat": "stat",
+      "concept": null,
+      "diagram": null,
+      "narration": "to justify a massive 10 book series. It can make this first volume feel overwhelmingly like setup. It is a massive ask for a reader to just trust the author.",
+      "callout": {
+        "text": "MAKE THIS FIRST",
+        "style": "outline"
+      }
+    },
+    {
+      "i": 211,
+      "shot": "closeUp",
+      "beat": "contrast",
+      "concept": null,
+      "diagram": null,
+      "narration": "It is a massive ask, but if you make it through, if you accept the terms of the world, the payoff is profound.",
+      "callout": null
+    },
+    {
+      "i": 212,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "It really is. You spend the whole book waiting for someone to sit down and explain the map to you. You want the wizard in the tower to lay out the quest.",
+      "callout": null
+    },
+    {
+      "i": 213,
+      "shot": "crowd",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "But by the end, you realize the brilliance of Steven Ericson. He didn't write a book about the people who draw the maps.",
+      "callout": null
+    },
+    {
+      "i": 214,
+      "shot": "wide",
+      "beat": "crowd",
+      "concept": null,
+      "diagram": null,
+      "narration": "He wrote a book about the people who have to bleed in the dirt to redraw them. Consider how Ericson treats you, the reader, from page one. You aren't treated like a god looking down from the clouds with perfect clarity.",
+      "callout": null
+    },
+    {
+      "i": 215,
+      "shot": "wide",
+      "beat": "story",
+      "concept": null,
+      "diagram": null,
+      "narration": "You are treated exactly like a new recruit assigned to the bridge burners. You are handed a weapon, shoved into the trench, and told to keep up while the magic explodes around you. The real question this book asks isn't",
+      "callout": {
+        "text": "REAL QUESTION",
+        "style": "highlight"
+      }
+    },
+    {
+      "i": 216,
+      "shot": "diorama",
+      "beat": "neutral",
+      "concept": null,
+      "diagram": null,
+      "narration": "if you understand the lore. The question is, did you survive your first",
+      "callout": {
+        "text": "SURVIVE YOUR FIRST",
+        "style": "reveal"
+      }
+    }
+  ]
+}

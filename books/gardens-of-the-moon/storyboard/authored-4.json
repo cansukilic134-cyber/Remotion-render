@@ -1,0 +1,780 @@
+[
+  {
+    "i": 114,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "Mourning on the battlefield",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "A rare mourning scene: Bellerin walks the blasted field after Pale.",
+    "noVisual": "No cast member is Bellerin; the grave icon carries the mourning.",
+    "storyboard": {
+      "claim": "Bellerin mourns after the siege of Pale",
+      "concreteVisual": "A grave icon alone, no figure",
+      "onScreenText": "Mourning on the battlefield",
+      "relationToPrevious": "Opens the mourning exception",
+      "addedInformation": "weak: icon plus label"
+    }
+  },
+  {
+    "i": 115,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "Wailing over Nightshell",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Bellerin gathers Nightshell's scattered limbs and wails.",
+    "noVisual": "No cast for Bellerin; grave icon with label.",
+    "storyboard": {
+      "claim": "He collects Nightshell's limbs and wails",
+      "concreteVisual": "Grave icon, no figure",
+      "onScreenText": "Wailing over Nightshell",
+      "relationToPrevious": "Same grief, the deed named",
+      "addedInformation": "weak: label does the work"
+    }
+  },
+  {
+    "i": 116,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "Ceremony in mourning",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The grief is cinematic: the dead get ceremony, which is Erikson's point.",
+    "noVisual": "Ceremony and discrepancy cannot be drawn without invented figures.",
+    "storyboard": {
+      "claim": "Mourning has ceremony here",
+      "concreteVisual": "Grave icon",
+      "onScreenText": "Ceremony in mourning",
+      "relationToPrevious": "Names what the scene means",
+      "addedInformation": "weak: label only"
+    }
+  },
+  {
+    "i": 117,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "High mages mourned"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Sorter begins: the high mages get tragedy and the cinematic moments.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "High mages get to mourn and be mourned",
+      "concreteVisual": "A sorter bucket: high mages mourned",
+      "onScreenText": "High mages mourned",
+      "relationToPrevious": "Starts the unequal-mourning sorter",
+      "addedInformation": "Opens the comparison"
+    }
+  },
+  {
+    "i": 118,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "High mages mourned",
+        "Bridgeburners left for worms"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Same sorter: the 1300 Bridgeburners in the tunnels are just left for the worms.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The rank and file die unmourned",
+      "concreteVisual": "Second bucket added: Bridgeburners left for worms",
+      "onScreenText": "High mages mourned | Bridgeburners left for worms",
+      "relationToPrevious": "One more bucket",
+      "addedInformation": "The contrast bucket"
+    }
+  },
+  {
+    "i": 119,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "High mages mourned",
+        "Bridgeburners left for worms",
+        "Soldiers a statistic"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Elites are individuals with narrative weight, soldiers a statistic: the third bucket names the verdict.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Elites individuals, soldiers statistics",
+      "concreteVisual": "Third bucket: soldiers a statistic",
+      "onScreenText": "Soldiers a statistic",
+      "relationToPrevious": "One more bucket",
+      "addedInformation": "Names the result of the contrast"
+    }
+  },
+  {
+    "i": 120,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Class and power",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The narrator draws the lesson: class and power decide who is mourned; the point-of-view soldier bears it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mourning shows how class and power work",
+      "concreteVisual": "Whiskeyjack sad, bowed",
+      "onScreenText": "Class and power",
+      "relationToPrevious": "From the mourning sorter to its meaning",
+      "addedInformation": "weak: a mood on the soldier"
+    }
+  },
+  {
+    "i": 121,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Low rank",
+        "High rank"
+      ],
+      "values": [
+        0.15
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The value of a life depends on rank, and from the bottom the tragedy is visible.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A life is worth what your rank says",
+      "concreteVisual": "Spectrum from low rank to high rank, marker near the bottom",
+      "onScreenText": "Low rank | High rank",
+      "relationToPrevious": "From a face to a scale of rank",
+      "addedInformation": "The rank-value degrees"
+    }
+  },
+  {
+    "i": 122,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Pawns in someone's game",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Soldiers are pawns in someone else's game, all the way up to the heavens.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pawns in someone else's game",
+      "concreteVisual": "Whiskeyjack worried beside a chess-knight icon",
+      "onScreenText": "Pawns in someone's game",
+      "relationToPrevious": "Rank inequality becomes pawns",
+      "addedInformation": "The pawn comparison"
+    }
+  },
+  {
+    "i": 123,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Pin is dead",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "collapsed",
+    "explainedBy": "Pin has been murdered; his body lies down.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pin is dead",
+      "concreteVisual": "Pin collapsed on the ground",
+      "onScreenText": "Pin is dead",
+      "relationToPrevious": "Cut to the gods' scene",
+      "addedInformation": "The dead soldier"
+    }
+  },
+  {
+    "i": 124,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Outside Hood's gate",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "collapsed",
+    "continue": true,
+    "explainedBy": "His soul lies outside Hood's gate, the lord of death.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His soul lies outside Hood's gate",
+      "concreteVisual": "Pin stays down",
+      "onScreenText": "Outside Hood's gate",
+      "relationToPrevious": "Same body, place named",
+      "addedInformation": "weak: label only"
+    }
+  },
+  {
+    "i": 125,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Ascendants bickering above",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "collapsed",
+    "continue": true,
+    "explainedBy": "Above him two ascendants casually bicker.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Two ascendants bicker above him",
+      "concreteVisual": "Pin lies below",
+      "onScreenText": "Ascendants bickering above",
+      "relationToPrevious": "Same body, the bickerers named",
+      "addedInformation": "weak: ascendants not drawn"
+    }
+  },
+  {
+    "i": 126,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Who gets to use his soul",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "collapsed",
+    "continue": true,
+    "explainedBy": "They argue with Shadow Throne over who gets to use Pin's soul.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They argue over who uses his soul",
+      "concreteVisual": "Pin lies below",
+      "onScreenText": "Who gets to use his soul",
+      "relationToPrevious": "Same body, the dispute named",
+      "addedInformation": "weak: arguers not drawn"
+    }
+  },
+  {
+    "i": 127,
+    "concept": "notes",
+    "diagram": null,
+    "callout": {
+      "text": "Petty middle managers",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Comparison: gods fighting over a soul are like managers fighting over credit for a spreadsheet.",
+    "noVisual": "No manager or spreadsheet icon exists.",
+    "storyboard": {
+      "claim": "Gods like middle managers over a spreadsheet",
+      "concreteVisual": "Notes icon",
+      "onScreenText": "Petty middle managers",
+      "relationToPrevious": "Metaphor for the dispute",
+      "addedInformation": "weak: stand-in icon"
+    }
+  },
+  {
+    "i": 128,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "Like a dropped poker chip",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Pin is like a poker chip they dropped on the floor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pin is a dropped poker chip",
+      "concreteVisual": "Coin icon",
+      "onScreenText": "Like a dropped poker chip",
+      "relationToPrevious": "The soul as a chip",
+      "addedInformation": "Comparison drawn"
+    }
+  },
+  {
+    "i": 129,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Gods as chess masters",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "In other epic fantasy the gods are master strategists executing flawless plans; not here.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Usually the gods play perfect chess",
+      "concreteVisual": "Chess-knight icon",
+      "onScreenText": "Gods as chess masters",
+      "relationToPrevious": "The convention they overturn",
+      "addedInformation": "Sets up the contrast"
+    }
+  },
+  {
+    "i": 130,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Mortal",
+        "Powerful enough"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A mortal who becomes powerful enough can ascend.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A mortal becomes powerful enough",
+      "concreteVisual": "Flow: mortal to powerful enough",
+      "onScreenText": "Mortal -> Powerful enough",
+      "relationToPrevious": "Starts the ascension flow",
+      "addedInformation": "Cause chain"
+    }
+  },
+  {
+    "i": 131,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Mortal",
+        "Powerful enough",
+        "Godhood"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "Ascension ends in godhood: gods are armed immortal humans with flaws intact.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Ascending to godhood",
+      "concreteVisual": "Flow adds Godhood",
+      "onScreenText": "Mortal -> Powerful enough -> Godhood",
+      "relationToPrevious": "One more label",
+      "addedInformation": "Result of the chain"
+    }
+  },
+  {
+    "i": 132,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Scrambling, improvising, meddling",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The gods scramble and improvise, each meddling for their own reasons.",
+    "noVisual": "No icon for improvising; the chess knight stands for their moves.",
+    "storyboard": {
+      "claim": "Gods scramble and improvise",
+      "concreteVisual": "Chess-knight icon",
+      "onScreenText": "Scrambling, improvising, meddling",
+      "relationToPrevious": "Their behaviour",
+      "addedInformation": "weak: label"
+    }
+  },
+  {
+    "i": 133,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Pushing pieces around",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "No master plan: they push pieces around despite each other.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No flawless plan, only pushing pieces",
+      "concreteVisual": "Chess-knight icon",
+      "onScreenText": "Pushing pieces around",
+      "relationToPrevious": "Pieces moved at random",
+      "addedInformation": "Reinforces no plan"
+    }
+  },
+  {
+    "i": 134,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Demon unleashed on the city",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [],
+    "explainedBy": "In Darujhistan a terrifying demon is unleashed on the city.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A demon is loose in Darujhistan",
+      "concreteVisual": "City icon",
+      "onScreenText": "Demon unleashed on the city",
+      "relationToPrevious": "Cruel's example",
+      "addedInformation": "Sets up the question: why not smite it"
+    }
+  },
+  {
+    "i": 135,
+    "concept": "chains",
+    "diagram": null,
+    "callout": {
+      "text": "No power to help Rake",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "rake"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "The elder god Cruel admits he cannot assist Anomander Rake directly.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Cruel cannot help Rake",
+      "concreteVisual": "Rake worried",
+      "onScreenText": "No power to help Rake",
+      "relationToPrevious": "From the demon to the limit",
+      "addedInformation": "Limit drawn on Rake"
+    }
+  },
+  {
+    "i": 136,
+    "concept": "star",
+    "diagram": null,
+    "callout": {
+      "text": "Only in a mortal's dreams",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The god is fundamentally constrained: manifest only in a sanctified place and a lone mortal's dreams.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The god is bound",
+      "concreteVisual": "Chains icon",
+      "onScreenText": "Only in a mortal's dreams",
+      "relationToPrevious": "Names the constraint",
+      "addedInformation": "The constraint as bound"
+    }
+  },
+  {
+    "i": 137,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Mortal dreams",
+        "Desperate gambles",
+        "Influence events"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "He relies on mortal dreams and desperate gambles to influence events.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dreams and gambles to influence events",
+      "concreteVisual": "Flow of three labels",
+      "onScreenText": "Mortal dreams -> Desperate gambles -> Influence events",
+      "relationToPrevious": "From the limit to how the god works",
+      "addedInformation": "Mechanism"
+    }
+  },
+  {
+    "i": 138,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Incredibly powerful",
+        "Not all-knowing",
+        "Not all-powerful"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Gods are incredibly powerful but not all knowing and not all powerful.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Powerful, but not all-knowing or all-powerful",
+      "concreteVisual": "Sorter of three buckets",
+      "onScreenText": "Incredibly powerful | Not all-knowing | Not all-powerful",
+      "relationToPrevious": "Sums up the gods",
+      "addedInformation": "Three-part verdict"
+    }
+  },
+  {
+    "i": 139,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Incredibly powerful",
+        "Not all-knowing",
+        "Not all-powerful",
+        "Bound by the rules"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "They are subject to the rules of the Warren and manifestation and other ascendants.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are bound by the rules",
+      "concreteVisual": "Fourth bucket: bound by the rules",
+      "onScreenText": "Bound by the rules",
+      "relationToPrevious": "One more bucket",
+      "addedInformation": "The limit named"
+    }
+  },
+  {
+    "i": 140,
+    "concept": "coin",
+    "diagram": null,
+    "callout": {
+      "text": "Spin a coin: he breathes",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "collapsed",
+    "explainedBy": "Opin pluck a man back from death: they spin a coin and he breathes.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They spin a coin and Pin breathes again",
+      "concreteVisual": "Pin down beside a coin icon",
+      "onScreenText": "Spin a coin: he breathes",
+      "relationToPrevious": "Resurrection",
+      "addedInformation": "The act shown"
+    }
+  },
+  {
+    "i": 141,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Total control of the board?",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The question: if they can reverse death, are they in total control?",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Can they control the board",
+      "concreteVisual": "Chess-knight icon",
+      "onScreenText": "Total control of the board?",
+      "relationToPrevious": "The counterpoint",
+      "addedInformation": "Question posed"
+    }
+  },
+  {
+    "i": 142,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Delight in uncertainty",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Opin play with Pin's stumbling life because they delight in uncertainty.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They play with his life for uncertainty",
+      "concreteVisual": "Pin worried, bowed",
+      "onScreenText": "Delight in uncertainty",
+      "relationToPrevious": "Motive of the gods",
+      "addedInformation": "Pin as the toy"
+    }
+  },
+  {
+    "i": 143,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Resurrect Pin",
+        "Blindside Shadow Throne",
+        "Wrench in his plans"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "They resurrect Pin only to blindside Shadow Throne and throw a wrench in his plans.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Resurrection to wreck a rival's plan",
+      "concreteVisual": "Flow of three labels",
+      "onScreenText": "Resurrect Pin -> Blindside Shadow Throne -> Wrench in his plans",
+      "relationToPrevious": "From motive to the act chain",
+      "addedInformation": "Cause chain"
+    }
+  },
+  {
+    "i": 144,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "No grand design",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "They have no grand design for Pin; they just want to ruin someone's plan.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No plan for his destiny",
+      "concreteVisual": "Pin worried",
+      "onScreenText": "No grand design",
+      "relationToPrevious": "Rephrases the motive",
+      "addedInformation": "weak: face"
+    }
+  },
+  {
+    "i": 145,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "A rock in a pond",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "They are as blind to the outcome as anyone: throwing a rock in a pond to see the ripples.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Throwing a rock to see the ripples",
+      "concreteVisual": "Water icon",
+      "onScreenText": "A rock in a pond",
+      "relationToPrevious": "The metaphor",
+      "addedInformation": "Comparison"
+    }
+  },
+  {
+    "i": 146,
+    "concept": "water",
+    "diagram": null,
+    "callout": {
+      "text": "Terrifying for the rock",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "pin"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "It is terrifying if you are the rock: Pin afraid at the pond.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Terrifying if you are the rock",
+      "concreteVisual": "Pin afraid beside the pond",
+      "onScreenText": "Terrifying for the rock",
+      "relationToPrevious": "Adds the one who is the rock",
+      "addedInformation": "Pin enters the metaphor"
+    }
+  },
+  {
+    "i": 147,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "The gods are grunts",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "Even the gods are grunts in a larger war, reacting to events they cannot control.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Gods are grunts in a cosmic war",
+      "concreteVisual": "Whiskeyjack worried beside a war icon",
+      "onScreenText": "The gods are grunts",
+      "relationToPrevious": "Ties gods to soldiers",
+      "addedInformation": "Parallel of soldier and god"
+    }
+  },
+  {
+    "i": 148,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Next to Whiskey Jack",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The hosts move to the book's structure and put the reader next to Whiskeyjack.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Reader placed beside Whiskeyjack",
+      "concreteVisual": "Whiskeyjack facing us",
+      "onScreenText": "Next to Whiskey Jack",
+      "relationToPrevious": "Moves from gods to structure",
+      "addedInformation": "weak: face"
+    }
+  }
+]

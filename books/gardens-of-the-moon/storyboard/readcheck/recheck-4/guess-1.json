@@ -1,0 +1,12 @@
+[
+{"id":"b001","guess":"A veteran soldier is frightened and overwhelmed, facing a situation far beyond his abilities.","misleading":"storm cloud icon could suggest literal weather rather than being overwhelmed"},
+{"id":"b002","guess":"The soldier's anger at the chaos of battle is lost amid the noise of war.","misleading":"none"},
+{"id":"b003","guess":"Whether fighting with swords or magic, defense and the outcome are essentially the same.","misleading":"shield icon with no people could imply only defense, not the equivalence of sword and magic"},
+{"id":"b004","guess":"The war is described from the grim, weary view of a soldier in the trenches.","misleading":"none"},
+{"id":"b005","guess":"A young soldier is terrified by the burning, bloody chaos of a street battle.","misleading":"'foam' in the words has no visual match"},
+{"id":"b006","guess":"A pale dark-haired man is worried and powerless to free or help his friend Rake from bondage.","misleading":"chain links suggest the man himself is imprisoned rather than Rake"},
+{"id":"b007","guess":"Something magical or hopeful appears only in the dreams of ordinary mortals.","misleading":"glowing star could read as a literal star or fame rather than a dream"},
+{"id":"b008","guess":"The soldier is abruptly left to walk a long road on his own, dropped in the middle of a long journey.","misleading":"road icon with a neutral face hides the 'dropped' abruptness"},
+{"id":"b009","guess":"A soldier explains that his rank or honor was earned rather than handed to him.","misleading":"trophy suggests a contest or prize rather than rank"},
+{"id":"b010","guess":"An army marches off to be slaughtered in battle.","misleading":"battlefield icon has no figures, so which side is marching is unclear"}
+]

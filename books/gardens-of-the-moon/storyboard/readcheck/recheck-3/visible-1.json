@@ -1,0 +1,220 @@
+[
+ {
+  "id": "b001",
+  "icon": "a game controller / board game",
+  "place": "abstract",
+  "words": "Kings and gods moving pieces (crossed out)"
+ },
+ {
+  "id": "b002",
+  "icon": "a book",
+  "place": "abstract",
+  "words": "An anthropology background"
+ },
+ {
+  "id": "b003",
+  "icon": "a hand working puppet strings",
+  "place": "abstract",
+  "words": "The great man theory (crossed out)"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "icon": "a game controller / board game",
+  "place": "horizon",
+  "words": "No map for the soldiers"
+ },
+ {
+  "id": "b005",
+  "icon": "a trophy",
+  "words": "Wanting prestige"
+ },
+ {
+  "id": "b006",
+  "icon": "a game controller / board game",
+  "words": "Reduced to a pawn"
+ },
+ {
+  "id": "b007",
+  "icon": "a will document with a seal",
+  "words": "Noble blood (crossed out)"
+ },
+ {
+  "id": "b008",
+  "icon": "a book",
+  "words": "A neat academic system"
+ },
+ {
+  "id": "b009",
+  "icon": "a lit lightbulb",
+  "words": "What is happening"
+ },
+ {
+  "id": "b010",
+  "icon": "an archery target",
+  "words": "The wrong place"
+ },
+ {
+  "id": "b011",
+  "icon": "a balance scale",
+  "words": "Sword or Warren: same"
+ },
+ {
+  "id": "b012",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a balance scale",
+  "place": "stage",
+  "words": "A ledger of threats"
+ },
+ {
+  "id": "b013",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a hand working puppet strings",
+  "place": "stage",
+  "words": "The empress's will works through people"
+ },
+ {
+  "id": "b014",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a game controller / board game",
+  "place": "horizon",
+  "words": "Pawns in someone's game"
+ },
+ {
+  "id": "b015",
+  "icon": "sheets of written notes",
+  "words": "Petty middle managers"
+ },
+ {
+  "id": "b016",
+  "icon": "a gold coin",
+  "words": "Like a dropped poker chip"
+ },
+ {
+  "id": "b017",
+  "icon": "a game controller / board game",
+  "words": "Gods as chess masters"
+ },
+ {
+  "id": "b018",
+  "icon": "a game controller / board game",
+  "words": "Scrambling, improvising, meddling"
+ },
+ {
+  "id": "b019",
+  "icon": "a game controller / board game",
+  "words": "Pushing pieces around"
+ },
+ {
+  "id": "b020",
+  "icon": "chain links",
+  "words": "Manifest only in dreams"
+ },
+ {
+  "id": "b021",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "icon": "a gold coin",
+  "place": "horizon",
+  "words": "Spin a coin: he breathes"
+ },
+ {
+  "id": "b022",
+  "icon": "a game controller / board game",
+  "words": "Total control of the board?"
+ },
+ {
+  "id": "b023",
+  "icon": "water waves",
+  "words": "A rock in a pond"
+ },
+ {
+  "id": "b024",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "water waves",
+  "place": "horizon",
+  "words": "Terrifying for the rock"
+ },
+ {
+  "id": "b025",
+  "icon": "a book",
+  "words": "Like a new recruit"
+ },
+ {
+  "id": "b026",
+  "icon": "a book",
+  "words": "No grand charter (crossed out)"
+ },
+ {
+  "id": "b027",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "reach"
+   },
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a big boulder",
+  "words": "The weight of command"
+ },
+ {
+  "id": "b028",
+  "icon": "a wrapped gift",
+  "words": "A neat tidy bow (crossed out)"
+ },
+ {
+  "id": "b029",
+  "icon": "a game controller / board game",
+  "words": "THE BOARD IS RESET"
+ },
+ {
+  "id": "b030",
+  "icon": "a book",
+  "words": "A 700 PAGE PROLOGUE"
+ },
+ {
+  "id": "b031",
+  "icon": "a book",
+  "words": "THE ANCIENT TLAN IMASS"
+ }
+]

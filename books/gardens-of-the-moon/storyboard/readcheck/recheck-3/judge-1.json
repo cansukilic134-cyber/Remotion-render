@@ -1,0 +1,344 @@
+[
+ {
+  "id": "b001",
+  "narration": "Gardens of the Moon completely refuses to be a traditional fantasy It absolutely rejects the standard premise of, you know, kings and gods moving pieces",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "place": "abstract",
+   "words": "Kings and gods moving pieces (crossed out)"
+  },
+  "viewerGuess": "The story is not about kings and gods moving pieces in a game."
+ },
+ {
+  "id": "b002",
+  "narration": "And it is vital to note that Steven Ericson, the author, actually comes from a background in anthropology and Oh, really? Yeah.",
+  "onScreen": {
+   "icon": "a book",
+   "place": "abstract",
+   "words": "An anthropology background"
+  },
+  "viewerGuess": "The author came to writing with an anthropology background."
+ },
+ {
+  "id": "b003",
+  "narration": "And that completely informs how he builds this world. He does not subscribe to the great man theory of history where a few kings make decisions and the world neatly follows.",
+  "onScreen": {
+   "icon": "a hand working puppet strings",
+   "place": "abstract",
+   "words": "The great man theory (crossed out)"
+  },
+  "viewerGuess": "The story rejects the great man theory of history where leaders pull the strings."
+ },
+ {
+  "id": "b004",
+  "narration": "You don't get a war room to sit in. You don't get a clean top down view of the map with the little wooden blocks being pushed around by brilliant generals.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "blank",
+     "body": "idle"
+    }
+   ],
+   "icon": "a game controller / board game",
+   "place": "horizon",
+   "words": "No map for the soldiers"
+  },
+  "viewerGuess": "The ordinary soldiers have no map and no idea where they are headed."
+ },
+ {
+  "id": "b005",
+  "narration": "Well, he starts as a noble wanting prestige. Absolutely. He tells himself he wants something more challenging than overseeing his family's wine shipments.",
+  "onScreen": {
+   "icon": "a trophy",
+   "words": "Wanting prestige"
+  },
+  "viewerGuess": "Characters are driven by wanting prestige."
+ },
+ {
+  "id": "b006",
+  "narration": "he is completely reduced to a pawn. Oh, for sure. He gets slaughtered just like a grunt on a dirty country road.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "Reduced to a pawn"
+  },
+  "viewerGuess": "A person is reduced to a mere pawn."
+ },
+ {
+  "id": "b007",
+  "narration": "All that noble blood, all that officer training, his fancy sword, it means absolutely nothing when the magic hits or the assassins come out of the",
+  "onScreen": {
+   "icon": "a will document with a seal",
+   "words": "Noble blood (crossed out)"
+  },
+  "viewerGuess": "Noble blood does not decide who matters."
+ },
+ {
+  "id": "b008",
+  "narration": "us to the mechanics of this universe, specifically how it handles magic. Okay. Yeah. If you look at the broader landscape of modern fantasy, magic is often this neat academic system. Oh, absolutely. Like you read Brandon Sanderson and",
+  "onScreen": {
+   "icon": "a book",
+   "words": "A neat academic system"
+  },
+  "viewerGuess": "Typical fantasy has a neat academic system of rules, like magic or history."
+ },
+ {
+  "id": "b009",
+  "narration": "We really need to explain what is actually happening mechanically here because it highlights why it feels so",
+  "onScreen": {
+   "icon": "a lit lightbulb",
+   "words": "What is happening"
+  },
+  "viewerGuess": "The story shows what is actually happening on the ground."
+ },
+ {
+  "id": "b010",
+  "narration": "If you are in the wrong place when the artillery lands, you are just gone. But wait, I have to push back here.",
+  "onScreen": {
+   "icon": "an archery target",
+   "words": "The wrong place"
+  },
+  "viewerGuess": "Characters are always in the wrong place at the wrong time."
+ },
+ {
+  "id": "b011",
+  "narration": "That umbrella analogy is so perfect because whether it is a regular iron sword in your hand or a magical Warren you are desperately tapping into, the reality is exactly the same.",
+  "onScreen": {
+   "icon": "a balance scale",
+   "words": "Sword or Warren: same"
+  },
+  "viewerGuess": "A sword or a Warren, power of either kind amounts to the same thing."
+ },
+ {
+  "id": "b012",
+  "narration": "The people at the top of the chain of command are looking at a ledger balancing political threats.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a composed older woman",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a balance scale",
+   "place": "stage",
+   "words": "A ledger of threats"
+  },
+  "viewerGuess": "The ruler keeps a ledger weighing her threats."
+ },
+ {
+  "id": "b013",
+  "narration": "She embodies this cold pragmatism. She really does. As the empress's personal extension of will, she views people entirely as tools.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a composed older woman",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "icon": "a hand working puppet strings",
+   "place": "stage",
+   "words": "The empress's will works through people"
+  },
+  "viewerGuess": "The empress's will works through other people, like a puppeteer."
+ },
+ {
+  "id": "b014",
+  "narration": "sense of being pawns in someone else's game. It extends all the way up to the heavens.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a game controller / board game",
+   "place": "horizon",
+   "words": "Pawns in someone's game"
+  },
+  "viewerGuess": "Soldiers are pawns in someone else's game."
+ },
+ {
+  "id": "b015",
+  "narration": "It is like watching petty middle managers fighting over who gets to claim credit for a spreadsheet, except the spreadsheet is a human being's eternal soul.",
+  "onScreen": {
+   "icon": "sheets of written notes",
+   "words": "Petty middle managers"
+  },
+  "viewerGuess": "The powerful figures behave like petty middle managers with paperwork."
+ },
+ {
+  "id": "b016",
+  "narration": "Exactly. Like he is a poker chip they dropped on the floor. This scene reveals the brilliant twist of the Molassin universe.",
+  "onScreen": {
+   "icon": "a gold coin",
+   "words": "Like a dropped poker chip"
+  },
+  "viewerGuess": "A person is tossed aside like a dropped poker chip."
+ },
+ {
+  "id": "b017",
+  "narration": "In a lot of epic fantasy, the gods are these omnisient masters playing 40 chess, executing flawless plans that span But not here. To understand why, you have to understand",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "Gods as chess masters"
+  },
+  "viewerGuess": "The gods seem like chess masters."
+ },
+ {
+  "id": "b018",
+  "narration": "They are scrambling. They are improvising. They are meddling in the Shadow Throne wants parent for one reason, open once and for another.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "Scrambling, improvising, meddling"
+  },
+  "viewerGuess": "The gods are actually scrambling, improvising and meddling."
+ },
+ {
+  "id": "b019",
+  "narration": "And none of them seem to have a flawless master plan. They are just pushing pieces around despite each other. We see this incredible constraint on the divine again with Cruel.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "Pushing pieces around"
+  },
+  "viewerGuess": "They push pieces around the board."
+ },
+ {
+  "id": "b020",
+  "narration": "He says, \"I am manifest in the sanctified place and manifest in a lone mortal dreams, but nowhere else.\" The god is fundamentally constrained.",
+  "onScreen": {
+   "icon": "chain links",
+   "words": "Manifest only in dreams"
+  },
+  "viewerGuess": "The gods are bound and manifest only in dreams."
+ },
+ {
+  "id": "b021",
+  "narration": "They literally resurrect They do. They pluck a man back from the gates of death. They spin a coin and he breathes again.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "neutral",
+     "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+    }
+   ],
+   "icon": "a gold coin",
+   "place": "horizon",
+   "words": "Spin a coin: he breathes"
+  },
+  "viewerGuess": "Spin a coin to decide whether the fallen soldier lives."
+ },
+ {
+  "id": "b022",
+  "narration": "If a being can casually reverse death, aren't they in total control of the board? They have immense localized power.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "Total control of the board?"
+  },
+  "viewerGuess": "Do the powers really have total control of the board?"
+ },
+ {
+  "id": "b023",
+  "narration": "which means they are as blind to the final outcome as anyone else. So, they are just throwing a rock in a pond to see where the ripples go.",
+  "onScreen": {
+   "icon": "water waves",
+   "words": "A rock in a pond"
+  },
+  "viewerGuess": "A single person is like a rock thrown in a pond, making ripples."
+ },
+ {
+  "id": "b024",
+  "narration": "That is terrifying if you are the rock. It ties it all together perfectly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "water waves",
+   "place": "horizon",
+   "words": "Terrifying for the rock"
+  },
+  "viewerGuess": "Being the rock in that pond is terrifying for the soldier."
+ },
+ {
+  "id": "b025",
+  "narration": "This is a highly deliberate choice. Ericson explains this in his own preface to the book. You, the reader, are treated exactly like a new recruit to the squad.",
+  "onScreen": {
+   "icon": "a book",
+   "words": "Like a new recruit"
+  },
+  "viewerGuess": "The reader feels like a new recruit thrown in without explanation."
+ },
+ {
+  "id": "b026",
+  "narration": "historical charter explaining the assassin's guild and the tarud kabal. No, we just follow crocus",
+  "onScreen": {
+   "icon": "a book",
+   "words": "No grand charter (crossed out)"
+  },
+  "viewerGuess": "There is no grand charter or manual explaining the world."
+ },
+ {
+  "id": "b027",
+  "narration": "Kam is a former claw assassin. Quickben is a high mage in hiding. And they are desperately seeking to take the immense weight of command off Whiskey Jack's They know he is a man pushed to the very",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "reach"
+    },
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a big boulder",
+   "words": "The weight of command"
+  },
+  "viewerGuess": "A commander bears the weight of command while a comrade tries to help."
+ },
+ {
+  "id": "b028",
+  "narration": "And this ground level reality fundamentally changes how a story like this has to end. Right? Because there is no neat tidy bow at the end of this book.",
+  "onScreen": {
+   "icon": "a wrapped gift",
+   "words": "A neat tidy bow (crossed out)"
+  },
+  "viewerGuess": "The ending does not wrap up with a neat tidy bow."
+ },
+ {
+  "id": "b029",
+  "narration": "it all remains. The board is just reset for the next campaign. The characters survive the night, but the war is still looming on the horizon.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "THE BOARD IS RESET"
+  },
+  "viewerGuess": "The board is reset and the game starts anew."
+ },
+ {
+  "id": "b030",
+  "narration": "But hold on. If the Malazan Empire isn't defeated and they don't conquer the continent, as a reader, I'm thinking, did I just read a 700page prologue?",
+  "onScreen": {
+   "icon": "a book",
+   "words": "A 700 PAGE PROLOGUE"
+  },
+  "viewerGuess": "The book is like a 700 page prologue."
+ },
+ {
+  "id": "b031",
+  "narration": "And furthermore, elements like the ancient history of the Tlan Emas, these undead Neanderl warriors,",
+  "onScreen": {
+   "icon": "a book",
+   "words": "THE ANCIENT TLAN IMASS"
+  },
+  "viewerGuess": "It introduces the ancient Tlan Imass."
+ }
+]

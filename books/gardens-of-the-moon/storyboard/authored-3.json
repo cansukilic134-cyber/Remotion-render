@@ -1,0 +1,959 @@
+[
+  {
+    "i": 74,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Free city of Dujasan",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "A quiet, tense room in Dujasan sets the scene for the politics.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The politics are cynical; the scene is set in tense Dujasan.",
+      "concreteVisual": "Whiskeyjack in a dingy room, uneasy.",
+      "onScreenText": "Free city of Dujasan",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 75,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Quiet but incredibly tense",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "Whiskeyjack tilts back in his chair in a tense room.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Whiskeyjack rocks his chair on two legs.",
+      "concreteVisual": "Whiskeyjack seated in the dingy room.",
+      "onScreenText": "Quiet but incredibly tense",
+      "relationToPrevious": "same room, now seated",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 76,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Listening to Highfist Dujek",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "neutral",
+    "action": "sit",
+    "explainedBy": "Whiskeyjack sits listening to his general in the rain-lashed room.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He listens to Dujek One-Arm.",
+      "concreteVisual": "Whiskeyjack seated, listening, in the room.",
+      "onScreenText": "Listening to Highfist Dujek",
+      "relationToPrevious": "same room, he listens",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 77,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Pressure from the empress",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "sit",
+    "explainedBy": "The empress presses from afar; the soldier hears it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Immense political pressure comes from the empress.",
+      "concreteVisual": "Whiskeyjack seated, troubled.",
+      "onScreenText": "Pressure from the empress",
+      "relationToPrevious": "he reacts to the news",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 78,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Disband the Bridgeburners",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "The order to disband his squad lands on the sergeant.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The empress wants the Bridgeburners disbanded.",
+      "concreteVisual": "Whiskeyjack bowed and afraid in the room.",
+      "onScreenText": "Disband the Bridgeburners",
+      "relationToPrevious": "the order is named",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 79,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Enemy army",
+        "Own empire"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Two buckets: the threat in front of the soldier vs the threat behind his back.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The greatest threat is their own empire, not the enemy.",
+      "concreteVisual": "A sorter with the enemy army and the own empire as two buckets.",
+      "onScreenText": "Enemy army | Own empire",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 80,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Politically inconvenient",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The survivors learn their own government wants to erase them.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They survived Pale only to be erased.",
+      "concreteVisual": "Whiskeyjack slumped, sad.",
+      "onScreenText": "Politically inconvenient",
+      "relationToPrevious": "the cost of the betrayal on his face",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 81,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Under Empress Laseen",
+      "style": "highlight"
+    },
+    "set": "stage",
+    "cast": [
+      "laseen"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The empress is the one behind the machinery.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "How the Malazan Empire functions under Laseen.",
+      "concreteVisual": "Laseen in imperial robes on a stage.",
+      "onScreenText": "Under Empress Laseen",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 82,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Sheer ruthless utility",
+      "style": "highlight"
+    },
+    "set": "stage",
+    "cast": [
+      "laseen"
+    ],
+    "expression": "smirk",
+    "action": "point",
+    "explainedBy": "Laseen rules by utility, not noble ideals.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The capital runs on ruthless utility.",
+      "concreteVisual": "Laseen smirking, pointing.",
+      "onScreenText": "Sheer ruthless utility",
+      "relationToPrevious": "her attitude shown",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 83,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Too much loyalty"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Laseen reads the general's popularity as a threat: the first link of a chain.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Dujek has too much loyalty from his men.",
+      "concreteVisual": "A flow starting with one label.",
+      "onScreenText": "Too much loyalty",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 84,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Too much loyalty",
+        "Troops put in the tunnels"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain continues: she sends her elite troops into the slaughter.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She orchestrates a bloodbath at Pale.",
+      "concreteVisual": "Flow gains a second label.",
+      "onScreenText": "Too much loyalty | Troops put in the tunnels",
+      "relationToPrevious": "one label added",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 85,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Too much loyalty",
+        "Troops put in the tunnels",
+        "General disarmed"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The chain ends in the disarmed general.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The bloodbath is meant to disarm her own general.",
+      "concreteVisual": "Flow gains a third label.",
+      "onScreenText": "Too much loyalty | Troops put in the tunnels | General disarmed",
+      "relationToPrevious": "result added",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 86,
+    "concept": "balance",
+    "diagram": null,
+    "callout": {
+      "text": "A ledger of threats",
+      "style": "highlight"
+    },
+    "set": "stage",
+    "cast": [
+      "laseen"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The leaders weigh political threats like a ledger.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Those on top balance a ledger of political threats.",
+      "concreteVisual": "Laseen beside a balance scale.",
+      "onScreenText": "A ledger of threats",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 87,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "1,300 Bridgeburners",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The ledger is paid for in the squad's blood.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The cost is paid in the blood of 1300 Bridgeburners.",
+      "concreteVisual": "Whiskeyjack slumped on a street.",
+      "onScreenText": "1,300 Bridgeburners",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 88,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "The empress's will works through people",
+      "style": "highlight"
+    },
+    "set": "stage",
+    "cast": [
+      "laseen"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "The adjunct is the empress's will controlling people as tools.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The adjunct views people as tools.",
+      "concreteVisual": "Laseen with a puppeteer icon.",
+      "onScreenText": "The empress's will works through people",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 89,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Useful",
+        "A threat"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "People sort into useful or a threat to eliminate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Either useful for stability or a threat to eliminate.",
+      "concreteVisual": "A sorter with two buckets.",
+      "onScreenText": "Useful | A threat",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 90,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Unprecedented peace",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Pin muses about the empire's peace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Within its borders people live in unprecedented peace.",
+      "concreteVisual": "Pin talking in the street.",
+      "onScreenText": "Unprecedented peace",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 91,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "The empire builds roads and standard laws",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The empire builds roads and secures commerce.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The empire builds roads, secures commerce, standardizes laws.",
+      "concreteVisual": "A road icon with the callout.",
+      "onScreenText": "The empire builds roads and standard laws",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 92,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A force for good?",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The compelling case for the empire as a force for peace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Isn't the empire a force for good?",
+      "concreteVisual": "Pin posing the question.",
+      "onScreenText": "A force for good?",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 93,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "How the peace is maintained",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Look beneath the peace at its mechanics.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The peace is enforced by the Claw.",
+      "concreteVisual": "Pin uneasy.",
+      "onScreenText": "How the peace is maintained",
+      "relationToPrevious": "the doubt arrives",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 94,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The Claw: secret police",
+      "style": "highlight"
+    },
+    "set": "stage",
+    "cast": [
+      "laseen",
+      "quickben"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "afraid",
+    "partnerAction": "idle",
+    "explainedBy": "The empress's secret police makes anyone deemed a threat disappear.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Claw murders threats without trial.",
+      "concreteVisual": "Laseen pointing, a man afraid beside her.",
+      "onScreenText": "The Claw: secret police",
+      "relationToPrevious": "new point",
+      "addedInformation": "a victim reacting to the accusing point"
+    }
+  },
+  {
+    "i": 95,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Internal peace",
+        "Endless wars"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Peace at home needs endless wars on the frontiers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Internal peace requires endless brutal wars.",
+      "concreteVisual": "Flow with two labels.",
+      "onScreenText": "Internal peace | Endless wars",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 96,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Internal peace",
+        "Endless wars",
+        "Soldiers bleed"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The soldiers bleeding at Pale never see the peace.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The grunts never see that peace.",
+      "concreteVisual": "Flow gains a third label.",
+      "onScreenText": "Internal peace | Endless wars | Soldiers bleed",
+      "relationToPrevious": "third label added",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 97,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Merchants' luxury",
+        "Soldiers disposable"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The wealthy enjoy the peace; the soldiers pay for it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Peace is a merchants' luxury paid by disposable soldiers.",
+      "concreteVisual": "Sorter with two buckets.",
+      "onScreenText": "Merchants' luxury | Soldiers disposable",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 98,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Lethal rumors",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "angry",
+    "action": "talk",
+    "explainedBy": "The grand strategies are only lethal rumors to soldiers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The politics are lethal rumors to the soldiers.",
+      "concreteVisual": "Whiskeyjack angry, talking.",
+      "onScreenText": "Lethal rumors",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 99,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The grunt's eye view",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "It comes back to the grunt's eye view.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Everything returns to the grunt's eye view.",
+      "concreteVisual": "Whiskeyjack on the ground.",
+      "onScreenText": "The grunt's eye view",
+      "relationToPrevious": "same man, a quieter face",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 100,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Blood in the mud",
+        "Proclamations"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Reality is the blood in the mud, not the proclamations.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reality is blood in the mud, not the throne room.",
+      "concreteVisual": "Sorter with two buckets.",
+      "onScreenText": "Blood in the mud | Proclamations",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 101,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The blasted summit at Pale",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "We return to the hill where a company sought refuge.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A company of Malazan soldiers had sought refuge on the summit.",
+      "concreteVisual": "Tattersail on the horizon hill.",
+      "onScreenText": "The blasted summit at Pale",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 102,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Expecting the wounded",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "She expects the wounded and finds a different aftermath.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tattersail looks over, expecting to deal with the wounded.",
+      "concreteVisual": "Tattersail hurting, looking out.",
+      "onScreenText": "Expecting the wounded",
+      "relationToPrevious": "same hill, she looks",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 103,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Nothing but empty armor",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Nothing is left of the whole company but empty armor.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Nothing remains but empty armor.",
+      "concreteVisual": "Tattersail stunned on the hill.",
+      "onScreenText": "Nothing but empty armor",
+      "relationToPrevious": "what she finds",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 104,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A violent eraser",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Death erased, with no romance of fantasy warfare.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Erikson strips away the romanticism of fantasy war.",
+      "concreteVisual": "Tattersail numb on the hill.",
+      "onScreenText": "A violent eraser",
+      "relationToPrevious": "her face goes blank",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 105,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A comrade's last words",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "whiskeyjack",
+      "pin"
+    ],
+    "expression": "sad",
+    "action": "reach",
+    "partnerExpression": "sad",
+    "partnerAction": "idle",
+    "explainedBy": "Fantasy gives death a comrade holding your hand.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "In much fantasy a comrade holds your hand as you die.",
+      "concreteVisual": "Whiskeyjack reaching to a sad Pin.",
+      "onScreenText": "A comrade's last words",
+      "relationToPrevious": "new point",
+      "addedInformation": "the romantic version the book denies"
+    }
+  },
+  {
+    "i": 106,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Gone the next second",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "Here one second, gone the next, no time to mourn.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You are here and then gone; survivors have no time to mourn.",
+      "concreteVisual": "Tattersail afraid and bowed.",
+      "onScreenText": "Gone the next second",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 107,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The war machine demands",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "The war machine allows no time to mourn.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The war machine demands attention elsewhere.",
+      "concreteVisual": "Tattersail bowed.",
+      "onScreenText": "The war machine demands",
+      "relationToPrevious": "same hill, the cost",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 108,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "175 men and women",
+        "210 horses"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The toll on the Ichthines road is counted in people and horses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "175 people and 210 horses slaughtered by sorcery.",
+      "concreteVisual": "Sorter with two counts.",
+      "onScreenText": "175 men and women | 210 horses",
+      "relationToPrevious": "new structure",
+      "addedInformation": "the structure the narration states"
+    }
+  },
+  {
+    "i": 109,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Pin walks the carnage",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "afraid",
+    "action": "walk",
+    "explainedBy": "Pin walks through the aftermath.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pin walks through the carnage on the road.",
+      "concreteVisual": "Pin walking, afraid.",
+      "onScreenText": "Pin walks the carnage",
+      "relationToPrevious": "new point",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 110,
+    "concept": "fire",
+    "diagram": null,
+    "callout": {
+      "text": "Terror, foam and blood",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Pin sees the terror left in the horses.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Signs of absolute terror, crusted foam, blood.",
+      "concreteVisual": "Pin afraid.",
+      "onScreenText": "Terror, foam and blood",
+      "relationToPrevious": "same road, he takes in the details",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 111,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Forced professional coolness",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "blank",
+    "action": "hold",
+    "holds": "magnifier",
+    "continue": true,
+    "explainedBy": "Pin forces detachment to do his job as investigator.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a slaughterhouse; Pin forces a detached coolness.",
+      "concreteVisual": "Pin blank, holding a magnifier.",
+      "onScreenText": "Forced professional coolness",
+      "relationToPrevious": "he masks his horror and works",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 112,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A psychological defense mechanism",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "Feeling the weight of that death would crush him.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Detachment is a defense; feeling it crushes.",
+      "concreteVisual": "Pin bowed.",
+      "onScreenText": "A psychological defense mechanism",
+      "relationToPrevious": "the mask slips",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  },
+  {
+    "i": 113,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Lives seem insignificant",
+      "style": "highlight"
+    },
+    "set": "street",
+    "cast": [
+      "pin"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The scale makes individual lives seem insignificant.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The slaughter makes lives seem terrifyingly insignificant.",
+      "concreteVisual": "Pin worried.",
+      "onScreenText": "Lives seem insignificant",
+      "relationToPrevious": "a wider thought",
+      "addedInformation": "the person and the moment in the scene"
+    }
+  }
+]

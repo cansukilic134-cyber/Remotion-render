@@ -1,0 +1,834 @@
+[
+  {
+    "i": 36,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "Wanting prestige",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Paran seeks status and glory instead of his family wine shipments: the prestige icon with its label.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paran starts as a noble wanting prestige",
+      "concreteVisual": "A gold trophy alone on the frame",
+      "onScreenText": "Wanting prestige",
+      "relationToPrevious": "New idea after the hosts question about his privilege",
+      "addedInformation": "weak: the trophy stands for status; the wine shipments are not drawn"
+    }
+  },
+  {
+    "i": 37,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Steps into the field",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The romantic glory ends the moment he steps toward the real conflict: the war icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The glory vanishes once he nears the actual conflict",
+      "concreteVisual": "A war icon alone on the frame",
+      "onScreenText": "Steps into the field",
+      "relationToPrevious": "Moves from the wish to the contact with war",
+      "addedInformation": "Adds the field of conflict he enters"
+    }
+  },
+  {
+    "i": 38,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Reduced to a pawn",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "He becomes a piece moved on a board: the strategy knight icon beside the word pawn.",
+    "noVisual": "weak: the knight stands in for a pawn",
+    "storyboard": {
+      "claim": "He is reduced to a pawn and slaughtered like a grunt",
+      "concreteVisual": "A chess-knight strategy icon alone",
+      "onScreenText": "Reduced to a pawn",
+      "relationToPrevious": "Result of stepping into the field",
+      "addedInformation": "Adds the pawn image"
+    }
+  },
+  {
+    "i": 39,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "Out of his depth",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "explainedBy": "Paran realizes he is out of his depth: a feeling with no object to draw.",
+    "noVisual": "No cast key exists for Paran and nothing draws out of his depth",
+    "storyboard": {
+      "claim": "He realizes quickly and violently he is out of his depth",
+      "concreteVisual": "Empty frame with the callout",
+      "onScreenText": "Out of his depth",
+      "relationToPrevious": "Continues his realization",
+      "addedInformation": "weak: text only"
+    },
+    "action": "idle",
+    "expression": "afraid"
+  },
+  {
+    "i": 40,
+    "concept": "inheritance",
+    "diagram": null,
+    "callout": {
+      "text": "Noble blood",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "Noble blood and training mean nothing when magic hits: the heir icon struck through.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His rank and training are worthless against magic and assassins",
+      "concreteVisual": "An inheritance icon with a struck label",
+      "onScreenText": "Noble blood (struck)",
+      "relationToPrevious": "Lists what rank cannot protect against",
+      "addedInformation": "Adds what privilege fails to stop"
+    }
+  },
+  {
+    "i": 41,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Looking up from the dirt",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Stripped of privilege, he looks up from the dirt like Whiskeyjack: Whiskeyjack is the bottom-view figure.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paran is forced to look up from the dirt like Whiskeyjack",
+      "concreteVisual": "Whiskeyjack bowed and worried",
+      "onScreenText": "Looking up from the dirt",
+      "relationToPrevious": "Names the comparison figure",
+      "addedInformation": "Adds Whiskeyjack as the man at the bottom"
+    }
+  },
+  {
+    "i": 42,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Only from the bottom",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "Farm boy or highborn captain, reality only rings true from the bottom: Whiskeyjack stays as the bottom viewpoint.",
+    "noVisual": "weak: an idea phrase with no drawable object",
+    "storyboard": {
+      "claim": "The world only rings true seen from the absolute bottom",
+      "concreteVisual": "Whiskeyjack kept, sad and still",
+      "onScreenText": "Only from the bottom",
+      "relationToPrevious": "Same stage, face and posture change to resigned",
+      "addedInformation": "Generalizes the lesson"
+    }
+  },
+  {
+    "i": 43,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "A neat academic system",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Modern fantasy magic is a tidy system you read about: the book icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Sanderson-style magic is a neat academic system",
+      "concreteVisual": "A book icon alone",
+      "onScreenText": "A neat academic system",
+      "relationToPrevious": "Turns from Paran to the magic of the genre",
+      "addedInformation": "Adds the contrast case"
+    }
+  },
+  {
+    "i": 44,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Mana costs",
+        "Spell components",
+        "Clear rules"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Hard-science magic has costs, components and rules: a sorter of those three parts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Hard magic has mana costs, spell components and clear rules",
+      "concreteVisual": "Sorter with three buckets",
+      "onScreenText": "Mana costs, Spell components, Clear rules",
+      "relationToPrevious": "Spells out what the tidy system is made of",
+      "addedInformation": "Adds the three parts of a hard system"
+    }
+  },
+  {
+    "i": 45,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Siege of Pale",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Not a classroom: the siege of Pale, drawn as war.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Pale siege is a sensory nightmare, not a classroom",
+      "concreteVisual": "War icon alone",
+      "onScreenText": "Siege of Pale",
+      "relationToPrevious": "Contrast with the classroom of beat 44",
+      "addedInformation": "Names the battle"
+    }
+  },
+  {
+    "i": 46,
+    "concept": "moonsSpawn",
+    "diagram": null,
+    "callout": {
+      "text": "Tattersail fights Rake with flame",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail",
+      "rake"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "partnerExpression": "angry",
+    "partnerAction": "point",
+    "explainedBy": "Tattersail unleashes golden flame while Rake answers from the floating fortress: two casters with Moon Spawn.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tattersail and Rake clash with magic over the hill",
+      "concreteVisual": "Tattersail reaching, Rake pointing, the black fortress",
+      "onScreenText": "Tattersail fights Rake with flame",
+      "relationToPrevious": "Names the two casters",
+      "addedInformation": "Adds both sides and Moons Spawn"
+    }
+  },
+  {
+    "i": 47,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "No spell analysis",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "Tattersail on the ground is not analyzing the spell: a frightened soldier-mage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her point of view is not analytic",
+      "concreteVisual": "Tattersail afraid, standing",
+      "onScreenText": "No spell analysis",
+      "relationToPrevious": "Narrows to her viewpoint",
+      "addedInformation": "Adds her ground-level perspective"
+    }
+  },
+  {
+    "i": 48,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Beaten with iron clubs",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "She feels her limbs ache as if beaten: the same woman, now bowed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her body aches and tastes metal",
+      "concreteVisual": "Tattersail bowed, worried",
+      "onScreenText": "Beaten with iron clubs",
+      "relationToPrevious": "Same stage; posture drops",
+      "addedInformation": "Adds bodily pain"
+    }
+  },
+  {
+    "i": 49,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "A coppery disc",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The sky is torn and the sun becomes a coppery disc behind ash: a storm icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sun turns coppery behind ash downpours",
+      "concreteVisual": "Storm icon alone",
+      "onScreenText": "A coppery disc",
+      "relationToPrevious": "From her body to the sky",
+      "addedInformation": "Adds the changed sky"
+    }
+  },
+  {
+    "i": 50,
+    "concept": "lightbulb",
+    "diagram": null,
+    "callout": {
+      "text": "What is happening",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The host moves to explain: the idea icon marks the explanation.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The hosts promise to explain the mechanics",
+      "concreteVisual": "Lightbulb alone",
+      "onScreenText": "What is happening",
+      "relationToPrevious": "Turns from sensation to explanation",
+      "addedInformation": "weak: a transition beat"
+    }
+  },
+  {
+    "i": 51,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Mage",
+        "Warren"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A mage reaches a Warren: a two-label flow.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Mages access alternate dimensions called Warrens",
+      "concreteVisual": "Flow Mage to Warren",
+      "onScreenText": "Mage, Warren",
+      "relationToPrevious": "Starts the mechanism",
+      "addedInformation": "Introduces the Warren"
+    }
+  },
+  {
+    "i": 52,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Mage",
+        "Warren",
+        "Raw energy"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The mage tears the fabric of reality to channel raw energy: the flow gains Raw energy.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A mage tears reality to channel energy from another universe",
+      "concreteVisual": "Same flow plus Raw energy",
+      "onScreenText": "Mage, Warren, Raw energy",
+      "relationToPrevious": "Adds the third label",
+      "addedInformation": "Adds the energy that enters our world"
+    }
+  },
+  {
+    "i": 53,
+    "concept": "fire",
+    "diagram": null,
+    "callout": {
+      "text": "Light and fire, pure darkness",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail",
+      "rake"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "partnerExpression": "angry",
+    "partnerAction": "reach",
+    "explainedBy": "Tattersail opens a portal of light and fire; Rake opens the realm of darkness.",
+    "noVisual": "weak: the fire stands for her realm only",
+    "storyboard": {
+      "claim": "Each caster opens a different realm",
+      "concreteVisual": "Both casters reaching, a fire icon",
+      "onScreenText": "Light and fire, pure darkness",
+      "relationToPrevious": "Gives the two Warrens",
+      "addedInformation": "Adds the two realms"
+    }
+  },
+  {
+    "i": 54,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Heavy artillery",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "slump",
+    "explainedBy": "Magic is heavy artillery falling on your head: Tattersail braces under the war icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Magic is artillery, not a tool",
+      "concreteVisual": "Tattersail afraid and bowed, war icon",
+      "onScreenText": "Heavy artillery",
+      "relationToPrevious": "Reframes the power",
+      "addedInformation": "Adds the artillery image"
+    }
+  },
+  {
+    "i": 55,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Concussive trauma",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "falling",
+    "explainedBy": "The blast throws her: she falls through the air.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The ground rises in columns and rocks rip through men",
+      "concreteVisual": "Tattersail falling, afraid",
+      "onScreenText": "Concussive trauma",
+      "relationToPrevious": "Same woman hit by the blast",
+      "addedInformation": "Adds the physical blow"
+    }
+  },
+  {
+    "i": 56,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Not getting obliterated",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "It is a frantic scramble to survive: a frightened mage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Magic is experienced as a scramble not to die",
+      "concreteVisual": "Tattersail afraid",
+      "onScreenText": "Not getting obliterated",
+      "relationToPrevious": "Result after the blast",
+      "addedInformation": "Adds the survival focus"
+    }
+  },
+  {
+    "i": 57,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Hairlock, a cadre mage",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Hairlock is introduced as a powerful cadre mage.",
+    "noVisual": "No drawn cast key exists for Hairlock",
+    "storyboard": {
+      "claim": "Hairlock is a powerful high-ranking cadre mage",
+      "concreteVisual": "Empty frame with the callout",
+      "onScreenText": "Hairlock, a cadre mage",
+      "relationToPrevious": "Names the example",
+      "addedInformation": "Adds a victim example"
+    }
+  },
+  {
+    "i": 58,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "No duel of wits",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "He did not die in a dramatic duel: the duel struck.",
+    "noVisual": "weak: text only",
+    "storyboard": {
+      "claim": "He is not killed in a glorious duel of wits",
+      "concreteVisual": "Empty frame, struck callout",
+      "onScreenText": "No duel of wits",
+      "relationToPrevious": "Denies the heroic death",
+      "addedInformation": "Adds what did not happen"
+    }
+  },
+  {
+    "i": 59,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "A random wave of sorcery",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "A random sorcery wave cuts him in half: the storm icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A random wave kills him at the waist",
+      "concreteVisual": "Storm icon alone",
+      "onScreenText": "A random wave of sorcery",
+      "relationToPrevious": "Says how he dies",
+      "addedInformation": "Adds the arbitrary wave"
+    }
+  },
+  {
+    "i": 60,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Rage drowned by the noise",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "explainedBy": "His howl is drowned by the noise: nothing drawable beyond the words.",
+    "noVisual": "Sound cannot be drawn",
+    "storyboard": {
+      "claim": "His rage is muted by deafening noise",
+      "concreteVisual": "Empty frame with the callout",
+      "onScreenText": "Rage drowned by the noise",
+      "relationToPrevious": "Continues the death",
+      "addedInformation": "Adds the muted howl"
+    },
+    "action": "talk",
+    "expression": "angry"
+  },
+  {
+    "i": 61,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Stray shrapnel",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Equivalent to catching stray shrapnel in a trench: war icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Death is like stray shrapnel in a trench",
+      "concreteVisual": "War icon alone",
+      "onScreenText": "Stray shrapnel",
+      "relationToPrevious": "Gives the comparison",
+      "addedInformation": "Adds the trench image"
+    }
+  },
+  {
+    "i": 62,
+    "concept": "target",
+    "diagram": null,
+    "callout": {
+      "text": "The wrong place",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Being in the wrong place when the artillery lands means you are gone: the targeted icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Wrong place, wrong moment: gone",
+      "concreteVisual": "Target icon alone",
+      "onScreenText": "The wrong place",
+      "relationToPrevious": "States the rule",
+      "addedInformation": "Adds the moral of the example"
+    }
+  },
+  {
+    "i": 63,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "They understand the Warrens",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "partnerExpression": "neutral",
+    "explainedBy": "The host pushes back: the two mages know the Warrens.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tattersail and Quick Ben are mages who understand Warrens",
+      "concreteVisual": "Tattersail talking beside Quick Ben",
+      "onScreenText": "They understand the Warrens",
+      "relationToPrevious": "Objection to the helpless-infantry claim",
+      "addedInformation": "Adds the two mages"
+    }
+  },
+  {
+    "i": 64,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Multiple Warrens",
+      "style": "reveal"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "smirk",
+    "action": "talk",
+    "explainedBy": "Quick Ben has access to several Warrens: he alone is on screen.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quick Ben, from Seven Cities, has several Warrens",
+      "concreteVisual": "Quick Ben smirking and talking",
+      "onScreenText": "Multiple Warrens",
+      "relationToPrevious": "Narrows to one mage",
+      "addedInformation": "Adds his range of power"
+    }
+  },
+  {
+    "i": 65,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "Channel it, not control it",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "explainedBy": "They channel the storm but do not control it: Tattersail faces the storm icon.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They channel the power but cannot control the storm",
+      "concreteVisual": "Tattersail reaching toward a storm",
+      "onScreenText": "Channel it, not control it",
+      "relationToPrevious": "Answers the objection",
+      "addedInformation": "Adds the key distinction"
+    }
+  },
+  {
+    "i": 66,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Not a spell book",
+      "style": "strike"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "worried",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "She does not read calmly from a spell book: the book is struck.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Her magic is not calm reading",
+      "concreteVisual": "Tattersail holding a book, callout struck",
+      "onScreenText": "Not a spell book",
+      "relationToPrevious": "Starts her description",
+      "addedInformation": "Denies the academic picture"
+    }
+  },
+  {
+    "i": 67,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Gate in the beyond",
+        "Nudged open",
+        "Power leaks"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "She finds a gate, nudges it open a crack and the power leaks: a flow.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She nudges a gate open a crack and prays",
+      "concreteVisual": "Flow of gate, open, leaking power",
+      "onScreenText": "Gate in the beyond, Nudged open, Power leaks",
+      "relationToPrevious": "Shows the mechanism of her casting",
+      "addedInformation": "Adds the three steps"
+    }
+  },
+  {
+    "i": 68,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Body fails",
+        "Gate closes"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "When the body fails, the gate closes: a cause and effect flow.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "If her body fails the gate closes",
+      "concreteVisual": "Flow Body fails to Gate closes",
+      "onScreenText": "Body fails, Gate closes",
+      "relationToPrevious": "Adds the limit of the mechanism",
+      "addedInformation": "Adds the warning of her masters"
+    }
+  },
+  {
+    "i": 69,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Ordinary soldiers with shields",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "They are grunts with slightly better shields: two ordinary soldiers.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mages are no more than better-equipped grunts",
+      "concreteVisual": "Tattersail and Quick Ben standing",
+      "onScreenText": "Ordinary soldiers with shields",
+      "relationToPrevious": "Concludes the pushback",
+      "addedInformation": "Equates them with infantry"
+    }
+  },
+  {
+    "i": 70,
+    "concept": "moonsSpawn",
+    "diagram": null,
+    "callout": {
+      "text": "Pooling their power",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail",
+      "quickben"
+    ],
+    "expression": "afraid",
+    "action": "reach",
+    "partnerExpression": "afraid",
+    "partnerAction": "reach",
+    "explainedBy": "Under Rake sorcery the mages pool power to survive: both reach toward the fortress.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They pool power to avoid being annihilated",
+      "concreteVisual": "Two afraid mages reaching, Moons Spawn",
+      "onScreenText": "Pooling their power",
+      "relationToPrevious": "Shows the terror in action",
+      "addedInformation": "Adds the cooperation"
+    }
+  },
+  {
+    "i": 71,
+    "concept": "storm",
+    "diagram": null,
+    "callout": {
+      "text": "An umbrella in a hurricane",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "afraid",
+    "action": "hold",
+    "explainedBy": "They are people holding up an umbrella in a category 5 hurricane: afraid mage before a storm.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They are not masters but people sheltering in a hurricane",
+      "concreteVisual": "Tattersail afraid beside a storm",
+      "onScreenText": "An umbrella in a hurricane",
+      "relationToPrevious": "The analogy",
+      "addedInformation": "Adds the umbrella image"
+    }
+  },
+  {
+    "i": 72,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Sword or magic, same",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "Iron sword or Warren, the reality is the same: two equal sides weighed.",
+    "noVisual": "weak: balance stands for sameness",
+    "storyboard": {
+      "claim": "Sword or magic, the reality is the same",
+      "concreteVisual": "Balance icon alone",
+      "onScreenText": "Sword or magic, same",
+      "relationToPrevious": "Generalizes the umbrella",
+      "addedInformation": "Adds equivalence of weapons and magic"
+    }
+  },
+  {
+    "i": 73,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Seen from the trench",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "You are small and see the world only from trench level: Whiskeyjack bowed.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The world is read from a trench-level view",
+      "concreteVisual": "Whiskeyjack bowed and sad",
+      "onScreenText": "Seen from the trench",
+      "relationToPrevious": "Closes the chapter and returns to the ground figure",
+      "addedInformation": "Adds the bridge to politics"
+    }
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "i": 0,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Huddled in the mud",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "sit",
+    "explainedBy": "A soldier hunched in the mud at dawn: the viewer is put in the squad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You are huddled in the mud with the ninth squad at dawn outside Pale.",
+      "concreteVisual": "Whiskeyjack seated low on open ground, head down.",
+      "onScreenText": "Huddled in the mud",
+      "relationToPrevious": "Opening scene.",
+      "addedInformation": "weak: sets the place and mood."
+    }
+  },
+  {
+    "i": 1,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Latrines, sweat, horsedung",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The air stinks: a soldier bowed under the reek.",
+    "noVisual": "a smell has no picture; the bowed face and the callout carry it",
+    "storyboard": {
+      "claim": "The air reeks of latrines, sweat and burning horsedung.",
+      "concreteVisual": "Whiskeyjack slumped, grim face, open ground.",
+      "onScreenText": "Latrines, sweat, horsedung",
+      "relationToPrevious": "Same soldier, the smell is added.",
+      "addedInformation": "weak: the smell cannot be drawn, only the soldier reaction."
+    }
+  },
+  {
+    "i": 2,
+    "concept": "moonsSpawn",
+    "diagram": null,
+    "callout": {
+      "text": "A floating black mountain",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The soldier looks up at the floating black fortress, Moon Spawn.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Breathing it all in, you look up at the floating mountain of black stone.",
+      "concreteVisual": "The black floating fortress above, Whiskeyjack small beneath it, afraid.",
+      "onScreenText": "A floating black mountain",
+      "relationToPrevious": "The fortress appears above the soldier.",
+      "addedInformation": "The floating fortress is shown."
+    }
+  },
+  {
+    "i": 3,
+    "concept": "moonsSpawn",
+    "diagram": null,
+    "callout": {
+      "text": "Waiting for the sky to fall",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "continue": true,
+    "explainedBy": "Nobody explains the plan: the soldier waits under the fortress.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Nobody tells you if you will live through the next five minutes; you just wait.",
+      "concreteVisual": "Same fortress kept, Whiskeyjack now bowed and anxious.",
+      "onScreenText": "Waiting for the sky to fall",
+      "relationToPrevious": "Same stage; the face and posture change to waiting dread.",
+      "addedInformation": "weak: the dread is the face."
+    }
+  },
+  {
+    "i": 4,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Who knows what is happening?",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "explainedBy": "The soldier asks the question that matters: who knows what is going on.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The question that matters is who in this war actually knows what is happening.",
+      "concreteVisual": "Whiskeyjack mid-speech, puzzled and uneasy.",
+      "onScreenText": "Who knows what is happening?",
+      "relationToPrevious": "From dread to the question.",
+      "addedInformation": "weak: the question is the text."
+    }
+  },
+  {
+    "i": 5,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "Kings and gods moving pieces",
+      "style": "strike"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The classic premise of kings and gods moving pieces, which the book rejects.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The book rejects the standard fantasy premise of kings and gods moving pieces.",
+      "concreteVisual": "A chess-knight icon alone on the frame, the phrase struck through.",
+      "onScreenText": "Kings and gods moving pieces",
+      "relationToPrevious": "The rejected premise is shown.",
+      "addedInformation": "The premise being refused is the board-game icon."
+    }
+  },
+  {
+    "i": 6,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Clean and well-lit",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The tidy world of standard fantasy novels.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We have all read those books where everything is clean.",
+      "concreteVisual": "An intact city icon alone.",
+      "onScreenText": "Clean and well-lit",
+      "relationToPrevious": "The tidy fantasy world the book is unlike.",
+      "addedInformation": "weak: the city is the tidy foil."
+    }
+  },
+  {
+    "i": 7,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Bottom of the chain",
+        "Top of the chain"
+      ],
+      "values": [
+        0.1
+      ]
+    },
+    "callout": null,
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The story sits at the bottom of the chain of command, looking up.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A fantasy that only makes sense from the bottom of the chain of command up.",
+      "concreteVisual": "A spectrum from bottom of the chain to top of the chain, marker at the bottom.",
+      "onScreenText": "Bottom of the chain / Top of the chain",
+      "relationToPrevious": "From the rejected top-down view to the bottom-up one.",
+      "addedInformation": "The vantage point is drawn as a position on a scale."
+    }
+  },
+  {
+    "i": 8,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The ninth squad",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "blank",
+    "explainedBy": "The Bridgeburner squad: weary soldiers side by side, heavy with the war.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The Bridgeburners, the ninth squad, face an incredibly heavy reality.",
+      "concreteVisual": "Whiskeyjack and Quick Ben standing in the dirt, tired.",
+      "onScreenText": "The ninth squad",
+      "relationToPrevious": "From the author premise to the squad.",
+      "addedInformation": "weak: two tired soldiers."
+    }
+  },
+  {
+    "i": 9,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "The siege of Pale",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The battered sergeant faces the siege of the free city of Pale.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The squad faces the meat grinder of the Malazan siege of the free city of Pale.",
+      "concreteVisual": "War icon beside battered Whiskeyjack.",
+      "onScreenText": "The siege of Pale",
+      "relationToPrevious": "The squad leader and the siege are named.",
+      "addedInformation": "The siege is shown as war."
+    }
+  },
+  {
+    "i": 10,
+    "concept": "moonsSpawn",
+    "diagram": null,
+    "callout": {
+      "text": "Moon Spawn guards the city of Pale",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The floating fortress guards Pale; its lord is Anomander Rake.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pale is guarded by the floating basalt fortress Moon Spawn.",
+      "concreteVisual": "Moon Spawn above, Whiskeyjack watching afraid.",
+      "onScreenText": "Moon Spawn guards the city of Pale",
+      "relationToPrevious": "The fortress is placed as the defender.",
+      "addedInformation": "The fortress as the squad enemy."
+    }
+  },
+  {
+    "i": 11,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Miles behind the lines",
+      "style": "highlight"
+    },
+    "set": "room",
+    "cast": [
+      "laseen"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "The empress far behind the lines pushes the soldiers into the fire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Miles behind the lines the Empress and her gods push the grunts into the fire.",
+      "concreteVisual": "Empress Laseen alone in a royal room, composed, smirking.",
+      "onScreenText": "Miles behind the lines",
+      "relationToPrevious": "Cut from the front to the distant empress.",
+      "addedInformation": "The ruler far from the front."
+    }
+  },
+  {
+    "i": 12,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "An anthropology background",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The author comes from anthropology.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Steven Erikson comes from a background in anthropology.",
+      "concreteVisual": "A book icon alone.",
+      "onScreenText": "An anthropology background",
+      "relationToPrevious": "From the story to its author.",
+      "addedInformation": "weak: a book stands for the author."
+    }
+  },
+  {
+    "i": 13,
+    "concept": "puppeteer",
+    "diagram": null,
+    "callout": {
+      "text": "The great man theory",
+      "style": "strike"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "The rejected idea: a few kings decide and the world follows.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He does not subscribe to the great man theory where a few kings decide and the world follows.",
+      "concreteVisual": "A puppeteer icon, the phrase struck through.",
+      "onScreenText": "The great man theory",
+      "relationToPrevious": "The author rejected view of history.",
+      "addedInformation": "One controller and the controlled, rejected."
+    }
+  },
+  {
+    "i": 14,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "Bones of people with no idea",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "History is built on the bones of people who did not know why they died.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "History is messy and built on the bones of people who had no idea why they were dying.",
+      "concreteVisual": "A grave icon alone.",
+      "onScreenText": "Bones of people with no idea",
+      "relationToPrevious": "From the great man view to the nameless dead.",
+      "addedInformation": "The dead are the foundation."
+    }
+  },
+  {
+    "i": 15,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "No map for the soldiers",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "You do not get a war room or a map of blocks; you get the dirt.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You do not get a war room or a clean top-down map pushed around by generals.",
+      "concreteVisual": "A chess-knight icon for the generals game, beside a muddy soldier who is not in it.",
+      "onScreenText": "No map for the soldiers",
+      "relationToPrevious": "The generals game is shown beside the soldier who is outside it.",
+      "addedInformation": "The soldier excluded from the planning game."
+    }
+  },
+  {
+    "i": 16,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Dropped into the trench",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "walk",
+    "explainedBy": "The narration drops the viewer into the trench after a magical barrage.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Let us drop right into the aftermath of a magical barrage on those plains.",
+      "concreteVisual": "Whiskeyjack walking across open ground.",
+      "onScreenText": "Dropped into the trench",
+      "relationToPrevious": "Transition into the scene.",
+      "addedInformation": "weak: a transition."
+    }
+  },
+  {
+    "i": 17,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Tattersail watches",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail",
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "partnerExpression": "blank",
+    "partnerAction": "walk",
+    "explainedBy": "Tattersail stands and watches a soldier trudge up the blasted slope toward her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Tattersail stands watching four soldiers trudge up a blasted, smoking slope.",
+      "concreteVisual": "Tattersail standing still while Whiskeyjack trudges in blank.",
+      "onScreenText": "Tattersail watches",
+      "relationToPrevious": "A watcher and one who trudges toward her.",
+      "addedInformation": "Watcher and the weary arrival."
+    }
+  },
+  {
+    "i": 18,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Their faces are bone white with blood",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "shotOverride": "closeUp",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Faces bone white under mud and blood.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Their faces are bone white beneath mud and crimson streaks of blood.",
+      "concreteVisual": "Close-up of Whiskeyjack empty face.",
+      "onScreenText": "Their faces are bone white with blood",
+      "relationToPrevious": "Closer on one face.",
+      "addedInformation": "weak: a blank, exhausted face."
+    }
+  },
+  {
+    "i": 19,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Eyes empty, hollowed out",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "quickben"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "Their eyes are empty and dispassionate.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Their eyes are empty, dispassionate, hollowed out and exhausted.",
+      "concreteVisual": "Quick Ben with a blank, drained look.",
+      "onScreenText": "Eyes empty, hollowed out",
+      "relationToPrevious": "Another squad member with the same emptiness.",
+      "addedInformation": "weak: a blank face."
+    }
+  },
+  {
+    "i": 20,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Their comrade cut in half",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "blank",
+    "partnerAction": "slump",
+    "explainedBy": "The squad has just watched a comrade killed and looks beaten, not heroic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They watched their comrade get cut in half and they do not look heroic.",
+      "concreteVisual": "Whiskeyjack and Quick Ben, both bowed and drained.",
+      "onScreenText": "Their comrade cut in half",
+      "relationToPrevious": "The same two, now bowed by loss.",
+      "addedInformation": "The loss on both bowed bodies."
+    }
+  },
+  {
+    "i": 21,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Not glorious warriors",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "They look completely spent, not like warriors returning from a quest.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They do not look like glorious fantasy warriors; they look completely spent.",
+      "concreteVisual": "Whiskeyjack standing, empty-faced.",
+      "onScreenText": "Not glorious warriors",
+      "relationToPrevious": "Held on the spent face.",
+      "addedInformation": "weak: the spent look."
+    }
+  },
+  {
+    "i": 22,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Lives are expendable",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "quickben"
+    ],
+    "expression": "smirk",
+    "action": "slump",
+    "explainedBy": "Veterans tired and cynical who know the commanders see them as expendable.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You see the war through cynical veterans whose lives are expendable to their commanders.",
+      "concreteVisual": "Quick Ben bowed with a bitter smirk.",
+      "onScreenText": "Lives are expendable",
+      "relationToPrevious": "A cynical face.",
+      "addedInformation": "weak: cynicism carried by the face."
+    }
+  },
+  {
+    "i": 23,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The legendary Bridgeburners",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "tattersail",
+      "whiskeyjack"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "partnerExpression": "neutral",
+    "explainedBy": "Tattersail recognises who the weary soldiers are.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "She realises immediately they are the legendary Bridgeburners, the elite of the elite.",
+      "concreteVisual": "Tattersail startled, facing Whiskeyjack.",
+      "onScreenText": "The legendary Bridgeburners",
+      "relationToPrevious": "Her recognition of the squad.",
+      "addedInformation": "Her recognition."
+    }
+  },
+  {
+    "i": 24,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Shared recognition of trauma",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack",
+      "tattersail"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "explainedBy": "No awe, only a shared recognition of trauma between the two.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "There is no sweeping music, only a shared recognition of profound trauma.",
+      "concreteVisual": "Whiskeyjack and Tattersail facing each other, both drained.",
+      "onScreenText": "Shared recognition of trauma",
+      "relationToPrevious": "Awe gives way to shared weariness.",
+      "addedInformation": "The mutual look."
+    }
+  },
+  {
+    "i": 25,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "The burial detail",
+      "style": "reveal"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack",
+      "tattersail"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "explainedBy": "The squad comes coldly to see whether they are the burial detail for a man not yet dead.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They approach to check coldly if they are the burial detail for a man not yet fully dead.",
+      "concreteVisual": "A grave icon between a cold Whiskeyjack and a worried Tattersail.",
+      "onScreenText": "The burial detail",
+      "relationToPrevious": "The grave icon names why they came.",
+      "addedInformation": "The grave shows the errand."
+    }
+  },
+  {
+    "i": 26,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Not about glory",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "That is the lens of the whole conflict: it is not about glory.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The lens through which you view the conflict is not glory.",
+      "concreteVisual": "Whiskeyjack standing empty-faced.",
+      "onScreenText": "Not about glory",
+      "relationToPrevious": "The point of the scene.",
+      "addedInformation": "weak: a restated point."
+    }
+  },
+  {
+    "i": 27,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A system that does not care",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "quickben"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "explainedBy": "A system does not care whether the rank and file live or die.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a system that does not care if you live or die; Captain Paran feels it too.",
+      "concreteVisual": "Quick Ben standing blank.",
+      "onScreenText": "A system that does not care",
+      "relationToPrevious": "From the squad to the wider crush.",
+      "addedInformation": "weak: indifference as a blank face."
+    }
+  },
+  {
+    "i": 28,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "Over a thousand Bridgeburners dead",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "1,300 elite soldiers died crushed in the tunnels at Pale.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "After 1,300 Bridgeburners die in the tunnels at Pale...",
+      "concreteVisual": "A grave icon alone.",
+      "onScreenText": "Over a thousand Bridgeburners dead",
+      "relationToPrevious": "The scale of the loss.",
+      "addedInformation": "The number said by the narration."
+    }
+  },
+  {
+    "i": 29,
+    "concept": "grave",
+    "diagram": null,
+    "callout": {
+      "text": "Only thirty-nine survivors are left",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "blank",
+    "explainedBy": "No ceremony: only a hollow speech to a few stone-faced survivors.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "There is no ceremony, just a generic speech to 39 stone-faced survivors.",
+      "concreteVisual": "Two stone-faced survivors beside a grave icon.",
+      "onScreenText": "Only thirty-nine survivors are left",
+      "relationToPrevious": "From the dead to the few who remain.",
+      "addedInformation": "The survivors listening to nothing."
+    }
+  },
+  {
+    "i": 30,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Garroted in his room",
+      "style": "reveal"
+    },
+    "set": "room",
+    "cast": [
+      "pin"
+    ],
+    "expression": "neutral",
+    "action": "collapsed",
+    "explainedBy": "The officer who gave the hollow speech is found garroted in his room two hours later.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The officer is found expertly garroted in his room two hours later.",
+      "concreteVisual": "A figure collapsed on the floor of a room.",
+      "onScreenText": "Garroted in his room",
+      "relationToPrevious": "The speaker is dead.",
+      "addedInformation": "The body on the floor."
+    }
+  },
+  {
+    "i": 31,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Nobody cares",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "blank",
+    "action": "idle",
+    "partnerExpression": "blank",
+    "explainedBy": "The army is so toxic that the officer murder moves no one.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The mood is so toxic that the assassination of an officer does not even make anyone blink.",
+      "concreteVisual": "Two indifferent soldiers standing.",
+      "onScreenText": "Nobody cares",
+      "relationToPrevious": "The reaction of the troops.",
+      "addedInformation": "Indifference to the death."
+    }
+  },
+  {
+    "i": 32,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Where the real power lies",
+      "style": "highlight"
+    },
+    "set": "horizon",
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "A brutal reality check about power in a military camp.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "It is a brutal reality check about where the real power dynamics lie in a camp.",
+      "concreteVisual": "Whiskeyjack with a grim half-smile.",
+      "onScreenText": "Where the real power lies",
+      "relationToPrevious": "Commentary.",
+      "addedInformation": "weak: commentary only."
+    }
+  },
+  {
+    "i": 33,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Highborn noble of Unta",
+      "style": "reveal"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "Paran is a highborn nobleman from the capital city.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Paran is a highborn nobleman from the capital city of Unta.",
+      "concreteVisual": "A city icon alone.",
+      "onScreenText": "Highborn noble of Unta",
+      "relationToPrevious": "The pushback begins.",
+      "addedInformation": "The capital as his origin."
+    }
+  },
+  {
+    "i": 34,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Handpicked by the adjunct",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "An officer handpicked by the empress right hand.",
+    "noVisual": "the adjunct and the empress right hand are not in the cast; only the callout can say it",
+    "storyboard": {
+      "claim": "He is an officer handpicked by the adjunct, the empress right hand.",
+      "concreteVisual": "Plain frame with a callout.",
+      "onScreenText": "Handpicked by the adjunct",
+      "relationToPrevious": "The privilege is named.",
+      "addedInformation": "weak: text carries it."
+    }
+  },
+  {
+    "i": 35,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Inspecting, not digging",
+      "style": "highlight"
+    },
+    "set": "abstract",
+    "cast": [],
+    "explainedBy": "He is the one inspecting the troops, not digging the latrines.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He is the guy inspecting the troops, not the guy digging the latrines.",
+      "concreteVisual": "The officer alone, looking over the troops, clean-faced, while others dig latrines behind him.",
+      "onScreenText": "Inspecting, not digging",
+      "relationToPrevious": "The privilege contrasted.",
+      "addedInformation": "The two roles as poles."
+    }
+  }
+]

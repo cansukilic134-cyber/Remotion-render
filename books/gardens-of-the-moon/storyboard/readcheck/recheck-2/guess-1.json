@@ -1,0 +1,8 @@
+[
+{"id":"b001","guess":"The narrator introduces a huge black fortress floating in the sky, which a frightened soldier watches from the horizon.","misleading":"The soldier's idle pose does not show what he is doing, so it is unclear whether he is a guard or a bystander."},
+{"id":"b002","guess":"The soldier and his people wait in dread, expecting the floating fortress to fall on them.","misleading":"The phrase 'sky to fall' is figurative, but the floating fortress icon could make viewers read it as a literal falling fortress."},
+{"id":"b003","guess":"A floating fortress called Moon Spawn hangs over and guards the city of Pale, and the soldier fears it.","misleading":"The icon shows only the fortress and no city, so the guarding of Pale is carried by the words alone."},
+{"id":"b004","guess":"A young woman mage, Tattersail, desperately fights a tall, pale, angry man, Rake, using fire magic.","misleading":"The fortress icon implies the fight happens at or on the fortress, and no flame is shown."},
+{"id":"b005","guess":"The mage and another man join their magical powers together, both straining with fear.","misleading":"Both reach with afraid faces, which could look like they are pleading or fleeing rather than combining power."},
+{"id":"b006","guess":"The narrator says the floating fortress is moving slowly south.","misleading":"There is no direction or motion cue, so DRIFTING SOUTH only shows as text beside a static fortress."}
+]

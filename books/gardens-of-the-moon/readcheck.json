@@ -1,0 +1,310 @@
+{
+  "date": "2026-11-06T11:52:49.660Z",
+  "n": 217,
+  "total": 217,
+  "sources": [
+    "readcheck",
+    "recheck-1",
+    "recheck-2",
+    "recheck-3",
+    "recheck-4",
+    "recheck-5",
+    "recheck-6"
+  ],
+  "evidence": {
+    "status": "OK",
+    "signals": [
+      "full run: readers 1: 140 items written 93 s after the input (a fresh reader needs >= 105 s)",
+      "full run: judges 1: 140 items written 83 s after the input (a fresh reader needs >= 105 s)"
+    ]
+  },
+  "binding": "BOUND",
+  "tallied": {
+    "baseRun": "gardens-of-the-moon-prep-cfd765da15ef",
+    "folders": {
+      "readcheck": {
+        "run": "gardens-of-the-moon-prep-cfd765da15ef",
+        "evidenceSha256": "cf087e8e31c08d347544e87acd14fd6fbc4e7e26631407704e4f0f1d13345399"
+      },
+      "recheck-1": {
+        "run": "gardens-of-the-moon-prep-98b51d68b092",
+        "evidenceSha256": "570641ef18417813d34606f34459dea360fbb43eb860479e65de7b44d01c405d"
+      },
+      "recheck-2": {
+        "run": "gardens-of-the-moon-prep-0be89203f323",
+        "evidenceSha256": "cdaebbbb39a6e4855d66be29eb559117c28cb1ddfc389cc79a7d09cd2d3d3bda"
+      },
+      "recheck-3": {
+        "run": "gardens-of-the-moon-prep-56361fe1ecd5",
+        "evidenceSha256": "52c8b96473ff3e4abcbc73f5150ff03ec07ac5ff7d10d7cb076468ae9bb9b715"
+      },
+      "recheck-4": {
+        "run": "gardens-of-the-moon-prep-2351bc307e63",
+        "evidenceSha256": "59c92d22ff42f88a0f13a8bed7d11c784a5c443a77b567debb3f1e1c04f8e771"
+      },
+      "recheck-5": {
+        "run": "gardens-of-the-moon-prep-65ad0e0f7639",
+        "evidenceSha256": "4385dd9410d6fa71d9c942cd508a00e790761a0ae24a0d8ec182f2c276d86b9a"
+      },
+      "recheck-6": {
+        "run": "gardens-of-the-moon-prep-1d9cc305aa33",
+        "evidenceSha256": "527a9efb85da67cf16a197e66aedb21b8e6f824ad30da285481268d01a7457b3"
+      }
+    }
+  },
+  "totals": {
+    "CORRECT": 193,
+    "NEUTRAL": 24,
+    "WRONG": 0
+  },
+  "wrongRate": 0,
+  "blame": {
+    "words": 10,
+    "face": 1,
+    "icon": 4,
+    "body": 1,
+    "nothing-fits": 4,
+    "diagram": 1,
+    "people": 3
+  },
+  "iconBlame": {
+    "shield": 1,
+    "chains": 1,
+    "star": 1,
+    "coin": 1
+  },
+  "beats": [
+    {
+      "i": 3,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Waiting in dread matches, but 'sky to fall' makes the viewer expect the fortress to fall, which the narration never says.",
+      "from": "recheck-2",
+      "concept": "moonsSpawn",
+      "callout": "Waiting for the sky to fall"
+    },
+    {
+      "i": 32,
+      "verdict": "NEUTRAL",
+      "blame": "face",
+      "why": "Smirk adds a knowing tone but the pushback setup is not conveyed.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Where the real power lies"
+    },
+    {
+      "i": 35,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The guess captures 'examining rather than excavating' literally but misses the point about a privileged top-down vantage versus the lowly troops.",
+      "from": "recheck-1",
+      "concept": null,
+      "callout": "Inspecting, not digging"
+    },
+    {
+      "i": 50,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Vague line that carries no specific meaning.",
+      "from": "recheck-3",
+      "concept": "lightbulb",
+      "callout": "What is happening"
+    },
+    {
+      "i": 72,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Guess captures 'sword or magic, same' but the shield suggests defense and misses the umbrella point about being powerless.",
+      "from": "recheck-4",
+      "concept": "shield",
+      "callout": "Sword or magic, same"
+    },
+    {
+      "i": 87,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Only the number is conveyed, not the cost paid in blood.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "1,300 Bridgeburners"
+    },
+    {
+      "i": 98,
+      "verdict": "NEUTRAL",
+      "blame": "body",
+      "why": "A talking angry soldier reads as someone spreading rumors, not as soldiers suffering lethal rumors.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Lethal rumors"
+    },
+    {
+      "i": 104,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "The violent eraser phrase is vague and loses the point about stripping romanticism from death.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A violent eraser"
+    },
+    {
+      "i": 129,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Narration says gods are NOT chess masters here, but the guess reads only the chess-master half.",
+      "from": "recheck-3",
+      "concept": "game",
+      "callout": "Gods as chess masters"
+    },
+    {
+      "i": 135,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Powerless to help Rake is right, but chain links make the viewer think Rake is in bondage and the man a friend, which is not stated.",
+      "from": "recheck-4",
+      "concept": "chains",
+      "callout": "No power to help Rake"
+    },
+    {
+      "i": 136,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "The viewer caught the dreams-only limit from the words but read the star as something distant and unreachable, so the idea that a god is constrained to a sanctified place and dreams is missing.",
+      "from": "recheck-6",
+      "concept": "star",
+      "callout": "Only in a mortal's dreams"
+    },
+    {
+      "i": 140,
+      "verdict": "NEUTRAL",
+      "blame": "icon",
+      "why": "Coin read as a fate toss rather than resurrection.",
+      "from": "recheck-3",
+      "concept": "coin",
+      "callout": "Spin a coin: he breathes"
+    },
+    {
+      "i": 145,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Rock-in-pond read as one person, missing that the gods are blind to outcomes.",
+      "from": "recheck-3",
+      "concept": "water",
+      "callout": "A rock in a pond"
+    },
+    {
+      "i": 148,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess garbles the point that the viewer is placed next to Whiskey Jack.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Next to Whiskey Jack"
+    },
+    {
+      "i": 149,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess misses the tunnels sabotage idea and implies captivity.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Taun kept them there"
+    },
+    {
+      "i": 158,
+      "verdict": "NEUTRAL",
+      "blame": "words",
+      "why": "Guess takes blood literally and misses the disorientation point.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Blood on the bronze tiles"
+    },
+    {
+      "i": 168,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Guess captures only the squad label, not the deadly men being introduced.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "The ninth squad"
+    },
+    {
+      "i": 179,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Guess gets Sorry but not the unit-cohesion challenge.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "Sorry, a supernatural killer"
+    },
+    {
+      "i": 187,
+      "verdict": "NEUTRAL",
+      "blame": "diagram",
+      "why": "Guess describes the scale but not that the story lives among the soldiers.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": null
+    },
+    {
+      "i": 191,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Soldier hearing noises is vague versus the Moranth marching in.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "BUZZING AND CLICKING"
+    },
+    {
+      "i": 194,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Smirking ruler is vague about the empire never being resolved.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE EMPIRE'S APPETITE"
+    },
+    {
+      "i": 195,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Angry pale man does not convey the Fett or dragon climaxes.",
+      "from": "readcheck",
+      "concept": "fire",
+      "callout": "MASSIVE EXPLOSIVE CLIMAXES"
+    },
+    {
+      "i": 196,
+      "verdict": "NEUTRAL",
+      "blame": "nothing-fits",
+      "why": "Worried soldier only loosely conveys unresolved geopolitical tension.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "THE CRIMSON GUARD"
+    },
+    {
+      "i": 212,
+      "verdict": "NEUTRAL",
+      "blame": "people",
+      "why": "Guess shows a wizard in a tower but not the longing for exposition.",
+      "from": "readcheck",
+      "concept": null,
+      "callout": "A WIZARD IN THE TOWER"
+    }
+  ],
+  "reviewRequired": {
+    "flagged": 6,
+    "wrong": [],
+    "neutral": [
+      {
+        "i": 3,
+        "code": "EARLY_TEXT"
+      },
+      {
+        "i": 148,
+        "code": "ECHO_ONLY_CARRIER"
+      }
+    ],
+    "cleared": 4,
+    "unread": []
+  }
+}

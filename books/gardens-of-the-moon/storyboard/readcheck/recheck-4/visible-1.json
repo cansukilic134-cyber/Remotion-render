@@ -1,0 +1,103 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a storm cloud with lightning",
+  "words": "Out of his depth"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "angry",
+    "body": "talk"
+   }
+  ],
+  "icon": "a tank / battlefield",
+  "words": "Rage drowned by the noise"
+ },
+ {
+  "id": "b003",
+  "icon": "a shield",
+  "words": "Sword or magic, same"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a tank / battlefield",
+  "words": "Seen from the trench"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "flames",
+  "place": "street",
+  "words": "Terror, foam and blood"
+ },
+ {
+  "id": "b006",
+  "people": [
+   {
+    "looks": "a tall pale-skinned man with black hair",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "chain links",
+  "place": "horizon",
+  "words": "No power to help Rake"
+ },
+ {
+  "id": "b007",
+  "icon": "a glowing star",
+  "words": "Only in a mortal's dreams"
+ },
+ {
+  "id": "b008",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "walk"
+   }
+  ],
+  "icon": "a road",
+  "words": "Dropped mid-marathon"
+ },
+ {
+  "id": "b009",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "icon": "a trophy",
+  "words": "Earned, not assigned"
+ },
+ {
+  "id": "b010",
+  "icon": "a tank / battlefield",
+  "words": "Moranth march to slaughter"
+ }
+]

@@ -1,0 +1,1315 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "sit"
+   }
+  ],
+  "place": "horizon",
+  "words": "Huddled in the mud"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Latrines, sweat, horsedung"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "place": "horizon",
+  "words": "A floating black mountain"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "place": "horizon",
+  "words": "Waiting for the sky to fall"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "talk"
+   }
+  ],
+  "place": "horizon",
+  "words": "Who knows what is happening?"
+ },
+ {
+  "id": "b006",
+  "icon": "a game controller / board game",
+  "place": "abstract",
+  "words": "Kings and gods moving pieces (crossed out)"
+ },
+ {
+  "id": "b007",
+  "icon": "an intact city skyline",
+  "place": "abstract",
+  "words": "Clean and well-lit"
+ },
+ {
+  "id": "b008",
+  "place": "abstract",
+  "diagram": "a scale from one label to another with a marker: Bottom of the chain / Top of the chain"
+ },
+ {
+  "id": "b009",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "The ninth squad"
+ },
+ {
+  "id": "b010",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a tank / battlefield",
+  "place": "horizon",
+  "words": "The siege of Pale"
+ },
+ {
+  "id": "b011",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "place": "horizon",
+  "words": "Moon Spawn guards the city of Pale"
+ },
+ {
+  "id": "b012",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Miles behind the lines"
+ },
+ {
+  "id": "b013",
+  "icon": "a book",
+  "place": "abstract",
+  "words": "An anthropology background"
+ },
+ {
+  "id": "b014",
+  "icon": "a hand working puppet strings",
+  "place": "abstract",
+  "words": "The great man theory (crossed out)"
+ },
+ {
+  "id": "b015",
+  "icon": "a gravestone",
+  "place": "abstract",
+  "words": "Bones of people with no idea"
+ },
+ {
+  "id": "b016",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "icon": "a game controller / board game",
+  "place": "horizon",
+  "words": "No map for the soldiers"
+ },
+ {
+  "id": "b017",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "walk"
+   }
+  ],
+  "place": "horizon",
+  "words": "Dropped into the trench"
+ },
+ {
+  "id": "b018",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "sad",
+    "body": "idle"
+   },
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "walk"
+   }
+  ],
+  "place": "horizon",
+  "words": "Tattersail watches"
+ },
+ {
+  "id": "b019",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Their faces are bone white with blood"
+ },
+ {
+  "id": "b020",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Eyes empty, hollowed out"
+ },
+ {
+  "id": "b021",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "blank",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Their comrade cut in half"
+ },
+ {
+  "id": "b022",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Not glorious warriors"
+ },
+ {
+  "id": "b023",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "smirk",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Lives are expendable"
+ },
+ {
+  "id": "b024",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "surprised",
+    "body": "idle"
+   },
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "The legendary Bridgeburners"
+ },
+ {
+  "id": "b025",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   },
+   {
+    "looks": "a young woman mage",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Shared recognition of trauma"
+ },
+ {
+  "id": "b026",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   },
+   {
+    "looks": "a young woman mage",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a gravestone",
+  "place": "horizon",
+  "words": "The burial detail"
+ },
+ {
+  "id": "b027",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Not about glory"
+ },
+ {
+  "id": "b028",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "A system that does not care"
+ },
+ {
+  "id": "b029",
+  "icon": "a gravestone",
+  "place": "abstract",
+  "words": "Over a thousand Bridgeburners dead"
+ },
+ {
+  "id": "b030",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "icon": "a gravestone",
+  "place": "horizon",
+  "words": "Only thirty-nine survivors are left"
+ },
+ {
+  "id": "b031",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "place": "room",
+  "words": "Garroted in his room"
+ },
+ {
+  "id": "b032",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Nobody cares"
+ },
+ {
+  "id": "b033",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Where the real power lies"
+ },
+ {
+  "id": "b034",
+  "icon": "an intact city skyline",
+  "place": "abstract",
+  "words": "Highborn noble of Unta"
+ },
+ {
+  "id": "b035",
+  "place": "abstract",
+  "words": "Handpicked by the adjunct"
+ },
+ {
+  "id": "b036",
+  "place": "abstract",
+  "diagram": "a scale from one label to another with a marker: Digging latrines / Inspecting troops"
+ },
+ {
+  "id": "b037",
+  "icon": "a trophy",
+  "words": "Wanting prestige"
+ },
+ {
+  "id": "b038",
+  "icon": "a tank / battlefield",
+  "words": "Steps into the field"
+ },
+ {
+  "id": "b039",
+  "icon": "a game controller / board game",
+  "words": "Reduced to a pawn"
+ },
+ {
+  "id": "b040",
+  "words": "Out of his depth"
+ },
+ {
+  "id": "b041",
+  "icon": "a will document with a seal",
+  "words": "Noble blood (crossed out)"
+ },
+ {
+  "id": "b042",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "Looking up from the dirt"
+ },
+ {
+  "id": "b043",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "words": "Only from the bottom"
+ },
+ {
+  "id": "b044",
+  "icon": "a book",
+  "words": "A neat academic system"
+ },
+ {
+  "id": "b045",
+  "diagram": "labelled buckets: Mana costs / Spell components / Clear rules"
+ },
+ {
+  "id": "b046",
+  "icon": "a tank / battlefield",
+  "words": "Siege of Pale"
+ },
+ {
+  "id": "b047",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "a tall pale-skinned man with black hair",
+    "face": "angry",
+    "body": "point"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "words": "Tattersail fights Rake with flame"
+ },
+ {
+  "id": "b048",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "No spell analysis"
+ },
+ {
+  "id": "b049",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "Beaten with iron clubs"
+ },
+ {
+  "id": "b050",
+  "icon": "a storm cloud with lightning",
+  "words": "A coppery disc"
+ },
+ {
+  "id": "b051",
+  "icon": "a lit lightbulb",
+  "words": "What is happening"
+ },
+ {
+  "id": "b052",
+  "diagram": "arrows linking labels in a chain: Mage / Warren"
+ },
+ {
+  "id": "b053",
+  "diagram": "arrows linking labels in a chain: Mage / Warren / Raw energy"
+ },
+ {
+  "id": "b054",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "a tall pale-skinned man with black hair",
+    "face": "angry",
+    "body": "reach"
+   }
+  ],
+  "icon": "flames",
+  "words": "Light and fire, pure darkness"
+ },
+ {
+  "id": "b055",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a tank / battlefield",
+  "words": "Heavy artillery"
+ },
+ {
+  "id": "b056",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+   }
+  ],
+  "words": "Concussive trauma"
+ },
+ {
+  "id": "b057",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "Not getting obliterated"
+ },
+ {
+  "id": "b058",
+  "words": "Hairlock, a cadre mage"
+ },
+ {
+  "id": "b059",
+  "words": "No duel of wits (crossed out)"
+ },
+ {
+  "id": "b060",
+  "icon": "a storm cloud with lightning",
+  "words": "A random wave of sorcery"
+ },
+ {
+  "id": "b061",
+  "words": "Howl of rage, muted"
+ },
+ {
+  "id": "b062",
+  "icon": "a tank / battlefield",
+  "words": "Stray shrapnel"
+ },
+ {
+  "id": "b063",
+  "icon": "an archery target",
+  "words": "The wrong place"
+ },
+ {
+  "id": "b064",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "They understand the Warrens"
+ },
+ {
+  "id": "b065",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "smirk",
+    "body": "talk"
+   }
+  ],
+  "words": "Multiple Warrens"
+ },
+ {
+  "id": "b066",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "reach"
+   }
+  ],
+  "icon": "a storm cloud with lightning",
+  "words": "Channel it, not control it"
+ },
+ {
+  "id": "b067",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "worried",
+    "body": "hold",
+    "holds": "book"
+   }
+  ],
+  "words": "Not a spell book (crossed out)"
+ },
+ {
+  "id": "b068",
+  "diagram": "arrows linking labels in a chain: Gate in the beyond / Nudged open / Power leaks"
+ },
+ {
+  "id": "b069",
+  "diagram": "arrows linking labels in a chain: Body fails / Gate closes"
+ },
+ {
+  "id": "b070",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "Just grunts"
+ },
+ {
+  "id": "b071",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "afraid",
+    "body": "reach"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "words": "Pooling their power"
+ },
+ {
+  "id": "b072",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "hold"
+   }
+  ],
+  "icon": "a storm cloud with lightning",
+  "words": "An umbrella in a hurricane"
+ },
+ {
+  "id": "b073",
+  "icon": "a balance scale",
+  "words": "Sword or Warren: same"
+ },
+ {
+  "id": "b074",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "Trench-level perspective"
+ },
+ {
+  "id": "b075",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "Free city of Dujasan"
+ },
+ {
+  "id": "b076",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "sit"
+   }
+  ],
+  "place": "room",
+  "words": "Quiet but incredibly tense"
+ },
+ {
+  "id": "b077",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "sit"
+   }
+  ],
+  "place": "room",
+  "words": "Listening to Highfist Dujek"
+ },
+ {
+  "id": "b078",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "sit"
+   }
+  ],
+  "place": "room",
+  "words": "Pressure from the empress"
+ },
+ {
+  "id": "b079",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "Disband the Bridgeburners"
+ },
+ {
+  "id": "b080",
+  "diagram": "labelled buckets: Enemy army / Own empire"
+ },
+ {
+  "id": "b081",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "room",
+  "words": "Politically inconvenient"
+ },
+ {
+  "id": "b082",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "place": "stage",
+  "words": "Under Empress Laseen"
+ },
+ {
+  "id": "b083",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "point"
+   }
+  ],
+  "place": "stage",
+  "words": "Sheer ruthless utility"
+ },
+ {
+  "id": "b084",
+  "diagram": "arrows linking labels in a chain: Too much loyalty"
+ },
+ {
+  "id": "b085",
+  "diagram": "arrows linking labels in a chain: Too much loyalty / Troops put in the tunnels"
+ },
+ {
+  "id": "b086",
+  "diagram": "arrows linking labels in a chain: Too much loyalty / Troops put in the tunnels / General disarmed"
+ },
+ {
+  "id": "b087",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a balance scale",
+  "place": "stage",
+  "words": "A ledger of threats"
+ },
+ {
+  "id": "b088",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "1,300 Bridgeburners"
+ },
+ {
+  "id": "b089",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "icon": "a hand working puppet strings",
+  "place": "stage",
+  "words": "The empress's will works through people"
+ },
+ {
+  "id": "b090",
+  "diagram": "labelled buckets: Useful / A threat"
+ },
+ {
+  "id": "b091",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "place": "street",
+  "words": "Unprecedented peace"
+ },
+ {
+  "id": "b092",
+  "icon": "a road",
+  "place": "street",
+  "words": "The empire builds roads and standard laws"
+ },
+ {
+  "id": "b093",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "place": "street",
+  "words": "A force for good?"
+ },
+ {
+  "id": "b094",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "How the peace is maintained"
+ },
+ {
+  "id": "b095",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "stage",
+  "words": "The Claw: secret police"
+ },
+ {
+  "id": "b096",
+  "diagram": "arrows linking labels in a chain: Internal peace / Endless wars"
+ },
+ {
+  "id": "b097",
+  "diagram": "arrows linking labels in a chain: Internal peace / Endless wars / Soldiers bleed"
+ },
+ {
+  "id": "b098",
+  "diagram": "labelled buckets: Merchants' luxury / Soldiers disposable"
+ },
+ {
+  "id": "b099",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "angry",
+    "body": "talk"
+   }
+  ],
+  "place": "street",
+  "words": "Lethal rumors"
+ },
+ {
+  "id": "b100",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "The grunt's eye view"
+ },
+ {
+  "id": "b101",
+  "diagram": "labelled buckets: Blood in the mud / Proclamations"
+ },
+ {
+  "id": "b102",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "The blasted summit at Pale"
+ },
+ {
+  "id": "b103",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Expecting the wounded"
+ },
+ {
+  "id": "b104",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "Nothing but empty armor"
+ },
+ {
+  "id": "b105",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "blank",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "A violent eraser"
+ },
+ {
+  "id": "b106",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "reach"
+   },
+   {
+    "looks": "a young soldier",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "place": "room",
+  "words": "A comrade's last words"
+ },
+ {
+  "id": "b107",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Gone the next second"
+ },
+ {
+  "id": "b108",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "The war machine demands"
+ },
+ {
+  "id": "b109",
+  "diagram": "labelled buckets: 175 men and women / 210 horses"
+ },
+ {
+  "id": "b110",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "walk"
+   }
+  ],
+  "place": "street",
+  "words": "Pin walks the carnage"
+ },
+ {
+  "id": "b111",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Terror in the horses"
+ },
+ {
+  "id": "b112",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "blank",
+    "body": "hold",
+    "holds": "magnifier"
+   }
+  ],
+  "place": "street",
+  "words": "Forced professional coolness"
+ },
+ {
+  "id": "b113",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "street",
+  "words": "A psychological defense mechanism"
+ },
+ {
+  "id": "b114",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "street",
+  "words": "Lives seem insignificant"
+ },
+ {
+  "id": "b115",
+  "icon": "a gravestone",
+  "words": "Mourning on the battlefield"
+ },
+ {
+  "id": "b116",
+  "icon": "a gravestone",
+  "words": "Wailing over Nightshell"
+ },
+ {
+  "id": "b117",
+  "icon": "a gravestone",
+  "words": "Ceremony in mourning"
+ },
+ {
+  "id": "b118",
+  "diagram": "labelled buckets: High mages mourned"
+ },
+ {
+  "id": "b119",
+  "diagram": "labelled buckets: High mages mourned / Bridgeburners left for worms"
+ },
+ {
+  "id": "b120",
+  "diagram": "labelled buckets: High mages mourned / Bridgeburners left for worms / Soldiers a statistic"
+ },
+ {
+  "id": "b121",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Class and power"
+ },
+ {
+  "id": "b122",
+  "diagram": "a scale from one label to another with a marker: Low rank / High rank"
+ },
+ {
+  "id": "b123",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a game controller / board game",
+  "place": "horizon",
+  "words": "Pawns in someone's game"
+ },
+ {
+  "id": "b124",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Pin is dead"
+ },
+ {
+  "id": "b125",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Outside Hood's gate",
+  "state": "kept from before: a young soldier: still down on the ground"
+ },
+ {
+  "id": "b126",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Ascendants bickering above",
+  "state": "kept from before: a young soldier: still down on the ground"
+ },
+ {
+  "id": "b127",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Who gets to use his soul",
+  "state": "kept from before: a young soldier: still down on the ground"
+ },
+ {
+  "id": "b128",
+  "icon": "sheets of written notes",
+  "words": "Petty middle managers"
+ },
+ {
+  "id": "b129",
+  "icon": "a gold coin",
+  "words": "Like a dropped poker chip"
+ },
+ {
+  "id": "b130",
+  "icon": "a game controller / board game",
+  "words": "Gods as chess masters"
+ },
+ {
+  "id": "b131",
+  "diagram": "arrows linking labels in a chain: Mortal / Powerful enough"
+ },
+ {
+  "id": "b132",
+  "diagram": "arrows linking labels in a chain: Mortal / Powerful enough / Godhood"
+ },
+ {
+  "id": "b133",
+  "icon": "a game controller / board game",
+  "words": "Scrambling, improvising, meddling"
+ },
+ {
+  "id": "b134",
+  "icon": "a game controller / board game",
+  "words": "Pushing pieces around"
+ },
+ {
+  "id": "b135",
+  "icon": "an intact city skyline",
+  "place": "horizon",
+  "words": "Demon unleashed on the city"
+ },
+ {
+  "id": "b136",
+  "people": [
+   {
+    "looks": "a tall pale-skinned man with black hair",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "No power to help Rake"
+ },
+ {
+  "id": "b137",
+  "icon": "chain links",
+  "words": "Manifest only in dreams"
+ },
+ {
+  "id": "b138",
+  "diagram": "arrows linking labels in a chain: Mortal dreams / Desperate gambles / Influence events"
+ },
+ {
+  "id": "b139",
+  "diagram": "labelled buckets: Incredibly powerful / Not all-knowing / Not all-powerful"
+ },
+ {
+  "id": "b140",
+  "diagram": "labelled buckets: Incredibly powerful / Not all-knowing / Not all-powerful / Bound by the rules"
+ }
+]

@@ -1,0 +1,540 @@
+{
+  "slug": "gardens-of-the-moon",
+  "instructions": [
+    "Rewrite `bible` against `evidence`. The counts are a starting point, not the answer.",
+    "ENGLISH ONLY (US market invariant).",
+    "cast: keep only real characters, key them by a lowercase slug, and give every one a `look`:",
+    "  ONE Flux-ready sentence naming age, build, hair, clothing and period.",
+    "  This is the field that makes a character the same person in beat 12 and beat 204.",
+    "  `variant` carries Antidote costume hints (garment, headwear, hair, height, build, headScale).",
+    "places: `set` MUST be one of horizon office street room stage sky abstract kitchen bedroom classroom library cafe hospital court forest shore highway workstation startupGarage serverRoom pitchStage.",
+    "objects: the book's OWN recurring subjects. `concept` may name an icon we do not have yet;",
+    "  say so in `why` and Phase 4 will draw it.",
+    "world.forbid: icons this period cannot contain. An anachronism is the loudest mistake we can make.",
+    "spine: one entry per act; `claim` is the argument that act makes, in one sentence.",
+    "The draft's era, cast keys, ages and places are a HEURISTIC and are often wrong (Trust Fall: one metaphor gave a",
+    "  sci-fi era; The Art of Strategy: 'lean', 'fred', 'end' as characters). Correcting them from the narration is",
+    "  routine authoring — never a question for the operator. Ages, roles and relations come from what the narration says.",
+    "Then: node scripts/plan-bible.js --slug=gardens-of-the-moon --bible=<this file>"
+  ],
+  "validSets": [
+    "horizon",
+    "office",
+    "street",
+    "room",
+    "stage",
+    "sky",
+    "abstract",
+    "kitchen",
+    "bedroom",
+    "classroom",
+    "library",
+    "cafe",
+    "hospital",
+    "court",
+    "forest",
+    "shore",
+    "highway",
+    "workstation",
+    "startupGarage",
+    "serverRoom",
+    "pitchStage"
+  ],
+  "knownConcepts": [
+    "alarmClock",
+    "butterfly",
+    "subway",
+    "car",
+    "coffee",
+    "codeWindow",
+    "rocketLaunch",
+    "funnelMetrics",
+    "dollarExchange",
+    "laptopMockup",
+    "crash",
+    "ledge",
+    "water",
+    "grave",
+    "medical",
+    "notes",
+    "phone",
+    "school",
+    "home",
+    "family",
+    "road",
+    "storm",
+    "star",
+    "heart",
+    "fire",
+    "tree",
+    "mask",
+    "mirror",
+    "key",
+    "law",
+    "photo",
+    "war",
+    "game",
+    "work",
+    "city",
+    "food",
+    "coin",
+    "door",
+    "lightbulb",
+    "shadowSelf",
+    "puppeteer",
+    "chains",
+    "compass",
+    "dominoCascade",
+    "icebergDepth",
+    "funnelTrap",
+    "thirtyTyrants",
+    "ringOfGyges",
+    "caveAllegory",
+    "shipOfState",
+    "tripartiteSoul",
+    "kallipolis",
+    "fiveRegimes",
+    "mythOfEr",
+    "boulder",
+    "summit",
+    "ladder",
+    "crack",
+    "clock",
+    "balance",
+    "book",
+    "shield",
+    "trophy",
+    "hourglass",
+    "sword",
+    "target",
+    "magnifier",
+    "wallet",
+    "gift",
+    "inheritance",
+    "zap"
+  ],
+  "bible": {
+    "slug": "gardens-of-the-moon",
+    "world": {
+      "era": "invented fantasy world, no stated year",
+      "eraEvidence": "narration: the Malazan Empire, gods and sorcery; no real-world date",
+      "worldId": "malazan-fantasy",
+      "approxYear": 1300,
+      "setting": "a Malazan campaign at the siege of the city of Pale, with desert plains, the floating fortress Moon's Spawn above, and the warrens of magic",
+      "register": "epic fantasy war, gritty soldiers",
+      "forbid": [
+        "phone",
+        "codeWindow",
+        "laptopMockup",
+        "rocketLaunch",
+        "funnelMetrics",
+        "dollarExchange",
+        "subway",
+        "car",
+        "alarmClock",
+        "medical",
+        "coffee"
+      ]
+    },
+    "visualProvenance": {
+      "bookId": "gardens-of-the-moon",
+      "worldId": "malazan-fantasy",
+      "allowedMotifs": [
+        "war",
+        "grave",
+        "city",
+        "fire",
+        "shield",
+        "road",
+        "storm",
+        "moonsSpawn",
+        "game",
+        "book",
+        "puppeteer",
+        "trophy",
+        "inheritance",
+        "lightbulb",
+        "target",
+        "balance",
+        "notes",
+        "coin",
+        "chains",
+        "water",
+        "boulder",
+        "gift",
+        "star"
+      ],
+      "forbiddenMotifs": [],
+      "allowedCharacters": [
+        "whiskeyjack",
+        "tattersail",
+        "rake",
+        "quickben",
+        "laseen",
+        "pin"
+      ],
+      "allowedLocations": [
+        "horizon",
+        "street",
+        "room",
+        "stage",
+        "abstract"
+      ],
+      "allowedProps": []
+    },
+    "cast": {
+      "whiskeyjack": {
+        "name": "Whiskeyjack",
+        "role": "sergeant of the Bridgeburners squad, the book's point of view",
+        "look": "a weathered middle-aged soldier, lean build, close-cropped grey hair, dusty leather armour and a cloak, Malazan army period dress",
+        "variant": {
+          "gender": "m",
+          "age": "adult",
+          "outfit": "armor",
+          "headwear": "none",
+          "hairStyle": "short",
+          "build": "average",
+          "beard": "stubble",
+          "height": 1,
+          "headScale": 1,
+          "hair": "#8a8a8a",
+          "suit": "#4a4a44"
+        },
+        "mentions": 18
+      },
+      "tattersail": {
+        "name": "Tattersail",
+        "role": "high mage of the Malazan army",
+        "look": "a young woman mage, slim build, long dark hair tied back, robes in dark blue with a cloth wrap, Malazan army period dress",
+        "variant": {
+          "gender": "f",
+          "age": "young",
+          "outfit": "robe",
+          "headwear": "none",
+          "hairStyle": "long",
+          "build": "slight",
+          "height": 1,
+          "headScale": 1,
+          "hair": "#2a1a14",
+          "suit": "#1f2a44"
+        },
+        "mentions": 14
+      },
+      "rake": {
+        "name": "Anomander Rake",
+        "role": "a powerful Tiste Andii lord who fights from the moonspawn",
+        "look": "a tall pale-skinned man with black hair, dark armour and a long cloak, a lord's bearing, fantasy battlefield dress",
+        "variant": {
+          "gender": "m",
+          "age": "adult",
+          "outfit": "cloak",
+          "headwear": "none",
+          "hairStyle": "long",
+          "build": "average",
+          "height": 1.1,
+          "headScale": 1,
+          "hair": "#101010",
+          "suit": "#1a1a22"
+        },
+        "mentions": 8
+      },
+      "quickben": {
+        "name": "Quick Ben",
+        "role": "Bridgeburner sorcerer and a survivor of the squad",
+        "look": "a wiry middle-aged man, thin build, unkempt hair, a wool tunic and a sash, soldier's dress",
+        "variant": {
+          "gender": "m",
+          "age": "adult",
+          "outfit": "coat",
+          "headwear": "none",
+          "hairStyle": "messy",
+          "build": "slight",
+          "beard": "stubble",
+          "height": 1,
+          "headScale": 1,
+          "hair": "#5a4a3a",
+          "suit": "#5a4a3a"
+        },
+        "mentions": 4
+      },
+      "laseen": {
+        "name": "Empress Laseen",
+        "role": "the ruler of the Malazan Empire, far behind the lines",
+        "look": "a composed older woman, regal bearing, rich imperial robes and a crown-like headdress, Malazan court dress",
+        "variant": {
+          "gender": "f",
+          "age": "adult",
+          "outfit": "dress",
+          "headwear": "crown",
+          "hairStyle": "bun",
+          "build": "average",
+          "height": 1,
+          "headScale": 1,
+          "hair": "#3a2a20",
+          "suit": "#5c2a3a"
+        },
+        "mentions": 6
+      },
+      "pin": {
+        "name": "Pin",
+        "role": "a squad member who dies in the carnage",
+        "look": "a young soldier, sturdy build, short brown hair, leather jerkin over a tunic, Malazan infantry dress",
+        "variant": {
+          "gender": "m",
+          "age": "young",
+          "outfit": "armor",
+          "headwear": "none",
+          "hairStyle": "short",
+          "build": "average",
+          "height": 1,
+          "headScale": 1,
+          "hair": "#6b4a2a",
+          "suit": "#4a3a2a"
+        },
+        "mentions": 4
+      }
+    },
+    "places": {
+      "pale": {
+        "set": "street",
+        "look": "the walled city of Pale under siege, stone streets and burning buildings, ruined and smoky",
+        "mentions": 10
+      },
+      "plains": {
+        "set": "horizon",
+        "look": "flat dusty plains outside the city, mud and trenches, dawn light",
+        "mentions": 8
+      },
+      "moonspawn": {
+        "set": "abstract",
+        "look": "the floating black-stone fortress Moon's Spawn, massive and hovering over the battlefield",
+        "mentions": 6
+      },
+      "warren": {
+        "set": "abstract",
+        "look": "a sorcerous warren, a dim otherworldly space of shifting light and shadow",
+        "mentions": 4
+      },
+      "councilRoom": {
+        "set": "room",
+        "look": "a dim imperial council chamber far behind the lines",
+        "mentions": 3
+      }
+    },
+    "objects": [
+      {
+        "concept": "war",
+        "mentions": 30,
+        "why": "the siege of Pale and the grinding campaign are the book's core subject"
+      },
+      {
+        "concept": "grave",
+        "mentions": 8,
+        "why": "death without ceremony, the soldiers who die for orders they never understand"
+      },
+      {
+        "concept": "city",
+        "mentions": 7,
+        "why": "the walled city of Pale the army is besieging"
+      },
+      {
+        "concept": "fire",
+        "mentions": 6,
+        "why": "sorcery and burning brazers, the magic that hits the people below"
+      },
+      {
+        "concept": "shield",
+        "mentions": 7,
+        "why": "the soldiers' protection and the defences the magic breaks through"
+      },
+      {
+        "concept": "road",
+        "mentions": 7,
+        "why": "the long march the squad is pushed along toward the front"
+      },
+      {
+        "concept": "storm",
+        "mentions": 7,
+        "why": "the chaos of magic and battle that the grunts are caught inside"
+      }
+    ],
+    "spine": [
+      {
+        "act": "setup",
+        "fromFrame": 2,
+        "claim": "the Bridgeburners sit in the mud outside Pale, following orders no one explains"
+      },
+      {
+        "act": "development",
+        "fromFrame": 12874,
+        "claim": "the squad is pushed into the fight while sorcery and the empire's politics play out above them"
+      },
+      {
+        "act": "turn",
+        "fromFrame": 24278,
+        "claim": "the magic of the gods and ascendants breaks into the battle and the soldiers pay the cost"
+      },
+      {
+        "act": "consequence",
+        "fromFrame": 35652,
+        "claim": "the dead are counted without ceremony and the survivors carry what they saw"
+      },
+      {
+        "act": "close",
+        "fromFrame": 47196,
+        "claim": "the book leaves its larger mysteries unresolved on purpose"
+      }
+    ],
+    "signatureObjects": [
+      {
+        "key": "moonsSpawn",
+        "name": "Moon's Spawn",
+        "why": "the floating black-stone fortress hovering over the battlefield at Pale; no shared icon depicts it"
+      }
+    ]
+  },
+  "evidence": {
+    "sentences": 414,
+    "cast": [
+      {
+        "name": "Ericson",
+        "asSubject": 2,
+        "total": 8,
+        "samples": [
+          "That discrepancy is exactly the point Ericson is making.",
+          "They survive the immediate crisis, but the war machine itself never To wrap up the entire geopolitical war in one book would betray the gritty realism Ericson h"
+        ]
+      },
+      {
+        "name": "Pin",
+        "asSubject": 2,
+        "total": 2,
+        "samples": [
+          "When Pin walks through that carnage, the details are sickening.",
+          "Pin is dead."
+        ]
+      }
+    ],
+    "places": [
+      {
+        "set": "manuscript",
+        "mentions": 2,
+        "samples": [
+          "Isn't that just overly dense, complicated writing that alienates the I don't think so.",
+          "Now, despite how brilliant the structure is, we do have to offer one honest structural criticism based on the text itself."
+        ]
+      },
+      {
+        "set": "bedroom",
+        "mentions": 1,
+        "samples": [
+          "Yeah. Because that same officer giving the hollow speech is found expertly gared in his room just two hours later."
+        ]
+      },
+      {
+        "set": "classroom",
+        "mentions": 1,
+        "samples": [
+          "It is not a classroom."
+        ]
+      },
+      {
+        "set": "shipDeck",
+        "mentions": 1,
+        "samples": [
+          "Total chaos. You have high mage Tan unleashing literal waves of golden flame from the center hill and Anamander Rake responding from moonspawn with bl"
+        ]
+      },
+      {
+        "set": "cave",
+        "mentions": 1,
+        "samples": [
+          "When Anamander Rake uses Coral Galain, he is unleashing the elder realm of pure darkness."
+        ]
+      },
+      {
+        "set": "colonnade",
+        "mentions": 1,
+        "samples": [
+          "The earth rises skyward in thundering columns."
+        ]
+      }
+    ],
+    "objects": [
+      {
+        "concept": "war",
+        "mentions": 30,
+        "sample": "It is early morning on the planes outside the city of Pale, You are huddled in the mud with the ninth squad of the Molassen second army and "
+      },
+      {
+        "concept": "grave",
+        "mentions": 8,
+        "sample": "He knows it is built on the bones of people who had no idea why they were dying."
+      },
+      {
+        "concept": "city",
+        "mentions": 7,
+        "sample": "It is early morning on the planes outside the city of Pale, You are huddled in the mud with the ninth squad of the Molassen second army and "
+      },
+      {
+        "concept": "storm",
+        "mentions": 7,
+        "sample": "Yeah, it is this heavy suffocating mix of latrine trenches, sweat, and horsung burning in brazers just to ward off the biting chill because "
+      },
+      {
+        "concept": "phone",
+        "mentions": 7,
+        "sample": "Exactly. The wind turned so you are breathing all of it in and you're looking up at a floating mountain made of black stone called moonspan "
+      },
+      {
+        "concept": "road",
+        "mentions": 7,
+        "sample": "Meanwhile, miles behind the lines pushing these grunts into the fire, you have the Empress Leine, her adjunct Lauren, and this whole pantheo"
+      },
+      {
+        "concept": "shield",
+        "mentions": 7,
+        "sample": "It is a psychological defense mechanism."
+      },
+      {
+        "concept": "fire",
+        "mentions": 6,
+        "sample": "Yeah, it is this heavy suffocating mix of latrine trenches, sweat, and horsung burning in brazers just to ward off the biting chill because "
+      },
+      {
+        "concept": "notes",
+        "mentions": 4,
+        "sample": "And it is vital to note that Steven Ericson, the author, actually comes from a background in anthropology and Oh, really?"
+      },
+      {
+        "concept": "trophy",
+        "mentions": 4,
+        "sample": "Tatterale commands the whole cadre, but surely they have some level of mastery and control over this environment."
+      },
+      {
+        "concept": "rocketLaunch",
+        "mentions": 3,
+        "sample": "Yeah. Because that same officer giving the hollow speech is found expertly gared in his room just two hours later."
+      },
+      {
+        "concept": "home",
+        "mentions": 3,
+        "sample": "Yeah. Because that same officer giving the hollow speech is found expertly gared in his room just two hours later."
+      }
+    ],
+    "openingLines": [
+      "It is early morning on the planes outside the city of Pale, You are huddled in the mud with the ninth squad of the Molassen second army and the air just it just stinks.",
+      "Oh, absolutely reeks.",
+      "Yeah, it is this heavy suffocating mix of latrine trenches, sweat, and horsung burning in brazers just to ward off the biting chill because the wind has turned overnight.",
+      "Exactly. The wind turned so you are breathing all of it in and you're looking up at a floating mountain made of black stone called moonspan which is terrifying.",
+      "It is. And nobody is explaining the grand strategy to you.",
+      "Nobody is telling you if you're going to live through the next 5 minutes let alone the rest of the You're just waiting just waiting for the sky to fall."
+    ],
+    "closingLines": [
+      "You are treated exactly like a new recruit assigned to the bridge burners.",
+      "You are handed a weapon, shoved into the trench, and told to keep up while the magic explodes around you.",
+      "The real question this book asks isn't if you understand the lore.",
+      "The question is, did you survive your first"
+    ]
+  }
+}

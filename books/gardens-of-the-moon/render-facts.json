@@ -1,0 +1,56 @@
+{
+  "note": "Three facts per run: technical (output file), quality (firewall PASS/FAIL), decision (operator). Append-only; FAIL records are never removed.",
+  "runs": [
+    {
+      "at": "2026-11-06T15:16:43.851Z",
+      "kind": "preflight",
+      "mode": "production",
+      "commit": "55748c9b",
+      "tools": "db817bf8",
+      "pin": "55748c9bd183",
+      "configHash": "e94fc5a6c0880f66",
+      "renderInputHash": "072c37047e7808b8",
+      "quality": {
+        "status": "FAIL",
+        "blocks": 0,
+        "reviews": 345
+      },
+      "preview": {
+        "state": "READY",
+        "covered": false,
+        "mute": {
+          "label": "run2",
+          "sample": "fresh",
+          "n": 30,
+          "wrong": 0,
+          "dead": 5,
+          "adds": 21,
+          "pass": true
+        }
+      },
+      "decision": {
+        "kind": "ACCEPTED_DEBT (recorded now)",
+        "ok": true,
+        "accepted": true,
+        "reason": "Operator replied 'başlat' to the question about accepting the 345 REVIEW findings (2026-11-06)",
+        "covered": 40,
+        "newFindings": 0,
+        "goneFindings": 0
+      },
+      "authorization": {
+        "at": "2026-11-06T15:16:31.549Z",
+        "recordedNow": true,
+        "kind": "render-authorization"
+      },
+      "technical": "NOT_RUN",
+      "credentials": {
+        "ok": true,
+        "source": "main checkout (read in place, not copied)",
+        "active": 10,
+        "usable": 10,
+        "verified": 10,
+        "refused": 0
+      }
+    }
+  ]
+}

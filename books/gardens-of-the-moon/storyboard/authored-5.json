@@ -1,0 +1,931 @@
+[
+  {
+    "i": 149,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Taun kept them there",
+      "style": "highlight"
+    },
+    "cast": [
+      "quickben",
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "talk",
+    "partnerExpression": "worried",
+    "explainedBy": "Quick Ben leans in and whispers the conspiracy to Whiskeyjack, who listens uneasily.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Quick Ben leans in and whispers the conspiracy to Whiskeyjack, who listens uneasily.",
+      "concreteVisual": "Quick Ben whispering to Whiskeyjack in a two-shot, Whiskeyjack worried",
+      "onScreenText": "Taun kept them there",
+      "relationToPrevious": "opens the passage",
+      "addedInformation": "weak: a whispered theory, faces carry the unease"
+    }
+  },
+  {
+    "i": 150,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Drops of context",
+        "Scramble for why"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The reader gets only fragments and must scramble to work out why: fragments lead to scrambling.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reader gets only fragments and must scramble to work out why: fragments lead to scrambling.",
+      "concreteVisual": "flow diagram: Drops of context to Scramble for why",
+      "onScreenText": "Drops of context, Scramble for why",
+      "relationToPrevious": "from the whisper to its effect on the reader",
+      "addedInformation": "the cause and effect of the fragmentary telling"
+    }
+  },
+  {
+    "i": 151,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A paranoid whisper",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "afraid",
+    "partnerAction": "talk",
+    "explainedBy": "No flashback is given, only the paranoid whisper that Whiskeyjack and the reader must take at face value.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "No flashback is given, only the paranoid whisper that Whiskeyjack and the reader must take at face value.",
+      "concreteVisual": "Whiskeyjack worried while Quick Ben whispers beside him, afraid",
+      "onScreenText": "A paranoid whisper",
+      "relationToPrevious": "back to the two soldiers",
+      "addedInformation": "weak: restates the whisper with a different face"
+    }
+  },
+  {
+    "i": 152,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "Like a new recruit",
+      "style": "highlight"
+    },
+    "cast": [],
+    "explainedBy": "The author's preface explains that the reader is treated like a new recruit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The author's preface explains that the reader is treated like a new recruit.",
+      "concreteVisual": "a book icon (the preface) with the callout",
+      "onScreenText": "Like a new recruit",
+      "relationToPrevious": "turns to the author's stated intent",
+      "addedInformation": "names the intent: the reader is a recruit"
+    }
+  },
+  {
+    "i": 153,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "Dropped mid-marathon",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "explainedBy": "The reader is dropped halfway through a marathon with no history lesson.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reader is dropped halfway through a marathon with no history lesson.",
+      "concreteVisual": "a road icon with the callout",
+      "onScreenText": "Dropped mid-marathon",
+      "relationToPrevious": "same intent, as a journey already under way",
+      "addedInformation": "the marathon image: already mid-road"
+    },
+    "action": "walk",
+    "expression": "neutral"
+  },
+  {
+    "i": 154,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Watching the veterans",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "You learn the rules by watching the veterans talk in fragments.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "You learn the rules by watching the veterans talk in fragments.",
+      "concreteVisual": "two veterans, Whiskeyjack and Quick Ben, talking in a two-shot",
+      "onScreenText": "Watching the veterans",
+      "relationToPrevious": "the veterans the reader learns from",
+      "addedInformation": "weak: two veterans talking"
+    }
+  },
+  {
+    "i": 155,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "No grand charter",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "There is no omniscient historical charter explaining the guilds: the book refuses a history book.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "There is no omniscient historical charter explaining the guilds: the book refuses a history book.",
+      "concreteVisual": "a book icon with the callout struck",
+      "onScreenText": "No grand charter",
+      "relationToPrevious": "the example of Darujhistan: no explainer",
+      "addedInformation": "shows the missing explainer"
+    }
+  },
+  {
+    "i": 156,
+    "concept": "city",
+    "diagram": null,
+    "callout": {
+      "text": "Crokus, a teenage thief",
+      "style": "highlight"
+    },
+    "cast": [],
+    "set": "street",
+    "explainedBy": "We simply follow Crokus, a teenage thief, across the rooftops and see secret groups clash.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "We simply follow Crokus, a teenage thief, across the rooftops and see secret groups clash.",
+      "concreteVisual": "a city icon on a street set with the callout",
+      "onScreenText": "Crokus, a teenage thief",
+      "relationToPrevious": "the substitute for the charter",
+      "addedInformation": "the character who carries the story"
+    }
+  },
+  {
+    "i": 157,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Councilman Turban Orr",
+        "Alchemist Baruk"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Two political rivals, Turban Orr and Baruk, are pieced together from clues.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Two political rivals, Turban Orr and Baruk, are pieced together from clues.",
+      "concreteVisual": "sorter diagram with the two rivals",
+      "onScreenText": "Councilman Turban Orr, Alchemist Baruk",
+      "relationToPrevious": "names the two rivalries",
+      "addedInformation": "the two sides of the rivalry"
+    }
+  },
+  {
+    "i": 158,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Blood on the bronze tiles",
+      "style": "highlight"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The rivalries are pieced together only from blood on the tiles, which is disorienting for the reader.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The rivalries are pieced together only from blood on the tiles, which is disorienting for the reader.",
+      "concreteVisual": "Quick Ben slumped and worried",
+      "onScreenText": "Blood on the bronze tiles",
+      "relationToPrevious": "the cost of this style: disorientation",
+      "addedInformation": "weak: a disoriented figure"
+    }
+  },
+  {
+    "i": 159,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A detective in a foreign world",
+      "style": "highlight"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "neutral",
+    "action": "hold",
+    "holds": "magnifier",
+    "explainedBy": "The reader must be a detective in a foreign world who knows only what people in the dirt know.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reader must be a detective in a foreign world who knows only what people in the dirt know.",
+      "concreteVisual": "Tattersail holding a magnifier",
+      "onScreenText": "A detective in a foreign world",
+      "relationToPrevious": "sums up the demand on the reader",
+      "addedInformation": "the detective image as an object"
+    }
+  },
+  {
+    "i": 160,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Isn't that a flaw?",
+      "style": "highlight"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "holds": "book",
+    "explainedBy": "The sceptical host asks whether this dense style is a flaw that alienates the reader.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The sceptical host asks whether this dense style is a flaw that alienates the reader.",
+      "concreteVisual": "Quick Ben worried holding a book",
+      "onScreenText": "Isn't that a flaw?",
+      "relationToPrevious": "the objection to everything above",
+      "addedInformation": "weak: a question, shown by face and book"
+    }
+  },
+  {
+    "i": 161,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Has the author failed?",
+      "style": "highlight"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "continue": true,
+    "expression": "angry",
+    "action": "hold",
+    "holds": "book",
+    "explainedBy": "He presses the objection: needing a fan wiki would mean the author failed at exposition.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He presses the objection: needing a fan wiki would mean the author failed at exposition.",
+      "concreteVisual": "the same figure, now angry, still holding the book",
+      "onScreenText": "Has the author failed?",
+      "relationToPrevious": "same stage, the face sharpens",
+      "addedInformation": "weak: the objection sharpens"
+    }
+  },
+  {
+    "i": 162,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "A flaw",
+        "A design choice"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The other host rejects flaw and says it is a design choice.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The other host rejects flaw and says it is a design choice.",
+      "concreteVisual": "sorter diagram: A flaw against A design choice",
+      "onScreenText": "A flaw, A design choice",
+      "relationToPrevious": "the answer to the objection",
+      "addedInformation": "the two readings sorted"
+    }
+  },
+  {
+    "i": 163,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Chaotic siege",
+        "Encyclopedia entry"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Pausing a chaotic siege for an encyclopedia entry is where the trouble starts.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Pausing a chaotic siege for an encyclopedia entry is where the trouble starts.",
+      "concreteVisual": "flow diagram: Chaotic siege to Encyclopedia entry",
+      "onScreenText": "Chaotic siege, Encyclopedia entry",
+      "relationToPrevious": "opens the cause-effect chain",
+      "addedInformation": "the interruption"
+    }
+  },
+  {
+    "i": 164,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Chaotic siege",
+        "Encyclopedia entry",
+        "Reality shatters"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The interruption shatters the reality of the moment.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The interruption shatters the reality of the moment.",
+      "concreteVisual": "the same flow with a third label, Reality shatters",
+      "onScreenText": "Reality shatters",
+      "relationToPrevious": "one more label on the same flow",
+      "addedInformation": "the effect of the interruption"
+    }
+  },
+  {
+    "i": 165,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Reader confusion",
+        "Realism"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The reader's confusion is the realism: it mimics the fog of war.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reader's confusion is the realism: it mimics the fog of war.",
+      "concreteVisual": "flow diagram: Reader confusion to Realism",
+      "onScreenText": "Reader confusion, Realism",
+      "relationToPrevious": "flips the objection",
+      "addedInformation": "the argument: confusion to realism"
+    }
+  },
+  {
+    "i": 166,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Looking up from the trench",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "explainedBy": "The reader's confusion mirrors the squad's: both are in the dark.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The reader's confusion mirrors the squad's: both are in the dark.",
+      "concreteVisual": "Whiskeyjack and Quick Ben both worried",
+      "onScreenText": "Looking up from the trench",
+      "relationToPrevious": "the squad mirrors the reader",
+      "addedInformation": "the mirrored confusion"
+    }
+  },
+  {
+    "i": 167,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Only each other",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "explainedBy": "With grand narratives and divine plans stripped away the soldiers have only each other.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "With grand narratives and divine plans stripped away the soldiers have only each other.",
+      "concreteVisual": "two soldiers side by side, both sad",
+      "onScreenText": "Only each other",
+      "relationToPrevious": "moves to the emotional answer",
+      "addedInformation": "weak: faces carry the claim"
+    }
+  },
+  {
+    "i": 168,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The ninth squad",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "Introduces the dynamic inside the ninth squad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Introduces the dynamic inside the ninth squad.",
+      "concreteVisual": "Whiskeyjack and Quick Ben in a two-shot",
+      "onScreenText": "The ninth squad",
+      "relationToPrevious": "introduces the squad",
+      "addedInformation": "weak: a squad introduction"
+    }
+  },
+  {
+    "i": 169,
+    "concept": "boulder",
+    "diagram": null,
+    "callout": {
+      "text": "The weight of command",
+      "style": "highlight"
+    },
+    "cast": [
+      "quickben",
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "sad",
+    "partnerAction": "slump",
+    "explainedBy": "Kalam and Quick Ben reach to take the weight of command off the bowed Whiskeyjack.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Kalam and Quick Ben reach to take the weight of command off the bowed Whiskeyjack.",
+      "concreteVisual": "Quick Ben reaching toward a boulder while Whiskeyjack slumps",
+      "onScreenText": "The weight of command",
+      "relationToPrevious": "the squad acts on the leader",
+      "addedInformation": "the weight and the ones sharing it"
+    }
+  },
+  {
+    "i": 170,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Targeted by his own empire",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "laseen"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "partnerExpression": "smirk",
+    "explainedBy": "Whiskeyjack is exhausted and targeted by the empress of his own empire.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Whiskeyjack is exhausted and targeted by the empress of his own empire.",
+      "concreteVisual": "Whiskeyjack slumped, Empress Laseen smirking beside him",
+      "onScreenText": "Targeted by his own empire",
+      "relationToPrevious": "the other pressure on him",
+      "addedInformation": "who targets him"
+    }
+  },
+  {
+    "i": 171,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "The emotional core",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "partnerExpression": "worried",
+    "explainedBy": "His squad is the only thing keeping him from breaking, the emotional core of the book.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "His squad is the only thing keeping him from breaking, the emotional core of the book.",
+      "concreteVisual": "Whiskeyjack sad with Quick Ben worried beside him",
+      "onScreenText": "The emotional core",
+      "relationToPrevious": "the squad steadies him",
+      "addedInformation": "weak: the bond shown by faces"
+    }
+  },
+  {
+    "i": 172,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Empire wants you dead",
+        "Ideologies lose meaning"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "When the empire wants you dead, ideologies lose all meaning.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "When the empire wants you dead, ideologies lose all meaning.",
+      "concreteVisual": "flow diagram: Empire wants you dead to Ideologies lose meaning",
+      "onScreenText": "Empire wants you dead, Ideologies lose meaning",
+      "relationToPrevious": "the argument from the squad to meaning",
+      "addedInformation": "the cause and the effect"
+    }
+  },
+  {
+    "i": 173,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A sacred bond",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The only thing to trust is the soldiers on either side: unit cohesion becomes a sacred bond.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The only thing to trust is the soldiers on either side: unit cohesion becomes a sacred bond.",
+      "concreteVisual": "two soldiers standing side by side",
+      "onScreenText": "A sacred bond",
+      "relationToPrevious": "the answer: the soldier beside you",
+      "addedInformation": "weak: two soldiers side by side"
+    }
+  },
+  {
+    "i": 174,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Unit cohesion",
+        "Replaces religion"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Unit cohesion replaces religion.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Unit cohesion replaces religion.",
+      "concreteVisual": "flow diagram: Unit cohesion to Replaces religion",
+      "onScreenText": "Unit cohesion, Replaces religion",
+      "relationToPrevious": "the bond stands in for faith",
+      "addedInformation": "what the bond replaces"
+    }
+  },
+  {
+    "i": 175,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Bolstering her faltering shield",
+      "style": "highlight"
+    },
+    "cast": [
+      "pin",
+      "tattersail"
+    ],
+    "expression": "worried",
+    "action": "reach",
+    "partnerExpression": "afraid",
+    "explainedBy": "He throws his magic to bolster Tattersail's faltering shield as the power washes over her.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He throws his magic to bolster Tattersail's faltering shield as the power washes over her.",
+      "concreteVisual": "Pin reaching toward a shield icon while Tattersail is afraid",
+      "onScreenText": "Bolstering her faltering shield",
+      "relationToPrevious": "the magic users show the same instinct",
+      "addedInformation": "who acts, for whom, with what"
+    }
+  },
+  {
+    "i": 176,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Illusion forced to be a shield",
+      "style": "highlight"
+    },
+    "cast": [
+      "pin",
+      "tattersail"
+    ],
+    "continue": true,
+    "expression": "angry",
+    "action": "reach",
+    "partnerExpression": "worried",
+    "explainedBy": "He forces the illusion magic to act as a physical shield.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "He forces the illusion magic to act as a physical shield.",
+      "concreteVisual": "same stage, Pin straining, Tattersail less afraid",
+      "onScreenText": "Illusion forced to be a shield",
+      "relationToPrevious": "same stage, the faces change",
+      "addedInformation": "the strain of the act"
+    }
+  },
+  {
+    "i": 177,
+    "concept": "fire",
+    "diagram": null,
+    "callout": {
+      "text": "Dies protecting his unit",
+      "style": "highlight"
+    },
+    "cast": [
+      "pin"
+    ],
+    "expression": "afraid",
+    "action": "falling",
+    "explainedBy": "Moments later he is incinerated by blue fire, dying to protect his unit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Moments later he is incinerated by blue fire, dying to protect his unit.",
+      "concreteVisual": "Pin falling backward in front of a fire icon",
+      "onScreenText": "Dies protecting his unit",
+      "relationToPrevious": "the price of the act",
+      "addedInformation": "the death that follows"
+    }
+  },
+  {
+    "i": 178,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Stronger than the fear",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "tattersail"
+    ],
+    "expression": "sad",
+    "action": "idle",
+    "partnerExpression": "sad",
+    "explainedBy": "The instinct to protect your own is stronger than the fear of the enemy or the magic.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The instinct to protect your own is stronger than the fear of the enemy or the magic.",
+      "concreteVisual": "Whiskeyjack and Tattersail, both sad",
+      "onScreenText": "Stronger than the fear",
+      "relationToPrevious": "draws the lesson from the death",
+      "addedInformation": "weak: the lesson as faces"
+    }
+  },
+  {
+    "i": 179,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Sorry, a supernatural killer",
+      "style": "highlight"
+    },
+    "cast": [],
+    "noVisual": "No cast member is drawn for Sorry; the vocabulary has no figure for her.",
+    "explainedBy": "The counterexample: Sorry, a supernatural killer, in the squad.",
+    "storyboard": {
+      "claim": "The counterexample: Sorry, a supernatural killer, in the squad.",
+      "concreteVisual": "the callout alone, nobody on screen",
+      "onScreenText": "Sorry, a supernatural killer",
+      "relationToPrevious": "the counterargument begins",
+      "addedInformation": "weak: text-led, no figure for Sorry"
+    }
+  },
+  {
+    "i": 180,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Nobody trusts her",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "afraid",
+    "explainedBy": "Nobody trusts her: Whiskeyjack scowls and the others flinch.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "Nobody trusts her: Whiskeyjack scowls and the others flinch.",
+      "concreteVisual": "Whiskeyjack scowling, Quick Ben afraid beside him",
+      "onScreenText": "Nobody trusts her",
+      "relationToPrevious": "shows the distrust",
+      "addedInformation": "the reaction to her"
+    }
+  },
+  {
+    "i": 181,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Murderous wild card",
+        "They all hate her"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A murderous wild card whom everyone hates: how can that be cohesion?",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "A murderous wild card whom everyone hates: how can that be cohesion?",
+      "concreteVisual": "flow diagram: Murderous wild card to They all hate her",
+      "onScreenText": "Murderous wild card, They all hate her",
+      "relationToPrevious": "sets up the objection",
+      "addedInformation": "the objection as a chain"
+    }
+  },
+  {
+    "i": 182,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Distrust is their loyalty",
+      "style": "highlight"
+    },
+    "cast": [],
+    "continue": true,
+    "explainedBy": "That tension is exactly the proof of their loyalty to each other.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "That tension is exactly the proof of their loyalty to each other.",
+      "concreteVisual": "The squad standing together, scowling at the wild card, who stands apart.",
+      "onScreenText": "Distrust is their loyalty",
+      "relationToPrevious": "one more label on the same flow",
+      "addedInformation": "the answer: distrust proves loyalty"
+    }
+  },
+  {
+    "i": 183,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "Still just the recruit",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "angry",
+    "explainedBy": "They refuse to call her a bridge burner: after two years she is still only the recruit.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They refuse to call her a bridge burner: after two years she is still only the recruit.",
+      "concreteVisual": "Whiskeyjack pointing, Quick Ben angry beside him",
+      "onScreenText": "Still just the recruit",
+      "relationToPrevious": "the evidence of the refusal",
+      "addedInformation": "the name they refuse to give her"
+    }
+  },
+  {
+    "i": 184,
+    "concept": "shield",
+    "diagram": null,
+    "callout": {
+      "text": "Protecting their found family",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "They protect the sacred identity of their found family by keeping her out of it.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "They protect the sacred identity of their found family by keeping her out of it.",
+      "concreteVisual": "two soldiers beside a shield icon",
+      "onScreenText": "Protecting their found family",
+      "relationToPrevious": "the reason for the refusal",
+      "addedInformation": "the protection of identity"
+    }
+  },
+  {
+    "i": 185,
+    "concept": "trophy",
+    "diagram": null,
+    "callout": {
+      "text": "Earned, not assigned",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "neutral",
+    "action": "talk",
+    "explainedBy": "The label of bridge burner is earned, not assigned.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The label of bridge burner is earned, not assigned.",
+      "concreteVisual": "Whiskeyjack talking",
+      "onScreenText": "Earned, not assigned",
+      "relationToPrevious": "the rule behind the name",
+      "addedInformation": "weak: a statement of the rule"
+    }
+  },
+  {
+    "i": 186,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A badge of survival",
+      "style": "highlight"
+    },
+    "cast": [
+      "whiskeyjack",
+      "quickben"
+    ],
+    "expression": "neutral",
+    "action": "idle",
+    "explainedBy": "The name is a badge of survival, and the only truth to trust is the squad.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The name is a badge of survival, and the only truth to trust is the squad.",
+      "concreteVisual": "two soldiers side by side",
+      "onScreenText": "A badge of survival",
+      "relationToPrevious": "what the name stands for",
+      "addedInformation": "weak: two soldiers"
+    }
+  },
+  {
+    "i": 187,
+    "concept": null,
+    "diagram": {
+      "type": "spectrum",
+      "labels": [
+        "Generals and gods",
+        "Soldiers in the dirt"
+      ],
+      "values": [
+        0.9
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "The real story happens at the bottom of the hierarchy, not with the generals and gods.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "The real story happens at the bottom of the hierarchy, not with the generals and gods.",
+      "concreteVisual": "spectrum from Generals and gods to Soldiers in the dirt, marker near the soldiers",
+      "onScreenText": "Generals and gods, Soldiers in the dirt",
+      "relationToPrevious": "sums up the argument",
+      "addedInformation": "where the story really happens"
+    }
+  },
+  {
+    "i": 188,
+    "concept": "gift",
+    "diagram": null,
+    "callout": {
+      "text": "A neat tidy bow",
+      "style": "strike"
+    },
+    "cast": [],
+    "explainedBy": "This ground-level story has no neat tidy bow at the end.",
+    "noVisual": null,
+    "storyboard": {
+      "claim": "This ground-level story has no neat tidy bow at the end.",
+      "concreteVisual": "a gift icon with the callout struck",
+      "onScreenText": "A neat tidy bow",
+      "relationToPrevious": "turns to the ending",
+      "addedInformation": "the missing tidy ending"
+    }
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "i": 189,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CITY HAS FALLEN",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The siege of Pale ends: the soldier stands bowed in the aftermath of the fallen city.",
+    "storyboard": {
+      "claim": "Pale has fallen",
+      "concreteVisual": "Whiskeyjack bowed, sad, in the aftermath",
+      "onScreenText": "THE CITY HAS FALLEN",
+      "relationToPrevious": "Opens the final-image passage",
+      "addedInformation": "weak: a mood, the fall itself is not drawable"
+    }
+  },
+  {
+    "i": 190,
+    "concept": "war",
+    "diagram": null,
+    "callout": {
+      "text": "Moranth butcher the citizens",
+      "style": "highlight"
+    },
+    "cast": [],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The soldier watches the armored Moranth march in to slaughter; his fear is the reading.",
+    "noVisual": "No insect-armored Moranth figure exists in the vocabulary; the fear and callout carry it.",
+    "storyboard": {
+      "claim": "Moranth march in to slaughter the citizens",
+      "concreteVisual": "Whiskeyjack afraid, watching",
+      "onScreenText": "Moranth butcher the citizens",
+      "relationToPrevious": "Fear at what arrives",
+      "addedInformation": "weak: the Moranth are named, not drawn"
+    }
+  },
+  {
+    "i": 191,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BUZZING AND CLICKING",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "continue": true,
+    "explainedBy": "The same watcher, still facing the marching Moranth, now uneasy at the sound.",
+    "storyboard": {
+      "claim": "They buzz and click as they march",
+      "concreteVisual": "Same soldier, worried face",
+      "onScreenText": "BUZZING AND CLICKING",
+      "relationToPrevious": "Fear softens to unease at the sound",
+      "addedInformation": "weak: a sound cannot be drawn"
+    }
+  },
+  {
+    "i": 192,
+    "concept": "moonsSpawn",
+    "diagram": null,
+    "callout": {
+      "text": "DRIFTING SOUTH",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "Moon's Spawn, smoking, pulls away from the city and drifts south.",
+    "storyboard": {
+      "claim": "Moon's Spawn pulls away, smoking",
+      "concreteVisual": "The black floating fortress alone in frame",
+      "onScreenText": "DRIFTING SOUTH",
+      "relationToPrevious": "The fortress leaves the fallen city",
+      "addedInformation": "The object that leaves is shown"
+    }
+  },
+  {
+    "i": 193,
+    "concept": "road",
+    "diagram": null,
+    "callout": {
+      "text": "MARCHING ORDERS",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "For a grunt a victory only means orders down the road to the next city.",
+    "storyboard": {
+      "claim": "Victory means marching orders to the next siege",
+      "concreteVisual": "Weary soldier beside a road",
+      "onScreenText": "MARCHING ORDERS",
+      "relationToPrevious": "From the fortress to the soldier's fate",
+      "addedInformation": "The road reads as the next campaign"
+    }
+  },
+  {
+    "i": 194,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE EMPIRE'S APPETITE",
+      "style": "reveal"
+    },
+    "cast": [
+      "laseen"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "The empire, personified by its ruler, wants more; there is no resolution.",
+    "storyboard": {
+      "claim": "No resolution because the empire's appetite is endless",
+      "concreteVisual": "Empress Laseen with a cold smirk",
+      "onScreenText": "THE EMPIRE'S APPETITE",
+      "relationToPrevious": "Cause: who keeps the war going",
+      "addedInformation": "Ruler as the face of an endless appetite"
+    }
+  },
+  {
+    "i": 195,
+    "concept": "fire",
+    "diagram": null,
+    "callout": {
+      "text": "MASSIVE EXPLOSIVE CLIMAXES",
+      "style": "reveal"
+    },
+    "cast": [
+      "rake"
+    ],
+    "expression": "angry",
+    "action": "idle",
+    "explainedBy": "The climax at Darujhistan: Rake amid fire as the demon lords tear things up.",
+    "storyboard": {
+      "claim": "Explosive climaxes: the Fener and Rake as a dragon",
+      "concreteVisual": "Rake angry before flames",
+      "onScreenText": "MASSIVE EXPLOSIVE CLIMAXES",
+      "relationToPrevious": "From siege to the book's own ending",
+      "addedInformation": "Fire and Rake show the big climax"
+    }
+  },
+  {
+    "i": 196,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CRIMSON GUARD",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Behind the explosions the tension, the advance and the mercenaries remain.",
+    "storyboard": {
+      "claim": "The geopolitical tension and the mercenary Crimson Guard remain",
+      "concreteVisual": "Whiskeyjack worried, bowed",
+      "onScreenText": "THE CRIMSON GUARD",
+      "relationToPrevious": "After the climax, the unresolved",
+      "addedInformation": "weak: politics are abstract"
+    }
+  },
+  {
+    "i": 197,
+    "concept": "game",
+    "diagram": null,
+    "callout": {
+      "text": "THE BOARD IS RESET",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The strategy knight reads as the game board that is reset for the next campaign.",
+    "storyboard": {
+      "claim": "The board is reset for the next campaign",
+      "concreteVisual": "Chess knight icon",
+      "onScreenText": "THE BOARD IS RESET",
+      "relationToPrevious": "Everything remains as before",
+      "addedInformation": "Strategy icon fits a board reset"
+    }
+  },
+  {
+    "i": 198,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "WAR IS PERMANENT",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "blank",
+    "action": "slump",
+    "explainedBy": "For those being followed, war is a permanent state: a numb soldier, no end in sight.",
+    "storyboard": {
+      "claim": "Macro conflict unresolved; war is permanent",
+      "concreteVisual": "Whiskeyjack blank, bowed",
+      "onScreenText": "WAR IS PERMANENT",
+      "relationToPrevious": "Conclusion of the point",
+      "addedInformation": "Blank reads as numbness to endless war"
+    }
+  },
+  {
+    "i": 199,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "A 700 PAGE PROLOGUE",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The reader's worry shown as the book itself: did I just read only a prologue?",
+    "storyboard": {
+      "claim": "Did I just read a 700 page prologue?",
+      "concreteVisual": "Closed book icon",
+      "onScreenText": "A 700 PAGE PROLOGUE",
+      "relationToPrevious": "Turns to the reader's objection",
+      "addedInformation": "The book as the object in question"
+    }
+  },
+  {
+    "i": 200,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "FEELS INCOMPLETE",
+      "style": "reveal"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "The reader's feeling: unsatisfied, wanting a climax that changes the world.",
+    "storyboard": {
+      "claim": "It feels incomplete; we deserve a climax",
+      "concreteVisual": "Quick Ben worried, bowed",
+      "onScreenText": "FEELS INCOMPLETE",
+      "relationToPrevious": "Voices the objection",
+      "addedInformation": "weak: a feeling only"
+    }
+  },
+  {
+    "i": 201,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CHARACTER ARCS RESOLVE",
+      "style": "reveal"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "The counter-argument: for the characters it is a satisfying climax, their arcs close.",
+    "storyboard": {
+      "claim": "Character arcs resolve, Crocus makes his choice",
+      "concreteVisual": "Quick Ben pleased, arms up",
+      "onScreenText": "THE CHARACTER ARCS RESOLVE",
+      "relationToPrevious": "Reversal: it does have a climax",
+      "addedInformation": "Face flips from worry to satisfaction"
+    }
+  },
+  {
+    "i": 202,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Mission accomplished",
+        "Local threat gone",
+        "Macro politics remain"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "A sorter separates what is resolved (mission, local threat) from what is left (macro politics).",
+    "storyboard": {
+      "claim": "Rick's mission done, local threat neutralized; macro politics left",
+      "concreteVisual": "Sorter with three buckets",
+      "onScreenText": "Mission accomplished / Local threat gone / Macro politics remain",
+      "relationToPrevious": "Opens the resolved vs unresolved split",
+      "addedInformation": "The split the narration makes"
+    }
+  },
+  {
+    "i": 203,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Mission accomplished",
+        "Local threat gone",
+        "Macro politics remain",
+        "War machine goes on"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "continue": true,
+    "explainedBy": "The same sorter gains one more unresolved bucket: the war machine itself.",
+    "storyboard": {
+      "claim": "The war machine itself never ends",
+      "concreteVisual": "Sorter adds a fourth bucket",
+      "onScreenText": "Mission accomplished / Local threat gone / Macro politics remain / War machine goes on",
+      "relationToPrevious": "Adds the last unresolved item",
+      "addedInformation": "One more label draws in"
+    }
+  },
+  {
+    "i": 204,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "IT WOULD FEEL CHEAP",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Wrapping up the whole war in one book would betray the gritty realism; the soldier's knowing smirk.",
+    "storyboard": {
+      "claim": "A full resolution would feel cheap",
+      "concreteVisual": "Whiskeyjack smirking knowingly",
+      "onScreenText": "IT WOULD FEEL CHEAP",
+      "relationToPrevious": "Why the structure is right",
+      "addedInformation": "weak: commentary"
+    }
+  },
+  {
+    "i": 205,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Survive the day",
+        "End the war"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "You only get to survive the day, not end the war: two buckets.",
+    "storyboard": {
+      "claim": "You survive the day, you don't end the war",
+      "concreteVisual": "Sorter with two buckets",
+      "onScreenText": "Survive the day / End the war",
+      "relationToPrevious": "Sums up the ground-level view",
+      "addedInformation": "Two buckets set the limits"
+    }
+  },
+  {
+    "i": 206,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE CAST IS MASSIVE",
+      "style": "reveal"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "surprised",
+    "action": "idle",
+    "explainedBy": "The criticism: a reader dropped into a sprawling war with a massive cast.",
+    "storyboard": {
+      "claim": "Learning curve: massive cast, no handholding",
+      "concreteVisual": "Quick Ben overwhelmed",
+      "onScreenText": "THE CAST IS MASSIVE",
+      "relationToPrevious": "Turns to the honest criticism",
+      "addedInformation": "weak: face and text"
+    }
+  },
+  {
+    "i": 207,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "VERY DENSE",
+      "style": "reveal"
+    },
+    "cast": [
+      "quickben"
+    ],
+    "expression": "worried",
+    "action": "slump",
+    "explainedBy": "Many readers bounce off the dense first third; a worn reader.",
+    "storyboard": {
+      "claim": "Readers bounce off the first third",
+      "concreteVisual": "Quick Ben worried, bowed",
+      "onScreenText": "VERY DENSE",
+      "relationToPrevious": "Result of the heavy cast",
+      "addedInformation": "weak: a feeling"
+    }
+  },
+  {
+    "i": 208,
+    "concept": "book",
+    "diagram": null,
+    "callout": {
+      "text": "THE ANCIENT TLAN IMASS",
+      "style": "reveal"
+    },
+    "cast": [],
+    "explainedBy": "The deep history of the Tlan Imass is a book-sized thread left in the past.",
+    "storyboard": {
+      "claim": "Ancient history of the Tlan Imass, undead warriors",
+      "concreteVisual": "Book icon with callout",
+      "onScreenText": "THE ANCIENT TLAN IMASS",
+      "relationToPrevious": "Another example of dense lore",
+      "addedInformation": "The icon is the history, the callout names it"
+    }
+  },
+  {
+    "i": 209,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "LEFT DANGLING",
+      "style": "reveal"
+    },
+    "cast": [
+      "laseen"
+    ],
+    "expression": "smirk",
+    "action": "idle",
+    "explainedBy": "Empress Laseen's offscreen machinations are threads left dangling.",
+    "storyboard": {
+      "claim": "Laseen's offscreen machinations dangle",
+      "concreteVisual": "Laseen smirking, remote",
+      "onScreenText": "LEFT DANGLING",
+      "relationToPrevious": "Second thread",
+      "addedInformation": "Ruler who stays offstage"
+    }
+  },
+  {
+    "i": 210,
+    "concept": null,
+    "diagram": {
+      "type": "flow",
+      "labels": [
+        "Dangling threads",
+        "Setup",
+        "A 10 book series"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Dangling threads make the first volume feel like setup for a ten-book series.",
+    "storyboard": {
+      "claim": "Threads justify a 10 book series; the book feels like setup",
+      "concreteVisual": "Flow of three labels",
+      "onScreenText": "Dangling threads -> Setup -> A 10 book series",
+      "relationToPrevious": "Concludes the criticism",
+      "addedInformation": "Cause to effect chain"
+    }
+  },
+  {
+    "i": 211,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "THE PAYOFF IS PROFOUND",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "happy",
+    "action": "celebrate",
+    "explainedBy": "Accepting the world's terms brings a profound payoff; the soldier's earned relief.",
+    "storyboard": {
+      "claim": "If you make it through, the payoff is profound",
+      "concreteVisual": "Whiskeyjack happy, arms raised",
+      "onScreenText": "THE PAYOFF IS PROFOUND",
+      "relationToPrevious": "Reversal from the criticism",
+      "addedInformation": "Positive turn"
+    }
+  },
+  {
+    "i": 212,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "A WIZARD IN THE TOWER",
+      "style": "reveal"
+    },
+    "cast": [
+      "tattersail"
+    ],
+    "expression": "worried",
+    "action": "idle",
+    "explainedBy": "You wait for a wizard to explain the map; the mage stands unspeaking.",
+    "storyboard": {
+      "claim": "Waiting for someone to explain the map and the quest",
+      "concreteVisual": "Tattersail, silent and worried",
+      "onScreenText": "A WIZARD IN THE TOWER",
+      "relationToPrevious": "Reader's expectation",
+      "addedInformation": "weak: expectation not drawn"
+    }
+  },
+  {
+    "i": 213,
+    "concept": null,
+    "diagram": {
+      "type": "sorter",
+      "labels": [
+        "Draw the maps",
+        "Bleed to redraw them"
+      ]
+    },
+    "callout": null,
+    "cast": [],
+    "explainedBy": "Erikson wrote about those who redraw the maps with blood, not those who draw them.",
+    "storyboard": {
+      "claim": "Not about people who draw maps but who bleed to redraw",
+      "concreteVisual": "Sorter with two buckets",
+      "onScreenText": "Draw the maps / Bleed to redraw them",
+      "relationToPrevious": "Reveals the brilliance",
+      "addedInformation": "Two groups contrasted"
+    }
+  },
+  {
+    "i": 214,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "BLEED IN THE DIRT",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack"
+    ],
+    "expression": "sad",
+    "action": "slump",
+    "explainedBy": "The ground-level soldier who bleeds in the dirt to redraw the maps.",
+    "storyboard": {
+      "claim": "People who bleed in the dirt to redraw maps",
+      "concreteVisual": "Whiskeyjack bowed, sad",
+      "onScreenText": "BLEED IN THE DIRT",
+      "relationToPrevious": "From the contrast to its bearer",
+      "addedInformation": "Person who is the second bucket"
+    }
+  },
+  {
+    "i": 215,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "HANDED A WEAPON",
+      "style": "reveal"
+    },
+    "cast": [
+      "whiskeyjack",
+      "pin"
+    ],
+    "expression": "angry",
+    "action": "point",
+    "partnerExpression": "surprised",
+    "explainedBy": "You are the new recruit: the veteran sends the young soldier into the fight.",
+    "storyboard": {
+      "claim": "The reader is a new recruit handed a weapon and shoved into the trench",
+      "concreteVisual": "Veteran points, recruit startled",
+      "onScreenText": "HANDED A WEAPON",
+      "relationToPrevious": "Reader as recruit",
+      "addedInformation": "The pair shows who is the new one"
+    }
+  },
+  {
+    "i": 216,
+    "concept": null,
+    "diagram": null,
+    "callout": {
+      "text": "DID YOU SURVIVE",
+      "style": "reveal"
+    },
+    "cast": [
+      "pin"
+    ],
+    "expression": "afraid",
+    "action": "idle",
+    "explainedBy": "The closing question: did the recruit survive his first night? Afraid, alone.",
+    "storyboard": {
+      "claim": "The question is did you survive your first",
+      "concreteVisual": "Pin afraid",
+      "onScreenText": "DID YOU SURVIVE",
+      "relationToPrevious": "Final question",
+      "addedInformation": "Ends on the recruit"
+    }
+  }
+]

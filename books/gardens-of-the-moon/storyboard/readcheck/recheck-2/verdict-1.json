@@ -1,0 +1,41 @@
+{
+  "run": "gardens-of-the-moon-judge-b16126b1dabf",
+  "items": [
+    {
+      "id": "b001",
+      "correctness": "CORRECT",
+      "blame": "nothing",
+      "why": "Guess captures the floating black stone mountain and the fear."
+    },
+    {
+      "id": "b002",
+      "correctness": "NEUTRAL",
+      "blame": "words",
+      "why": "Waiting in dread matches, but 'sky to fall' makes the viewer expect the fortress to fall, which the narration never says."
+    },
+    {
+      "id": "b003",
+      "correctness": "CORRECT",
+      "blame": "nothing",
+      "why": "Floating fortress Moonspawn guarding Pale is read exactly."
+    },
+    {
+      "id": "b004",
+      "correctness": "CORRECT",
+      "blame": "nothing",
+      "why": "Mage battling a tall pale man with fire magic matches the Tattersail versus Rake clash."
+    },
+    {
+      "id": "b005",
+      "correctness": "CORRECT",
+      "blame": "nothing",
+      "why": "Joining powers while afraid matches pooling power against annihilation."
+    },
+    {
+      "id": "b006",
+      "correctness": "CORRECT",
+      "blame": "nothing",
+      "why": "Fortress drifting south is stated directly."
+    }
+  ]
+}

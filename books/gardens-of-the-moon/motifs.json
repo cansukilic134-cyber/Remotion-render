@@ -1,0 +1,14 @@
+{
+  "moonsSpawn": {
+    "title": "Moon's Spawn",
+    "reads": "a black stone fortress with towers and battlements, floating high above the ground",
+    "viewBox": "0 0 520 520",
+    "paths": [
+      { "d": "M140 150 L380 150 L380 390 L140 390 Z", "fill": "ink" },
+      { "d": "M120 110 L160 110 L160 150 L140 150 Z M200 110 L240 110 L240 150 L200 150 Z M280 110 L320 110 L320 150 L280 150 Z M360 110 L400 110 L400 150 L360 150 Z", "fill": "ink" },
+      { "d": "M180 220 L220 220 L220 270 L180 270 Z M280 220 L320 220 L320 270 L280 270 Z", "fill": "accent" },
+      { "d": "M180 390 L200 440 L220 390 Z M240 390 L260 450 L280 390 Z M300 390 L320 440 L340 390 Z", "fill": "ink" },
+      { "d": "M60 470 L460 470", "stroke": "accent", "strokeWidth": 10 }
+    ]
+  }
+}

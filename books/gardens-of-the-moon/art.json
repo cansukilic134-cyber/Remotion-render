@@ -1,0 +1,4773 @@
+{
+  "book": {
+    "slug": "gardens-of-the-moon",
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "genre": "fantasy"
+  },
+  "storyboard": {
+    "method": "authored storyboard (STORYBOARD_RUNBOOK.md)",
+    "authoredBy": "claude",
+    "date": "2026-11-06"
+  },
+  "beats": [
+    {
+      "i": 0,
+      "narration": "It is early morning on the planes outside the city of Pale, You are huddled in the mud with the ninth squad of the Molassen second army",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Huddled in the mud",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "sit",
+      "storyboard": {
+        "claim": "You are huddled in the mud with the ninth squad at dawn outside Pale.",
+        "concreteVisual": "Whiskeyjack seated low on open ground, head down.",
+        "onScreenText": "Huddled in the mud",
+        "relationToPrevious": "Opening scene.",
+        "addedInformation": "weak: sets the place and mood."
+      }
+    },
+    {
+      "i": 1,
+      "narration": "and the air just it just stinks. Oh, absolutely reeks. Yeah, it is this heavy suffocating mix of latrine trenches, sweat, and horsung",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Latrines, sweat, horsedung",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The air reeks of latrines, sweat and burning horsedung.",
+        "concreteVisual": "Whiskeyjack slumped, grim face, open ground.",
+        "onScreenText": "Latrines, sweat, horsedung",
+        "relationToPrevious": "Same soldier, the smell is added.",
+        "addedInformation": "weak: the smell cannot be drawn, only the soldier reaction."
+      }
+    },
+    {
+      "i": 2,
+      "narration": "burning in brazers just to ward off the biting chill because the wind has turned overnight. Exactly. The wind turned so you are breathing all of it in and you're looking up at a floating mountain made of black stone called moonspan",
+      "concept": "moonsSpawn",
+      "diagram": null,
+      "callout": {
+        "text": "A floating black mountain",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Breathing it all in, you look up at the floating mountain of black stone.",
+        "concreteVisual": "The black floating fortress above, Whiskeyjack small beneath it, afraid.",
+        "onScreenText": "A floating black mountain",
+        "relationToPrevious": "The fortress appears above the soldier.",
+        "addedInformation": "The floating fortress is shown."
+      }
+    },
+    {
+      "i": 3,
+      "narration": "which is terrifying. It is. And nobody is explaining the grand strategy to you. Nobody is telling you if you're going to live through the next 5 minutes let alone the rest of the You're just waiting just waiting for the",
+      "concept": "moonsSpawn",
+      "diagram": null,
+      "callout": {
+        "text": "Waiting for the sky to fall",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "continue": true,
+      "storyboard": {
+        "claim": "Nobody tells you if you will live through the next five minutes; you just wait.",
+        "concreteVisual": "Same fortress kept, Whiskeyjack now bowed and anxious.",
+        "onScreenText": "Waiting for the sky to fall",
+        "relationToPrevious": "Same stage; the face and posture change to waiting dread.",
+        "addedInformation": "weak: the dread is the face."
+      }
+    },
+    {
+      "i": 4,
+      "narration": "sky to fall. Asking the one question that actually matters like who in this war actually knows what is happening? And that is exactly the question you are meant to be asking in that mud, Because",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Who knows what is happening?",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "talk",
+      "storyboard": {
+        "claim": "The question that matters is who in this war actually knows what is happening.",
+        "concreteVisual": "Whiskeyjack mid-speech, puzzled and uneasy.",
+        "onScreenText": "Who knows what is happening?",
+        "relationToPrevious": "From dread to the question.",
+        "addedInformation": "weak: the question is the text."
+      }
+    },
+    {
+      "i": 5,
+      "narration": "Gardens of the Moon completely refuses to be a traditional fantasy It absolutely rejects the standard premise of, you know, kings and gods moving pieces",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Kings and gods moving pieces",
+        "style": "strike"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "The book rejects the standard fantasy premise of kings and gods moving pieces.",
+        "concreteVisual": "A chess-knight icon alone on the frame, the phrase struck through.",
+        "onScreenText": "Kings and gods moving pieces",
+        "relationToPrevious": "The rejected premise is shown.",
+        "addedInformation": "The premise being refused is the board-game icon."
+      }
+    },
+    {
+      "i": 6,
+      "narration": "on a pristine, well-lit I mean, we've all read those books, right? Where everything is clean.",
+      "concept": "city",
+      "diagram": null,
+      "callout": {
+        "text": "Clean and well-lit",
+        "style": "highlight"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "We have all read those books where everything is clean.",
+        "concreteVisual": "An intact city icon alone.",
+        "onScreenText": "Clean and well-lit",
+        "relationToPrevious": "The tidy fantasy world the book is unlike.",
+        "addedInformation": "weak: the city is the tidy foil."
+      }
+    },
+    {
+      "i": 7,
+      "narration": "But instead, this is a story entirely about the soldiers who are never told the whole plan. Yeah. It is a fantasy that only makes sense from the bottom of the chain of command up.",
+      "concept": null,
+      "diagram": {
+        "type": "spectrum",
+        "labels": [
+          "Bottom of the chain",
+          "Top of the chain"
+        ],
+        "values": [
+          0.1
+        ]
+      },
+      "callout": null,
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "A fantasy that only makes sense from the bottom of the chain of command up.",
+        "concreteVisual": "A spectrum from bottom of the chain to top of the chain, marker at the bottom.",
+        "onScreenText": "Bottom of the chain / Top of the chain",
+        "relationToPrevious": "From the rejected top-down view to the bottom-up one.",
+        "addedInformation": "The vantage point is drawn as a position on a scale."
+      }
+    },
+    {
+      "i": 8,
+      "narration": "The immediate reality for these people in the dirt is just incredibly heavy. So heavy. We are talking about the bridge burners here. Specifically the ninth squad led by",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The ninth squad",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "partnerExpression": "blank",
+      "storyboard": {
+        "claim": "The Bridgeburners, the ninth squad, face an incredibly heavy reality.",
+        "concreteVisual": "Whiskeyjack and Quick Ben standing in the dirt, tired.",
+        "onScreenText": "The ninth squad",
+        "relationToPrevious": "From the author premise to the squad.",
+        "addedInformation": "weak: two tired soldiers."
+      }
+    },
+    {
+      "i": 9,
+      "narration": "this battered exhausted sergeant named Whiskeyjack. You have to understand the meat grinder they are facing right now. It is the molassin siege of the free city of Pale.",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "The siege of Pale",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The squad faces the meat grinder of the Malazan siege of the free city of Pale.",
+        "concreteVisual": "War icon beside battered Whiskeyjack.",
+        "onScreenText": "The siege of Pale",
+        "relationToPrevious": "The squad leader and the siege are named.",
+        "addedInformation": "The siege is shown as war."
+      }
+    },
+    {
+      "i": 10,
+      "narration": "And Pale is being guarded by that floating basalt fortress. Moonspawn. Moonspawn and its lord",
+      "concept": "moonsSpawn",
+      "diagram": null,
+      "callout": {
+        "text": "Moon Spawn guards the city of Pale",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Pale is guarded by the floating basalt fortress Moon Spawn.",
+        "concreteVisual": "Moon Spawn above, Whiskeyjack watching afraid.",
+        "onScreenText": "Moon Spawn guards the city of Pale",
+        "relationToPrevious": "The fortress is placed as the defender.",
+        "addedInformation": "The fortress as the squad enemy."
+      }
+    },
+    {
+      "i": 11,
+      "narration": "Anomor Rake. Meanwhile, miles behind the lines pushing these grunts into the fire, you have the Empress Leine, her adjunct Lauren, and this whole pantheon of meddling just inscrable gods.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Miles behind the lines",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "laseen"
+      ],
+      "expression": "smirk",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Miles behind the lines the Empress and her gods push the grunts into the fire.",
+        "concreteVisual": "Empress Laseen alone in a royal room, composed, smirking.",
+        "onScreenText": "Miles behind the lines",
+        "relationToPrevious": "Cut from the front to the distant empress.",
+        "addedInformation": "The ruler far from the front."
+      }
+    },
+    {
+      "i": 12,
+      "narration": "And it is vital to note that Steven Ericson, the author, actually comes from a background in anthropology and Oh, really? Yeah.",
+      "concept": "book",
+      "diagram": null,
+      "callout": {
+        "text": "An anthropology background",
+        "style": "reveal"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "Steven Erikson comes from a background in anthropology.",
+        "concreteVisual": "A book icon alone.",
+        "onScreenText": "An anthropology background",
+        "relationToPrevious": "From the story to its author.",
+        "addedInformation": "weak: a book stands for the author."
+      }
+    },
+    {
+      "i": 13,
+      "narration": "And that completely informs how he builds this world. He does not subscribe to the great man theory of history where a few kings make decisions and the world neatly follows.",
+      "concept": "puppeteer",
+      "diagram": null,
+      "callout": {
+        "text": "The great man theory",
+        "style": "strike"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "He does not subscribe to the great man theory where a few kings decide and the world follows.",
+        "concreteVisual": "A puppeteer icon, the phrase struck through.",
+        "onScreenText": "The great man theory",
+        "relationToPrevious": "The author rejected view of history.",
+        "addedInformation": "One controller and the controlled, rejected."
+      }
+    },
+    {
+      "i": 14,
+      "narration": "Exactly. He knows history is messy. He knows it is built on the bones of people who had no idea why they were dying.",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "Bones of people with no idea",
+        "style": "highlight"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "History is messy and built on the bones of people who had no idea why they were dying.",
+        "concreteVisual": "A grave icon alone.",
+        "onScreenText": "Bones of people with no idea",
+        "relationToPrevious": "From the great man view to the nameless dead.",
+        "addedInformation": "The dead are the foundation."
+      }
+    },
+    {
+      "i": 15,
+      "narration": "You don't get a war room to sit in. You don't get a clean top down view of the map with the little wooden blocks being pushed around by brilliant generals.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "No map for the soldiers",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "storyboard": {
+        "claim": "You do not get a war room or a clean top-down map pushed around by generals.",
+        "concreteVisual": "A chess-knight icon for the generals game, beside a muddy soldier who is not in it.",
+        "onScreenText": "No map for the soldiers",
+        "relationToPrevious": "The generals game is shown beside the soldier who is outside it.",
+        "addedInformation": "The soldier excluded from the planning game."
+      }
+    },
+    {
+      "i": 16,
+      "narration": "You are in the trench. So, let us drop right into the aftermath of a magical barrage on those planes to see what that actually looks like.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Dropped into the trench",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "walk",
+      "storyboard": {
+        "claim": "Let us drop right into the aftermath of a magical barrage on those plains.",
+        "concreteVisual": "Whiskeyjack walking across open ground.",
+        "onScreenText": "Dropped into the trench",
+        "relationToPrevious": "Transition into the scene.",
+        "addedInformation": "weak: a transition."
+      }
+    },
+    {
+      "i": 17,
+      "narration": "set the scene. Okay, so the male sorceress Tatterail is standing there and she is watching four soldiers trudge up a blasted smoking The visual here is haunting. Really is.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Tattersail watches",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail",
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "idle",
+      "partnerExpression": "blank",
+      "partnerAction": "walk",
+      "storyboard": {
+        "claim": "Tattersail stands watching four soldiers trudge up a blasted, smoking slope.",
+        "concreteVisual": "Tattersail standing still while Whiskeyjack trudges in blank.",
+        "onScreenText": "Tattersail watches",
+        "relationToPrevious": "A watcher and one who trudges toward her.",
+        "addedInformation": "Watcher and the weary arrival."
+      }
+    },
+    {
+      "i": 18,
+      "narration": "Their faces are almost bone white beneath the mud and these stark crimson streaks of blood.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Their faces are bone white with blood",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "shotOverride": "closeUp",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Their faces are bone white beneath mud and crimson streaks of blood.",
+        "concreteVisual": "Close-up of Whiskeyjack empty face.",
+        "onScreenText": "Their faces are bone white with blood",
+        "relationToPrevious": "Closer on one face.",
+        "addedInformation": "weak: a blank, exhausted face."
+      }
+    },
+    {
+      "i": 19,
+      "narration": "You can literally hear their armor crunching and their eyes are just empty, entirely dispassionate, just hollowed out and exhausted.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Eyes empty, hollowed out",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "quickben"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Their eyes are empty, dispassionate, hollowed out and exhausted.",
+        "concreteVisual": "Quick Ben with a blank, drained look.",
+        "onScreenText": "Eyes empty, hollowed out",
+        "relationToPrevious": "Another squad member with the same emptiness.",
+        "addedInformation": "weak: a blank face."
+      }
+    },
+    {
+      "i": 20,
+      "narration": "This is Whiskey Jack, Kalam, Quickben, and that incredibly unnerving young girl they call Sorry, They literally just watched their comrade, Herlock, get cut in half. And they don't look heroic.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Their comrade cut in half",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "partnerExpression": "blank",
+      "partnerAction": "slump",
+      "storyboard": {
+        "claim": "They watched their comrade get cut in half and they do not look heroic.",
+        "concreteVisual": "Whiskeyjack and Quick Ben, both bowed and drained.",
+        "onScreenText": "Their comrade cut in half",
+        "relationToPrevious": "The same two, now bowed by loss.",
+        "addedInformation": "The loss on both bowed bodies."
+      }
+    },
+    {
+      "i": 21,
+      "narration": "No, not at all. They don't look like glorious fantasy warriors returning from a quest. They look completely spent. Think about what that does to you, the reader.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Not glorious warriors",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "storyboard": {
+        "claim": "They do not look like glorious fantasy warriors; they look completely spent.",
+        "concreteVisual": "Whiskeyjack standing, empty-faced.",
+        "onScreenText": "Not glorious warriors",
+        "relationToPrevious": "Held on the spent face.",
+        "addedInformation": "weak: the spent look."
+      }
+    },
+    {
+      "i": 22,
+      "narration": "You are forced to experience this war through the tired, cynical eyes of veterans who know their lives are considered entirely expendable by their own commanders. Yeah. Because when Tatile sees them, she",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Lives are expendable",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "quickben"
+      ],
+      "expression": "smirk",
+      "action": "slump",
+      "storyboard": {
+        "claim": "You see the war through cynical veterans whose lives are expendable to their commanders.",
+        "concreteVisual": "Quick Ben bowed with a bitter smirk.",
+        "onScreenText": "Lives are expendable",
+        "relationToPrevious": "A cynical face.",
+        "addedInformation": "weak: cynicism carried by the face."
+      }
+    },
+    {
+      "i": 23,
+      "narration": "realizes immediately who they are. Right. The legendary Bridgeurners, the elite of the elite. But there is no awe in the moment.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The legendary Bridgeburners",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail",
+        "whiskeyjack"
+      ],
+      "expression": "surprised",
+      "action": "idle",
+      "partnerExpression": "neutral",
+      "storyboard": {
+        "claim": "She realises immediately they are the legendary Bridgeburners, the elite of the elite.",
+        "concreteVisual": "Tattersail startled, facing Whiskeyjack.",
+        "onScreenText": "The legendary Bridgeburners",
+        "relationToPrevious": "Her recognition of the squad.",
+        "addedInformation": "Her recognition."
+      }
+    },
+    {
+      "i": 24,
+      "narration": "No sweeping musical cue. Exactly. There is just a shared recognition of profound trauma. The squad approaches are not for comfort,",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Shared recognition of trauma",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack",
+        "tattersail"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "partnerExpression": "sad",
+      "storyboard": {
+        "claim": "There is no sweeping music, only a shared recognition of profound trauma.",
+        "concreteVisual": "Whiskeyjack and Tattersail facing each other, both drained.",
+        "onScreenText": "Shared recognition of trauma",
+        "relationToPrevious": "Awe gives way to shared weariness.",
+        "addedInformation": "The mutual look."
+      }
+    },
+    {
+      "i": 25,
+      "narration": "not to strategize, but to coldly check if they are the burial detail for a man who hasn't even fully died yet.",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "The burial detail",
+        "style": "reveal"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack",
+        "tattersail"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "partnerExpression": "worried",
+      "storyboard": {
+        "claim": "They approach to check coldly if they are the burial detail for a man not yet fully dead.",
+        "concreteVisual": "A grave icon between a cold Whiskeyjack and a worried Tattersail.",
+        "onScreenText": "The burial detail",
+        "relationToPrevious": "The grave icon names why they came.",
+        "addedInformation": "The grave shows the errand."
+      }
+    },
+    {
+      "i": 26,
+      "narration": "That is the lens through which you view this entire conflict. It is not about glory.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Not about glory",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The lens through which you view the conflict is not glory.",
+        "concreteVisual": "Whiskeyjack standing empty-faced.",
+        "onScreenText": "Not about glory",
+        "relationToPrevious": "The point of the scene.",
+        "addedInformation": "weak: a restated point."
+      }
+    },
+    {
+      "i": 27,
+      "narration": "It is about surviving a system that actively does not care if you live or And it is not just the rank and file grants who feel this crush. Look at Captain Ganos Pon.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A system that does not care",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "quickben"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "storyboard": {
+        "claim": "It is a system that does not care if you live or die; Captain Paran feels it too.",
+        "concreteVisual": "Quick Ben standing blank.",
+        "onScreenText": "A system that does not care",
+        "relationToPrevious": "From the squad to the wider crush.",
+        "addedInformation": "weak: indifference as a blank face."
+      }
+    },
+    {
+      "i": 28,
+      "narration": "Oh, Pon is such a good example. He realizes that after 1300 bridge burners die in the tunnels at Paleo, 1300 elite",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "Over a thousand Bridgeburners dead",
+        "style": "reveal"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "After 1,300 Bridgeburners die in the tunnels at Pale...",
+        "concreteVisual": "A grave icon alone.",
+        "onScreenText": "Over a thousand Bridgeburners dead",
+        "relationToPrevious": "The scale of the loss.",
+        "addedInformation": "The number said by the narration."
+      }
+    },
+    {
+      "i": 29,
+      "narration": "soldiers crushed under the earth. And there is no grand ceremony. It is just some lowranking officer delivering a wagon load of generic tripe about heroism to 39",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "Only thirty-nine survivors are left",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "partnerExpression": "blank",
+      "storyboard": {
+        "claim": "There is no ceremony, just a generic speech to 39 stone-faced survivors.",
+        "concreteVisual": "Two stone-faced survivors beside a grave icon.",
+        "onScreenText": "Only thirty-nine survivors are left",
+        "relationToPrevious": "From the dead to the few who remain.",
+        "addedInformation": "The survivors listening to nothing."
+      }
+    },
+    {
+      "i": 30,
+      "narration": "stone-faced survivors. And this is where the reality of the Mazin military sets in. Yeah. Because that same officer giving the hollow speech is found expertly gared in his room just",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Garroted in his room",
+        "style": "reveal"
+      },
+      "set": "room",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "collapsed",
+      "storyboard": {
+        "claim": "The officer is found expertly garroted in his room two hours later.",
+        "concreteVisual": "A figure collapsed on the floor of a room.",
+        "onScreenText": "Garroted in his room",
+        "relationToPrevious": "The speaker is dead.",
+        "addedInformation": "The body on the floor."
+      }
+    },
+    {
+      "i": 31,
+      "narration": "two hours later. The mood in the army has turned so toxic, so deeply paranoid that the assassination of an officer giving a fake speech doesn't even make anyone Nobody cares.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Nobody cares",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "partnerExpression": "blank",
+      "storyboard": {
+        "claim": "The mood is so toxic that the assassination of an officer does not even make anyone blink.",
+        "concreteVisual": "Two indifferent soldiers standing.",
+        "onScreenText": "Nobody cares",
+        "relationToPrevious": "The reaction of the troops.",
+        "addedInformation": "Indifference to the death."
+      }
+    },
+    {
+      "i": 32,
+      "narration": "It is a brutal reality check about where the real power dynamics lie in a military camp. Hang on, though. Let me push back a bit",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Where the real power lies",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "smirk",
+      "action": "idle",
+      "storyboard": {
+        "claim": "It is a brutal reality check about where the real power dynamics lie in a camp.",
+        "concreteVisual": "Whiskeyjack with a grim half-smile.",
+        "onScreenText": "Where the real power lies",
+        "relationToPrevious": "Commentary.",
+        "addedInformation": "weak: commentary only."
+      }
+    },
+    {
+      "i": 33,
+      "narration": "What about Par himself? You were saying this is entirely a grunt story, but Parin is literally a highborn nobleman from the capital city of Una.",
+      "concept": "city",
+      "diagram": null,
+      "callout": {
+        "text": "Highborn noble of Unta",
+        "style": "reveal"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "Paran is a highborn nobleman from the capital city of Unta.",
+        "concreteVisual": "A city icon alone.",
+        "onScreenText": "Highborn noble of Unta",
+        "relationToPrevious": "The pushback begins.",
+        "addedInformation": "The capital as his origin."
+      }
+    },
+    {
+      "i": 34,
+      "narration": "He is. He's an officer handpicked by Adjunct Lauren. the empress's right hand.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Handpicked by the adjunct",
+        "style": "highlight"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "He is an officer handpicked by the adjunct, the empress right hand.",
+        "concreteVisual": "Plain frame with a callout.",
+        "onScreenText": "Handpicked by the adjunct",
+        "relationToPrevious": "The privilege is named.",
+        "addedInformation": "weak: text carries it."
+      }
+    },
+    {
+      "i": 35,
+      "narration": "Doesn't his point of view inherently make this a privileged top- down perspective? I mean, he is the guy inspecting the troops, not the guy digging the latrines.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Inspecting, not digging",
+        "style": "highlight"
+      },
+      "set": "abstract",
+      "cast": [],
+      "storyboard": {
+        "claim": "He is the guy inspecting the troops, not the guy digging the latrines.",
+        "concreteVisual": "The officer alone, looking over the troops, clean-faced, while others dig latrines behind him.",
+        "onScreenText": "Inspecting, not digging",
+        "relationToPrevious": "The privilege contrasted.",
+        "addedInformation": "The two roles as poles."
+      }
+    },
+    {
+      "i": 36,
+      "narration": "Well, he starts as a noble wanting prestige. Absolutely. He tells himself he wants something more challenging than overseeing his family's wine shipments.",
+      "concept": "trophy",
+      "diagram": null,
+      "callout": {
+        "text": "Wanting prestige",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Paran starts as a noble wanting prestige",
+        "concreteVisual": "A gold trophy alone on the frame",
+        "onScreenText": "Wanting prestige",
+        "relationToPrevious": "New idea after the hosts question about his privilege",
+        "addedInformation": "weak: the trophy stands for status; the wine shipments are not drawn"
+      }
+    },
+    {
+      "i": 37,
+      "narration": "He wants the romanticized glory of the Imperial like a lot of young officers do. Exactly. But the moment he steps into the field, the moment he gets anywhere near the actual conflict,",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Steps into the field",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The glory vanishes once he nears the actual conflict",
+        "concreteVisual": "A war icon alone on the frame",
+        "onScreenText": "Steps into the field",
+        "relationToPrevious": "Moves from the wish to the contact with war",
+        "addedInformation": "Adds the field of conflict he enters"
+      }
+    },
+    {
+      "i": 38,
+      "narration": "he is completely reduced to a pawn. Oh, for sure. He gets slaughtered just like a grunt on a dirty country road.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Reduced to a pawn",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "He is reduced to a pawn and slaughtered like a grunt",
+        "concreteVisual": "A chess-knight strategy icon alone",
+        "onScreenText": "Reduced to a pawn",
+        "relationToPrevious": "Result of stepping into the field",
+        "addedInformation": "Adds the pawn image"
+      }
+    },
+    {
+      "i": 39,
+      "narration": "He realizes very quickly and very violently that he is completely out of his depth.",
+      "concept": "storm",
+      "diagram": null,
+      "callout": {
+        "text": "Out of his depth",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "He realizes quickly and violently he is out of his depth",
+        "concreteVisual": "Empty frame with the callout",
+        "onScreenText": "Out of his depth",
+        "relationToPrevious": "Continues his realization",
+        "addedInformation": "weak: text only"
+      }
+    },
+    {
+      "i": 40,
+      "narration": "All that noble blood, all that officer training, his fancy sword, it means absolutely nothing when the magic hits or the assassins come out of the",
+      "concept": "inheritance",
+      "diagram": null,
+      "callout": {
+        "text": "Noble blood",
+        "style": "strike"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "His rank and training are worthless against magic and assassins",
+        "concreteVisual": "An inheritance icon with a struck label",
+        "onScreenText": "Noble blood (struck)",
+        "relationToPrevious": "Lists what rank cannot protect against",
+        "addedInformation": "Adds what privilege fails to stop"
+      }
+    },
+    {
+      "i": 41,
+      "narration": "It is a massive shock to his system. and He is violently stripped of his top down privilege. He is forced to look up from the dirt just like Whiskey Jack.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Looking up from the dirt",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Paran is forced to look up from the dirt like Whiskeyjack",
+        "concreteVisual": "Whiskeyjack bowed and worried",
+        "onScreenText": "Looking up from the dirt",
+        "relationToPrevious": "Names the comparison figure",
+        "addedInformation": "Adds Whiskeyjack as the man at the bottom"
+      }
+    },
+    {
+      "i": 42,
+      "narration": "It just goes to show that whether you are a farm boy or a highborn captain with a signant ring, the reality of this world only rings true when you are looking at it from the absolute bottom. Precisely. And that brings",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Only from the bottom",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "The world only rings true seen from the absolute bottom",
+        "concreteVisual": "Whiskeyjack kept, sad and still",
+        "onScreenText": "Only from the bottom",
+        "relationToPrevious": "Same stage, face and posture change to resigned",
+        "addedInformation": "Generalizes the lesson"
+      }
+    },
+    {
+      "i": 43,
+      "narration": "us to the mechanics of this universe, specifically how it handles magic. Okay. Yeah. If you look at the broader landscape of modern fantasy, magic is often this neat academic system. Oh, absolutely. Like you read Brandon Sanderson and",
+      "concept": "book",
+      "diagram": null,
+      "callout": {
+        "text": "A neat academic system",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Sanderson-style magic is a neat academic system",
+        "concreteVisual": "A book icon alone",
+        "onScreenText": "A neat academic system",
+        "relationToPrevious": "Turns from Paran to the magic of the genre",
+        "addedInformation": "Adds the contrast case"
+      }
+    },
+    {
+      "i": 44,
+      "narration": "you know exactly what the physics of a specific metal will do. Right. It is a hard science. It has mana costs, spell components, clear",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Mana costs",
+          "Spell components",
+          "Clear rules"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Hard magic has mana costs, spell components and clear rules",
+        "concreteVisual": "Sorter with three buckets",
+        "onScreenText": "Mana costs, Spell components, Clear rules",
+        "relationToPrevious": "Spells out what the tidy system is made of",
+        "addedInformation": "Adds the three parts of a hard system"
+      }
+    },
+    {
+      "i": 45,
+      "narration": "But here, let us put you back on that hill during the siege of Pale. It is not a classroom. It is a sensory nightmare.",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Siege of Pale",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The Pale siege is a sensory nightmare, not a classroom",
+        "concreteVisual": "War icon alone",
+        "onScreenText": "Siege of Pale",
+        "relationToPrevious": "Contrast with the classroom of beat 44",
+        "addedInformation": "Names the battle"
+      }
+    },
+    {
+      "i": 46,
+      "narration": "Total chaos. You have high mage Tan unleashing literal waves of golden flame from the center hill and Anamander Rake responding from moonspawn with black writhing necess waves of magic.",
+      "concept": "moonsSpawn",
+      "diagram": null,
+      "callout": {
+        "text": "Tattersail fights Rake with flame",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail",
+        "rake"
+      ],
+      "expression": "afraid",
+      "action": "reach",
+      "partnerExpression": "angry",
+      "partnerAction": "point",
+      "storyboard": {
+        "claim": "Tattersail and Rake clash with magic over the hill",
+        "concreteVisual": "Tattersail reaching, Rake pointing, the black fortress",
+        "onScreenText": "Tattersail fights Rake with flame",
+        "relationToPrevious": "Names the two casters",
+        "addedInformation": "Adds both sides and Moons Spawn"
+      }
+    },
+    {
+      "i": 47,
+      "narration": "In Tatterale, our point of view on the ground, she isn't analyzing the spell structure.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "No spell analysis",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Her point of view is not analytic",
+        "concreteVisual": "Tattersail afraid, standing",
+        "onScreenText": "No spell analysis",
+        "relationToPrevious": "Narrows to her viewpoint",
+        "addedInformation": "Adds her ground-level perspective"
+      }
+    },
+    {
+      "i": 48,
+      "narration": "She feels her limbs aching as if she's been beaten with iron clubs. She tastes something bitter and metallic on her tongue.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Beaten with iron clubs",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "continue": true,
+      "storyboard": {
+        "claim": "Her body aches and tastes metal",
+        "concreteVisual": "Tattersail bowed, worried",
+        "onScreenText": "Beaten with iron clubs",
+        "relationToPrevious": "Same stage; posture drops",
+        "addedInformation": "Adds bodily pain"
+      }
+    },
+    {
+      "i": 49,
+      "narration": "Yes. As this ancient elder magic rips the sky apart, the sun literally turns into a a coppery disc behind downpours of ash.",
+      "concept": "storm",
+      "diagram": null,
+      "callout": {
+        "text": "A coppery disc",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The sun turns coppery behind ash downpours",
+        "concreteVisual": "Storm icon alone",
+        "onScreenText": "A coppery disc",
+        "relationToPrevious": "From her body to the sky",
+        "addedInformation": "Adds the changed sky"
+      }
+    },
+    {
+      "i": 50,
+      "narration": "We really need to explain what is actually happening mechanically here because it highlights why it feels so",
+      "concept": "lightbulb",
+      "diagram": null,
+      "callout": {
+        "text": "What is happening",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The hosts promise to explain the mechanics",
+        "concreteVisual": "Lightbulb alone",
+        "onScreenText": "What is happening",
+        "relationToPrevious": "Turns from sensation to explanation",
+        "addedInformation": "weak: a transition beat"
+      }
+    },
+    {
+      "i": 51,
+      "narration": "Go for it. In the Malazan world, magic doesn't just happen because you say a magic word. Mages access these alternate dimensions called warren.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Mage",
+          "Warren"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Mages access alternate dimensions called Warrens",
+        "concreteVisual": "Flow Mage to Warren",
+        "onScreenText": "Mage, Warren",
+        "relationToPrevious": "Starts the mechanism",
+        "addedInformation": "Introduces the Warren"
+      }
+    },
+    {
+      "i": 52,
+      "narration": "Warren, right? Imagine reality has a fabric and a mage is forcefully tearing a hole in that fabric to channel the raw elemental energy of another universe into ours. That sounds dangerous.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Mage",
+          "Warren",
+          "Raw energy"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "A mage tears reality to channel energy from another universe",
+        "concreteVisual": "Same flow plus Raw energy",
+        "onScreenText": "Mage, Warren, Raw energy",
+        "relationToPrevious": "Adds the third label",
+        "addedInformation": "Adds the energy that enters our world"
+      }
+    },
+    {
+      "i": 53,
+      "narration": "It is incredibly dangerous. When Tan uses the War of Thre, he is ripping open a portal to a dimension of light and fire. When Anamander Rake uses Coral Galain,",
+      "concept": "fire",
+      "diagram": null,
+      "callout": {
+        "text": "Light and fire, pure darkness",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail",
+        "rake"
+      ],
+      "expression": "afraid",
+      "action": "reach",
+      "partnerExpression": "angry",
+      "partnerAction": "reach",
+      "storyboard": {
+        "claim": "Each caster opens a different realm",
+        "concreteVisual": "Both casters reaching, a fire icon",
+        "onScreenText": "Light and fire, pure darkness",
+        "relationToPrevious": "Gives the two Warrens",
+        "addedInformation": "Adds the two realms"
+      }
+    },
+    {
+      "i": 54,
+      "narration": "he is unleashing the elder realm of pure darkness. So magic isn't a tool for the characters to easily wield. No, it is heavy artillery falling on your head. When Tatterale experiences it,",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Heavy artillery",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Magic is artillery, not a tool",
+        "concreteVisual": "Tattersail afraid and bowed, war icon",
+        "onScreenText": "Heavy artillery",
+        "relationToPrevious": "Reframes the power",
+        "addedInformation": "Adds the artillery image"
+      }
+    },
+    {
+      "i": 55,
+      "narration": "it is purely as concussive trauma. The earth rises skyward in thundering columns. Rocks rip through men like hot stones through snow.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Concussive trauma",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "falling",
+      "storyboard": {
+        "claim": "The ground rises in columns and rocks rip through men",
+        "concreteVisual": "Tattersail falling, afraid",
+        "onScreenText": "Concussive trauma",
+        "relationToPrevious": "Same woman hit by the blast",
+        "addedInformation": "Adds the physical blow"
+      }
+    },
+    {
+      "i": 56,
+      "narration": "It is devastating, indiscriminate, and it is experienced primarily as a frantic scramble to just not get obliterated. You don't understand the rules.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Not getting obliterated",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Magic is experienced as a scramble not to die",
+        "concreteVisual": "Tattersail afraid",
+        "onScreenText": "Not getting obliterated",
+        "relationToPrevious": "Result after the blast",
+        "addedInformation": "Adds the survival focus"
+      }
+    },
+    {
+      "i": 57,
+      "narration": "You just feel the blast wave. And it is so entirely arbitrary in who it kills. Think about hairlock. Here is a cadre mage that is a highranking",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Hairlock, a cadre mage",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Hairlock is a powerful high-ranking cadre mage",
+        "concreteVisual": "Empty frame with the callout",
+        "onScreenText": "Hairlock, a cadre mage",
+        "relationToPrevious": "Names the example",
+        "addedInformation": "Adds a victim example"
+      }
+    },
+    {
+      "i": 58,
+      "narration": "powerful magic user. All right. He hasn't defeated some glorious dramatic duel of wits where he and the villain exchange monologues on a",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "No duel of wits",
+        "style": "strike"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "He is not killed in a glorious duel of wits",
+        "concreteVisual": "Empty frame, struck callout",
+        "onScreenText": "No duel of wits",
+        "relationToPrevious": "Denies the heroic death",
+        "addedInformation": "Adds what did not happen"
+      }
+    },
+    {
+      "i": 59,
+      "narration": "Not at all. He is just standing on the hill and a random wave of screaming sorcery simply sweeps past his defenses and cuts him in half at the waist.",
+      "concept": "storm",
+      "diagram": null,
+      "callout": {
+        "text": "A random wave of sorcery",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "A random wave kills him at the waist",
+        "concreteVisual": "Storm icon alone",
+        "onScreenText": "A random wave of sorcery",
+        "relationToPrevious": "Says how he dies",
+        "addedInformation": "Adds the arbitrary wave"
+      }
+    },
+    {
+      "i": 60,
+      "narration": "And his howl of rage is instantly muted by the deafening noise at the It is sudden. It is violent. And it's completely devoid of any narrative It is the exact equivalent of",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Rage drowned by the noise",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "angry",
+      "action": "talk",
+      "storyboard": {
+        "claim": "His rage is muted by deafening noise",
+        "concreteVisual": "Empty frame with the callout",
+        "onScreenText": "Rage drowned by the noise",
+        "relationToPrevious": "Continues the death",
+        "addedInformation": "Adds the muted howl"
+      }
+    },
+    {
+      "i": 61,
+      "narration": "catching a stray piece of shrapnel in a trench. Yeah. Doesn't matter how powerful you are, how much backstory you have, or how important you think you are to the plot.",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Stray shrapnel",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Death is like stray shrapnel in a trench",
+        "concreteVisual": "War icon alone",
+        "onScreenText": "Stray shrapnel",
+        "relationToPrevious": "Gives the comparison",
+        "addedInformation": "Adds the trench image"
+      }
+    },
+    {
+      "i": 62,
+      "narration": "If you are in the wrong place when the artillery lands, you are just gone. But wait, I have to push back here.",
+      "concept": "target",
+      "diagram": null,
+      "callout": {
+        "text": "The wrong place",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Wrong place, wrong moment: gone",
+        "concreteVisual": "Target icon alone",
+        "onScreenText": "The wrong place",
+        "relationToPrevious": "States the rule",
+        "addedInformation": "Adds the moral of the example"
+      }
+    },
+    {
+      "i": 63,
+      "narration": "Tatterale and Quickben are mages. They aren't just helpless infantrymen waiting to be stepped on. They understand the warns.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "They understand the Warrens",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "partnerExpression": "neutral",
+      "storyboard": {
+        "claim": "Tattersail and Quick Ben are mages who understand Warrens",
+        "concreteVisual": "Tattersail talking beside Quick Ben",
+        "onScreenText": "They understand the Warrens",
+        "relationToPrevious": "Objection to the helpless-infantry claim",
+        "addedInformation": "Adds the two mages"
+      }
+    },
+    {
+      "i": 64,
+      "narration": "They channel this stuff themselves. Well, yes, but I mean QuickBen is from seven cities. He has got access to multiple wars.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Multiple Warrens",
+        "style": "reveal"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "smirk",
+      "action": "talk",
+      "storyboard": {
+        "claim": "Quick Ben, from Seven Cities, has several Warrens",
+        "concreteVisual": "Quick Ben smirking and talking",
+        "onScreenText": "Multiple Warrens",
+        "relationToPrevious": "Narrows to one mage",
+        "addedInformation": "Adds his range of power"
+      }
+    },
+    {
+      "i": 65,
+      "narration": "Tatterale commands the whole cadre, but surely they have some level of mastery and control over this environment. They channel it, yes, but they don't control the storm. That is the vital distinction Ericson",
+      "concept": "storm",
+      "diagram": null,
+      "callout": {
+        "text": "Channel it, not control it",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "reach",
+      "storyboard": {
+        "claim": "They channel the power but cannot control the storm",
+        "concreteVisual": "Tattersail reaching toward a storm",
+        "onScreenText": "Channel it, not control it",
+        "relationToPrevious": "Answers the objection",
+        "addedInformation": "Adds the key distinction"
+      }
+    },
+    {
+      "i": 66,
+      "narration": "makes. When Tatterale taps into her Warren, how does she actually describe the physical sensation? It is not reading calmly from a spell book,",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Not a spell book",
+        "style": "strike"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "worried",
+      "action": "hold",
+      "holds": "book",
+      "storyboard": {
+        "claim": "Her magic is not calm reading",
+        "concreteVisual": "Tattersail holding a book, callout struck",
+        "onScreenText": "Not a spell book",
+        "relationToPrevious": "Starts her description",
+        "addedInformation": "Denies the academic picture"
+      }
+    },
+    {
+      "i": 67,
+      "narration": "It is finding a gate in the beyond, nudging it open. in a tiny crack and praying her physical body doesn't fail her while the power leaks out. That is terrifying.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Gate in the beyond",
+          "Nudged open",
+          "Power leaks"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "She nudges a gate open a crack and prays",
+        "concreteVisual": "Flow of gate, open, leaking power",
+        "onScreenText": "Gate in the beyond, Nudged open, Power leaks",
+        "relationToPrevious": "Shows the mechanism of her casting",
+        "addedInformation": "Adds the three steps"
+      }
+    },
+    {
+      "i": 68,
+      "narration": "She explicitly remembers the warning of her masters. When the body fails, the gate closes.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Body fails",
+          "Gate closes"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "If her body fails the gate closes",
+        "concreteVisual": "Flow Body fails to Gate closes",
+        "onScreenText": "Body fails, Gate closes",
+        "relationToPrevious": "Adds the limit of the mechanism",
+        "addedInformation": "Adds the warning of her masters"
+      }
+    },
+    {
+      "i": 69,
+      "narration": "They are just grunts who happen to have slightly better shields than the regular infantry.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Ordinary soldiers with shields",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The mages are no more than better-equipped grunts",
+        "concreteVisual": "Tattersail and Quick Ben standing",
+        "onScreenText": "Ordinary soldiers with shields",
+        "relationToPrevious": "Concludes the pushback",
+        "addedInformation": "Equates them with infantry"
+      }
+    },
+    {
+      "i": 70,
+      "narration": "They are absolutely terrified of the powers they are caught between. When Anamander Rakes sorcery hits, Tatterale and Kallet are just desperately pooling their power to stop from being instantly annihilated by the pressure.",
+      "concept": "moonsSpawn",
+      "diagram": null,
+      "callout": {
+        "text": "Pooling their power",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail",
+        "quickben"
+      ],
+      "expression": "afraid",
+      "action": "reach",
+      "partnerExpression": "afraid",
+      "partnerAction": "reach",
+      "storyboard": {
+        "claim": "They pool power to avoid being annihilated",
+        "concreteVisual": "Two afraid mages reaching, Moons Spawn",
+        "onScreenText": "Pooling their power",
+        "relationToPrevious": "Shows the terror in action",
+        "addedInformation": "Adds the cooperation"
+      }
+    },
+    {
+      "i": 71,
+      "narration": "They aren't masters of the No, they are people holding up an umbrella in a category 5 hurricane.",
+      "concept": "storm",
+      "diagram": null,
+      "callout": {
+        "text": "An umbrella in a hurricane",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "hold",
+      "storyboard": {
+        "claim": "They are not masters but people sheltering in a hurricane",
+        "concreteVisual": "Tattersail afraid beside a storm",
+        "onScreenText": "An umbrella in a hurricane",
+        "relationToPrevious": "The analogy",
+        "addedInformation": "Adds the umbrella image"
+      }
+    },
+    {
+      "i": 72,
+      "narration": "That umbrella analogy is so perfect because whether it is a regular iron sword in your hand or a magical Warren you are desperately tapping into, the reality is exactly the same.",
+      "concept": "shield",
+      "diagram": null,
+      "callout": {
+        "text": "Sword or magic, same",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Sword or magic, the reality is the same",
+        "concreteVisual": "Balance icon alone",
+        "onScreenText": "Sword or magic, same",
+        "relationToPrevious": "Generalizes the umbrella",
+        "addedInformation": "Adds equivalence of weapons and magic"
+      }
+    },
+    {
+      "i": 73,
+      "narration": "You are small. The forces around you are and the world only makes sense from that trench level perspective. And if the magic doesn't get you, the political machinery of your own side will.",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Seen from the trench",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The world is read from a trench-level view",
+        "concreteVisual": "Whiskeyjack bowed and sad",
+        "onScreenText": "Seen from the trench",
+        "relationToPrevious": "Closes the chapter and returns to the ground figure",
+        "addedInformation": "Adds the bridge to politics"
+      }
+    },
+    {
+      "i": 74,
+      "narration": "The politics in this book are so deeply cynical. Let us set a scene in the free city of Dujasan. It is quiet,",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Free city of Dujasan",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The politics are cynical; the scene is set in tense Dujasan.",
+        "concreteVisual": "Whiskeyjack in a dingy room, uneasy.",
+        "onScreenText": "Free city of Dujasan",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 75,
+      "narration": "but it is incredibly tense. Yeah. Whiskey Jack is rocking his chair on its back two legs in this dingy little room.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Quiet but incredibly tense",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "sit",
+      "storyboard": {
+        "claim": "Whiskeyjack rocks his chair on two legs.",
+        "concreteVisual": "Whiskeyjack seated in the dingy room.",
+        "onScreenText": "Quiet but incredibly tense",
+        "relationToPrevious": "same room, now seated",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 76,
+      "narration": "It reeks of damp wood and urine. The rain is just lashing against the windows outside. Such a moody scene. and he's sitting there listening to highfist Dujek onearmm",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Listening to Highfist Dujek",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "neutral",
+      "action": "sit",
+      "storyboard": {
+        "claim": "He listens to Dujek One-Arm.",
+        "concreteVisual": "Whiskeyjack seated, listening, in the room.",
+        "onScreenText": "Listening to Highfist Dujek",
+        "relationToPrevious": "same room, he listens",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 77,
+      "narration": "his commanding general explain that there is immense political pressure coming all the way from the empress",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Pressure from the empress",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "sit",
+      "storyboard": {
+        "claim": "Immense political pressure comes from the empress.",
+        "concreteVisual": "Whiskeyjack seated, troubled.",
+        "onScreenText": "Pressure from the empress",
+        "relationToPrevious": "he reacts to the news",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 78,
+      "narration": "to completely disband the bridge burners this scene is pivotal it tells you that the greatest threat to a soldier in this world isn't the enemy army standing in front of them with",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Disband the Bridgeburners",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "afraid",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The empress wants the Bridgeburners disbanded.",
+        "concreteVisual": "Whiskeyjack bowed and afraid in the room.",
+        "onScreenText": "Disband the Bridgeburners",
+        "relationToPrevious": "the order is named",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 79,
+      "narration": "swords drawn the greatest threat is the cold paranoid unfinished political machinery of their own empire operating behind their backs Whiskey Jack and his squad survived the horror of Pale.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Enemy army",
+          "Own empire"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "The greatest threat is their own empire, not the enemy.",
+        "concreteVisual": "A sorter with the enemy army and the own empire as two buckets.",
+        "onScreenText": "Enemy army | Own empire",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 80,
+      "narration": "They survived the elder magic and the explosives only to realize that their own government is actively trying to erase them because they are politically inconvenient.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Politically inconvenient",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "They survived Pale only to be erased.",
+        "concreteVisual": "Whiskeyjack slumped, sad.",
+        "onScreenText": "Politically inconvenient",
+        "relationToPrevious": "the cost of the betrayal on his face",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 81,
+      "narration": "And it is not just some vague bureaucratic threat. Let us look at how the Malazin Empire actually functions under Empress Lassine.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Under Empress Laseen",
+        "style": "highlight"
+      },
+      "set": "stage",
+      "cast": [
+        "laseen"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "How the Malazan Empire functions under Laseen.",
+        "concreteVisual": "Laseen in imperial robes on a stage.",
+        "onScreenText": "Under Empress Laseen",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 82,
+      "narration": "The politics in the capital aren't about grand noble ideals of spreading Not at all. They are about sheer ruthless utility.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Sheer ruthless utility",
+        "style": "highlight"
+      },
+      "set": "stage",
+      "cast": [
+        "laseen"
+      ],
+      "expression": "smirk",
+      "action": "point",
+      "storyboard": {
+        "claim": "The capital runs on ruthless utility.",
+        "concreteVisual": "Laseen smirking, pointing.",
+        "onScreenText": "Sheer ruthless utility",
+        "relationToPrevious": "her attitude shown",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 83,
+      "narration": "Lassine suspects that Djuk One has too much loyalty from his men. He's too popular and the bridge burners are too loyal to the old regime.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Too much loyalty"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Dujek has too much loyalty from his men.",
+        "concreteVisual": "A flow starting with one label.",
+        "onScreenText": "Too much loyalty",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 84,
+      "narration": "So she is completely willing to orchestrate a bloodbath to intentionally put her own elite troops in a position to be slaughtered in those tunnels at Pale",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Too much loyalty",
+          "Troops put in the tunnels"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "She orchestrates a bloodbath at Pale.",
+        "concreteVisual": "Flow gains a second label.",
+        "onScreenText": "Too much loyalty | Troops put in the tunnels",
+        "relationToPrevious": "one label added",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 85,
+      "narration": "just to disarm her own general. It is the ultimate betrayal of the soldier.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Too much loyalty",
+          "Troops put in the tunnels",
+          "General disarmed"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "The bloodbath is meant to disarm her own general.",
+        "concreteVisual": "Flow gains a third label.",
+        "onScreenText": "Too much loyalty | Troops put in the tunnels | General disarmed",
+        "relationToPrevious": "result added",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 86,
+      "narration": "The people at the top of the chain of command are looking at a ledger balancing political threats.",
+      "concept": "balance",
+      "diagram": null,
+      "callout": {
+        "text": "A ledger of threats",
+        "style": "highlight"
+      },
+      "set": "stage",
+      "cast": [
+        "laseen"
+      ],
+      "expression": "neutral",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Those on top balance a ledger of political threats.",
+        "concreteVisual": "Laseen beside a balance scale.",
+        "onScreenText": "A ledger of threats",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 87,
+      "narration": "And the cost of balancing that ledger is paid in the blood of 1300 bridge burners. And look at Lauren, the adjunct.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "1,300 Bridgeburners",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The cost is paid in the blood of 1300 Bridgeburners.",
+        "concreteVisual": "Whiskeyjack slumped on a street.",
+        "onScreenText": "1,300 Bridgeburners",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 88,
+      "narration": "She embodies this cold pragmatism. She really does. As the empress's personal extension of will, she views people entirely as tools.",
+      "concept": "puppeteer",
+      "diagram": null,
+      "callout": {
+        "text": "The empress's will works through people",
+        "style": "highlight"
+      },
+      "set": "stage",
+      "cast": [
+        "laseen"
+      ],
+      "expression": "smirk",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The adjunct views people as tools.",
+        "concreteVisual": "Laseen with a puppeteer icon.",
+        "onScreenText": "The empress's will works through people",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 89,
+      "narration": "You're either useful for the stability of the empire or you are a threat to be eliminated. It is chilling. Okay, but let us look at the flip side of that coin.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Useful",
+          "A threat"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Either useful for stability or a threat to eliminate.",
+        "concreteVisual": "A sorter with two buckets.",
+        "onScreenText": "Useful | A threat",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 90,
+      "narration": "We get inside Panted early in the book and he actually muses on the nature of the empire, He thinks about how within the Molassin borders, people are living in unprecedented peace.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Unprecedented peace",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "Within its borders people live in unprecedented peace.",
+        "concreteVisual": "Pin talking in the street.",
+        "onScreenText": "Unprecedented peace",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 91,
+      "narration": "The empire brings They build roads. They secure commerce. They standardize the laws.",
+      "concept": "road",
+      "diagram": null,
+      "callout": {
+        "text": "The empire builds roads and standard laws",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [],
+      "expression": "neutral",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The empire builds roads, secures commerce, standardizes laws.",
+        "concreteVisual": "A road icon with the callout.",
+        "onScreenText": "The empire builds roads and standard laws",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 92,
+      "narration": "If you take away the petty local tyrants and institute molassin law, isn't the empire actually a force for good? Isn't Leine doing what has to be done for the greater peace of the continent? It is a compelling argument until you",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A force for good?",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "Isn't the empire a force for good?",
+        "concreteVisual": "Pin posing the question.",
+        "onScreenText": "A force for good?",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 93,
+      "narration": "look at the mechanics of how that piece is actually maintained. Right? That unprecedented piece is enforced by the claw. We should definitely explain the claw.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "How the peace is maintained",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The peace is enforced by the Claw.",
+        "concreteVisual": "Pin uneasy.",
+        "onScreenText": "How the peace is maintained",
+        "relationToPrevious": "the doubt arrives",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 94,
+      "narration": "The claw is the empress's ruthless secret police force. They are state sanctioned assassins who murder anyone deemed a threat to the throne without trial, without public record. they just make you disappear.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The Claw: secret police",
+        "style": "highlight"
+      },
+      "set": "stage",
+      "cast": [
+        "laseen",
+        "quickben"
+      ],
+      "expression": "angry",
+      "action": "point",
+      "partnerExpression": "afraid",
+      "partnerAction": "idle",
+      "storyboard": {
+        "claim": "The Claw murders threats without trial.",
+        "concreteVisual": "Laseen pointing, a man afraid beside her.",
+        "onScreenText": "The Claw: secret police",
+        "relationToPrevious": "new point",
+        "addedInformation": "a victim reacting to the accusing point"
+      }
+    },
+    {
+      "i": 95,
+      "narration": "And more importantly, that internal peace requires endless brutal wars of expansion on the frontiers. It is like the psana.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Internal peace",
+          "Endless wars"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Internal peace requires endless brutal wars.",
+        "concreteVisual": "Flow with two labels.",
+        "onScreenText": "Internal peace | Endless wars",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 96,
+      "narration": "Exactly. It only works if you are constantly subjugating your neighbors to keep the military occupied and the economy moving. The grunts bleeding in the dirt at Pale or Geneabacus never get to see that",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Internal peace",
+          "Endless wars",
+          "Soldiers bleed"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "The grunts never see that peace.",
+        "concreteVisual": "Flow gains a third label.",
+        "onScreenText": "Internal peace | Endless wars | Soldiers bleed",
+        "relationToPrevious": "third label added",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 97,
+      "narration": "piece. The piece of the empire is a luxury enjoyed by the wealthy merchants in UN paid for by the soldiers who are treated as utterly disposable.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Merchants' luxury",
+          "Soldiers disposable"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Peace is a merchants' luxury paid by disposable soldiers.",
+        "concreteVisual": "Sorter with two buckets.",
+        "onScreenText": "Merchants' luxury | Soldiers disposable",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 98,
+      "narration": "It is such a jarring disconnect. The politics of the capital, the grand strategies of peace and order, they're just these lethal rumors to the soldiers on the ground.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Lethal rumors",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "angry",
+      "action": "talk",
+      "storyboard": {
+        "claim": "The politics are lethal rumors to the soldiers.",
+        "concreteVisual": "Whiskeyjack angry, talking.",
+        "onScreenText": "Lethal rumors",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 99,
+      "narration": "rumors that get them Once again, it all comes back to that grunt's eye view.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The grunt's eye view",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "Everything returns to the grunt's eye view.",
+        "concreteVisual": "Whiskeyjack on the ground.",
+        "onScreenText": "The grunt's eye view",
+        "relationToPrevious": "same man, a quieter face",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 100,
+      "narration": "The reality of the empire is the blood in the mud, not the proclamations in the throne room. And that disposability of the soldier is a theme Ericson returns to over and over, particularly",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Blood in the mud",
+          "Proclamations"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "The reality is blood in the mud, not the throne room.",
+        "concreteVisual": "Sorter with two buckets.",
+        "onScreenText": "Blood in the mud | Proclamations",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 101,
+      "narration": "in how he depicts It is incredibly brutal. Let us drop back onto that blasted summit of the hill just after the magic at Pale finally stops. Right. A whole company of Molassin",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The blasted summit at Pale",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "storyboard": {
+        "claim": "A company of Malazan soldiers had sought refuge on the summit.",
+        "concreteVisual": "Tattersail on the horizon hill.",
+        "onScreenText": "The blasted summit at Pale",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 102,
+      "narration": "soldiers had sought refuge up there during the barrage. Tatterale looks over her body just throbbing with pain, expecting to see the wounded, expecting to have to deal with the messy aftermath of a battle.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Expecting the wounded",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "continue": true,
+      "storyboard": {
+        "claim": "Tattersail looks over, expecting to deal with the wounded.",
+        "concreteVisual": "Tattersail hurting, looking out.",
+        "onScreenText": "Expecting the wounded",
+        "relationToPrevious": "same hill, she looks",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 103,
+      "narration": "Instead, there is nothing left of the entire company but empty armor, just a sudden",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Nothing but empty armor",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "surprised",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "Nothing remains but empty armor.",
+        "concreteVisual": "Tattersail stunned on the hill.",
+        "onScreenText": "Nothing but empty armor",
+        "relationToPrevious": "what she finds",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 104,
+      "narration": "violent eraser. What is happening here is Erikson deliberately stripping away the romanticism of fantasy warfare. In a lot of fantasy, death is given profound meaning.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A violent eraser",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "blank",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "Erikson strips away the romanticism of fantasy war.",
+        "concreteVisual": "Tattersail numb on the hill.",
+        "onScreenText": "A violent eraser",
+        "relationToPrevious": "her face goes blank",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 105,
+      "narration": "It comes with a final It comes with a comrade holding your hand as you slip away, passing on a vital piece of information.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A comrade's last words",
+        "style": "highlight"
+      },
+      "set": "room",
+      "cast": [
+        "whiskeyjack",
+        "pin"
+      ],
+      "expression": "sad",
+      "action": "reach",
+      "partnerExpression": "sad",
+      "partnerAction": "idle",
+      "storyboard": {
+        "claim": "In much fantasy a comrade holds your hand as you die.",
+        "concreteVisual": "Whiskeyjack reaching to a sad Pin.",
+        "onScreenText": "A comrade's last words",
+        "relationToPrevious": "new point",
+        "addedInformation": "the romantic version the book denies"
+      }
+    },
+    {
+      "i": 106,
+      "narration": "But in Guards of the Moon, you are here one second trying to survive and gone the next. The magic hits and you just And the survivors, like Tatterale, don't even have the luxury of time",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Gone the next second",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "afraid",
+      "action": "slump",
+      "storyboard": {
+        "claim": "You are here and then gone; survivors have no time to mourn.",
+        "concreteVisual": "Tattersail afraid and bowed.",
+        "onScreenText": "Gone the next second",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 107,
+      "narration": "to mourn because the war machine immediately demands their attention elsewhere. You see this exact same eraser at the ichthines road early in the book.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The war machine demands",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "continue": true,
+      "storyboard": {
+        "claim": "The war machine demands attention elsewhere.",
+        "concreteVisual": "Tattersail bowed.",
+        "onScreenText": "The war machine demands",
+        "relationToPrevious": "same hill, the cost",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 108,
+      "narration": "Oh man, that scene. This is the scene that really sets the tone for the violence in this world. 175 men and women, 210",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "175 men and women",
+          "210 horses"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "175 people and 210 horses slaughtered by sorcery.",
+        "concreteVisual": "Sorter with two counts.",
+        "onScreenText": "175 men and women | 210 horses",
+        "relationToPrevious": "new structure",
+        "addedInformation": "the structure the narration states"
+      }
+    },
+    {
+      "i": 109,
+      "narration": "horses completely slaughtered by sorcery. When Pin walks through that carnage, the details are",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Pin walks the carnage",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "afraid",
+      "action": "walk",
+      "storyboard": {
+        "claim": "Pin walks through the carnage on the road.",
+        "concreteVisual": "Pin walking, afraid.",
+        "onScreenText": "Pin walks the carnage",
+        "relationToPrevious": "new point",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 110,
+      "narration": "sickening. He sees the signs of absolute terror on the horses, right? The crusted foam, the glittering carpet of blood and feces.",
+      "concept": "fire",
+      "diagram": null,
+      "callout": {
+        "text": "Terror, foam and blood",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "Signs of absolute terror, crusted foam, blood.",
+        "concreteVisual": "Pin afraid.",
+        "onScreenText": "Terror, foam and blood",
+        "relationToPrevious": "same road, he takes in the details",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 111,
+      "narration": "It is grotesque. It is not a noble battlefield. It is a slaughterhouse. And Parn to keep from losing his mind has to force this detached professional coolness just to do his job as an investigator.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Forced professional coolness",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "blank",
+      "action": "hold",
+      "holds": "magnifier",
+      "continue": true,
+      "storyboard": {
+        "claim": "It is a slaughterhouse; Pin forces a detached coolness.",
+        "concreteVisual": "Pin blank, holding a magnifier.",
+        "onScreenText": "Forced professional coolness",
+        "relationToPrevious": "he masks his horror and works",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 112,
+      "narration": "It is a psychological defense mechanism. If you let yourself feel the weight of that unceremonious death, it crushes",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A psychological defense mechanism",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Detachment is a defense; feeling it crushes.",
+        "concreteVisual": "Pin bowed.",
+        "onScreenText": "A psychological defense mechanism",
+        "relationToPrevious": "the mask slips",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 113,
+      "narration": "The sheer scale of the slaughter on that road makes the individual lives seem terrifyingly insignificant. But wait, I have to point out a massive exception to this.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Lives seem insignificant",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [
+        "pin"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "The slaughter makes lives seem terrifyingly insignificant.",
+        "concreteVisual": "Pin worried.",
+        "onScreenText": "Lives seem insignificant",
+        "relationToPrevious": "a wider thought",
+        "addedInformation": "the person and the moment in the scene"
+      }
+    },
+    {
+      "i": 114,
+      "narration": "We do see mourning in the book. Okay, where after the siege of Pale, Highage Bellerin wanders the blasted battlefield.",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "Mourning on the battlefield",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Bellerin mourns after the siege of Pale",
+        "concreteVisual": "A grave icon alone, no figure",
+        "onScreenText": "Mourning on the battlefield",
+        "relationToPrevious": "Opens the mourning exception",
+        "addedInformation": "weak: icon plus label"
+      }
+    },
+    {
+      "i": 115,
+      "narration": "He is physically collecting the scattered limbs of Nightshell, his fellow high mage, and he is wailing in absolute pathos. It is this",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "Wailing over Nightshell",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "He collects Nightshell's limbs and wails",
+        "concreteVisual": "Grave icon, no figure",
+        "onScreenText": "Wailing over Nightshell",
+        "relationToPrevious": "Same grief, the deed named",
+        "addedInformation": "weak: label does the work"
+      }
+    },
+    {
+      "i": 116,
+      "narration": "deeply tragic, highly cinematic moment of grief. So there is ceremony in mourning for the dead. That discrepancy is exactly the point Ericson is making. Oh, I see.",
+      "concept": "grave",
+      "diagram": null,
+      "callout": {
+        "text": "Ceremony in mourning",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Mourning has ceremony here",
+        "concreteVisual": "Grave icon",
+        "onScreenText": "Ceremony in mourning",
+        "relationToPrevious": "Names what the scene means",
+        "addedInformation": "weak: label only"
+      }
+    },
+    {
+      "i": 117,
+      "narration": "Look at who gets to mourn and be mourned. The high mages get tragedy. The elite get the cinematic moments of Belellodon gets to whail for night But the 1300 bridge",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "High mages mourned"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "High mages get to mourn and be mourned",
+        "concreteVisual": "A sorter bucket: high mages mourned",
+        "onScreenText": "High mages mourned",
+        "relationToPrevious": "Starts the unequal-mourning sorter",
+        "addedInformation": "Opens the comparison"
+      }
+    },
+    {
+      "i": 118,
+      "narration": "burners who died in the tunnels, the rank and file infantry, they just get left for the worms. There is no high mage collecting their Exactly.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "High mages mourned",
+          "Bridgeburners left for worms"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "The rank and file die unmourned",
+        "concreteVisual": "Second bucket added: Bridgeburners left for worms",
+        "onScreenText": "High mages mourned | Bridgeburners left for worms",
+        "relationToPrevious": "One more bucket",
+        "addedInformation": "The contrast bucket"
+      }
+    },
+    {
+      "i": 119,
+      "narration": "The elites are treated as individuals with narrative weight. The soldiers are treated as a statistic.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "High mages mourned",
+          "Bridgeburners left for worms",
+          "Soldiers a statistic"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "Elites individuals, soldiers statistics",
+        "concreteVisual": "Third bucket: soldiers a statistic",
+        "onScreenText": "Soldiers a statistic",
+        "relationToPrevious": "One more bucket",
+        "addedInformation": "Names the result of the contrast"
+      }
+    },
+    {
+      "i": 120,
+      "narration": "And it's so dark, but it perfectly illustrates how class and power function here.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Class and power",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Mourning shows how class and power work",
+        "concreteVisual": "Whiskeyjack sad, bowed",
+        "onScreenText": "Class and power",
+        "relationToPrevious": "From the mourning sorter to its meaning",
+        "addedInformation": "weak: a mood on the soldier"
+      }
+    },
+    {
+      "i": 121,
+      "narration": "The value of a life depends entirely on your rank. And the tragedy of the world is only really visible when you are looking up from the bottom. And this structural inequality, this profound",
+      "concept": null,
+      "diagram": {
+        "type": "spectrum",
+        "labels": [
+          "Low rank",
+          "High rank"
+        ],
+        "values": [
+          0.15
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "A life is worth what your rank says",
+        "concreteVisual": "Spectrum from low rank to high rank, marker near the bottom",
+        "onScreenText": "Low rank | High rank",
+        "relationToPrevious": "From a face to a scale of rank",
+        "addedInformation": "The rank-value degrees"
+      }
+    },
+    {
+      "i": 122,
+      "narration": "sense of being pawns in someone else's game. It extends all the way up to the heavens.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Pawns in someone's game",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Pawns in someone else's game",
+        "concreteVisual": "Whiskeyjack worried beside a chess-knight icon",
+        "onScreenText": "Pawns in someone's game",
+        "relationToPrevious": "Rank inequality becomes pawns",
+        "addedInformation": "The pawn comparison"
+      }
+    },
+    {
+      "i": 123,
+      "narration": "Oh, the gods. Let us talk about the gods because this is where the world building gets really trippy. I want to paint this surreal picture for you. Pin is dead.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Pin is dead",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "collapsed",
+      "storyboard": {
+        "claim": "Pin is dead",
+        "concreteVisual": "Pin collapsed on the ground",
+        "onScreenText": "Pin is dead",
+        "relationToPrevious": "Cut to the gods' scene",
+        "addedInformation": "The dead soldier"
+      }
+    },
+    {
+      "i": 124,
+      "narration": "He has been murdered and his soul is lying on this strange yielding lom outside Hood's gate. Hood being the lord of death, right?",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Outside Hood's gate",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "collapsed",
+      "continue": true,
+      "storyboard": {
+        "claim": "His soul lies outside Hood's gate",
+        "concreteVisual": "Pin stays down",
+        "onScreenText": "Outside Hood's gate",
+        "relationToPrevious": "Same body, place named",
+        "addedInformation": "weak: label only"
+      }
+    },
+    {
+      "i": 125,
+      "narration": "And above him, two ascendants upon the twins of chance are just casually bickering.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Ascendants bickering above",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "collapsed",
+      "continue": true,
+      "storyboard": {
+        "claim": "Two ascendants bicker above him",
+        "concreteVisual": "Pin lies below",
+        "onScreenText": "Ascendants bickering above",
+        "relationToPrevious": "Same body, the bickerers named",
+        "addedInformation": "weak: ascendants not drawn"
+      }
+    },
+    {
+      "i": 126,
+      "narration": "It is so bizarre. They are arguing with Shadow Throne, the king of high house shadow, who is standing there with his massive redeyed hounds. And they are literally arguing over who gets to use Parn's soul.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Who gets to use his soul",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "collapsed",
+      "continue": true,
+      "storyboard": {
+        "claim": "They argue over who uses his soul",
+        "concreteVisual": "Pin lies below",
+        "onScreenText": "Who gets to use his soul",
+        "relationToPrevious": "Same body, the dispute named",
+        "addedInformation": "weak: arguers not drawn"
+      }
+    },
+    {
+      "i": 127,
+      "narration": "It is like watching petty middle managers fighting over who gets to claim credit for a spreadsheet, except the spreadsheet is a human being's eternal soul.",
+      "concept": "notes",
+      "diagram": null,
+      "callout": {
+        "text": "Petty middle managers",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Gods like middle managers over a spreadsheet",
+        "concreteVisual": "Notes icon",
+        "onScreenText": "Petty middle managers",
+        "relationToPrevious": "Metaphor for the dispute",
+        "addedInformation": "weak: stand-in icon"
+      }
+    },
+    {
+      "i": 128,
+      "narration": "Exactly. Like he is a poker chip they dropped on the floor. This scene reveals the brilliant twist of the Molassin universe.",
+      "concept": "coin",
+      "diagram": null,
+      "callout": {
+        "text": "Like a dropped poker chip",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Pin is a dropped poker chip",
+        "concreteVisual": "Coin icon",
+        "onScreenText": "Like a dropped poker chip",
+        "relationToPrevious": "The soul as a chip",
+        "addedInformation": "Comparison drawn"
+      }
+    },
+    {
+      "i": 129,
+      "narration": "In a lot of epic fantasy, the gods are these omnisient masters playing 40 chess, executing flawless plans that span But not here. To understand why, you have to understand",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Gods as chess masters",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Usually the gods play perfect chess",
+        "concreteVisual": "Chess-knight icon",
+        "onScreenText": "Gods as chess masters",
+        "relationToPrevious": "The convention they overturn",
+        "addedInformation": "Sets up the contrast"
+      }
+    },
+    {
+      "i": 130,
+      "narration": "what an ascendant is. In this world, mortals who become powerful enough can",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Mortal",
+          "Powerful enough"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "A mortal becomes powerful enough",
+        "concreteVisual": "Flow: mortal to powerful enough",
+        "onScreenText": "Mortal -> Powerful enough",
+        "relationToPrevious": "Starts the ascension flow",
+        "addedInformation": "Cause chain"
+      }
+    },
+    {
+      "i": 131,
+      "narration": "ascend to godhood. Which means the gods are just heavily armed immortal humans with all their petty flaws, neurosis, and grudges completely intact.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Mortal",
+          "Powerful enough",
+          "Godhood"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "Ascending to godhood",
+        "concreteVisual": "Flow adds Godhood",
+        "onScreenText": "Mortal -> Powerful enough -> Godhood",
+        "relationToPrevious": "One more label",
+        "addedInformation": "Result of the chain"
+      }
+    },
+    {
+      "i": 132,
+      "narration": "They are scrambling. They are improvising. They are meddling in the Shadow Throne wants parent for one reason, open once and for another.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Scrambling, improvising, meddling",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Gods scramble and improvise",
+        "concreteVisual": "Chess-knight icon",
+        "onScreenText": "Scrambling, improvising, meddling",
+        "relationToPrevious": "Their behaviour",
+        "addedInformation": "weak: label"
+      }
+    },
+    {
+      "i": 133,
+      "narration": "And none of them seem to have a flawless master plan. They are just pushing pieces around despite each other. We see this incredible constraint on the divine again with Cruel.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Pushing pieces around",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "No flawless plan, only pushing pieces",
+        "concreteVisual": "Chess-knight icon",
+        "onScreenText": "Pushing pieces around",
+        "relationToPrevious": "Pieces moved at random",
+        "addedInformation": "Reinforces no plan"
+      }
+    },
+    {
+      "i": 134,
+      "narration": "He is an ancient elder god. Oh yeah. He appears in the alchemist Baroo's Beleffrey in Darjustan. There is a terrifying demon unleashed on the city.",
+      "concept": "city",
+      "diagram": null,
+      "callout": {
+        "text": "Demon unleashed on the city",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [],
+      "storyboard": {
+        "claim": "A demon is loose in Darujhistan",
+        "concreteVisual": "City icon",
+        "onScreenText": "Demon unleashed on the city",
+        "relationToPrevious": "Cruel's example",
+        "addedInformation": "Sets up the question: why not smite it"
+      }
+    },
+    {
+      "i": 135,
+      "narration": "You would think an elder god could just snap his fingers and smite it. Right. But cruel flatly admits he has no power to assist Anomor Rake directly.",
+      "concept": "chains",
+      "diagram": null,
+      "callout": {
+        "text": "No power to help Rake",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "rake"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Cruel cannot help Rake",
+        "concreteVisual": "Rake worried",
+        "onScreenText": "No power to help Rake",
+        "relationToPrevious": "From the demon to the limit",
+        "addedInformation": "Limit drawn on Rake"
+      }
+    },
+    {
+      "i": 136,
+      "narration": "He says, \"I am manifest in the sanctified place and manifest in a lone mortal dreams, but nowhere else.\" The god is fundamentally constrained.",
+      "concept": "star",
+      "diagram": null,
+      "callout": {
+        "text": "Only in a mortal's dreams",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The god is bound",
+        "concreteVisual": "Chains icon",
+        "onScreenText": "Only in a mortal's dreams",
+        "relationToPrevious": "Names the constraint",
+        "addedInformation": "The constraint as bound"
+      }
+    },
+    {
+      "i": 137,
+      "narration": "He is forced to rely on mortal dreams and these desperate, convoluted gambles just to influence events. It completely demystifies the divine.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Mortal dreams",
+          "Desperate gambles",
+          "Influence events"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Dreams and gambles to influence events",
+        "concreteVisual": "Flow of three labels",
+        "onScreenText": "Mortal dreams -> Desperate gambles -> Influence events",
+        "relationToPrevious": "From the limit to how the god works",
+        "addedInformation": "Mechanism"
+      }
+    },
+    {
+      "i": 138,
+      "narration": "They are incredibly powerful. Yes. But they are not all knowing and they are not all powerful. They are subject to the rules of the Warren,",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Incredibly powerful",
+          "Not all-knowing",
+          "Not all-powerful"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Powerful, but not all-knowing or all-powerful",
+        "concreteVisual": "Sorter of three buckets",
+        "onScreenText": "Incredibly powerful | Not all-knowing | Not all-powerful",
+        "relationToPrevious": "Sums up the gods",
+        "addedInformation": "Three-part verdict"
+      }
+    },
+    {
+      "i": 139,
+      "narration": "the rules of manifestation, and the chaotic push and pull of other ascendants. Exactly. But hold on. Look at what Open actually accomplishes.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Incredibly powerful",
+          "Not all-knowing",
+          "Not all-powerful",
+          "Bound by the rules"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "They are bound by the rules",
+        "concreteVisual": "Fourth bucket: bound by the rules",
+        "onScreenText": "Bound by the rules",
+        "relationToPrevious": "One more bucket",
+        "addedInformation": "The limit named"
+      }
+    },
+    {
+      "i": 140,
+      "narration": "They literally resurrect They do. They pluck a man back from the gates of death. They spin a coin and he breathes again.",
+      "concept": "coin",
+      "diagram": null,
+      "callout": {
+        "text": "Spin a coin: he breathes",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "neutral",
+      "action": "collapsed",
+      "storyboard": {
+        "claim": "They spin a coin and Pin breathes again",
+        "concreteVisual": "Pin down beside a coin icon",
+        "onScreenText": "Spin a coin: he breathes",
+        "relationToPrevious": "Resurrection",
+        "addedInformation": "The act shown"
+      }
+    },
+    {
+      "i": 141,
+      "narration": "If a being can casually reverse death, aren't they in total control of the board? They have immense localized power.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "Total control of the board?",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Can they control the board",
+        "concreteVisual": "Chess-knight icon",
+        "onScreenText": "Total control of the board?",
+        "relationToPrevious": "The counterpoint",
+        "addedInformation": "Question posed"
+      }
+    },
+    {
+      "i": 142,
+      "narration": "Yes. But look at why they do it and what they actually say to PN. Okay. Opin admits that they are just playing with this stumbling ignorant thing you call your life because they delight in uncertainty.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Delight in uncertainty",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "They play with his life for uncertainty",
+        "concreteVisual": "Pin worried, bowed",
+        "onScreenText": "Delight in uncertainty",
+        "relationToPrevious": "Motive of the gods",
+        "addedInformation": "Pin as the toy"
+      }
+    },
+    {
+      "i": 143,
+      "narration": "They explicitly tell Shadow Throne that they don't know the outcome of this They resurrect Piran simply to blindside Shadow Throne and throw a wrench in his plans. They don't have a grand design for Piran's",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Resurrect Pin",
+          "Blindside Shadow Throne",
+          "Wrench in his plans"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Resurrection to wreck a rival's plan",
+        "concreteVisual": "Flow of three labels",
+        "onScreenText": "Resurrect Pin -> Blindside Shadow Throne -> Wrench in his plans",
+        "relationToPrevious": "From motive to the act chain",
+        "addedInformation": "Cause chain"
+      }
+    },
+    {
+      "i": 144,
+      "narration": "ultimate destiny. They just want to ruin someone else's immediate plan. They are playing a game of chance,",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "No grand design",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "storyboard": {
+        "claim": "No plan for his destiny",
+        "concreteVisual": "Pin worried",
+        "onScreenText": "No grand design",
+        "relationToPrevious": "Rephrases the motive",
+        "addedInformation": "weak: face"
+      }
+    },
+    {
+      "i": 145,
+      "narration": "which means they are as blind to the final outcome as anyone else. So, they are just throwing a rock in a pond to see where the ripples go.",
+      "concept": "water",
+      "diagram": null,
+      "callout": {
+        "text": "A rock in a pond",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Throwing a rock to see the ripples",
+        "concreteVisual": "Water icon",
+        "onScreenText": "A rock in a pond",
+        "relationToPrevious": "The metaphor",
+        "addedInformation": "Comparison"
+      }
+    },
+    {
+      "i": 146,
+      "narration": "That is terrifying if you are the rock. It ties it all together perfectly.",
+      "concept": "water",
+      "diagram": null,
+      "callout": {
+        "text": "Terrifying for the rock",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "pin"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "Terrifying if you are the rock",
+        "concreteVisual": "Pin afraid beside the pond",
+        "onScreenText": "Terrifying for the rock",
+        "relationToPrevious": "Adds the one who is the rock",
+        "addedInformation": "Pin enters the metaphor"
+      }
+    },
+    {
+      "i": 147,
+      "narration": "Even the gods are just grunts in a larger unseen cosmic war reacting to events they can't fully control. Which perfectly explains the way the book itself is written and how it treats you, the",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "The gods are grunts",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Gods are grunts in a cosmic war",
+        "concreteVisual": "Whiskeyjack worried beside a war icon",
+        "onScreenText": "The gods are grunts",
+        "relationToPrevious": "Ties gods to soldiers",
+        "addedInformation": "Parallel of soldier and god"
+      }
+    },
+    {
+      "i": 148,
+      "narration": "reader. This is where we have to talk about the structure because it is infamous in the fantasy community. Let us put you right next to Whiskey Jack for a moment.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Next to Whiskey Jack",
+        "style": "highlight"
+      },
+      "set": "horizon",
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "Reader placed beside Whiskeyjack",
+        "concreteVisual": "Whiskeyjack facing us",
+        "onScreenText": "Next to Whiskey Jack",
+        "relationToPrevious": "Moves from gods to structure",
+        "addedInformation": "weak: face"
+      }
+    },
+    {
+      "i": 149,
+      "narration": "Quickban leans in and whispers this terrifying theory that High Mage Taun kept the Burge burners in the collapsing tunnels on purpose during the siege. As a reader, you are just",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Taun kept them there",
+        "style": "highlight"
+      },
+      "cast": [
+        "quickben",
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "talk",
+      "partnerExpression": "worried",
+      "storyboard": {
+        "claim": "Quick Ben leans in and whispers the conspiracy to Whiskeyjack, who listens uneasily.",
+        "concreteVisual": "Quick Ben whispering to Whiskeyjack in a two-shot, Whiskeyjack worried",
+        "onScreenText": "Taun kept them there",
+        "relationToPrevious": "opens the passage",
+        "addedInformation": "weak: a whispered theory, faces carry the unease"
+      }
+    },
+    {
+      "i": 150,
+      "narration": "hearing this fragment of a conspiracy. You are getting drops of context and you are forced to scramble to figure out why.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Drops of context",
+          "Scramble for why"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "The reader gets only fragments and must scramble to work out why: fragments lead to scrambling.",
+        "concreteVisual": "flow diagram: Drops of context to Scramble for why",
+        "onScreenText": "Drops of context, Scramble for why",
+        "relationToPrevious": "from the whisper to its effect on the reader",
+        "addedInformation": "the cause and effect of the fragmentary telling"
+      }
+    },
+    {
+      "i": 151,
+      "narration": "Why would a high mage sabotage his own elite troops? You aren't given a flashback. No, you just get the paranoid whisper in the",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A paranoid whisper",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "partnerExpression": "afraid",
+      "partnerAction": "talk",
+      "storyboard": {
+        "claim": "No flashback is given, only the paranoid whisper that Whiskeyjack and the reader must take at face value.",
+        "concreteVisual": "Whiskeyjack worried while Quick Ben whispers beside him, afraid",
+        "onScreenText": "A paranoid whisper",
+        "relationToPrevious": "back to the two soldiers",
+        "addedInformation": "weak: restates the whisper with a different face"
+      }
+    },
+    {
+      "i": 152,
+      "narration": "This is a highly deliberate choice. Ericson explains this in his own preface to the book. You, the reader, are treated exactly like a new recruit to the squad.",
+      "concept": "book",
+      "diagram": null,
+      "callout": {
+        "text": "Like a new recruit",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The author's preface explains that the reader is treated like a new recruit.",
+        "concreteVisual": "a book icon (the preface) with the callout",
+        "onScreenText": "Like a new recruit",
+        "relationToPrevious": "turns to the author's stated intent",
+        "addedInformation": "names the intent: the reader is a recruit"
+      }
+    },
+    {
+      "i": 153,
+      "narration": "You aren't given a history lesson. You aren't spoonfed the grand strategy of the Genevacis campaign. You are dropped halfway through a marathon,",
+      "concept": "road",
+      "diagram": null,
+      "callout": {
+        "text": "Dropped mid-marathon",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "neutral",
+      "action": "walk",
+      "storyboard": {
+        "claim": "The reader is dropped halfway through a marathon with no history lesson.",
+        "concreteVisual": "a road icon with the callout",
+        "onScreenText": "Dropped mid-marathon",
+        "relationToPrevious": "same intent, as a journey already under way",
+        "addedInformation": "the marathon image: already mid-road"
+      }
+    },
+    {
+      "i": 154,
+      "narration": "and you have to figure out the rules of survival simply by watching the veterans and listening to their fragmented conversations. It happens over and over. Look at how we discover the assassin war in Dujaan, We don't get a grand omnisient",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Watching the veterans",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "You learn the rules by watching the veterans talk in fragments.",
+        "concreteVisual": "two veterans, Whiskeyjack and Quick Ben, talking in a two-shot",
+        "onScreenText": "Watching the veterans",
+        "relationToPrevious": "the veterans the reader learns from",
+        "addedInformation": "weak: two veterans talking"
+      }
+    },
+    {
+      "i": 155,
+      "narration": "historical charter explaining the assassin's guild and the tarud kabal. No, we just follow crocus",
+      "concept": "book",
+      "diagram": null,
+      "callout": {
+        "text": "No grand charter",
+        "style": "strike"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "There is no omniscient historical charter explaining the guilds: the book refuses a history book.",
+        "concreteVisual": "a book icon with the callout struck",
+        "onScreenText": "No grand charter",
+        "relationToPrevious": "the example of Darujhistan: no explainer",
+        "addedInformation": "shows the missing explainer"
+      }
+    },
+    {
+      "i": 156,
+      "narration": "but teenage thief running across the rooftops at We see the violent fallout of these secret organizations clashing. We see assassins striking out in the dark",
+      "concept": "city",
+      "diagram": null,
+      "callout": {
+        "text": "Crokus, a teenage thief",
+        "style": "highlight"
+      },
+      "set": "street",
+      "cast": [],
+      "storyboard": {
+        "claim": "We simply follow Crokus, a teenage thief, across the rooftops and see secret groups clash.",
+        "concreteVisual": "a city icon on a street set with the callout",
+        "onScreenText": "Crokus, a teenage thief",
+        "relationToPrevious": "the substitute for the charter",
+        "addedInformation": "the character who carries the story"
+      }
+    },
+    {
+      "i": 157,
+      "narration": "and we have to piece together the political rivalries of Councilman Turban Ore and the alchemist Baroo",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Councilman Turban Orr",
+          "Alchemist Baruk"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Two political rivals, Turban Orr and Baruk, are pieced together from clues.",
+        "concreteVisual": "sorter diagram with the two rivals",
+        "onScreenText": "Councilman Turban Orr, Alchemist Baruk",
+        "relationToPrevious": "names the two rivalries",
+        "addedInformation": "the two sides of the rivalry"
+      }
+    },
+    {
+      "i": 158,
+      "narration": "entirely through the blood left on the bronze tiles. It is incredibly disorienting. It demands active participation from the reader.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Blood on the bronze tiles",
+        "style": "highlight"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The rivalries are pieced together only from blood on the tiles, which is disorienting for the reader.",
+        "concreteVisual": "Quick Ben slumped and worried",
+        "onScreenText": "Blood on the bronze tiles",
+        "relationToPrevious": "the cost of this style: disorientation",
+        "addedInformation": "weak: a disoriented figure"
+      }
+    },
+    {
+      "i": 159,
+      "narration": "You are forced to be a detective in a foreign world. You only know what the people in the dirt know. Okay.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A detective in a foreign world",
+        "style": "highlight"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "neutral",
+      "action": "hold",
+      "holds": "magnifier",
+      "storyboard": {
+        "claim": "The reader must be a detective in a foreign world who knows only what people in the dirt know.",
+        "concreteVisual": "Tattersail holding a magnifier",
+        "onScreenText": "A detective in a foreign world",
+        "relationToPrevious": "sums up the demand on the reader",
+        "addedInformation": "the detective image as an object"
+      }
+    },
+    {
+      "i": 160,
+      "narration": "But as a reader, isn't that just a flaw? Isn't that just overly dense, complicated writing that alienates the I don't think so.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Isn't that a flaw?",
+        "style": "highlight"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "holds": "book",
+      "storyboard": {
+        "claim": "The sceptical host asks whether this dense style is a flaw that alienates the reader.",
+        "concreteVisual": "Quick Ben worried holding a book",
+        "onScreenText": "Isn't that a flaw?",
+        "relationToPrevious": "the objection to everything above",
+        "addedInformation": "weak: a question, shown by face and book"
+      }
+    },
+    {
+      "i": 161,
+      "narration": "I mean, if I have to read a fan wiki just to understand who is fighting who in chapter 2, hasn't the author failed at basic exposition?",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Has the author failed?",
+        "style": "highlight"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "angry",
+      "action": "hold",
+      "holds": "book",
+      "continue": true,
+      "storyboard": {
+        "claim": "He presses the objection: needing a fan wiki would mean the author failed at exposition.",
+        "concreteVisual": "the same figure, now angry, still holding the book",
+        "onScreenText": "Has the author failed?",
+        "relationToPrevious": "same stage, the face sharpens",
+        "addedInformation": "weak: the objection sharpens"
+      }
+    },
+    {
+      "i": 162,
+      "narration": "I completely disagree that it is a flaw. It is a design choice that creates unparalleled How so? Think about it.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "A flaw",
+          "A design choice"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "The other host rejects flaw and says it is a design choice.",
+        "concreteVisual": "sorter diagram: A flaw against A design choice",
+        "onScreenText": "A flaw, A design choice",
+        "relationToPrevious": "the answer to the objection",
+        "addedInformation": "the two readings sorted"
+      }
+    },
+    {
+      "i": 163,
+      "narration": "If an author pauses a chaotic siege or a frantic rooftop chase to give you a threepage",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Chaotic siege",
+          "Encyclopedia entry"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Pausing a chaotic siege for an encyclopedia entry is where the trouble starts.",
+        "concreteVisual": "flow diagram: Chaotic siege to Encyclopedia entry",
+        "onScreenText": "Chaotic siege, Encyclopedia entry",
+        "relationToPrevious": "opens the cause-effect chain",
+        "addedInformation": "the interruption"
+      }
+    },
+    {
+      "i": 164,
+      "narration": "encyclopedia entry on the history of the assassin's guilt, it completely shatters the reality of the moment. The characters wouldn't stop to explain things they all already know, right? The confusion you feel as",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Chaotic siege",
+          "Encyclopedia entry",
+          "Reality shatters"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "The interruption shatters the reality of the moment.",
+        "concreteVisual": "the same flow with a third label, Reality shatters",
+        "onScreenText": "Reality shatters",
+        "relationToPrevious": "one more label on the same flow",
+        "addedInformation": "the effect of the interruption"
+      }
+    },
+    {
+      "i": 165,
+      "narration": "a reader is the realism. It mimics the exact fog of war and lack of information that the characters are experiencing.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Reader confusion",
+          "Realism"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "The reader's confusion is the realism: it mimics the fog of war.",
+        "concreteVisual": "flow diagram: Reader confusion to Realism",
+        "onScreenText": "Reader confusion, Realism",
+        "relationToPrevious": "flips the objection",
+        "addedInformation": "the argument: confusion to realism"
+      }
+    },
+    {
+      "i": 166,
+      "narration": "So, the disorientation is the point. The reader's confusion perfectly mirrors the squad's confusion. We are kept in the dark because again, the world is only honest when you are looking up from the trench. And when you strip away the",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Looking up from the trench",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "partnerExpression": "worried",
+      "storyboard": {
+        "claim": "The reader's confusion mirrors the squad's: both are in the dark.",
+        "concreteVisual": "Whiskeyjack and Quick Ben both worried",
+        "onScreenText": "Looking up from the trench",
+        "relationToPrevious": "the squad mirrors the reader",
+        "addedInformation": "the mirrored confusion"
+      }
+    },
+    {
+      "i": 167,
+      "narration": "grand narratives, the political clarity, and the divine plans, what is actually left for these soldiers to hold on to? The only thing left is each other. Let us look closely at the dynamic inside",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Only each other",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "sad",
+      "action": "idle",
+      "partnerExpression": "sad",
+      "storyboard": {
+        "claim": "With grand narratives and divine plans stripped away the soldiers have only each other.",
+        "concreteVisual": "two soldiers side by side, both sad",
+        "onScreenText": "Only each other",
+        "relationToPrevious": "moves to the emotional answer",
+        "addedInformation": "weak: faces carry the claim"
+      }
+    },
+    {
+      "i": 168,
+      "narration": "the ninth squad. Look at Whiskey Jack, Kalam, and You see these incredibly deadly men.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The ninth squad",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "Introduces the dynamic inside the ninth squad.",
+        "concreteVisual": "Whiskeyjack and Quick Ben in a two-shot",
+        "onScreenText": "The ninth squad",
+        "relationToPrevious": "introduces the squad",
+        "addedInformation": "weak: a squad introduction"
+      }
+    },
+    {
+      "i": 169,
+      "narration": "Kam is a former claw assassin. Quickben is a high mage in hiding. And they are desperately seeking to take the immense weight of command off Whiskey Jack's They know he is a man pushed to the very",
+      "concept": "boulder",
+      "diagram": null,
+      "callout": {
+        "text": "The weight of command",
+        "style": "highlight"
+      },
+      "cast": [
+        "quickben",
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "reach",
+      "partnerExpression": "sad",
+      "partnerAction": "slump",
+      "storyboard": {
+        "claim": "Kalam and Quick Ben reach to take the weight of command off the bowed Whiskeyjack.",
+        "concreteVisual": "Quick Ben reaching toward a boulder while Whiskeyjack slumps",
+        "onScreenText": "The weight of command",
+        "relationToPrevious": "the squad acts on the leader",
+        "addedInformation": "the weight and the ones sharing it"
+      }
+    },
+    {
+      "i": 170,
+      "narration": "edge of his crumbling beliefs. He's exhausted. He is targeted by his own empire,",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Targeted by his own empire",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "laseen"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "partnerExpression": "smirk",
+      "storyboard": {
+        "claim": "Whiskeyjack is exhausted and targeted by the empress of his own empire.",
+        "concreteVisual": "Whiskeyjack slumped, Empress Laseen smirking beside him",
+        "onScreenText": "Targeted by his own empire",
+        "relationToPrevious": "the other pressure on him",
+        "addedInformation": "who targets him"
+      }
+    },
+    {
+      "i": 171,
+      "narration": "and his squad is the only thing keeping him from breaking completely. This is the emotional core of the entire book and really the entire When the empire you serve actively wants you dead",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "The emotional core",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "sad",
+      "action": "idle",
+      "partnerExpression": "worried",
+      "storyboard": {
+        "claim": "His squad is the only thing keeping him from breaking, the emotional core of the book.",
+        "concreteVisual": "Whiskeyjack sad with Quick Ben worried beside him",
+        "onScreenText": "The emotional core",
+        "relationToPrevious": "the squad steadies him",
+        "addedInformation": "weak: the bond shown by faces"
+      }
+    },
+    {
+      "i": 172,
+      "narration": "and the gods are literally playing dice with your soul, ideologies lose all meaning. The only reality that actually matters.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Empire wants you dead",
+          "Ideologies lose meaning"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "When the empire wants you dead, ideologies lose all meaning.",
+        "concreteVisual": "flow diagram: Empire wants you dead to Ideologies lose meaning",
+        "onScreenText": "Empire wants you dead, Ideologies lose meaning",
+        "relationToPrevious": "the argument from the squad to meaning",
+        "addedInformation": "the cause and the effect"
+      }
+    },
+    {
+      "i": 173,
+      "narration": "The only thing you can trust is the soldier standing to your left and your right. That unit cohesion becomes a sacred bond.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A sacred bond",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The only thing to trust is the soldiers on either side: unit cohesion becomes a sacred bond.",
+        "concreteVisual": "two soldiers standing side by side",
+        "onScreenText": "A sacred bond",
+        "relationToPrevious": "the answer: the soldier beside you",
+        "addedInformation": "weak: two soldiers side by side"
+      }
+    },
+    {
+      "i": 174,
+      "narration": "It replaces religion and We see this instinct in the magic users too. Remember Klet and Tatterale on the Oh man.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Unit cohesion",
+          "Replaces religion"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Unit cohesion replaces religion.",
+        "concreteVisual": "flow diagram: Unit cohesion to Replaces religion",
+        "onScreenText": "Unit cohesion, Replaces religion",
+        "relationToPrevious": "the bond stands in for faith",
+        "addedInformation": "what the bond replaces"
+      }
+    },
+    {
+      "i": 175,
+      "narration": "Yeah. As this virilent screaming power washes over Tatterale, threatening to crush her mind and body. What happens? It is Kallet who throws his magic to bolster her faltering shield.",
+      "concept": "shield",
+      "diagram": null,
+      "callout": {
+        "text": "Bolstering her faltering shield",
+        "style": "highlight"
+      },
+      "cast": [
+        "pin",
+        "tattersail"
+      ],
+      "expression": "worried",
+      "action": "reach",
+      "partnerExpression": "afraid",
+      "storyboard": {
+        "claim": "He throws his magic to bolster Tattersail's faltering shield as the power washes over her.",
+        "concreteVisual": "Pin reaching toward a shield icon while Tattersail is afraid",
+        "onScreenText": "Bolstering her faltering shield",
+        "relationToPrevious": "the magic users show the same instinct",
+        "addedInformation": "who acts, for whom, with what"
+      }
+    },
+    {
+      "i": 176,
+      "narration": "He uses the Warren of Mocha, which is normally the magic of illusion and the mind, and he forces it to act as a physical shield.",
+      "concept": "shield",
+      "diagram": null,
+      "callout": {
+        "text": "Illusion forced to be a shield",
+        "style": "highlight"
+      },
+      "cast": [
+        "pin",
+        "tattersail"
+      ],
+      "expression": "angry",
+      "action": "reach",
+      "continue": true,
+      "partnerExpression": "worried",
+      "storyboard": {
+        "claim": "He forces the illusion magic to act as a physical shield.",
+        "concreteVisual": "same stage, Pin straining, Tattersail less afraid",
+        "onScreenText": "Illusion forced to be a shield",
+        "relationToPrevious": "same stage, the faces change",
+        "addedInformation": "the strain of the act"
+      }
+    },
+    {
+      "i": 177,
+      "narration": "It is a completely instinctive, desperate act to save a comrade. And the tragedy is it is paid for just moments later when Colot is incinerated by blue fire. He dies protecting his unit.",
+      "concept": "fire",
+      "diagram": null,
+      "callout": {
+        "text": "Dies protecting his unit",
+        "style": "highlight"
+      },
+      "cast": [
+        "pin"
+      ],
+      "expression": "afraid",
+      "action": "falling",
+      "storyboard": {
+        "claim": "Moments later he is incinerated by blue fire, dying to protect his unit.",
+        "concreteVisual": "Pin falling backward in front of a fire icon",
+        "onScreenText": "Dies protecting his unit",
+        "relationToPrevious": "the price of the act",
+        "addedInformation": "the death that follows"
+      }
+    },
+    {
+      "i": 178,
+      "narration": "It highlights that in this meat grinder, the instinct to protect your own is the strongest force there is. Stronger than the fear of the enemy, stronger than the fear of the magic.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Stronger than the fear",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "tattersail"
+      ],
+      "expression": "sad",
+      "action": "idle",
+      "partnerExpression": "sad",
+      "storyboard": {
+        "claim": "The instinct to protect your own is stronger than the fear of the enemy or the magic.",
+        "concreteVisual": "Whiskeyjack and Tattersail, both sad",
+        "onScreenText": "Stronger than the fear",
+        "relationToPrevious": "draws the lesson from the death",
+        "addedInformation": "weak: the lesson as faces"
+      }
+    },
+    {
+      "i": 179,
+      "narration": "But wait, look at the ninth squad again. Their unit cohesion is terrible. Is it? Look at Sorry. She's a literal supernatural killer.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Sorry, a supernatural killer",
+        "style": "highlight"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The counterexample: Sorry, a supernatural killer, in the squad.",
+        "concreteVisual": "the callout alone, nobody on screen",
+        "onScreenText": "Sorry, a supernatural killer",
+        "relationToPrevious": "the counterargument begins",
+        "addedInformation": "weak: text-led, no figure for Sorry"
+      }
+    },
+    {
+      "i": 180,
+      "narration": "She was slipped into their ranks and nobody trusts her. They are terrified of her. Whiskey Jack scowls at her. The others flinch when she's near.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Nobody trusts her",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "angry",
+      "action": "point",
+      "partnerExpression": "afraid",
+      "storyboard": {
+        "claim": "Nobody trusts her: Whiskeyjack scowls and the others flinch.",
+        "concreteVisual": "Whiskeyjack scowling, Quick Ben afraid beside him",
+        "onScreenText": "Nobody trusts her",
+        "relationToPrevious": "shows the distrust",
+        "addedInformation": "the reaction to her"
+      }
+    },
+    {
+      "i": 181,
+      "narration": "How can you say friendship and unit cohesion is what survives when they have a murderous wild card in their own squad and they all hate her?",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Murderous wild card",
+          "They all hate her"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "A murderous wild card whom everyone hates: how can that be cohesion?",
+        "concreteVisual": "flow diagram: Murderous wild card to They all hate her",
+        "onScreenText": "Murderous wild card, They all hate her",
+        "relationToPrevious": "sets up the objection",
+        "addedInformation": "the objection as a chain"
+      }
+    },
+    {
+      "i": 182,
+      "narration": "That tension with Sorry is exactly the proof of their loyalty to each other. Wait, really? Yes. They don't trust her.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Distrust is their loyalty",
+        "style": "highlight"
+      },
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "That tension is exactly the proof of their loyalty to each other.",
+        "concreteVisual": "The squad standing together, scowling at the wild card, who stands apart.",
+        "onScreenText": "Distrust is their loyalty",
+        "relationToPrevious": "one more label on the same flow",
+        "addedInformation": "the answer: distrust proves loyalty"
+      }
+    },
+    {
+      "i": 183,
+      "narration": "And because they don't trust her, they explicitly refuse to call her a bridge burner. She has been with the squad for 2 years and they still only refer to her as the recruit. Oh wow, that is true.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "Still just the recruit",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "angry",
+      "action": "point",
+      "partnerExpression": "angry",
+      "storyboard": {
+        "claim": "They refuse to call her a bridge burner: after two years she is still only the recruit.",
+        "concreteVisual": "Whiskeyjack pointing, Quick Ben angry beside him",
+        "onScreenText": "Still just the recruit",
+        "relationToPrevious": "the evidence of the refusal",
+        "addedInformation": "the name they refuse to give her"
+      }
+    },
+    {
+      "i": 184,
+      "narration": "Whiskey Jack understands why. They are fiercely protecting the sacred identity of their found family. To call her a bridge burner would be to pollute the only pure thing they have left. Their rejection of her is the strongest evidence",
+      "concept": "shield",
+      "diagram": null,
+      "callout": {
+        "text": "Protecting their found family",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "idle",
+      "storyboard": {
+        "claim": "They protect the sacred identity of their found family by keeping her out of it.",
+        "concreteVisual": "two soldiers beside a shield icon",
+        "onScreenText": "Protecting their found family",
+        "relationToPrevious": "the reason for the refusal",
+        "addedInformation": "the protection of identity"
+      }
+    },
+    {
+      "i": 185,
+      "narration": "of their devotion to the true The label of bridge burner is earned, not assigned.",
+      "concept": "trophy",
+      "diagram": null,
+      "callout": {
+        "text": "Earned, not assigned",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "neutral",
+      "action": "talk",
+      "storyboard": {
+        "claim": "The label of bridge burner is earned, not assigned.",
+        "concreteVisual": "Whiskeyjack talking",
+        "onScreenText": "Earned, not assigned",
+        "relationToPrevious": "the rule behind the name",
+        "addedInformation": "weak: a statement of the rule"
+      }
+    },
+    {
+      "i": 186,
+      "narration": "It is a badge of survival. The only truth you can trust is the squad.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A badge of survival",
+        "style": "highlight"
+      },
+      "cast": [
+        "whiskeyjack",
+        "quickben"
+      ],
+      "expression": "neutral",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The name is a badge of survival, and the only truth to trust is the squad.",
+        "concreteVisual": "two soldiers side by side",
+        "onScreenText": "A badge of survival",
+        "relationToPrevious": "what the name stands for",
+        "addedInformation": "weak: two soldiers"
+      }
+    },
+    {
+      "i": 187,
+      "narration": "Which proves once more that the real story is happening at the absolute bottom of the hierarchy.",
+      "concept": null,
+      "diagram": {
+        "type": "spectrum",
+        "labels": [
+          "Generals and gods",
+          "Soldiers in the dirt"
+        ],
+        "values": [
+          0.9
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "The real story happens at the bottom of the hierarchy, not with the generals and gods.",
+        "concreteVisual": "spectrum from Generals and gods to Soldiers in the dirt, marker near the soldiers",
+        "onScreenText": "Generals and gods, Soldiers in the dirt",
+        "relationToPrevious": "sums up the argument",
+        "addedInformation": "where the story really happens"
+      }
+    },
+    {
+      "i": 188,
+      "narration": "And this ground level reality fundamentally changes how a story like this has to end. Right? Because there is no neat tidy bow at the end of this book.",
+      "concept": "gift",
+      "diagram": null,
+      "callout": {
+        "text": "A neat tidy bow",
+        "style": "strike"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "This ground-level story has no neat tidy bow at the end.",
+        "concreteVisual": "a gift icon with the callout struck",
+        "onScreenText": "A neat tidy bow",
+        "relationToPrevious": "turns to the ending",
+        "addedInformation": "the missing tidy ending"
+      }
+    },
+    {
+      "i": 189,
+      "narration": "Let us paint the final image of the siege of Pale which happens early on but sets the pattern for the whole narrative. The city has fallen.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "THE CITY HAS FALLEN",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Pale has fallen",
+        "concreteVisual": "Whiskeyjack bowed, sad, in the aftermath",
+        "onScreenText": "THE CITY HAS FALLEN",
+        "relationToPrevious": "Opens the final-image passage",
+        "addedInformation": "weak: a mood, the fall itself is not drawable"
+      }
+    },
+    {
+      "i": 190,
+      "narration": "The black armored Morantha are marching in to slaughter the citizens. And we should explain the Moranth. They are these enigmatic insectile armored allies of the Molassins who use devastating",
+      "concept": "war",
+      "diagram": null,
+      "callout": {
+        "text": "Moranth butcher the citizens",
+        "style": "highlight"
+      },
+      "cast": [],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Moranth march in to slaughter the citizens",
+        "concreteVisual": "Whiskeyjack afraid, watching",
+        "onScreenText": "Moranth butcher the citizens",
+        "relationToPrevious": "Fear at what arrives",
+        "addedInformation": "weak: the Moranth are named, not drawn"
+      }
+    },
+    {
+      "i": 191,
+      "narration": "alchemical explosives. They are buzzing and clicking as they march in.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "BUZZING AND CLICKING",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "continue": true,
+      "storyboard": {
+        "claim": "They buzz and click as they march",
+        "concreteVisual": "Same soldier, worried face",
+        "onScreenText": "BUZZING AND CLICKING",
+        "relationToPrevious": "Fear softens to unease at the sound",
+        "addedInformation": "weak: a sound cannot be drawn"
+      }
+    },
+    {
+      "i": 192,
+      "narration": "And Moonspawn, smoking in a blaze in a dozen places, is simply pulling away, drifting south. The conflict isn't over.",
+      "concept": "moonsSpawn",
+      "diagram": null,
+      "callout": {
+        "text": "DRIFTING SOUTH",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Moon's Spawn pulls away, smoking",
+        "concreteVisual": "The black floating fortress alone in frame",
+        "onScreenText": "DRIFTING SOUTH",
+        "relationToPrevious": "The fortress leaves the fallen city",
+        "addedInformation": "The object that leaves is shown"
+      }
+    },
+    {
+      "i": 193,
+      "narration": "It just This is the reality of being a soldier. A victory doesn't mean happily ever after. It doesn't mean you get to go home and farm. For a grunt, a victory just means you get your marching orders to the next city, the",
+      "concept": "road",
+      "diagram": null,
+      "callout": {
+        "text": "MARCHING ORDERS",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Victory means marching orders to the next siege",
+        "concreteVisual": "Weary soldier beside a road",
+        "onScreenText": "MARCHING ORDERS",
+        "relationToPrevious": "From the fortress to the soldier's fate",
+        "addedInformation": "The road reads as the next campaign"
+      }
+    },
+    {
+      "i": 194,
+      "narration": "next siege, the next nightmare. There is no ultimate resolution because the empire's appetite is endless. We see the exact same thing at the end of the book in Daran.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "THE EMPIRE'S APPETITE",
+        "style": "reveal"
+      },
+      "cast": [
+        "laseen"
+      ],
+      "expression": "smirk",
+      "action": "idle",
+      "storyboard": {
+        "claim": "No resolution because the empire's appetite is endless",
+        "concreteVisual": "Empress Laseen with a cold smirk",
+        "onScreenText": "THE EMPIRE'S APPETITE",
+        "relationToPrevious": "Cause: who keeps the war going",
+        "addedInformation": "Ruler as the face of an endless appetite"
+      }
+    },
+    {
+      "i": 195,
+      "narration": "We get these massive explosive climaxes. The Fett, the ancient demon lord race tearing things up, and Amanda Rake veering into a massive dragon.",
+      "concept": "fire",
+      "diagram": null,
+      "callout": {
+        "text": "MASSIVE EXPLOSIVE CLIMAXES",
+        "style": "reveal"
+      },
+      "cast": [
+        "rake"
+      ],
+      "expression": "angry",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Explosive climaxes: the Fener and Rake as a dragon",
+        "concreteVisual": "Rake angry before flames",
+        "onScreenText": "MASSIVE EXPLOSIVE CLIMAXES",
+        "relationToPrevious": "From siege to the book's own ending",
+        "addedInformation": "Fire and Rake show the big climax"
+      }
+    },
+    {
+      "i": 196,
+      "narration": "But the underlying geopolitical tension, the Malazin advance, the presence of the mercenary crimson guard,",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "THE CRIMSON GUARD",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "The geopolitical tension and the mercenary Crimson Guard remain",
+        "concreteVisual": "Whiskeyjack worried, bowed",
+        "onScreenText": "THE CRIMSON GUARD",
+        "relationToPrevious": "After the climax, the unresolved",
+        "addedInformation": "weak: politics are abstract"
+      }
+    },
+    {
+      "i": 197,
+      "narration": "it all remains. The board is just reset for the next campaign. The characters survive the night, but the war is still looming on the horizon.",
+      "concept": "game",
+      "diagram": null,
+      "callout": {
+        "text": "THE BOARD IS RESET",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "The board is reset for the next campaign",
+        "concreteVisual": "Chess knight icon",
+        "onScreenText": "THE BOARD IS RESET",
+        "relationToPrevious": "Everything remains as before",
+        "addedInformation": "Strategy icon fits a board reset"
+      }
+    },
+    {
+      "i": 198,
+      "narration": "The macrolevel conflict is left intentionally unresolved because for the people we are following, war is a permanent state of being.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "WAR IS PERMANENT",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "blank",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Macro conflict unresolved; war is permanent",
+        "concreteVisual": "Whiskeyjack blank, bowed",
+        "onScreenText": "WAR IS PERMANENT",
+        "relationToPrevious": "Conclusion of the point",
+        "addedInformation": "Blank reads as numbness to endless war"
+      }
+    },
+    {
+      "i": 199,
+      "narration": "But hold on. If the Malazan Empire isn't defeated and they don't conquer the continent, as a reader, I'm thinking, did I just read a 700page prologue?",
+      "concept": "book",
+      "diagram": null,
+      "callout": {
+        "text": "A 700 PAGE PROLOGUE",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Did I just read a 700 page prologue?",
+        "concreteVisual": "Closed book icon",
+        "onScreenText": "A 700 PAGE PROLOGUE",
+        "relationToPrevious": "Turns to the reader's objection",
+        "addedInformation": "The book as the object in question"
+      }
+    },
+    {
+      "i": 200,
+      "narration": "It can feel that way. It feels incomplete. Don't we deserve a climax that actually changes the world?",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "FEELS INCOMPLETE",
+        "style": "reveal"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "It feels incomplete; we deserve a climax",
+        "concreteVisual": "Quick Ben worried, bowed",
+        "onScreenText": "FEELS INCOMPLETE",
+        "relationToPrevious": "Voices the objection",
+        "addedInformation": "weak: a feeling only"
+      }
+    },
+    {
+      "i": 201,
+      "narration": "I would argue it has a massive satisfying climax. The character arcs resolve. Crocus makes his choice about his future.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "THE CHARACTER ARCS RESOLVE",
+        "style": "reveal"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "happy",
+      "action": "celebrate",
+      "storyboard": {
+        "claim": "Character arcs resolve, Crocus makes his choice",
+        "concreteVisual": "Quick Ben pleased, arms up",
+        "onScreenText": "THE CHARACTER ARCS RESOLVE",
+        "relationToPrevious": "Reversal: it does have a climax",
+        "addedInformation": "Face flips from worry to satisfaction"
+      }
+    },
+    {
+      "i": 202,
+      "narration": "Rick completes his mission. The immediate localized threat to Darushan is neutralized. What is left unresolved are the macro",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Mission accomplished",
+          "Local threat gone",
+          "Macro politics remain"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Rick's mission done, local threat neutralized; macro politics left",
+        "concreteVisual": "Sorter with three buckets",
+        "onScreenText": "Mission accomplished / Local threat gone / Macro politics remain",
+        "relationToPrevious": "Opens the resolved vs unresolved split",
+        "addedInformation": "The split the narration makes"
+      }
+    },
+    {
+      "i": 203,
+      "narration": "politics, the movements of armies and empires. The story is complete for the characters in the moment. They survive the immediate crisis, but the war machine itself never To wrap up the",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Mission accomplished",
+          "Local threat gone",
+          "Macro politics remain",
+          "War machine goes on"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "continue": true,
+      "storyboard": {
+        "claim": "The war machine itself never ends",
+        "concreteVisual": "Sorter adds a fourth bucket",
+        "onScreenText": "Mission accomplished / Local threat gone / Macro politics remain / War machine goes on",
+        "relationToPrevious": "Adds the last unresolved item",
+        "addedInformation": "One more label draws in"
+      }
+    },
+    {
+      "i": 204,
+      "narration": "entire geopolitical war in one book would betray the gritty realism Ericson has built. It would feel cheap. That makes a lot of sense.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "IT WOULD FEEL CHEAP",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "smirk",
+      "action": "idle",
+      "storyboard": {
+        "claim": "A full resolution would feel cheap",
+        "concreteVisual": "Whiskeyjack smirking knowingly",
+        "onScreenText": "IT WOULD FEEL CHEAP",
+        "relationToPrevious": "Why the structure is right",
+        "addedInformation": "weak: commentary"
+      }
+    },
+    {
+      "i": 205,
+      "narration": "You only get to survive the day. You don't get to end the war. Now, despite how brilliant the structure is, we do have to offer one honest structural criticism based on the text itself.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Survive the day",
+          "End the war"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "You survive the day, you don't end the war",
+        "concreteVisual": "Sorter with two buckets",
+        "onScreenText": "Survive the day / End the war",
+        "relationToPrevious": "Sums up the ground-level view",
+        "addedInformation": "Two buckets set the limits"
+      }
+    },
+    {
+      "i": 206,
+      "narration": "Yeah, we have to talk about the learning curve because the cast is undeniably It is massive, dropping the reader in media rays into a sprawling magical war with zero handholding",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "THE CAST IS MASSIVE",
+        "style": "reveal"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "surprised",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Learning curve: massive cast, no handholding",
+        "concreteVisual": "Quick Ben overwhelmed",
+        "onScreenText": "THE CAST IS MASSIVE",
+        "relationToPrevious": "Turns to the honest criticism",
+        "addedInformation": "weak: face and text"
+      }
+    },
+    {
+      "i": 207,
+      "narration": "means that a lot of readers will simply bounce off the first third of the novel. It is incredibly dense, very dense.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "VERY DENSE",
+        "style": "reveal"
+      },
+      "cast": [
+        "quickben"
+      ],
+      "expression": "worried",
+      "action": "slump",
+      "storyboard": {
+        "claim": "Readers bounce off the first third",
+        "concreteVisual": "Quick Ben worried, bowed",
+        "onScreenText": "VERY DENSE",
+        "relationToPrevious": "Result of the heavy cast",
+        "addedInformation": "weak: a feeling"
+      }
+    },
+    {
+      "i": 208,
+      "narration": "And furthermore, elements like the ancient history of the Tlan Emas, these undead Neanderl warriors,",
+      "concept": "book",
+      "diagram": null,
+      "callout": {
+        "text": "THE ANCIENT TLAN IMASS",
+        "style": "reveal"
+      },
+      "cast": [],
+      "storyboard": {
+        "claim": "Ancient history of the Tlan Imass, undead warriors",
+        "concreteVisual": "Book icon with callout",
+        "onScreenText": "THE ANCIENT TLAN IMASS",
+        "relationToPrevious": "Another example of dense lore",
+        "addedInformation": "The icon is the history, the callout names it"
+      }
+    },
+    {
+      "i": 209,
+      "narration": "or the broader offscreen machinations of Empress Leine, clearly feel like threads that are intentionally left dangling",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "LEFT DANGLING",
+        "style": "reveal"
+      },
+      "cast": [
+        "laseen"
+      ],
+      "expression": "smirk",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Laseen's offscreen machinations dangle",
+        "concreteVisual": "Laseen smirking, remote",
+        "onScreenText": "LEFT DANGLING",
+        "relationToPrevious": "Second thread",
+        "addedInformation": "Ruler who stays offstage"
+      }
+    },
+    {
+      "i": 210,
+      "narration": "to justify a massive 10 book series. It can make this first volume feel overwhelmingly like setup. It is a massive ask for a reader to just trust the author.",
+      "concept": null,
+      "diagram": {
+        "type": "flow",
+        "labels": [
+          "Dangling threads",
+          "Setup",
+          "A 10 book series"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Threads justify a 10 book series; the book feels like setup",
+        "concreteVisual": "Flow of three labels",
+        "onScreenText": "Dangling threads -> Setup -> A 10 book series",
+        "relationToPrevious": "Concludes the criticism",
+        "addedInformation": "Cause to effect chain"
+      }
+    },
+    {
+      "i": 211,
+      "narration": "It is a massive ask, but if you make it through, if you accept the terms of the world, the payoff is profound.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "THE PAYOFF IS PROFOUND",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "happy",
+      "action": "celebrate",
+      "storyboard": {
+        "claim": "If you make it through, the payoff is profound",
+        "concreteVisual": "Whiskeyjack happy, arms raised",
+        "onScreenText": "THE PAYOFF IS PROFOUND",
+        "relationToPrevious": "Reversal from the criticism",
+        "addedInformation": "Positive turn"
+      }
+    },
+    {
+      "i": 212,
+      "narration": "It really is. You spend the whole book waiting for someone to sit down and explain the map to you. You want the wizard in the tower to lay out the quest.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "A WIZARD IN THE TOWER",
+        "style": "reveal"
+      },
+      "cast": [
+        "tattersail"
+      ],
+      "expression": "worried",
+      "action": "idle",
+      "storyboard": {
+        "claim": "Waiting for someone to explain the map and the quest",
+        "concreteVisual": "Tattersail, silent and worried",
+        "onScreenText": "A WIZARD IN THE TOWER",
+        "relationToPrevious": "Reader's expectation",
+        "addedInformation": "weak: expectation not drawn"
+      }
+    },
+    {
+      "i": 213,
+      "narration": "But by the end, you realize the brilliance of Steven Ericson. He didn't write a book about the people who draw the maps.",
+      "concept": null,
+      "diagram": {
+        "type": "sorter",
+        "labels": [
+          "Draw the maps",
+          "Bleed to redraw them"
+        ]
+      },
+      "callout": null,
+      "cast": [],
+      "storyboard": {
+        "claim": "Not about people who draw maps but who bleed to redraw",
+        "concreteVisual": "Sorter with two buckets",
+        "onScreenText": "Draw the maps / Bleed to redraw them",
+        "relationToPrevious": "Reveals the brilliance",
+        "addedInformation": "Two groups contrasted"
+      }
+    },
+    {
+      "i": 214,
+      "narration": "He wrote a book about the people who have to bleed in the dirt to redraw them. Consider how Ericson treats you, the reader, from page one. You aren't treated like a god looking down from the clouds with perfect clarity.",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "BLEED IN THE DIRT",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack"
+      ],
+      "expression": "sad",
+      "action": "slump",
+      "storyboard": {
+        "claim": "People who bleed in the dirt to redraw maps",
+        "concreteVisual": "Whiskeyjack bowed, sad",
+        "onScreenText": "BLEED IN THE DIRT",
+        "relationToPrevious": "From the contrast to its bearer",
+        "addedInformation": "Person who is the second bucket"
+      }
+    },
+    {
+      "i": 215,
+      "narration": "You are treated exactly like a new recruit assigned to the bridge burners. You are handed a weapon, shoved into the trench, and told to keep up while the magic explodes around you. The real question this book asks isn't",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "HANDED A WEAPON",
+        "style": "reveal"
+      },
+      "cast": [
+        "whiskeyjack",
+        "pin"
+      ],
+      "expression": "angry",
+      "action": "point",
+      "partnerExpression": "surprised",
+      "storyboard": {
+        "claim": "The reader is a new recruit handed a weapon and shoved into the trench",
+        "concreteVisual": "Veteran points, recruit startled",
+        "onScreenText": "HANDED A WEAPON",
+        "relationToPrevious": "Reader as recruit",
+        "addedInformation": "The pair shows who is the new one"
+      }
+    },
+    {
+      "i": 216,
+      "narration": "if you understand the lore. The question is, did you survive your first",
+      "concept": null,
+      "diagram": null,
+      "callout": {
+        "text": "DID YOU SURVIVE",
+        "style": "reveal"
+      },
+      "cast": [
+        "pin"
+      ],
+      "expression": "afraid",
+      "action": "idle",
+      "storyboard": {
+        "claim": "The question is did you survive your first",
+        "concreteVisual": "Pin afraid",
+        "onScreenText": "DID YOU SURVIVE",
+        "relationToPrevious": "Final question",
+        "addedInformation": "Ends on the recruit"
+      }
+    }
+  ]
+}

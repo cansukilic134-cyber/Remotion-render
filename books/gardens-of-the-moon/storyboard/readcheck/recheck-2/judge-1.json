@@ -1,0 +1,104 @@
+[
+ {
+  "id": "b001",
+  "narration": "burning in brazers just to ward off the biting chill because the wind has turned overnight. Exactly. The wind turned so you are breathing all of it in and you're looking up at a floating mountain made of black stone called moonspan",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "place": "horizon",
+   "words": "A floating black mountain"
+  },
+  "viewerGuess": "The narrator introduces a huge black fortress floating in the sky, which a frightened soldier watches from the horizon."
+ },
+ {
+  "id": "b002",
+  "narration": "which is terrifying. It is. And nobody is explaining the grand strategy to you. Nobody is telling you if you're going to live through the next 5 minutes let alone the rest of the You're just waiting just waiting for the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "place": "horizon",
+   "words": "Waiting for the sky to fall"
+  },
+  "viewerGuess": "The soldier and his people wait in dread, expecting the floating fortress to fall on them."
+ },
+ {
+  "id": "b003",
+  "narration": "And Pale is being guarded by that floating basalt fortress. Moonspawn. Moonspawn and its lord",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "place": "horizon",
+   "words": "Moon Spawn guards the city of Pale"
+  },
+  "viewerGuess": "A floating fortress called Moon Spawn hangs over and guards the city of Pale, and the soldier fears it."
+ },
+ {
+  "id": "b004",
+  "narration": "Total chaos. You have high mage Tan unleashing literal waves of golden flame from the center hill and Anamander Rake responding from moonspawn with black writhing necess waves of magic.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young woman mage",
+     "face": "afraid",
+     "body": "reach"
+    },
+    {
+     "looks": "a tall pale-skinned man with black hair",
+     "face": "angry",
+     "body": "point"
+    }
+   ],
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "words": "Tattersail fights Rake with flame"
+  },
+  "viewerGuess": "A young woman mage, Tattersail, desperately fights a tall, pale, angry man, Rake, using fire magic."
+ },
+ {
+  "id": "b005",
+  "narration": "They are absolutely terrified of the powers they are caught between. When Anamander Rakes sorcery hits, Tatterale and Kallet are just desperately pooling their power to stop from being instantly annihilated by the pressure.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young woman mage",
+     "face": "afraid",
+     "body": "reach"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "afraid",
+     "body": "reach"
+    }
+   ],
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "words": "Pooling their power"
+  },
+  "viewerGuess": "The mage and another man join their magical powers together, both straining with fear."
+ },
+ {
+  "id": "b006",
+  "narration": "And Moonspawn, smoking in a blaze in a dozen places, is simply pulling away, drifting south. The conflict isn't over.",
+  "onScreen": {
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "words": "DRIFTING SOUTH"
+  },
+  "viewerGuess": "The narrator says the floating fortress is moving slowly south."
+ }
+]

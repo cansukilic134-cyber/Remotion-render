@@ -1,0 +1,80 @@
+[
+ {
+  "id": "b001",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "place": "horizon",
+  "words": "A floating black mountain"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "place": "horizon",
+  "words": "Waiting for the sky to fall"
+ },
+ {
+  "id": "b003",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "place": "horizon",
+  "words": "Moon Spawn guards the city of Pale"
+ },
+ {
+  "id": "b004",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "a tall pale-skinned man with black hair",
+    "face": "angry",
+    "body": "point"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "words": "Tattersail fights Rake with flame"
+ },
+ {
+  "id": "b005",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "reach"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "afraid",
+    "body": "reach"
+   }
+  ],
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "words": "Pooling their power"
+ },
+ {
+  "id": "b006",
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "words": "DRIFTING SOUTH"
+ }
+]

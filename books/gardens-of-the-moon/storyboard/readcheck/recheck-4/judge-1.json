@@ -1,0 +1,143 @@
+[
+ {
+  "id": "b001",
+  "narration": "He realizes very quickly and very violently that he is completely out of his depth.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a storm cloud with lightning",
+   "words": "Out of his depth"
+  },
+  "viewerGuess": "A veteran soldier is frightened and overwhelmed, facing a situation far beyond his abilities."
+ },
+ {
+  "id": "b002",
+  "narration": "And his howl of rage is instantly muted by the deafening noise at the It is sudden. It is violent. And it's completely devoid of any narrative It is the exact equivalent of",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "angry",
+     "body": "talk"
+    }
+   ],
+   "icon": "a tank / battlefield",
+   "words": "Rage drowned by the noise"
+  },
+  "viewerGuess": "The soldier's anger at the chaos of battle is lost amid the noise of war."
+ },
+ {
+  "id": "b003",
+  "narration": "That umbrella analogy is so perfect because whether it is a regular iron sword in your hand or a magical Warren you are desperately tapping into, the reality is exactly the same.",
+  "onScreen": {
+   "icon": "a shield",
+   "words": "Sword or magic, same"
+  },
+  "viewerGuess": "Whether fighting with swords or magic, defense and the outcome are essentially the same."
+ },
+ {
+  "id": "b004",
+  "narration": "You are small. The forces around you are and the world only makes sense from that trench level perspective. And if the magic doesn't get you, the political machinery of your own side will.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a tank / battlefield",
+   "words": "Seen from the trench"
+  },
+  "viewerGuess": "The war is described from the grim, weary view of a soldier in the trenches."
+ },
+ {
+  "id": "b005",
+  "narration": "sickening. He sees the signs of absolute terror on the horses, right? The crusted foam, the glittering carpet of blood and feces.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "flames",
+   "place": "street",
+   "words": "Terror, foam and blood"
+  },
+  "viewerGuess": "A young soldier is terrified by the burning, bloody chaos of a street battle."
+ },
+ {
+  "id": "b006",
+  "narration": "You would think an elder god could just snap his fingers and smite it. Right. But cruel flatly admits he has no power to assist Anomor Rake directly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tall pale-skinned man with black hair",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "chain links",
+   "place": "horizon",
+   "words": "No power to help Rake"
+  },
+  "viewerGuess": "A pale dark-haired man is worried and powerless to free or help his friend Rake from bondage."
+ },
+ {
+  "id": "b007",
+  "narration": "He says, \"I am manifest in the sanctified place and manifest in a lone mortal dreams, but nowhere else.\" The god is fundamentally constrained.",
+  "onScreen": {
+   "icon": "a glowing star",
+   "words": "Only in a mortal's dreams"
+  },
+  "viewerGuess": "Something magical or hopeful appears only in the dreams of ordinary mortals."
+ },
+ {
+  "id": "b008",
+  "narration": "You aren't given a history lesson. You aren't spoonfed the grand strategy of the Genevacis campaign. You are dropped halfway through a marathon,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "walk"
+    }
+   ],
+   "icon": "a road",
+   "words": "Dropped mid-marathon"
+  },
+  "viewerGuess": "The soldier is abruptly left to walk a long road on his own, dropped in the middle of a long journey."
+ },
+ {
+  "id": "b009",
+  "narration": "of their devotion to the true The label of bridge burner is earned, not assigned.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "talk"
+    }
+   ],
+   "icon": "a trophy",
+   "words": "Earned, not assigned"
+  },
+  "viewerGuess": "A soldier explains that his rank or honor was earned rather than handed to him."
+ },
+ {
+  "id": "b010",
+  "narration": "The black armored Morantha are marching in to slaughter the citizens. And we should explain the Moranth. They are these enigmatic insectile armored allies of the Molassins who use devastating",
+  "onScreen": {
+   "icon": "a tank / battlefield",
+   "words": "Moranth march to slaughter"
+  },
+  "viewerGuess": "An army marches off to be slaughtered in battle."
+ }
+]

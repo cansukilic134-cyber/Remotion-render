@@ -1,0 +1,1075 @@
+[
+ {
+  "id": "b141",
+  "narration": "They literally resurrect They do. They pluck a man back from the gates of death. They spin a coin and he breathes again.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "neutral",
+     "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+    }
+   ],
+   "icon": "a gold coin",
+   "place": "horizon",
+   "words": "Spin a coin: he breathes"
+  },
+  "viewerGuess": "A character is knocked out, and a coin spin decides whether he lives."
+ },
+ {
+  "id": "b142",
+  "narration": "If a being can casually reverse death, aren't they in total control of the board? They have immense localized power.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "Total control of the board?"
+  },
+  "viewerGuess": "Does someone really have total control of the game board?"
+ },
+ {
+  "id": "b143",
+  "narration": "Yes. But look at why they do it and what they actually say to PN. Okay. Opin admits that they are just playing with this stumbling ignorant thing you call your life because they delight in uncertainty.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "place": "horizon",
+   "words": "Delight in uncertainty"
+  },
+  "viewerGuess": "The schemer delights in uncertainty, while a soldier looks uneasy."
+ },
+ {
+  "id": "b144",
+  "narration": "They explicitly tell Shadow Throne that they don't know the outcome of this They resurrect Piran simply to blindside Shadow Throne and throw a wrench in his plans. They don't have a grand design for Piran's",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Resurrect Pin / Blindside Shadow Throne / Wrench in his plans"
+  },
+  "viewerGuess": "A chain of schemes: resurrect a pin, blindside the throne, throw a wrench in plans."
+ },
+ {
+  "id": "b145",
+  "narration": "ultimate destiny. They just want to ruin someone else's immediate plan. They are playing a game of chance,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "place": "horizon",
+   "words": "No grand design"
+  },
+  "viewerGuess": "There is no grand design behind events, which leaves the soldier worried."
+ },
+ {
+  "id": "b146",
+  "narration": "which means they are as blind to the final outcome as anyone else. So, they are just throwing a rock in a pond to see where the ripples go.",
+  "onScreen": {
+   "icon": "water waves",
+   "words": "A rock in a pond"
+  },
+  "viewerGuess": "His actions are like a rock thrown in a pond, making ripples."
+ },
+ {
+  "id": "b147",
+  "narration": "That is terrifying if you are the rock. It ties it all together perfectly.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "water waves",
+   "place": "horizon",
+   "words": "Terrifying for the rock"
+  },
+  "viewerGuess": "Being the rock in the pond is terrifying for the person affected."
+ },
+ {
+  "id": "b148",
+  "narration": "Even the gods are just grunts in a larger unseen cosmic war reacting to events they can't fully control. Which perfectly explains the way the book itself is written and how it treats you, the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a tank / battlefield",
+   "place": "horizon",
+   "words": "The gods are grunts"
+  },
+  "viewerGuess": "Even the gods are just grunts in a war."
+ },
+ {
+  "id": "b149",
+  "narration": "reader. This is where we have to talk about the structure because it is infamous in the fantasy community. Let us put you right next to Whiskey Jack for a moment.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "talk"
+    }
+   ],
+   "place": "horizon",
+   "words": "Next to Whiskey Jack"
+  },
+  "viewerGuess": "A veteran soldier talks about someone next to Whiskey Jack."
+ },
+ {
+  "id": "b150",
+  "narration": "Quickban leans in and whispers this terrifying theory that High Mage Taun kept the Burge burners in the collapsing tunnels on purpose during the siege. As a reader, you are just",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "talk"
+    },
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "Taun kept them there"
+  },
+  "viewerGuess": "Two worried men; Taun kept them there against their will."
+ },
+ {
+  "id": "b151",
+  "narration": "hearing this fragment of a conspiracy. You are getting drops of context and you are forced to scramble to figure out why.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Drops of context / Scramble for why"
+  },
+  "viewerGuess": "The reader gets drops of context and scrambles to figure out why."
+ },
+ {
+  "id": "b152",
+  "narration": "Why would a high mage sabotage his own elite troops? You aren't given a flashback. No, you just get the paranoid whisper in the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "afraid",
+     "body": "talk"
+    }
+   ],
+   "words": "A paranoid whisper"
+  },
+  "viewerGuess": "One man whispers paranoid warnings to a soldier."
+ },
+ {
+  "id": "b153",
+  "narration": "This is a highly deliberate choice. Ericson explains this in his own preface to the book. You, the reader, are treated exactly like a new recruit to the squad.",
+  "onScreen": {
+   "icon": "a book",
+   "words": "Like a new recruit"
+  },
+  "viewerGuess": "The reader feels like a new recruit."
+ },
+ {
+  "id": "b154",
+  "narration": "You aren't given a history lesson. You aren't spoonfed the grand strategy of the Genevacis campaign. You are dropped halfway through a marathon,",
+  "onScreen": {
+   "icon": "a road",
+   "words": "Dropped halfway through"
+  },
+  "viewerGuess": "You are dropped halfway into the journey."
+ },
+ {
+  "id": "b155",
+  "narration": "and you have to figure out the rules of survival simply by watching the veterans and listening to their fragmented conversations. It happens over and over. Look at how we discover the assassin war in Dujaan, We don't get a grand omnisient",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "talk"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "Watching the veterans"
+  },
+  "viewerGuess": "The new recruit watches the veterans talk."
+ },
+ {
+  "id": "b156",
+  "narration": "historical charter explaining the assassin's guild and the tarud kabal. No, we just follow crocus",
+  "onScreen": {
+   "icon": "a book",
+   "words": "No grand charter (crossed out)"
+  },
+  "viewerGuess": "There is no grand charter or explanation of the world."
+ },
+ {
+  "id": "b157",
+  "narration": "but teenage thief running across the rooftops at We see the violent fallout of these secret organizations clashing. We see assassins striking out in the dark",
+  "onScreen": {
+   "icon": "an intact city skyline",
+   "place": "street",
+   "words": "Crokus, a teenage thief"
+  },
+  "viewerGuess": "Introducing Crokus, a teenage thief in a city."
+ },
+ {
+  "id": "b158",
+  "narration": "and we have to piece together the political rivalries of Councilman Turban Ore and the alchemist Baroo",
+  "onScreen": {
+   "diagram": "labelled buckets: Councilman Turban Orr / Alchemist Baruk"
+  },
+  "viewerGuess": "Sorting characters like Councilman Turban Orr and Alchemist Baruk into groups."
+ },
+ {
+  "id": "b159",
+  "narration": "entirely through the blood left on the bronze tiles. It is incredibly disorienting. It demands active participation from the reader.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "Blood on the bronze tiles"
+  },
+  "viewerGuess": "There is blood on the bronze tiles after a violent event."
+ },
+ {
+  "id": "b160",
+  "narration": "You are forced to be a detective in a foreign world. You only know what the people in the dirt know. Okay.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young woman mage",
+     "face": "neutral",
+     "body": "hold",
+     "holds": "magnifier"
+    }
+   ],
+   "words": "A detective in a foreign world"
+  },
+  "viewerGuess": "A mage investigates like a detective in a foreign world."
+ },
+ {
+  "id": "b161",
+  "narration": "But as a reader, isn't that just a flaw? Isn't that just overly dense, complicated writing that alienates the I don't think so.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)",
+     "holds": "book"
+    }
+   ],
+   "words": "Isn't that a flaw?"
+  },
+  "viewerGuess": "Isn't this confusing style a flaw in the book?"
+ },
+ {
+  "id": "b162",
+  "narration": "I mean, if I have to read a fan wiki just to understand who is fighting who in chapter 2, hasn't the author failed at basic exposition?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "angry",
+     "body": "hold",
+     "holds": "book"
+    }
+   ],
+   "words": "Has the author failed?"
+  },
+  "viewerGuess": "An angry reader asks whether the author has failed."
+ },
+ {
+  "id": "b163",
+  "narration": "I completely disagree that it is a flaw. It is a design choice that creates unparalleled How so? Think about it.",
+  "onScreen": {
+   "diagram": "labelled buckets: A flaw / A design choice"
+  },
+  "viewerGuess": "Is the confusion a flaw or a design choice?"
+ },
+ {
+  "id": "b164",
+  "narration": "If an author pauses a chaotic siege or a frantic rooftop chase to give you a threepage",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Chaotic siege / Encyclopedia entry"
+  },
+  "viewerGuess": "A chaotic siege is described like an encyclopedia entry."
+ },
+ {
+  "id": "b165",
+  "narration": "encyclopedia entry on the history of the assassin's guilt, it completely shatters the reality of the moment. The characters wouldn't stop to explain things they all already know, right? The confusion you feel as",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Chaotic siege / Encyclopedia entry / Reality shatters"
+  },
+  "viewerGuess": "The chaotic siege turns into an encyclopedia entry and reality shatters."
+ },
+ {
+  "id": "b166",
+  "narration": "a reader is the realism. It mimics the exact fog of war and lack of information that the characters are experiencing.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Reader confusion / Realism"
+  },
+  "viewerGuess": "Reader confusion mirrors realism."
+ },
+ {
+  "id": "b167",
+  "narration": "So, the disorientation is the point. The reader's confusion perfectly mirrors the squad's confusion. We are kept in the dark because again, the world is only honest when you are looking up from the trench. And when you strip away the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "Looking up from the trench"
+  },
+  "viewerGuess": "Two weary soldiers look up from a trench."
+ },
+ {
+  "id": "b168",
+  "narration": "grand narratives, the political clarity, and the divine plans, what is actually left for these soldiers to hold on to? The only thing left is each other. Let us look closely at the dynamic inside",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "words": "Only each other"
+  },
+  "viewerGuess": "In the end, they have only each other."
+ },
+ {
+  "id": "b169",
+  "narration": "the ninth squad. Look at Whiskey Jack, Kalam, and You see these incredibly deadly men.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "talk"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "The ninth squad"
+  },
+  "viewerGuess": "One soldier talks about the ninth squad."
+ },
+ {
+  "id": "b170",
+  "narration": "Kam is a former claw assassin. Quickben is a high mage in hiding. And they are desperately seeking to take the immense weight of command off Whiskey Jack's They know he is a man pushed to the very",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "reach"
+    },
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a big boulder",
+   "words": "The weight of command"
+  },
+  "viewerGuess": "The weight of command presses on a leader while another reaches out."
+ },
+ {
+  "id": "b171",
+  "narration": "edge of his crumbling beliefs. He's exhausted. He is targeted by his own empire,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    },
+    {
+     "looks": "a composed older woman",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "Targeted by his own empire"
+  },
+  "viewerGuess": "A soldier is targeted by his own empire's ruler."
+ },
+ {
+  "id": "b172",
+  "narration": "and his squad is the only thing keeping him from breaking completely. This is the emotional core of the entire book and really the entire When the empire you serve actively wants you dead",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "The emotional core"
+  },
+  "viewerGuess": "These two sad comrades are the emotional core of the story."
+ },
+ {
+  "id": "b173",
+  "narration": "and the gods are literally playing dice with your soul, ideologies lose all meaning. The only reality that actually matters.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Empire wants you dead / Ideologies lose meaning"
+  },
+  "viewerGuess": "When the empire wants you dead, ideologies lose meaning."
+ },
+ {
+  "id": "b174",
+  "narration": "The only thing you can trust is the soldier standing to your left and your right. That unit cohesion becomes a sacred bond.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "A sacred bond"
+  },
+  "viewerGuess": "They share a sacred bond."
+ },
+ {
+  "id": "b175",
+  "narration": "It replaces religion and We see this instinct in the magic users too. Remember Klet and Tatterale on the Oh man.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Unit cohesion / Replaces religion"
+  },
+  "viewerGuess": "Unit cohesion replaces religion."
+ },
+ {
+  "id": "b176",
+  "narration": "Yeah. As this virilent screaming power washes over Tatterale, threatening to crush her mind and body. What happens? It is Kallet who throws his magic to bolster her faltering shield.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "worried",
+     "body": "reach"
+    },
+    {
+     "looks": "a young woman mage",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "words": "Bolstering her faltering shield"
+  },
+  "viewerGuess": "A soldier reaches to bolster a frightened mage's faltering shield."
+ },
+ {
+  "id": "b177",
+  "narration": "He uses the Warren of Mocha, which is normally the magic of illusion and the mind, and he forces it to act as a physical shield.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "angry",
+     "body": "reach"
+    },
+    {
+     "looks": "a young woman mage",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "words": "Illusion forced to be a shield"
+  },
+  "viewerGuess": "A soldier angrily forces a mage's illusion to serve as a shield."
+ },
+ {
+  "id": "b178",
+  "narration": "It is a completely instinctive, desperate act to save a comrade. And the tragedy is it is paid for just moments later when Colot is incinerated by blue fire. He dies protecting his unit.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "afraid",
+     "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+    }
+   ],
+   "icon": "flames",
+   "words": "Dies protecting his unit"
+  },
+  "viewerGuess": "A young soldier dies in flames protecting his unit."
+ },
+ {
+  "id": "b179",
+  "narration": "It highlights that in this meat grinder, the instinct to protect your own is the strongest force there is. Stronger than the fear of the enemy, stronger than the fear of the magic.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "idle"
+    },
+    {
+     "looks": "a young woman mage",
+     "face": "sad",
+     "body": "idle"
+    }
+   ],
+   "words": "Stronger than the fear"
+  },
+  "viewerGuess": "Their bond is stronger than the fear, as they mourn."
+ },
+ {
+  "id": "b180",
+  "narration": "But wait, look at the ninth squad again. Their unit cohesion is terrible. Is it? Look at Sorry. She's a literal supernatural killer.",
+  "onScreen": {
+   "words": "Sorry, a supernatural killer"
+  },
+  "viewerGuess": "Sorry, she is a supernatural killer."
+ },
+ {
+  "id": "b181",
+  "narration": "She was slipped into their ranks and nobody trusts her. They are terrified of her. Whiskey Jack scowls at her. The others flinch when she's near.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "words": "Nobody trusts her"
+  },
+  "viewerGuess": "A soldier points angrily as nobody trusts her."
+ },
+ {
+  "id": "b182",
+  "narration": "How can you say friendship and unit cohesion is what survives when they have a murderous wild card in their own squad and they all hate her?",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Murderous wild card / They all hate her"
+  },
+  "viewerGuess": "She is a murderous wild card and they all hate her."
+ },
+ {
+  "id": "b183",
+  "narration": "That tension with Sorry is exactly the proof of their loyalty to each other. Wait, really? Yes. They don't trust her.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Murderous wild card / They all hate her / Proof of loyalty"
+  },
+  "viewerGuess": "Being hated, she must give proof of loyalty."
+ },
+ {
+  "id": "b184",
+  "narration": "And because they don't trust her, they explicitly refuse to call her a bridge burner. She has been with the squad for 2 years and they still only refer to her as the recruit. Oh wow, that is true.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "words": "Still just the recruit"
+  },
+  "viewerGuess": "Angry veterans insist she is still just the recruit."
+ },
+ {
+  "id": "b185",
+  "narration": "Whiskey Jack understands why. They are fiercely protecting the sacred identity of their found family. To call her a bridge burner would be to pollute the only pure thing they have left. Their rejection of her is the strongest evidence",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "icon": "a shield",
+   "words": "Protecting their found family"
+  },
+  "viewerGuess": "They protect their found family."
+ },
+ {
+  "id": "b186",
+  "narration": "of their devotion to the true The label of bridge burner is earned, not assigned.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "talk"
+    }
+   ],
+   "words": "Earned, not assigned"
+  },
+  "viewerGuess": "A soldier explains that trust is earned, not assigned."
+ },
+ {
+  "id": "b187",
+  "narration": "It is a badge of survival. The only truth you can trust is the squad.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "neutral",
+     "body": "idle"
+    },
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "neutral",
+     "body": "idle"
+    }
+   ],
+   "words": "A badge of survival"
+  },
+  "viewerGuess": "Surviving together is their badge."
+ },
+ {
+  "id": "b188",
+  "narration": "Which proves once more that the real story is happening at the absolute bottom of the hierarchy.",
+  "onScreen": {
+   "diagram": "a scale from one label to another with a marker: Generals and gods / Soldiers in the dirt"
+  },
+  "viewerGuess": "The story sits on a scale between generals and gods and soldiers in the dirt."
+ },
+ {
+  "id": "b189",
+  "narration": "And this ground level reality fundamentally changes how a story like this has to end. Right? Because there is no neat tidy bow at the end of this book.",
+  "onScreen": {
+   "icon": "a wrapped gift",
+   "words": "A neat tidy bow (crossed out)"
+  },
+  "viewerGuess": "The story does not wrap up with a neat tidy bow."
+ },
+ {
+  "id": "b190",
+  "narration": "Let us paint the final image of the siege of Pale which happens early on but sets the pattern for the whole narrative. The city has fallen.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "THE CITY HAS FALLEN"
+  },
+  "viewerGuess": "The city has fallen, and a soldier is grieving."
+ },
+ {
+  "id": "b191",
+  "narration": "The black armored Morantha are marching in to slaughter the citizens. And we should explain the Moranth. They are these enigmatic insectile armored allies of the Molassins who use devastating",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "words": "BLACK ARMORED MORANTH"
+  },
+  "viewerGuess": "A frightened soldier faces black armored Moranth."
+ },
+ {
+  "id": "b192",
+  "narration": "alchemical explosives. They are buzzing and clicking as they march in.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "BUZZING AND CLICKING"
+  },
+  "viewerGuess": "A worried soldier hears buzzing and clicking."
+ },
+ {
+  "id": "b193",
+  "narration": "And Moonspawn, smoking in a blaze in a dozen places, is simply pulling away, drifting south. The conflict isn't over.",
+  "onScreen": {
+   "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+   "words": "DRIFTING SOUTH"
+  },
+  "viewerGuess": "A black floating fortress drifts south."
+ },
+ {
+  "id": "b194",
+  "narration": "It just This is the reality of being a soldier. A victory doesn't mean happily ever after. It doesn't mean you get to go home and farm. For a grunt, a victory just means you get your marching orders to the next city, the",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "icon": "a road",
+   "words": "MARCHING ORDERS"
+  },
+  "viewerGuess": "A sad soldier receives marching orders along a road."
+ },
+ {
+  "id": "b195",
+  "narration": "next siege, the next nightmare. There is no ultimate resolution because the empire's appetite is endless. We see the exact same thing at the end of the book in Daran.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a composed older woman",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "THE EMPIRE'S APPETITE"
+  },
+  "viewerGuess": "A smirking ruler shows the empire's appetite."
+ },
+ {
+  "id": "b196",
+  "narration": "We get these massive explosive climaxes. The Fett, the ancient demon lord race tearing things up, and Amanda Rake veering into a massive dragon.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a tall pale-skinned man with black hair",
+     "face": "angry",
+     "body": "idle"
+    }
+   ],
+   "icon": "flames",
+   "words": "MASSIVE EXPLOSIVE CLIMAXES"
+  },
+  "viewerGuess": "A pale angry man brings massive explosive climaxes."
+ },
+ {
+  "id": "b197",
+  "narration": "But the underlying geopolitical tension, the Malazin advance, the presence of the mercenary crimson guard,",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "THE CRIMSON GUARD"
+  },
+  "viewerGuess": "A soldier worries about the Crimson Guard."
+ },
+ {
+  "id": "b198",
+  "narration": "it all remains. The board is just reset for the next campaign. The characters survive the night, but the war is still looming on the horizon.",
+  "onScreen": {
+   "icon": "a game controller / board game",
+   "words": "THE BOARD IS RESET"
+  },
+  "viewerGuess": "The board is reset after the events."
+ },
+ {
+  "id": "b199",
+  "narration": "The macrolevel conflict is left intentionally unresolved because for the people we are following, war is a permanent state of being.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "blank",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "WAR IS PERMANENT"
+  },
+  "viewerGuess": "War is permanent, says a numb soldier."
+ },
+ {
+  "id": "b200",
+  "narration": "But hold on. If the Malazan Empire isn't defeated and they don't conquer the continent, as a reader, I'm thinking, did I just read a 700page prologue?",
+  "onScreen": {
+   "icon": "a book",
+   "words": "A 700 PAGE PROLOGUE"
+  },
+  "viewerGuess": "The book is a 700 page prologue."
+ },
+ {
+  "id": "b201",
+  "narration": "It can feel that way. It feels incomplete. Don't we deserve a climax that actually changes the world?",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "FEELS INCOMPLETE"
+  },
+  "viewerGuess": "The ending feels incomplete to a worried reader."
+ },
+ {
+  "id": "b202",
+  "narration": "I would argue it has a massive satisfying climax. The character arcs resolve. Crocus makes his choice about his future.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "happy",
+     "body": "celebrate"
+    }
+   ],
+   "words": "THE CHARACTER ARCS RESOLVE"
+  },
+  "viewerGuess": "The character arcs resolve happily."
+ },
+ {
+  "id": "b203",
+  "narration": "Rick completes his mission. The immediate localized threat to Darushan is neutralized. What is left unresolved are the macro",
+  "onScreen": {
+   "diagram": "labelled buckets: Mission accomplished / Local threat gone / Macro politics remain"
+  },
+  "viewerGuess": "Mission accomplished and local threat gone, but macro politics remain."
+ },
+ {
+  "id": "b204",
+  "narration": "politics, the movements of armies and empires. The story is complete for the characters in the moment. They survive the immediate crisis, but the war machine itself never To wrap up the",
+  "onScreen": {
+   "diagram": "labelled buckets: Mission accomplished / Local threat gone / Macro politics remain / War machine goes on"
+  },
+  "viewerGuess": "Macro politics remain, so the war machine goes on."
+ },
+ {
+  "id": "b205",
+  "narration": "entire geopolitical war in one book would betray the gritty realism Ericson has built. It would feel cheap. That makes a lot of sense.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "IT WOULD FEEL CHEAP"
+  },
+  "viewerGuess": "A tidy ending would feel cheap."
+ },
+ {
+  "id": "b206",
+  "narration": "You only get to survive the day. You don't get to end the war. Now, despite how brilliant the structure is, we do have to offer one honest structural criticism based on the text itself.",
+  "onScreen": {
+   "diagram": "labelled buckets: Survive the day / End the war"
+  },
+  "viewerGuess": "The soldiers' goal is to survive the day, not end the war."
+ },
+ {
+  "id": "b207",
+  "narration": "Yeah, we have to talk about the learning curve because the cast is undeniably It is massive, dropping the reader in media rays into a sprawling magical war with zero handholding",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "words": "THE CAST IS MASSIVE"
+  },
+  "viewerGuess": "The cast is massive, to a surprised reader."
+ },
+ {
+  "id": "b208",
+  "narration": "means that a lot of readers will simply bounce off the first third of the novel. It is incredibly dense, very dense.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a wiry middle-aged man",
+     "face": "worried",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "VERY DENSE"
+  },
+  "viewerGuess": "The book is very dense."
+ },
+ {
+  "id": "b209",
+  "narration": "And furthermore, elements like the ancient history of the Tlan Emas, these undead Neanderl warriors,",
+  "onScreen": {
+   "icon": "a book",
+   "words": "THE ANCIENT TLAN IMASS"
+  },
+  "viewerGuess": "The ancient Tlan Imass appear in the book."
+ },
+ {
+  "id": "b210",
+  "narration": "or the broader offscreen machinations of Empress Leine, clearly feel like threads that are intentionally left dangling",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a composed older woman",
+     "face": "smirk",
+     "body": "idle"
+    }
+   ],
+   "words": "LEFT DANGLING"
+  },
+  "viewerGuess": "Plot threads are left dangling by a scheming woman."
+ },
+ {
+  "id": "b211",
+  "narration": "to justify a massive 10 book series. It can make this first volume feel overwhelmingly like setup. It is a massive ask for a reader to just trust the author.",
+  "onScreen": {
+   "diagram": "arrows linking labels in a chain: Dangling threads / Setup / A 10 book series"
+  },
+  "viewerGuess": "Dangling threads are setup for a ten-book series."
+ },
+ {
+  "id": "b212",
+  "narration": "It is a massive ask, but if you make it through, if you accept the terms of the world, the payoff is profound.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "happy",
+     "body": "celebrate"
+    }
+   ],
+   "words": "THE PAYOFF IS PROFOUND"
+  },
+  "viewerGuess": "The payoff is profound, and a soldier celebrates."
+ },
+ {
+  "id": "b213",
+  "narration": "It really is. You spend the whole book waiting for someone to sit down and explain the map to you. You want the wizard in the tower to lay out the quest.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young woman mage",
+     "face": "worried",
+     "body": "idle"
+    }
+   ],
+   "words": "A WIZARD IN THE TOWER"
+  },
+  "viewerGuess": "A wizard sits in a tower, worried."
+ },
+ {
+  "id": "b214",
+  "narration": "But by the end, you realize the brilliance of Steven Ericson. He didn't write a book about the people who draw the maps.",
+  "onScreen": {
+   "diagram": "labelled buckets: Draw the maps / Bleed to redraw them"
+  },
+  "viewerGuess": "Some draw the maps, others bleed to redraw them."
+ },
+ {
+  "id": "b215",
+  "narration": "He wrote a book about the people who have to bleed in the dirt to redraw them. Consider how Ericson treats you, the reader, from page one. You aren't treated like a god looking down from the clouds with perfect clarity.",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "sad",
+     "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+    }
+   ],
+   "words": "BLEED IN THE DIRT"
+  },
+  "viewerGuess": "Soldiers bleed in the dirt."
+ },
+ {
+  "id": "b216",
+  "narration": "You are treated exactly like a new recruit assigned to the bridge burners. You are handed a weapon, shoved into the trench, and told to keep up while the magic explodes around you. The real question this book asks isn't",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a weathered middle-aged soldier",
+     "face": "angry",
+     "body": "point"
+    },
+    {
+     "looks": "a young soldier",
+     "face": "surprised",
+     "body": "idle"
+    }
+   ],
+   "words": "HANDED A WEAPON"
+  },
+  "viewerGuess": "An angry veteran hands a surprised young soldier a weapon."
+ },
+ {
+  "id": "b217",
+  "narration": "if you understand the lore. The question is, did you survive your first",
+  "onScreen": {
+   "people": [
+    {
+     "looks": "a young soldier",
+     "face": "afraid",
+     "body": "idle"
+    }
+   ],
+   "words": "DID YOU SURVIVE"
+  },
+  "viewerGuess": "Did you survive? asks the frightened young soldier."
+ }
+]

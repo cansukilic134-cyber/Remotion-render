@@ -1,0 +1,767 @@
+[
+ {
+  "id": "b141",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "neutral",
+    "body": "lying flat on the floor, one arm flung out, eyes shut (fallen / knocked out)"
+   }
+  ],
+  "icon": "a gold coin",
+  "place": "horizon",
+  "words": "Spin a coin: he breathes"
+ },
+ {
+  "id": "b142",
+  "icon": "a game controller / board game",
+  "words": "Total control of the board?"
+ },
+ {
+  "id": "b143",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "place": "horizon",
+  "words": "Delight in uncertainty"
+ },
+ {
+  "id": "b144",
+  "diagram": "arrows linking labels in a chain: Resurrect Pin / Blindside Shadow Throne / Wrench in his plans"
+ },
+ {
+  "id": "b145",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "place": "horizon",
+  "words": "No grand design"
+ },
+ {
+  "id": "b146",
+  "icon": "water waves",
+  "words": "A rock in a pond"
+ },
+ {
+  "id": "b147",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "water waves",
+  "place": "horizon",
+  "words": "Terrifying for the rock"
+ },
+ {
+  "id": "b148",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a tank / battlefield",
+  "place": "horizon",
+  "words": "The gods are grunts"
+ },
+ {
+  "id": "b149",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "place": "horizon",
+  "words": "Next to Whiskey Jack"
+ },
+ {
+  "id": "b150",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "talk"
+   },
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "Taun kept them there"
+ },
+ {
+  "id": "b151",
+  "diagram": "arrows linking labels in a chain: Drops of context / Scramble for why"
+ },
+ {
+  "id": "b152",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "afraid",
+    "body": "talk"
+   }
+  ],
+  "words": "A paranoid whisper"
+ },
+ {
+  "id": "b153",
+  "icon": "a book",
+  "words": "Like a new recruit"
+ },
+ {
+  "id": "b154",
+  "icon": "a road",
+  "words": "Dropped halfway through"
+ },
+ {
+  "id": "b155",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "Watching the veterans"
+ },
+ {
+  "id": "b156",
+  "icon": "a book",
+  "words": "No grand charter (crossed out)"
+ },
+ {
+  "id": "b157",
+  "icon": "an intact city skyline",
+  "place": "street",
+  "words": "Crokus, a teenage thief"
+ },
+ {
+  "id": "b158",
+  "diagram": "labelled buckets: Councilman Turban Orr / Alchemist Baruk"
+ },
+ {
+  "id": "b159",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "Blood on the bronze tiles"
+ },
+ {
+  "id": "b160",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "neutral",
+    "body": "hold",
+    "holds": "magnifier"
+   }
+  ],
+  "words": "A detective in a foreign world"
+ },
+ {
+  "id": "b161",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)",
+    "holds": "book"
+   }
+  ],
+  "words": "Isn't that a flaw?"
+ },
+ {
+  "id": "b162",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "angry",
+    "body": "hold",
+    "holds": "book"
+   }
+  ],
+  "words": "Has the author failed?"
+ },
+ {
+  "id": "b163",
+  "diagram": "labelled buckets: A flaw / A design choice"
+ },
+ {
+  "id": "b164",
+  "diagram": "arrows linking labels in a chain: Chaotic siege / Encyclopedia entry"
+ },
+ {
+  "id": "b165",
+  "diagram": "arrows linking labels in a chain: Chaotic siege / Encyclopedia entry / Reality shatters"
+ },
+ {
+  "id": "b166",
+  "diagram": "arrows linking labels in a chain: Reader confusion / Realism"
+ },
+ {
+  "id": "b167",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "Looking up from the trench"
+ },
+ {
+  "id": "b168",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "words": "Only each other"
+ },
+ {
+  "id": "b169",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "talk"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "The ninth squad"
+ },
+ {
+  "id": "b170",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "reach"
+   },
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a big boulder",
+  "words": "The weight of command"
+ },
+ {
+  "id": "b171",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   },
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "Targeted by his own empire"
+ },
+ {
+  "id": "b172",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "The emotional core"
+ },
+ {
+  "id": "b173",
+  "diagram": "arrows linking labels in a chain: Empire wants you dead / Ideologies lose meaning"
+ },
+ {
+  "id": "b174",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "A sacred bond"
+ },
+ {
+  "id": "b175",
+  "diagram": "arrows linking labels in a chain: Unit cohesion / Replaces religion"
+ },
+ {
+  "id": "b176",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "worried",
+    "body": "reach"
+   },
+   {
+    "looks": "a young woman mage",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "words": "Bolstering her faltering shield"
+ },
+ {
+  "id": "b177",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "angry",
+    "body": "reach"
+   },
+   {
+    "looks": "a young woman mage",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "words": "Illusion forced to be a shield"
+ },
+ {
+  "id": "b178",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "tipped over backwards in mid-air, arms flailing, motion lines (falling)"
+   }
+  ],
+  "icon": "flames",
+  "words": "Dies protecting his unit"
+ },
+ {
+  "id": "b179",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "idle"
+   },
+   {
+    "looks": "a young woman mage",
+    "face": "sad",
+    "body": "idle"
+   }
+  ],
+  "words": "Stronger than the fear"
+ },
+ {
+  "id": "b180",
+  "words": "Sorry, a supernatural killer"
+ },
+ {
+  "id": "b181",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "Nobody trusts her"
+ },
+ {
+  "id": "b182",
+  "diagram": "arrows linking labels in a chain: Murderous wild card / They all hate her"
+ },
+ {
+  "id": "b183",
+  "diagram": "arrows linking labels in a chain: Murderous wild card / They all hate her / Proof of loyalty"
+ },
+ {
+  "id": "b184",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "words": "Still just the recruit"
+ },
+ {
+  "id": "b185",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "icon": "a shield",
+  "words": "Protecting their found family"
+ },
+ {
+  "id": "b186",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "talk"
+   }
+  ],
+  "words": "Earned, not assigned"
+ },
+ {
+  "id": "b187",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "A badge of survival"
+ },
+ {
+  "id": "b188",
+  "diagram": "a scale from one label to another with a marker: Generals and gods / Soldiers in the dirt"
+ },
+ {
+  "id": "b189",
+  "icon": "a wrapped gift",
+  "words": "A neat tidy bow (crossed out)"
+ },
+ {
+  "id": "b190",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "THE CITY HAS FALLEN"
+ },
+ {
+  "id": "b191",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "BLACK ARMORED MORANTH"
+ },
+ {
+  "id": "b192",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "BUZZING AND CLICKING"
+ },
+ {
+  "id": "b193",
+  "icon": "a black stone fortress with towers and battlements, floating high above the ground",
+  "words": "DRIFTING SOUTH"
+ },
+ {
+  "id": "b194",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "icon": "a road",
+  "words": "MARCHING ORDERS"
+ },
+ {
+  "id": "b195",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "THE EMPIRE'S APPETITE"
+ },
+ {
+  "id": "b196",
+  "people": [
+   {
+    "looks": "a tall pale-skinned man with black hair",
+    "face": "angry",
+    "body": "idle"
+   }
+  ],
+  "icon": "flames",
+  "words": "MASSIVE EXPLOSIVE CLIMAXES"
+ },
+ {
+  "id": "b197",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "THE CRIMSON GUARD"
+ },
+ {
+  "id": "b198",
+  "icon": "a game controller / board game",
+  "words": "THE BOARD IS RESET"
+ },
+ {
+  "id": "b199",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "blank",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "WAR IS PERMANENT"
+ },
+ {
+  "id": "b200",
+  "icon": "a book",
+  "words": "A 700 PAGE PROLOGUE"
+ },
+ {
+  "id": "b201",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "FEELS INCOMPLETE"
+ },
+ {
+  "id": "b202",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "happy",
+    "body": "celebrate"
+   }
+  ],
+  "words": "THE CHARACTER ARCS RESOLVE"
+ },
+ {
+  "id": "b203",
+  "diagram": "labelled buckets: Mission accomplished / Local threat gone / Macro politics remain"
+ },
+ {
+  "id": "b204",
+  "diagram": "labelled buckets: Mission accomplished / Local threat gone / Macro politics remain / War machine goes on"
+ },
+ {
+  "id": "b205",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "IT WOULD FEEL CHEAP"
+ },
+ {
+  "id": "b206",
+  "diagram": "labelled buckets: Survive the day / End the war"
+ },
+ {
+  "id": "b207",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "words": "THE CAST IS MASSIVE"
+ },
+ {
+  "id": "b208",
+  "people": [
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "worried",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "VERY DENSE"
+ },
+ {
+  "id": "b209",
+  "icon": "a book",
+  "words": "THE ANCIENT TLAN IMASS"
+ },
+ {
+  "id": "b210",
+  "people": [
+   {
+    "looks": "a composed older woman",
+    "face": "smirk",
+    "body": "idle"
+   }
+  ],
+  "words": "LEFT DANGLING"
+ },
+ {
+  "id": "b211",
+  "diagram": "arrows linking labels in a chain: Dangling threads / Setup / A 10 book series"
+ },
+ {
+  "id": "b212",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "happy",
+    "body": "celebrate"
+   }
+  ],
+  "words": "THE PAYOFF IS PROFOUND"
+ },
+ {
+  "id": "b213",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "worried",
+    "body": "idle"
+   }
+  ],
+  "words": "A WIZARD IN THE TOWER"
+ },
+ {
+  "id": "b214",
+  "diagram": "labelled buckets: Draw the maps / Bleed to redraw them"
+ },
+ {
+  "id": "b215",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "sad",
+    "body": "standing on their feet, leaning forward, head bowed, arms hanging (a posture, not a fall)"
+   }
+  ],
+  "words": "BLEED IN THE DIRT"
+ },
+ {
+  "id": "b216",
+  "people": [
+   {
+    "looks": "a weathered middle-aged soldier",
+    "face": "angry",
+    "body": "point"
+   },
+   {
+    "looks": "a young soldier",
+    "face": "surprised",
+    "body": "idle"
+   }
+  ],
+  "words": "HANDED A WEAPON"
+ },
+ {
+  "id": "b217",
+  "people": [
+   {
+    "looks": "a young soldier",
+    "face": "afraid",
+    "body": "idle"
+   }
+  ],
+  "words": "DID YOU SURVIVE"
+ }
+]

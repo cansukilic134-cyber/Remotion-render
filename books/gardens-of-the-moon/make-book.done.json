@@ -1,0 +1,32 @@
+{
+  "status": "done",
+  "startedAt": "2026-11-06T11:52:54.870Z",
+  "at": "2026-11-06T11:54:16.847Z",
+  "config": "config.antidote.json",
+  "configSha256": "e94fc5a6c0880f668c2e474d2a746b3be3ae12710baefafe627829cf189b8da3",
+  "inputs": {
+    "storyboard": {
+      "path": "books/gardens-of-the-moon/art.json",
+      "sha256": "14c38838b6810edd35020e9003593df12a10160c97e4f5e7e2956525798b6af4"
+    },
+    "storyBible": {
+      "path": "books/gardens-of-the-moon/story-bible.json",
+      "sha256": "cd6dc591600eaebf289bc98cd9983b4e0ace3973beff372288bcc6a5da88b572"
+    },
+    "motifs": {
+      "path": "books/gardens-of-the-moon/motifs.json",
+      "sha256": "0aef025f7b5bae6bd8b4a5e9e150c94e3a05a73aa1b44013733774ebbd96fde8"
+    },
+    "vtt": {
+      "path": "public/captions/gardens-of-the-moon.vtt",
+      "sha256": "3935a1df96b558e80dbb424ac31fa9eddc1c0cd541557fb683e26d8c2857b819"
+    },
+    "audio": {
+      "path": "public/audio/gardens-of-the-moon.mp3",
+      "sha256": "2b7933d3713b961a3806aca132805418b06c94e70e7c8b3cf291e1175ad99951"
+    }
+  },
+  "head": "55748c9bd183ee20a20956c3e62946b72125a7cc",
+  "previewOnly": true,
+  "skipPack": true
+}

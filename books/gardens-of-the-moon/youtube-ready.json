@@ -1,0 +1,13 @@
+{
+  "slug": "gardens-of-the-moon",
+  "status": "READY",
+  "at": "2026-11-06T14:47:41.918Z",
+  "metaSha256": "107642a752000dccd1169bf2e4070e81557c79b046d89fe9870922bffcfafec7",
+  "mdSha256": "b6a93c87181be6970641be75e35bb1b0143e95748c1839d9eaa696b1d3a9fb3b",
+  "cleanVttSha256": "7140c8bf84534eda550f17e67019a3e1e0578108679b55d4cdd6cd9d42ce57af",
+  "errors": [],
+  "warnings": [
+    "TITLES UNANCHORED_ANGLE #4: counter-narrative wording but no book-specific anchor from the narration (does not count as an angle) — \"Gardens of the Moon Analysis by Steven Erikson: The 1,300 Bridgeburners Nobody Counts\"",
+    "HOOK_UNVERIFIED: no books/gardens-of-the-moon/thumbnail-check.json — run render-thumbnails.js (it checks the hook pixels in every variant)"
+  ]
+}

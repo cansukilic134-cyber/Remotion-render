@@ -1,0 +1,71 @@
+{
+  "runs": [
+    {
+      "label": "final",
+      "date": "2026-11-06T11:41:16.065Z",
+      "n": 30,
+      "totals": {
+        "NEUTRAL": 11,
+        "TEXT_ONLY": 11,
+        "CORRECT": 14,
+        "ADDS": 15,
+        "WRONG": 5,
+        "NONE": 4,
+        "EXPLAINS": 3
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": false,
+      "sample": "fresh",
+      "sealed": true,
+      "sealSha256": "c8bdb92cfc045ac58afe48180521b43c1c73063876a241bb6d68eb65326ccccd",
+      "verdict": false,
+      "dead": 4,
+      "addsTargetMet": false,
+      "evidenceSha256": "772e048491265b9c252a67a9bdbff5c9e8f52e68a643f50ad407749079786385",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 50,
+      "configSha256": "f447c100c5db30dc5aa2d51702d48746997b2c4e8731e1b1a6c575a3cdd22880",
+      "renderInputHash": "1e25205c75b36f74",
+      "codeHead": "55748c9bd183ee20a20956c3e62946b72125a7cc",
+      "framesConfigSha": "f447c100c5db30dc"
+    },
+    {
+      "label": "run2",
+      "date": "2026-11-06T12:15:59.919Z",
+      "n": 30,
+      "totals": {
+        "CORRECT": 24,
+        "ADDS": 21,
+        "NEUTRAL": 6,
+        "NONE": 5,
+        "TEXT_ONLY": 4,
+        "EXPLAINS": 2
+      },
+      "bars": {
+        "wrongPer30": 1,
+        "deadPer30": 5,
+        "addsTarget": 0.6
+      },
+      "pass": true,
+      "sample": "fresh",
+      "verdict": true,
+      "dead": 5,
+      "addsTargetMet": true,
+      "evidenceSha256": "c45b65e3431a2a289bb41646a7ee5f88f1ff7d9e64705f370bdff602803d6f0f",
+      "binding": "BOUND",
+      "imageBeats": 0,
+      "imageAdds": 0,
+      "addsAll": 70,
+      "configSha256": "e94fc5a6c0880f668c2e474d2a746b3be3ae12710baefafe627829cf189b8da3",
+      "renderInputHash": "072c37047e7808b8",
+      "codeHead": "55748c9bd183ee20a20956c3e62946b72125a7cc",
+      "framesConfigSha": "e94fc5a6c0880f66"
+    }
+  ]
+}

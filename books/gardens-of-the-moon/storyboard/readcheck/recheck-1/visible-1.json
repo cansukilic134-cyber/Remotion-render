@@ -1,0 +1,27 @@
+[
+ {
+  "id": "b001",
+  "place": "abstract",
+  "words": "Inspecting, not digging"
+ },
+ {
+  "id": "b002",
+  "people": [
+   {
+    "looks": "a young woman mage",
+    "face": "neutral",
+    "body": "idle"
+   },
+   {
+    "looks": "a wiry middle-aged man",
+    "face": "neutral",
+    "body": "idle"
+   }
+  ],
+  "words": "Ordinary soldiers with shields"
+ },
+ {
+  "id": "b003",
+  "words": "Distrust is their loyalty"
+ }
+]
